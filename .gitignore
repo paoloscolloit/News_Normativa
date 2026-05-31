@@ -13,3 +13,8 @@ __pycache__/
 .DS_Store
 Thumbs.db
 .vscode/
+
+run_log.txt
+
+# Config locale Claude Code
+.claude/
