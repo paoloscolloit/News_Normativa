@@ -1,0 +1,648 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Normativa per Tutti — Le leggi spiegate in modo semplice</title>
+  <style>
+    :root {
+      --bg: #f4f5f7;
+      --surface: #ffffff;
+      --border: #e2e5ea;
+      --text: #1a1d23;
+      --text-muted: #6b7280;
+      --accent: #2563eb;
+      --accent-light: #eff6ff;
+      --header-bg: #0f172a;
+      --shadow: 0 1px 3px rgba(0,0,0,.08), 0 1px 2px rgba(0,0,0,.06);
+      --shadow-md: 0 4px 6px rgba(0,0,0,.07), 0 2px 4px rgba(0,0,0,.06);
+      --radius: 10px;
+
+      /* Colori per categoria */
+      --c-fisco:       #16a34a; --c-fisco-bg:       #f0fdf4;
+      --c-lavoro:      #2563eb; --c-lavoro-bg:      #eff6ff;
+      --c-imprese:     #ea580c; --c-imprese-bg:     #fff7ed;
+      --c-finanza:     #7c3aed; --c-finanza-bg:     #faf5ff;
+      --c-ambiente:    #0891b2; --c-ambiente-bg:    #ecfeff;
+      --c-salute:      #dc2626; --c-salute-bg:      #fef2f2;
+      --c-digitale:    #4f46e5; --c-digitale-bg:    #eef2ff;
+      --c-appalti:     #b45309; --c-appalti-bg:     #fffbeb;
+      --c-giustizia:   #475569; --c-giustizia-bg:   #f8fafc;
+      --c-iter:        #0f766e; --c-iter-bg:        #f0fdfa;
+      --c-trasporti:   #0369a1; --c-trasporti-bg:   #f0f9ff;
+      --c-agri:        #65a30d; --c-agri-bg:        #f7fee7;
+      --c-istruzione:  #c026d3; --c-istruzione-bg:  #fdf4ff;
+      --c-altro:       #64748b; --c-altro-bg:       #f8fafc;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+      background: var(--bg);
+      color: var(--text);
+      line-height: 1.5;
+      min-height: 100vh;
+    }
+
+    /* ── Header ── */
+    header {
+      background: var(--header-bg);
+      color: #fff;
+      padding: 0;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      box-shadow: 0 2px 8px rgba(0,0,0,.3);
+    }
+    .header-inner {
+      max-width: 1600px;
+      margin: 0 auto;
+      padding: 0 2rem;
+      display: flex;
+      align-items: center;
+      gap: 1.5rem;
+      height: 60px;
+    }
+    .logo {
+      font-size: 1.15rem;
+      font-weight: 700;
+      letter-spacing: -.3px;
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+    .logo span { color: #60a5fa; }
+    .header-search {
+      flex: 1;
+      max-width: 420px;
+    }
+    .header-search input {
+      width: 100%;
+      padding: .45rem .9rem;
+      border: 1.5px solid #334155;
+      border-radius: 6px;
+      background: #1e293b;
+      color: #fff;
+      font-size: .9rem;
+      outline: none;
+      transition: border-color .15s;
+    }
+    .header-search input::placeholder { color: #94a3b8; }
+    .header-search input:focus { border-color: #60a5fa; }
+    .header-meta {
+      margin-left: auto;
+      font-size: .78rem;
+      color: #94a3b8;
+      white-space: nowrap;
+    }
+
+    /* ── Filtri ── */
+    .filters-bar {
+      background: var(--surface);
+      border-bottom: 1px solid var(--border);
+      padding: .7rem 0;
+      position: sticky;
+      top: 60px;
+      z-index: 99;
+    }
+    .filters-inner {
+      max-width: 1600px;
+      margin: 0 auto;
+      padding: 0 2rem;
+      display: flex;
+      flex-wrap: wrap;
+      gap: .5rem;
+      align-items: center;
+    }
+    .filter-group {
+      display: flex;
+      flex-wrap: wrap;
+      gap: .35rem;
+      align-items: center;
+    }
+    .filter-label {
+      font-size: .72rem;
+      font-weight: 600;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      letter-spacing: .05em;
+      margin-right: .15rem;
+    }
+    .divider { width: 1px; height: 20px; background: var(--border); margin: 0 .3rem; }
+
+    .pill {
+      padding: .28rem .7rem;
+      border-radius: 999px;
+      border: 1.5px solid var(--border);
+      background: transparent;
+      font-size: .8rem;
+      font-weight: 500;
+      color: var(--text-muted);
+      cursor: pointer;
+      transition: all .15s;
+      white-space: nowrap;
+    }
+    .pill:hover { background: var(--bg); color: var(--text); }
+    .pill.active {
+      background: var(--accent);
+      border-color: var(--accent);
+      color: #fff;
+    }
+
+    /* ── Contatore risultati ── */
+    .results-bar {
+      max-width: 1600px;
+      margin: 1rem auto .5rem;
+      padding: 0 2rem;
+      font-size: .82rem;
+      color: var(--text-muted);
+    }
+
+    /* ── Grid cards ── */
+    .cards-grid {
+      max-width: 1600px;
+      margin: 0 auto;
+      padding: 0 2rem 3rem;
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+      gap: 1.25rem;
+    }
+
+    /* ── Card ── */
+    .card {
+      background: var(--surface);
+      border-radius: var(--radius);
+      border: 1px solid var(--border);
+      box-shadow: var(--shadow);
+      padding: 1.1rem 1.2rem 1rem;
+      display: flex;
+      flex-direction: column;
+      gap: .6rem;
+      transition: box-shadow .15s, transform .15s;
+      border-left: 4px solid transparent;
+    }
+    .card:hover {
+      box-shadow: var(--shadow-md);
+      transform: translateY(-1px);
+    }
+
+    .card-header {
+      display: flex;
+      align-items: center;
+      gap: .45rem;
+      flex-wrap: wrap;
+    }
+
+    .badge-cat {
+      font-size: .72rem;
+      font-weight: 600;
+      padding: .18rem .55rem;
+      border-radius: 999px;
+      letter-spacing: .02em;
+    }
+    .badge-paese {
+      font-size: .72rem;
+      font-weight: 600;
+      padding: .18rem .5rem;
+      border-radius: 999px;
+      background: #f1f5f9;
+      color: #475569;
+      border: 1px solid #e2e8f0;
+    }
+    .badge-imp {
+      margin-left: auto;
+      font-size: .75rem;
+      display: flex;
+      gap: 2px;
+    }
+    .dot { width: 7px; height: 7px; border-radius: 50%; background: #cbd5e1; display: inline-block; }
+    .dot.on { background: #f59e0b; }
+
+    .card-title {
+      font-size: 1rem;
+      font-weight: 700;
+      line-height: 1.35;
+      color: var(--text);
+    }
+
+    .card-who {
+      font-size: .8rem;
+      color: var(--text-muted);
+      display: flex;
+      align-items: flex-start;
+      gap: .35rem;
+    }
+    .card-who-icon { flex-shrink: 0; margin-top: 1px; }
+
+    .card-changes {
+      list-style: none;
+      display: flex;
+      flex-direction: column;
+      gap: .3rem;
+    }
+    .card-changes li {
+      font-size: .84rem;
+      color: #374151;
+      display: flex;
+      align-items: flex-start;
+      gap: .45rem;
+      line-height: 1.4;
+    }
+    .check { color: #16a34a; flex-shrink: 0; font-weight: 700; margin-top: 1px; }
+
+    /* ── Sezione dettagli espandibile ── */
+    .toggle-btn {
+      align-self: flex-start;
+      background: none;
+      border: none;
+      color: var(--accent);
+      font-size: .8rem;
+      font-weight: 600;
+      cursor: pointer;
+      padding: .1rem 0;
+      display: inline-flex;
+      align-items: center;
+      gap: .25rem;
+    }
+    .toggle-btn:hover { text-decoration: underline; }
+    .toggle-btn .chev { transition: transform .2s; font-size: .7rem; }
+    .card.open .toggle-btn .chev { transform: rotate(180deg); }
+
+    .card-details { display: none; flex-direction: column; gap: .7rem; }
+    .card.open .card-details { display: flex; }
+
+    .detail-block { display: flex; flex-direction: column; gap: .2rem; }
+    .detail-label {
+      font-size: .68rem;
+      font-weight: 700;
+      text-transform: uppercase;
+      letter-spacing: .05em;
+      color: var(--text-muted);
+    }
+    .detail-text { font-size: .86rem; color: #374151; line-height: 1.5; }
+    .detail-summary {
+      font-size: .88rem;
+      color: var(--text);
+      line-height: 1.55;
+      background: var(--bg);
+      padding: .6rem .75rem;
+      border-radius: 8px;
+    }
+
+    .card-footer {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      margin-top: .2rem;
+      padding-top: .6rem;
+      border-top: 1px solid var(--border);
+      gap: .5rem;
+      flex-wrap: wrap;
+    }
+    .card-meta {
+      font-size: .74rem;
+      color: var(--text-muted);
+      display: flex;
+      flex-direction: column;
+      gap: .1rem;
+    }
+    .card-link {
+      font-size: .78rem;
+      font-weight: 600;
+      color: var(--accent);
+      text-decoration: none;
+      white-space: nowrap;
+      flex-shrink: 0;
+    }
+    .card-link:hover { text-decoration: underline; }
+
+    /* ── Empty / loading states ── */
+    .state-box {
+      max-width: 1600px;
+      margin: 3rem auto;
+      padding: 0 2rem;
+      text-align: center;
+      color: var(--text-muted);
+    }
+    .state-box h2 { font-size: 1.1rem; margin-bottom: .5rem; color: var(--text); }
+    .state-box p { font-size: .88rem; }
+
+    /* ── Footer ── */
+    footer {
+      text-align: center;
+      padding: 1.5rem;
+      font-size: .75rem;
+      color: var(--text-muted);
+      border-top: 1px solid var(--border);
+      background: var(--surface);
+      margin-top: 2rem;
+    }
+    footer a { color: var(--accent); text-decoration: none; }
+
+    @media (max-width: 768px) {
+      .header-inner { gap: .75rem; padding: 0 1rem; }
+      .filters-inner { padding: 0 1rem; }
+      .results-bar { padding: 0 1rem; }
+      .cards-grid { grid-template-columns: 1fr; padding: 0 1rem 2rem; }
+      .state-box { padding: 0 1rem; }
+      .logo { font-size: 1rem; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="header-inner">
+    <div class="logo">Normativa <span>per Tutti</span></div>
+    <div class="header-search">
+      <input type="search" id="searchInput" placeholder="Cerca tra le notizie..." autocomplete="off">
+    </div>
+    <div class="header-meta" id="lastUpdated">Caricamento...</div>
+  </div>
+</header>
+
+<div class="filters-bar">
+  <div class="filters-inner">
+
+    <div class="filter-group">
+      <span class="filter-label">Paese</span>
+      <button class="pill active" data-filter="paese" data-value="tutti">Tutti</button>
+      <button class="pill" data-filter="paese" data-value="IT">🇮🇹 Italia</button>
+      <button class="pill" data-filter="paese" data-value="EU">🇪🇺 Europa</button>
+    </div>
+
+    <div class="divider"></div>
+
+    <div class="filter-group">
+      <span class="filter-label">Importanza</span>
+      <button class="pill active" data-filter="imp" data-value="tutti">Tutte</button>
+      <button class="pill" data-filter="imp" data-value="3">⭐ Alta</button>
+      <button class="pill" data-filter="imp" data-value="2">Media</button>
+      <button class="pill" data-filter="imp" data-value="1">Bassa</button>
+    </div>
+
+    <div class="divider"></div>
+
+    <div class="filter-group" id="catFilters">
+      <span class="filter-label">Categoria</span>
+      <button class="pill active" data-filter="cat" data-value="tutti">Tutte</button>
+    </div>
+
+  </div>
+</div>
+
+<div class="results-bar" id="resultsBar"></div>
+<div class="cards-grid" id="cardsGrid"></div>
+<div class="state-box" id="stateBox" style="display:none"></div>
+
+<footer>
+  <p>
+    Servizio informativo non ufficiale — I riassunti sono generati da AI su fonti ufficiali e possono contenere imprecisioni.
+    Verificare sempre il testo ufficiale. Non costituisce consulenza legale o fiscale.
+    <br>Fonti: <a href="https://www.gazzettaufficiale.it" target="_blank">Gazzetta Ufficiale</a> ·
+    <a href="https://eur-lex.europa.eu" target="_blank">EUR-Lex</a> ·
+    <a href="https://www.inps.it" target="_blank">INPS</a> ·
+    <a href="https://www.agenziaentrate.gov.it" target="_blank">Agenzia delle Entrate</a> ·
+    <a href="https://www.bancaditalia.it" target="_blank">Banca d'Italia</a>
+  </p>
+</footer>
+
+<script>
+// ── Configurazione categorie ─────────────────────────────────────────────────
+const CAT_STYLE = {
+  "Fisco e Tributi":        { color: "#16a34a", bg: "#f0fdf4" },
+  "Lavoro e Previdenza":    { color: "#2563eb", bg: "#eff6ff" },
+  "Imprese e Mercato":      { color: "#ea580c", bg: "#fff7ed" },
+  "Banche e Finanza":       { color: "#7c3aed", bg: "#faf5ff" },
+  "Ambiente e Energia":     { color: "#0891b2", bg: "#ecfeff" },
+  "Salute e Farmaci":       { color: "#dc2626", bg: "#fef2f2" },
+  "Digitale e Privacy":     { color: "#4f46e5", bg: "#eef2ff" },
+  "Appalti Pubblici":       { color: "#b45309", bg: "#fffbeb" },
+  "Giustizia e Diritti":    { color: "#475569", bg: "#f8fafc" },
+  "Iter Legislativo":       { color: "#0f766e", bg: "#f0fdfa" },
+  "Trasporti":              { color: "#0369a1", bg: "#f0f9ff" },
+  "Agricoltura e Alimentare":{ color: "#65a30d", bg: "#f7fee7" },
+  "Istruzione e Ricerca":   { color: "#c026d3", bg: "#fdf4ff" },
+  "Altro":                  { color: "#64748b", bg: "#f8fafc" },
+};
+
+// ── Stato app ────────────────────────────────────────────────────────────────
+let allItems = [];
+let activeFilters = { paese: "tutti", imp: "tutti", cat: "tutti" };
+let searchQuery = "";
+
+// ── Carica dati ──────────────────────────────────────────────────────────────
+async function loadData() {
+  showState("⏳", "Caricamento notizie...", "");
+  try {
+    const res = await fetch("data/notizie.json?t=" + Date.now());
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    const data = await res.json();
+    allItems = data.items || [];
+
+    // Aggiorna header
+    if (data.last_updated) {
+      const d = new Date(data.last_updated);
+      document.getElementById("lastUpdated").textContent =
+        "Aggiornato: " + d.toLocaleDateString("it-IT", { day:"2-digit", month:"short", year:"numeric" });
+    }
+
+    buildCategoryFilters();
+    render();
+  } catch (e) {
+    showState("⚠️", "Nessun dato disponibile", "Esegui prima <code>python run_all.py</code> per popolare la dashboard.");
+  }
+}
+
+// ── Costruisce i pill delle categorie dinamicamente ──────────────────────────
+function buildCategoryFilters() {
+  const cats = [...new Set(allItems.map(i => i.categoria))].sort();
+  const container = document.getElementById("catFilters");
+  cats.forEach(cat => {
+    const btn = document.createElement("button");
+    btn.className = "pill";
+    btn.dataset.filter = "cat";
+    btn.dataset.value = cat;
+    btn.textContent = cat;
+    const style = CAT_STYLE[cat] || CAT_STYLE["Altro"];
+    btn.addEventListener("click", () => setFilter("cat", cat, btn));
+    container.appendChild(btn);
+  });
+}
+
+// ── Filtri ───────────────────────────────────────────────────────────────────
+document.querySelectorAll(".pill").forEach(btn => {
+  btn.addEventListener("click", () => {
+    const { filter, value } = btn.dataset;
+    setFilter(filter, value, btn);
+  });
+});
+
+function setFilter(filter, value, btn) {
+  activeFilters[filter] = value;
+  document.querySelectorAll(`[data-filter="${filter}"]`).forEach(b => b.classList.remove("active"));
+  btn.classList.add("active");
+  render();
+}
+
+document.getElementById("searchInput").addEventListener("input", e => {
+  searchQuery = e.target.value.toLowerCase().trim();
+  render();
+});
+
+// ── Filtraggio ───────────────────────────────────────────────────────────────
+function applyFilters(items) {
+  return items.filter(item => {
+    if (activeFilters.paese !== "tutti" && item.paese !== activeFilters.paese) return false;
+    if (activeFilters.imp !== "tutti" && String(item.importanza) !== activeFilters.imp) return false;
+    if (activeFilters.cat !== "tutti" && item.categoria !== activeFilters.cat) return false;
+    if (searchQuery) {
+      const haystack = [
+        item.titolo_popolare, item.chi_interessa,
+        item.categoria, item.fonte,
+        item.riassunto_esteso, item.impatto, item.cosa_devi_fare,
+        ...(item.cosa_cambia || [])
+      ].join(" ").toLowerCase();
+      if (!haystack.includes(searchQuery)) return false;
+    }
+    return true;
+  });
+}
+
+// ── Render ───────────────────────────────────────────────────────────────────
+function render() {
+  const filtered = applyFilters(allItems);
+  const grid = document.getElementById("cardsGrid");
+  const bar = document.getElementById("resultsBar");
+  const stateBox = document.getElementById("stateBox");
+
+  if (filtered.length === 0) {
+    grid.innerHTML = "";
+    bar.textContent = "";
+    showState("🔍", "Nessun risultato", "Prova a cambiare i filtri o la ricerca.");
+    return;
+  }
+
+  stateBox.style.display = "none";
+  grid.style.display = "grid";
+
+  bar.textContent = filtered.length === 1
+    ? "1 notizia trovata"
+    : `${filtered.length} notizie trovate`;
+
+  grid.innerHTML = filtered.map(item => buildCard(item)).join("");
+}
+
+// ── Costruisce una card ──────────────────────────────────────────────────────
+function buildCard(item) {
+  const style = CAT_STYLE[item.categoria] || CAT_STYLE["Altro"];
+  const borderColor = style.color;
+
+  const dots = [1,2,3].map(i =>
+    `<span class="dot ${i <= item.importanza ? 'on' : ''}"></span>`
+  ).join("");
+
+  const changes = (item.cosa_cambia || []).map(c =>
+    `<li><span class="check">✓</span>${escHtml(c)}</li>`
+  ).join("");
+
+  const pubDate = formatDate(item.pubblicato);
+  const vigenza = item.data_vigenza ? `<span>${escHtml(item.data_vigenza)}</span>` : "";
+  const paeseLabel = item.paese === "EU" ? "🇪🇺 Europa" : "🇮🇹 Italia";
+
+  // ── Sezione dettagli (mostrata solo se c'è almeno un campo esteso) ──
+  const detailBlocks = [];
+  if (item.riassunto_esteso)
+    detailBlocks.push(`<div class="detail-summary">${escHtml(item.riassunto_esteso)}</div>`);
+  if (item.impatto)
+    detailBlocks.push(`<div class="detail-block"><span class="detail-label">📌 Impatto</span><span class="detail-text">${escHtml(item.impatto)}</span></div>`);
+  if (item.cosa_devi_fare)
+    detailBlocks.push(`<div class="detail-block"><span class="detail-label">✅ Cosa devi fare</span><span class="detail-text">${escHtml(item.cosa_devi_fare)}</span></div>`);
+
+  const detailsHtml = detailBlocks.length
+    ? `<button class="toggle-btn" onclick="toggleCard(this)">
+         <span class="lbl">Leggi di più</span><span class="chev">▾</span>
+       </button>
+       <div class="card-details">${detailBlocks.join("")}</div>`
+    : "";
+
+  return `
+  <div class="card" style="border-left-color:${borderColor}">
+    <div class="card-header">
+      <span class="badge-cat" style="background:${style.bg};color:${style.color}">
+        ${escHtml(item.categoria)}
+      </span>
+      <span class="badge-paese">${paeseLabel}</span>
+      <span class="badge-imp" title="Importanza">${dots}</span>
+    </div>
+
+    <div class="card-title">${escHtml(item.titolo_popolare)}</div>
+
+    ${item.chi_interessa ? `
+    <div class="card-who">
+      <span class="card-who-icon">👤</span>
+      <span>${escHtml(item.chi_interessa)}</span>
+    </div>` : ""}
+
+    ${changes ? `<ul class="card-changes">${changes}</ul>` : ""}
+
+    ${detailsHtml}
+
+    <div class="card-footer">
+      <div class="card-meta">
+        <span>${escHtml(item.fonte)}</span>
+        ${vigenza}
+        <span style="color:#9ca3af;font-size:.7rem">${pubDate}</span>
+      </div>
+      ${item.url ? `<a class="card-link" href="${escUrl(item.url)}" target="_blank" rel="noopener noreferrer">
+        Testo ufficiale →
+      </a>` : ""}
+    </div>
+  </div>`;
+}
+
+// ── Helpers ──────────────────────────────────────────────────────────────────
+function escHtml(str) {
+  return String(str || "")
+    .replace(/&/g,"&amp;").replace(/</g,"&lt;")
+    .replace(/>/g,"&gt;").replace(/"/g,"&quot;");
+}
+
+/** Rende sicuro un URL per l'attributo href, e forza https:// */
+function escUrl(url) {
+  const s = String(url || "")
+    .trim()
+    .replace(/^http:\/\//i, "https://")  // forza HTTPS
+    .replace(/</g, "%3C").replace(/>/g, "%3E").replace(/"/g, "%22");
+  return s;
+}
+
+// Apre/chiude la sezione dettagli di una scheda
+function toggleCard(btn) {
+  const card = btn.closest(".card");
+  const open = card.classList.toggle("open");
+  btn.querySelector(".lbl").textContent = open ? "Mostra meno" : "Leggi di più";
+}
+
+function formatDate(iso) {
+  if (!iso) return "";
+  try {
+    return new Date(iso).toLocaleDateString("it-IT", {
+      day: "2-digit", month: "short", year: "numeric"
+    });
+  } catch { return iso; }
+}
+
+function showState(icon, title, body) {
+  const stateBox = document.getElementById("stateBox");
+  const grid = document.getElementById("cardsGrid");
+  grid.style.display = "none";
+  stateBox.style.display = "block";
+  stateBox.innerHTML = `<h2>${icon} ${title}</h2><p>${body}</p>`;
+}
+
+// ── Avvio ────────────────────────────────────────────────────────────────────
+loadData();
+</script>
+</body>
+</html>

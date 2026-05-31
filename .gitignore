@@ -1,0 +1,15 @@
+# Chiave API — non caricare mai su GitHub
+.env
+
+# Cache Python
+__pycache__/
+*.pyc
+*.pyo
+
+# NB: data/seen_ids.json e data/raw_items.json vengono committati di proposito:
+# servono a GitHub Actions per non ri-processare ogni giorno gli stessi atti.
+
+# Editor e OS
+.DS_Store
+Thumbs.db
+.vscode/

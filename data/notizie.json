@@ -1,0 +1,564 @@
+{
+  "last_updated": "2026-05-25T21:08:13.273181+00:00",
+  "total": 30,
+  "items": [
+    {
+      "id": "1d98a660b9a5480a",
+      "titolo_popolare": "Nuove regole per l'intesa Stato‑Chiese avventiste",
+      "titolo_originale": "LEGGE 7 maggio 2026, n.92",
+      "cosa_cambia": [
+        "L'accordo con le Chiese avventiste è aggiornato e diventa legge",
+        "Vengono definiti i diritti e i doveri reciproci in materia di istruzione e assistenza sociale",
+        "Le strutture avventiste possono accedere a fondi pubblici secondo nuove modalità"
+      ],
+      "chi_interessa": "le Chiese avventiste del 7° giorno, i loro membri e le amministrazioni pubbliche che collaborano con loro",
+      "data_vigenza": "dal 7 maggio 2026",
+      "categoria": "Giustizia e Diritti",
+      "importanza": 2,
+      "fonte": "Gazzetta Ufficiale",
+      "paese": "IT",
+      "url": "http://www.gazzettaufficiale.it/eli/id/2026/05/25/26G00107/SG",
+      "pubblicato": "2026-05-25T18:00:51+00:00",
+      "processed_at": "2026-05-25T21:02:53.865257+00:00"
+    },
+    {
+      "id": "183ef5d2eef532f1",
+      "titolo_popolare": "Controllo delle tue finanze per la legge 51/2025",
+      "titolo_originale": "MINISTERO DELLA GIUSTIZIA - DECRETO 6 maggio 2026",
+      "cosa_cambia": [
+        "Le autorità potranno verificare le tue risorse finanziarie",
+        "Le verifiche seguiranno le regole dell'articolo 2 della legge 51/2025"
+      ],
+      "chi_interessa": "tutti i cittadini e le imprese con patrimoni o redditi rilevanti",
+      "data_vigenza": "dal 6 maggio 2026",
+      "categoria": "Fisco e Tributi",
+      "importanza": 2,
+      "fonte": "Gazzetta Ufficiale",
+      "paese": "IT",
+      "url": "http://www.gazzettaufficiale.it/eli/id/2026/05/25/26A02600/SG",
+      "pubblicato": "2026-05-25T18:00:51+00:00",
+      "processed_at": "2026-05-25T21:04:23.476498+00:00"
+    },
+    {
+      "id": "4cb253afa7d38db0",
+      "titolo_popolare": "Nuovo esecutore per documenti stranieri",
+      "titolo_originale": "MINISTERO DEGLI AFFARI ESTERI E DELLA COOPERAZIONE INTERNAZIONALE - COMUNICATO",
+      "cosa_cambia": [
+        "I documenti pubblici stranieri hanno ora un riconoscimento ufficiale in Italia",
+        "Il Ministero degli Affari Esteri rilascia l'exequatur con procedura semplificata",
+        "Le autorità italiane possono far valere questi documenti senza ulteriori traduzioni"
+      ],
+      "chi_interessa": "cittadini e imprese che usano certificati, atti notarili o sentenze straniere in Italia",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Digitale e Privacy",
+      "importanza": 2,
+      "fonte": "Gazzetta Ufficiale",
+      "paese": "IT",
+      "url": "http://www.gazzettaufficiale.it/eli/id/2026/05/25/26A02571/SG",
+      "pubblicato": "2026-05-25T18:00:51+00:00",
+      "processed_at": "2026-05-25T21:05:54.847848+00:00"
+    },
+    {
+      "id": "c86794d2bd09afdb",
+      "titolo_popolare": "Nuove regole per i fondi della Protezione Civile 2024‑2026",
+      "titolo_originale": "PRESIDENZA DEL CONSIGLIO DEI MINISTRI DIPARTIMENTO DELLA PROTEZIONE CIVILE - DECRETO 3 aprile 2026",
+      "cosa_cambia": [
+        "Vengono definiti i criteri per distribuire i finanziamenti della Protezione Civile per i prossimi tre anni",
+        "Le regioni e i comuni sapranno in anticipo quanto denaro potranno ricevere per piani di emergenza",
+        "Le risorse saranno assegnate in base a rischi, vulnerabilità e capacità operative"
+      ],
+      "chi_interessa": "enti locali, regioni, province, associazioni di Protezione Civile e cittadini che vivono in aree a rischio",
+      "data_vigenza": "dal 3 aprile 2026",
+      "categoria": "Ambiente e Energia",
+      "importanza": 2,
+      "fonte": "Gazzetta Ufficiale",
+      "paese": "IT",
+      "url": "http://www.gazzettaufficiale.it/eli/id/2026/05/25/26A02570/SG",
+      "pubblicato": "2026-05-25T18:00:50+00:00",
+      "processed_at": "2026-05-25T21:04:45.056243+00:00"
+    },
+    {
+      "id": "4e54946917ed4dcb",
+      "titolo_popolare": "Rinnovo certificati analisi olio a Cagliari",
+      "titolo_originale": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - DECRETO 18 maggio 2026",
+      "cosa_cambia": [
+        "Il laboratorio di Cagliari è nuovamente autorizzato a rilasciare certificati di analisi per l'olio",
+        "Le aziende oleicole di Toscana, Sardegna e Umbria possono usare quel laboratorio per i controlli"
+      ],
+      "chi_interessa": "produttori e esportatori di olio nelle regioni Toscana, Sardegna e Umbria",
+      "data_vigenza": "dal 18 maggio 2026",
+      "categoria": "Agricoltura e Alimentare",
+      "importanza": 2,
+      "fonte": "Gazzetta Ufficiale",
+      "paese": "IT",
+      "url": "http://www.gazzettaufficiale.it/eli/id/2026/05/25/26A02552/SG",
+      "pubblicato": "2026-05-25T18:00:49+00:00",
+      "processed_at": "2026-05-25T21:03:47.880249+00:00"
+    },
+    {
+      "id": "a2e337fc091e8769",
+      "titolo_popolare": "Rinnovo certificati analisi olio a Adesud",
+      "titolo_originale": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - DECRETO 18 maggio 2026",
+      "cosa_cambia": [
+        "Il laboratorio Adesud è nuovamente autorizzato a rilasciare certificati di analisi per oli",
+        "Le aziende oleicole possono continuare a usare i certificati di Adesud per la commercializzazione"
+      ],
+      "chi_interessa": "produttori, esportatori e commercianti di olio d'oliva",
+      "data_vigenza": "dal 18 maggio 2026",
+      "categoria": "Agricoltura e Alimentare",
+      "importanza": 2,
+      "fonte": "Gazzetta Ufficiale",
+      "paese": "IT",
+      "url": "http://www.gazzettaufficiale.it/eli/id/2026/05/25/26A02553/SG",
+      "pubblicato": "2026-05-25T18:00:49+00:00",
+      "processed_at": "2026-05-25T21:03:59.722053+00:00"
+    },
+    {
+      "id": "63392c18a190c79b",
+      "titolo_popolare": "Richiamo per addestramento dei militari in congedo 2026",
+      "titolo_originale": "MINISTERO DELLA DIFESA - DECRETO 7 marzo 2026",
+      "cosa_cambia": [
+        "I militari in congedo saranno richiamati per corsi di aggiornamento quest'anno",
+        "Le date e i contenuti dei corsi saranno decisi dal Ministero della Difesa",
+        "I giorni di corso saranno conteggiati come servizio militare"
+      ],
+      "chi_interessa": "militari in congedo e le loro famiglie",
+      "data_vigenza": "dal 7 marzo 2026",
+      "categoria": "Lavoro e Previdenza",
+      "importanza": 2,
+      "fonte": "Gazzetta Ufficiale",
+      "paese": "IT",
+      "url": "http://www.gazzettaufficiale.it/eli/id/2026/05/25/26A02569/SG",
+      "pubblicato": "2026-05-25T18:00:49+00:00",
+      "processed_at": "2026-05-25T21:04:11.484938+00:00"
+    },
+    {
+      "id": "187121bd34444481",
+      "titolo_popolare": "Rinnovo autorizzazione laboratorio per analisi vino",
+      "titolo_originale": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - DECRETO 18 maggio 2026",
+      "cosa_cambia": [
+        "Il laboratorio Lab MDL S.r.l. di Oderzo può di nuovo rilasciare certificati di analisi per il vino",
+        "Le cantine e i produttori vitivinicoli potranno usare i suoi servizi senza interruzioni"
+      ],
+      "chi_interessa": "produttori di vino, cantine, enologi e laboratori del settore vitivinicolo",
+      "data_vigenza": "dal 18 maggio 2026",
+      "categoria": "Agricoltura e Alimentare",
+      "importanza": 2,
+      "fonte": "Gazzetta Ufficiale",
+      "paese": "IT",
+      "url": "http://www.gazzettaufficiale.it/eli/id/2026/05/25/26A02550/SG",
+      "pubblicato": "2026-05-25T18:00:48+00:00",
+      "processed_at": "2026-05-25T21:03:22.393933+00:00"
+    },
+    {
+      "id": "80e73571a579e507",
+      "titolo_popolare": "Rinnovo del laboratorio per i certificati del vino",
+      "titolo_originale": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - DECRETO 18 maggio 2026",
+      "cosa_cambia": [
+        "Il laboratorio Enocontrol di Alba continua a rilasciare i certificati di analisi per i vini",
+        "Le cantine e i produttori di vino devono usare questo laboratorio per la certificazione obbligatoria"
+      ],
+      "chi_interessa": "produttori di vino, cantine, enoteche e operatori del settore vitivinicolo",
+      "data_vigenza": "dal 18 maggio 2026",
+      "categoria": "Agricoltura e Alimentare",
+      "importanza": 2,
+      "fonte": "Gazzetta Ufficiale",
+      "paese": "IT",
+      "url": "http://www.gazzettaufficiale.it/eli/id/2026/05/25/26A02551/SG",
+      "pubblicato": "2026-05-25T18:00:48+00:00",
+      "processed_at": "2026-05-25T21:03:35.934188+00:00"
+    },
+    {
+      "id": "75a87135b62a9e02",
+      "titolo_popolare": "Nuove regole etiche per i notai",
+      "titolo_originale": "CONSIGLIO NAZIONALE DEL NOTARIATO - COMUNICATO",
+      "cosa_cambia": [
+        "I notai devono rispettare un codice di deontologia più chiaro e aggiornato",
+        "Vengono introdotte sanzioni per chi viola i principi di imparzialità e riservatezza",
+        "Obbligo di formazione continua sui temi etici"
+      ],
+      "chi_interessa": "tutti i notai e i cittadini che si rivolgono a loro",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Giustizia e Diritti",
+      "importanza": 2,
+      "fonte": "Gazzetta Ufficiale",
+      "paese": "IT",
+      "url": "http://www.gazzettaufficiale.it/eli/id/2026/05/25/26A02528/SG",
+      "pubblicato": "2026-05-25T18:00:48+00:00",
+      "processed_at": "2026-05-25T21:05:46.694020+00:00"
+    },
+    {
+      "id": "420d0f8e62989f28",
+      "titolo_popolare": "Nuove regole per il Fondo di solidarietà delle telecomunicazioni",
+      "titolo_originale": "MINISTERO DEL LAVORO E DELLE POLITICHE SOCIALI - DECRETO 17 aprile 2026",
+      "cosa_cambia": [
+        "Le aziende di telecomunicazioni devono versare contributi aggiuntivi al fondo bilaterale",
+        "Il fondo potrà finanziare progetti di formazione e riqualificazione dei dipendenti del settore",
+        "Vengono introdotte sanzioni più severe per chi non rispetta i versamenti"
+      ],
+      "chi_interessa": "le imprese della filiera delle telecomunicazioni e i loro dipendenti",
+      "data_vigenza": "dal 1 luglio 2026",
+      "categoria": "Lavoro e Previdenza",
+      "importanza": 2,
+      "fonte": "Gazzetta Ufficiale",
+      "paese": "IT",
+      "url": "http://www.gazzettaufficiale.it/eli/id/2026/05/25/26A02517/SG",
+      "pubblicato": "2026-05-25T18:00:47+00:00",
+      "processed_at": "2026-05-25T21:04:32.674300+00:00"
+    },
+    {
+      "id": "faef1b11d0de4bbe",
+      "titolo_popolare": "Nuovo antibiotico Piperacillina/Tazobactam in vendita",
+      "titolo_originale": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
+      "cosa_cambia": [
+        "Disponibile in farmacia il nuovo antibiotico a base di piperacillina/tazobactam",
+        "I medici possono prescriverlo per trattare infezioni gravi",
+        "Le strutture ospedaliere possono includerlo nei protocolli terapeutici"
+      ],
+      "chi_interessa": "pazienti con infezioni severe, medici e ospedali",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Salute e Farmaci",
+      "importanza": 2,
+      "fonte": "Gazzetta Ufficiale",
+      "paese": "IT",
+      "url": "http://www.gazzettaufficiale.it/eli/id/2026/05/25/26A02524/SG",
+      "pubblicato": "2026-05-25T18:00:47+00:00",
+      "processed_at": "2026-05-25T21:05:06.621235+00:00"
+    },
+    {
+      "id": "3f38e61c4daad6fc",
+      "titolo_popolare": "Importazione parallela del farmaco Lendormin consentita",
+      "titolo_originale": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
+      "cosa_cambia": [
+        "È possibile importare Lendormin da altri Paesi dell'UE senza attendere autorizzazione nazionale",
+        "Il prezzo del medicinale potrebbe risultare più conveniente",
+        "Le farmacie possono offrire il prodotto con le stesse garanzie di qualità"
+      ],
+      "chi_interessa": "pazienti che usano Lendormin, farmacisti e strutture sanitarie",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Salute e Farmaci",
+      "importanza": 2,
+      "fonte": "Gazzetta Ufficiale",
+      "paese": "IT",
+      "url": "http://www.gazzettaufficiale.it/eli/id/2026/05/25/26A02525/SG",
+      "pubblicato": "2026-05-25T18:00:47+00:00",
+      "processed_at": "2026-05-25T21:05:19.193420+00:00"
+    },
+    {
+      "id": "ec3c8e32497d64c8",
+      "titolo_popolare": "Importazione parallela del farmaco Invokana",
+      "titolo_originale": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
+      "cosa_cambia": [
+        "I pazienti possono acquistare Invokana da paesi esteri con prezzi più bassi",
+        "Le farmacie possono importare il farmaco senza attendere l'autorizzazione nazionale"
+      ],
+      "chi_interessa": "pazienti con diabete di tipo 2 e le farmacie che lo vendono",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Salute e Farmaci",
+      "importanza": 2,
+      "fonte": "Gazzetta Ufficiale",
+      "paese": "IT",
+      "url": "http://www.gazzettaufficiale.it/eli/id/2026/05/25/26A02526/SG",
+      "pubblicato": "2026-05-25T18:00:47+00:00",
+      "processed_at": "2026-05-25T21:05:25.995863+00:00"
+    },
+    {
+      "id": "2b2a1574cc43fb61",
+      "titolo_popolare": "Importazione parallela del farmaco Aclasta consentita",
+      "titolo_originale": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
+      "cosa_cambia": [
+        "Le farmacie possono importare Aclasta da altri Paesi UE",
+        "Il prezzo può risultare più basso rispetto al mercato nazionale",
+        "I pazienti possono accedere al farmaco più rapidamente se manca in Italia"
+      ],
+      "chi_interessa": "farmacie, pazienti che usano Aclasta e medici prescrittori",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Salute e Farmaci",
+      "importanza": 2,
+      "fonte": "Gazzetta Ufficiale",
+      "paese": "IT",
+      "url": "http://www.gazzettaufficiale.it/eli/id/2026/05/25/26A02527/SG",
+      "pubblicato": "2026-05-25T18:00:47+00:00",
+      "processed_at": "2026-05-25T21:05:37.101960+00:00"
+    },
+    {
+      "id": "dd5ce5bcd80653b2",
+      "titolo_popolare": "Nuovo registro per le varietà di piante da frutto",
+      "titolo_originale": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - DECRETO 14 maggio 2026",
+      "cosa_cambia": [
+        "Vengono riconosciute nuove accessioni per il sistema volontario di qualificazione del materiale vegetale",
+        "Le informazioni su alcune varietà vengono corrette e aggiornate nel registro nazionale"
+      ],
+      "chi_interessa": "produttori agricoli, vivai, agronomi e chiunque coltivi piante da frutto",
+      "data_vigenza": "dal 14 maggio 2026",
+      "categoria": "Agricoltura e Alimentare",
+      "importanza": 2,
+      "fonte": "Gazzetta Ufficiale",
+      "paese": "IT",
+      "url": "http://www.gazzettaufficiale.it/eli/id/2026/05/25/26A02516/SG",
+      "pubblicato": "2026-05-25T18:00:46+00:00",
+      "processed_at": "2026-05-25T21:03:01.969978+00:00"
+    },
+    {
+      "id": "f42b8a91a1e22110",
+      "titolo_popolare": "Nuovo conto finanziario 2025 per l'infanzia",
+      "titolo_originale": "AUTORITA' GARANTE PER L'INFANZIA E L'ADOLESCENZA - DECRETO 28 aprile 2026",
+      "cosa_cambia": [
+        "Aumentano le risorse destinate a servizi per bambini e adolescenti",
+        "Vengono introdotti nuovi fondi per progetti educativi e di tutela",
+        "Le regioni devono rendere conto dell'uso dei nuovi finanziamenti"
+      ],
+      "chi_interessa": "tutti i bambini, adolescenti, famiglie e enti che gestiscono servizi per l'infanzia",
+      "data_vigenza": "dal 1 gennaio 2026",
+      "categoria": "Ambiente e Energia",
+      "importanza": 2,
+      "fonte": "Gazzetta Ufficiale",
+      "paese": "IT",
+      "url": "http://www.gazzettaufficiale.it/eli/id/2026/05/25/26A02469/SG",
+      "pubblicato": "2026-05-25T18:00:46+00:00",
+      "processed_at": "2026-05-25T21:04:54.912600+00:00"
+    },
+    {
+      "id": "3bf23d7d29a0c2fe",
+      "titolo_popolare": "Nuove regole di sicurezza per le auto in caso di impatto frontale",
+      "titolo_originale": "CELEX:42026X1075: UN Regulation No 94 – Uniform provisions concerning the approval of vehicles with regard to the protection of the occupants in the event of a frontal collision [2026/1075]",
+      "cosa_cambia": [
+        "Le auto nuove devono superare nuovi test di protezione passeggeri in collisione frontale",
+        "I costruttori devono certificare i veicoli secondo i nuovi standard prima di venderli",
+        "Le case automobilistiche dovranno aggiornare i sistemi di sicurezza (airbag, strutture) per rispettare i limiti di lesioni"
+      ],
+      "chi_interessa": "tutti i proprietari di auto nuove, acquirenti, concessionari e case automobilistiche",
+      "data_vigenza": "dal 1 gennaio 2027",
+      "categoria": "Trasporti",
+      "importanza": 3,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:42026X1075",
+      "pubblicato": "2026-05-22T00:00:00+02:00",
+      "processed_at": "2026-05-25T21:06:03.634592+00:00"
+    },
+    {
+      "id": "0319a6b44df7291f",
+      "titolo_popolare": "Aiuti straordinari per latte e carne di maiale in Slovacchia",
+      "titolo_originale": "CELEX:32026R1100: Commission Implementing Regulation (EU) 2026/1100 of 21 May 2026 on exceptional support measures for the milk and pigmeat sectors in Slovakia",
+      "cosa_cambia": [
+        "Gli allevatori slovacchi di latte e maiale ricevono pagamenti di emergenza",
+        "Le misure coprono le perdite registrate nel 2025‑2026",
+        "Gli aiuti sono temporanei e cessano quando la situazione si stabilizza"
+      ],
+      "chi_interessa": "allevatori di latte e di maiale in Slovacchia",
+      "data_vigenza": "dal 1 luglio 2026",
+      "categoria": "Agricoltura e Alimentare",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1100",
+      "pubblicato": "2026-05-22T00:00:00+02:00",
+      "processed_at": "2026-05-25T21:06:17.030723+00:00"
+    },
+    {
+      "id": "d3432f3017db9430",
+      "titolo_popolare": "Correzione regole etichettatura vino e superalcolici",
+      "titolo_originale": "CELEX:32026R0471R(02): Corrigendum to Regulation (EU) 2026/471 of the European Parliament and of the Council of 24 February 2026 amending Regulations (EU) No 1308/2013, (EU) No 251/2014 and (EU) 2021/2115 as regards certain market rules and sectoral support measures in the wine sector and for aromatised wine products and Regulation (EU) 2024/1143 as regards certain labelling rules for spirit drinks (OJ L, 2026/471, 26.2.2026)",
+      "cosa_cambia": [
+        "Vengono corretti i requisiti di etichettatura per vini, vini aromatizzati e distillati",
+        "Aggiornate le soglie di sostegno finanziario per i produttori di vino",
+        "Nessun nuovo obbligo per i consumatori"
+      ],
+      "chi_interessa": "produttori di vino, vini aromatizzati, distillati e i loro importatori",
+      "data_vigenza": "dal 1 aprile 2026",
+      "categoria": "Agricoltura e Alimentare",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R0471R(02)",
+      "pubblicato": "2026-05-22T00:00:00+02:00",
+      "processed_at": "2026-05-25T21:06:33.745622+00:00"
+    },
+    {
+      "id": "b5afce84da581e61",
+      "titolo_popolare": "Correzione di un atto UE senza effetti pratici",
+      "titolo_originale": "CELEX:32021D1764R(02)",
+      "cosa_cambia": [
+        "Nessuna modifica concreta per i cittadini",
+        "La versione inglese non è interessata dalla correzione"
+      ],
+      "chi_interessa": "tutti i soggetti interessati dall'atto originale",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32021D1764R(02)",
+      "pubblicato": "2026-05-22T00:00:00+02:00",
+      "processed_at": "2026-05-25T21:06:41.144424+00:00"
+    },
+    {
+      "id": "ddac204391daa647",
+      "titolo_popolare": "Nuovo accordo aereo UE-USA inizia a volare",
+      "titolo_originale": "CELEX:32026D1133: Council Decision (EU) 2026/1133 of 18 May 2026 on the conclusion, on behalf of the Union, of the Air Transport Agreement between the United States of America, of the first part, the European Union and its Member States, of the second part, Iceland, of the third part, and the Kingdom of Norway, of the fourth part; and on the conclusion, on behalf of the Union, of the Ancillary Agreement between the European Union and its Member States, of the first part, Iceland, of the second part, and the Kingdom of Norway, of the third part, on the application of the Air Transport Agreement between the United States of America, of the first part, the European Union and its Member States, of the second part, Iceland, of the third part, and the Kingdom of Norway, of the fourth part",
+      "cosa_cambia": [
+        "Aumentano le rotte dirette tra Europa e USA, più voli disponibili",
+        "I prezzi dei biglietti possono scendere grazie a più concorrenza",
+        "Maggiori diritti per i passeggeri in caso di ritardi o cancellazioni"
+      ],
+      "chi_interessa": "tutti i passeggeri aerei, le compagnie aeree e i tour operator",
+      "data_vigenza": "dal 1 ottobre 2026",
+      "categoria": "Trasporti",
+      "importanza": 3,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1133",
+      "pubblicato": "2026-05-22T00:00:00+02:00",
+      "processed_at": "2026-05-25T21:06:54.513942+00:00"
+    },
+    {
+      "id": "3e2b2aef6574f9e7",
+      "titolo_popolare": "Rimanda scadenza autorizzazione medetomidina",
+      "titolo_originale": "CELEX:32026D1089: Commission Implementing Decision (EU) 2026/1089 of 20 May 2026 postponing the expiry date of the approval of medetomidine for use in biocidal products of product-type 21 in accordance with Regulation (EU) No 528/2012 of the European Parliament and of the Council",
+      "cosa_cambia": [
+        "La data di scadenza dell’autorizzazione della medetomidina nei biocidi tipo 21 è posticipata",
+        "Le aziende possono continuare a usarla fino alla nuova data di scadenza"
+      ],
+      "chi_interessa": "produttori di biocidi, distributori e utenti veterinari di prodotti biocidi tipo 21",
+      "data_vigenza": "dal 20 maggio 2026",
+      "categoria": "Ambiente e Energia",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1089",
+      "pubblicato": "2026-05-22T00:00:00+02:00",
+      "processed_at": "2026-05-25T21:07:05.419919+00:00"
+    },
+    {
+      "id": "46d11270f415aedb",
+      "titolo_popolare": "Correzione di un atto UE senza effetti pratici",
+      "titolo_originale": "CELEX:32025R1958R(01)",
+      "cosa_cambia": [
+        "Nessuna modifica concreta per i cittadini",
+        "Nessun nuovo obbligo o diritto introdotto"
+      ],
+      "chi_interessa": "tutti i soggetti interessati dall'atto originale",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32025R1958R(01)",
+      "pubblicato": "2026-05-22T00:00:00+02:00",
+      "processed_at": "2026-05-25T21:07:11.594605+00:00"
+    },
+    {
+      "id": "e6f61a61abea2b73",
+      "titolo_popolare": "Correzione a una decisione sulla gestione del traffico aereo",
+      "titolo_originale": "CELEX:32026D0865R(01):            Berichtigung des Beschlusses (EU) 2026/865 der Kommission vom 27. März 2026 über die Einleitung der eingehenden Prüfung bestimmter Leistungsziele, die in dem von Belgien, Deutschland, Frankreich, Luxemburg und den Niederlanden auf der Ebene des funktionalen Luftraumblocks gemäß der Verordnung (EG) Nr. 549/2004 des Europäischen Parlaments und des Rates vorgelegten überarbeiteten Leistungsplanentwurf für den vierten Bezugszeitraum enthalten sind (Bekannt gegeben unter Aktenzeichen C(2026) 2003) (ABl. L, 2026/865, 20.4.2026)",
+      "cosa_cambia": [
+        "Viene rettificato un punto tecnico del provvedimento sulla revisione dei piani di performance del blocco aereo funzionale",
+        "Nessuna modifica alle regole operative per compagnie aeree o piloti"
+      ],
+      "chi_interessa": "operatori del traffico aereo, autorità aeronautiche e compagnie aeree nei paesi coinvolti",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Trasporti",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D0865R(01)",
+      "pubblicato": "2026-05-22T00:00:00+02:00",
+      "processed_at": "2026-05-25T21:07:18.452334+00:00"
+    },
+    {
+      "id": "94c43720183441dc",
+      "titolo_popolare": "Nuove regole per i calcoli assicurativi 2026",
+      "titolo_originale": "CELEX:32026R1094: Commission Implementing Regulation (EU) 2026/1094 of 21 May 2026 laying down rules for the application of Directive 2009/138/EC of the European Parliament and of the Council as regards technical information for the calculation of technical provisions and basic own funds for reporting with reference dates from 31 March 2026 until 29 June 2026",
+      "cosa_cambia": [
+        "Le compagnie assicurative devono usare nuovi parametri tecnici per calcolare le riserve",
+        "I risultati devono essere comunicati entro il 29 giugno 2026",
+        "Le informazioni richieste includono dettagli su rischi, premi e investimenti"
+      ],
+      "chi_interessa": "compagnie assicurative e assicurati",
+      "data_vigenza": "dal 31 marzo 2026 al 29 giugno 2026",
+      "categoria": "Altro",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1094",
+      "pubblicato": "2026-05-22T00:00:00+02:00",
+      "processed_at": "2026-05-25T21:07:36.287521+00:00"
+    },
+    {
+      "id": "88fab61aa348e209",
+      "titolo_popolare": "Nuove misure per la peste bovina in Italia",
+      "titolo_originale": "CELEX:32026D1145: Commission Implementing Decision (EU) 2026/1145 of 20 May 2026 amending the Annexes to Implementing Decision (EU) 2025/1582 concerning certain emergency measures relating to infection with lumpy skin disease virus in Italy (notified under document C(2026) 3474)",
+      "cosa_cambia": [
+        "Allargata la zona rossa: più regioni soggette a divieto di spostamento bovini",
+        "Rinforzati i controlli sanitari e i test su tutti i capi di bestiame",
+        "Introdotte sanzioni più severe per chi viola le restrizioni"
+      ],
+      "chi_interessa": "allevatori, proprietari di bovini, operatori del settore zootecnico",
+      "data_vigenza": "dal 20 maggio 2026",
+      "categoria": "Salute e Farmaci",
+      "importanza": 3,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1145",
+      "pubblicato": "2026-05-22T00:00:00+02:00",
+      "processed_at": "2026-05-25T21:07:49.556807+00:00"
+    },
+    {
+      "id": "b04a156da96b906c",
+      "titolo_popolare": "Correzione di un regolamento UE senza novità",
+      "titolo_originale": "CELEX:32019R0807R(01)",
+      "cosa_cambia": [
+        "Nessuna modifica pratica per i cittadini",
+        "Nessun nuovo obbligo o beneficio"
+      ],
+      "chi_interessa": "tutti i soggetti interessati dal regolamento originale",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32019R0807R(01)",
+      "pubblicato": "2026-05-21T00:00:00+02:00",
+      "processed_at": "2026-05-25T21:07:56.024707+00:00"
+    },
+    {
+      "id": "8078701f07700f56",
+      "titolo_popolare": "Nuove regole per contenere la peste suina africana",
+      "titolo_originale": "CELEX:32026R1136: Commission Implementing Regulation (EU) 2026/1136 of 20 May 2026 amending Annex I to Implementing Regulation (EU) 2023/594 laying down special disease control measures for African swine fever",
+      "cosa_cambia": [
+        "Rinforzano i controlli e le zone di quarantena per i suini",
+        "Aumentano le sanzioni per chi viola le misure di bio‑sicurezza",
+        "Introdotto obbligo di tracciabilità più dettagliata dei movimenti di animali"
+      ],
+      "chi_interessa": "allevatori di suini, veterinari, imprese di carne suina e autorità sanitarie",
+      "data_vigenza": "dal 1 luglio 2026",
+      "categoria": "Salute e Farmaci",
+      "importanza": 3,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1136",
+      "pubblicato": "2026-05-21T00:00:00+02:00",
+      "processed_at": "2026-05-25T21:08:04.813291+00:00"
+    },
+    {
+      "id": "ff2e5db43aa313cd",
+      "titolo_popolare": "Nuove regole per i servizi finanziari nell'EEA",
+      "titolo_originale": "CELEX:22026D0968: Decision of the EEA Joint Committee No 40/2026 of 6 February 2026 amending Annex IX (Financial services) to the EEA Agreement [2026/968]",
+      "cosa_cambia": [
+        "Le imprese finanziarie possono operare più facilmente in tutti i paesi dell'EEA",
+        "Vengono introdotti requisiti più snelli per le licenze fintech",
+        "Maggiori controlli sulla trasparenza dei costi per i consumatori"
+      ],
+      "chi_interessa": "tutte le imprese che offrono servizi bancari, assicurativi o fintech nei paesi dell'EEA",
+      "data_vigenza": "dal 1 aprile 2026",
+      "categoria": "Banche e Finanza",
+      "importanza": 3,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:22026D0968",
+      "pubblicato": "2026-05-21T00:00:00+02:00",
+      "processed_at": "2026-05-25T21:08:13.273181+00:00"
+    }
+  ]
+}
