@@ -140,7 +140,7 @@ def resolve_model(client: OpenAI) -> str:
 
 def load_json(path: Path, default):
     if path.exists():
-        return json.loads(path.read_text(encoding="utf-8"))
+        return json.loads(path.read_text(encoding="utf-8-sig"))
     return default
 
 

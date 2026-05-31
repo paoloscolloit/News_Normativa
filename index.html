@@ -450,7 +450,7 @@ async function loadData() {
     buildCategoryFilters();
     render();
   } catch (e) {
-    showState("⚠️", "Nessun dato disponibile", "Esegui prima <code>python run_all.py</code> per popolare la dashboard.");
+    showState("⚠️", "Dati momentaneamente non disponibili", "Riprova tra poco: la pagina si aggiorna automaticamente ogni mattina.");
   }
 }
 
@@ -519,7 +519,12 @@ function render() {
   if (filtered.length === 0) {
     grid.innerHTML = "";
     bar.textContent = "";
-    showState("🔍", "Nessun risultato", "Prova a cambiare i filtri o la ricerca.");
+    if (allItems.length === 0) {
+      showState("🗓️", "Nessuna nuova norma al momento",
+        "Qui compaiono gli atti normativi man mano che vengono pubblicati. La pagina si aggiorna automaticamente ogni mattina: ripassa più tardi.");
+    } else {
+      showState("🔍", "Nessun risultato", "Prova a cambiare i filtri o la ricerca.");
+    }
     return;
   }
 

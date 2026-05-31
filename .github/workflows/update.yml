@@ -2,8 +2,10 @@ name: Aggiorna Dashboard Normativa
 
 on:
   schedule:
-    # Ogni giorno alle 07:00 ora italiana (06:00 UTC in inverno, 05:00 UTC in estate)
-    - cron: '0 6 * * *'
+    # 04:00 UTC = 06:00 ora italiana quando è in vigore l'ora legale (estate).
+    # NB: GitHub Actions usa sempre UTC fisso e non segue l'ora legale,
+    # quindi in inverno questa run cade alle 05:00 ora italiana.
+    - cron: '0 4 * * *'
   workflow_dispatch:
     # Permette esecuzione manuale dal tab Actions di GitHub
 

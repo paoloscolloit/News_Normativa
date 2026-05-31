@@ -14,7 +14,9 @@ __pycache__/
 Thumbs.db
 .vscode/
 
+# Log temporanei e config locale di Claude Code
 run_log.txt
+.claude/
 
 # Config locale Claude Code
 .claude/

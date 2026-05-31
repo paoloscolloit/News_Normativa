@@ -10,6 +10,11 @@ import os
 from datetime import datetime, timezone
 from dateutil import parser as dateparser
 from pathlib import Path
+from zoneinfo import ZoneInfo
+
+# Fuso orario italiano: il "giorno corrente" è calcolato su Roma, non su UTC,
+# così la run delle 06:00 italiane considera la data italiana.
+ROME_TZ = ZoneInfo("Europe/Rome")
 
 # ── Percorsi ──────────────────────────────────────────────────────────────────
 BASE_DIR = Path(__file__).parent.parent
@@ -31,12 +36,9 @@ SOURCES = [
         "url": "https://eur-lex.europa.eu/EN/display-feed.rss?rssId=222",
         "paese": "EU",
     },
-    {
-        "id": "eurlex_proposte",
-        "label": "EUR-Lex — Proposte Commissione",
-        "url": "https://eur-lex.europa.eu/EN/display-feed.rss?rssId=161",
-        "paese": "EU",
-    },
+    # NB: il feed "EUR-Lex — Proposte Commissione" (rssId=161) è stato rimosso
+    # perché non fornisce mai la data di pubblicazione, quindi è incompatibile
+    # con il filtro "solo oggi". Valutare in futuro una gestione dedicata.
     {
         "id": "inps_circolari",
         "label": "INPS — Circolari",
@@ -74,7 +76,8 @@ SOURCES = [
 
 def load_seen_ids() -> set:
     if SEEN_IDS_FILE.exists():
-        data = json.loads(SEEN_IDS_FILE.read_text(encoding="utf-8"))
+        # utf-8-sig tollera un eventuale BOM (es. file salvati da Windows/PowerShell)
+        data = json.loads(SEEN_IDS_FILE.read_text(encoding="utf-8-sig"))
         return set(data.get("seen_ids", []))
     return set()
 
@@ -89,7 +92,7 @@ def save_seen_ids(seen: set) -> None:
 
 def load_raw_items() -> list:
     if RAW_ITEMS_FILE.exists():
-        return json.loads(RAW_ITEMS_FILE.read_text(encoding="utf-8"))
+        return json.loads(RAW_ITEMS_FILE.read_text(encoding="utf-8-sig"))
     return []
 
 
@@ -105,16 +108,32 @@ def make_id(entry: dict, source_id: str) -> str:
     return hashlib.sha1(raw.encode()).hexdigest()[:16]
 
 
-def parse_date(entry: dict) -> str:
-    """Prova vari campi data e restituisce ISO 8601 o stringa vuota."""
+def parse_date(entry: dict):
+    """Prova vari campi data. Ritorna (iso, has_real_date).
+
+    has_real_date=False quando il feed non fornisce alcuna data (in quel caso
+    usiamo l'istante di fetch come segnaposto, ma l'atto NON va filtrato per data).
+    """
     for field in ("published", "updated", "created"):
         val = entry.get(field)
         if val:
             try:
-                return dateparser.parse(val).isoformat()
+                return dateparser.parse(val).isoformat(), True
             except Exception:
-                return val
-    return datetime.now(timezone.utc).isoformat()
+                return val, True
+    return datetime.now(timezone.utc).isoformat(), False
+
+
+def is_published_today(iso_str: str) -> bool:
+    """True se la data (convertita al fuso di Roma) è il giorno corrente italiano."""
+    try:
+        dt = datetime.fromisoformat(iso_str.replace("Z", "+00:00"))
+        if dt.tzinfo is None:
+            dt = dt.replace(tzinfo=timezone.utc)
+        today_rome = datetime.now(ROME_TZ).date()
+        return dt.astimezone(ROME_TZ).date() == today_rome
+    except Exception:
+        return False
 
 
 def clean_html(text: str) -> str:
@@ -142,9 +161,20 @@ def fetch_source(source: dict, seen_ids: set) -> list:
         return []
 
     new_items = []
+    skipped_old = 0
     for entry in feed.entries:
         item_id = make_id(entry, source["id"])
         if item_id in seen_ids:
+            continue
+
+        pubblicato, has_real_date = parse_date(entry)
+
+        # Filtro "solo oggi": se il feed fornisce una data reale e NON è di oggi
+        # (fuso Roma), salta l'atto. Lo marchiamo comunque come visto, così non
+        # ricompare quando entrerà nella finestra giusta in run successive.
+        if has_real_date and not is_published_today(pubblicato):
+            seen_ids.add(item_id)
+            skipped_old += 1
             continue
 
         item = {
@@ -154,7 +184,7 @@ def fetch_source(source: dict, seen_ids: set) -> list:
             "paese": source["paese"],
             "titolo_originale": (entry.get("title") or "").strip(),
             "url": entry.get("link") or entry.get("id") or "",
-            "pubblicato": parse_date(entry),
+            "pubblicato": pubblicato,
             "summary_raw": clean_html(entry.get("summary") or entry.get("description") or ""),
             "fetched_at": datetime.now(timezone.utc).isoformat(),
             "processed": False,
@@ -162,7 +192,8 @@ def fetch_source(source: dict, seen_ids: set) -> list:
         new_items.append(item)
         seen_ids.add(item_id)
 
-    print(f"{len(new_items)} nuovi item")
+    extra = f" (saltati {skipped_old} non di oggi)" if skipped_old else ""
+    print(f"{len(new_items)} nuovi item{extra}")
     return new_items
 
 
