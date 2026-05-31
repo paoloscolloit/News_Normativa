@@ -149,6 +149,31 @@
       color: #fff;
     }
 
+    /* ── Gruppo Categoria collassabile (mobile) ── */
+    .cat-toggle {
+      font-family: inherit;
+      font-size: .72rem;
+      font-weight: 600;
+      color: var(--text-muted);
+      text-transform: uppercase;
+      letter-spacing: .05em;
+      background: none;
+      border: none;
+      padding: 0;
+      margin-right: .15rem;
+      cursor: default;            /* su desktop è solo un'etichetta */
+      display: inline-flex;
+      align-items: center;
+      gap: .3rem;
+    }
+    .cat-chev { display: none; transition: transform .2s; font-size: .65rem; }
+    .cat-pills {
+      display: flex;
+      flex-wrap: wrap;
+      gap: .35rem;
+      align-items: center;
+    }
+
     /* ── Contatore risultati ── */
     .results-bar {
       max-width: 1600px;
@@ -346,6 +371,13 @@
       .cards-grid { grid-template-columns: 1fr; padding: 0 1rem 2rem; }
       .state-box { padding: 0 1rem; }
       .logo { font-size: 1rem; }
+
+      /* Categoria: cliccabile, elenco nascosto finché non si apre */
+      .cat-toggle { cursor: pointer; }
+      .cat-chev { display: inline-block; }
+      #catFilters.cat-open .cat-chev { transform: rotate(180deg); }
+      .cat-pills { display: none; width: 100%; margin-top: .4rem; }
+      #catFilters.cat-open .cat-pills { display: flex; }
     }
   </style>
 </head>
@@ -384,8 +416,12 @@
     <div class="divider"></div>
 
     <div class="filter-group" id="catFilters">
-      <span class="filter-label">Categoria</span>
-      <button class="pill active" data-filter="cat" data-value="tutti">Tutte</button>
+      <button class="cat-toggle" id="catToggle" type="button" aria-expanded="false">
+        Categoria <span class="cat-chev">▾</span>
+      </button>
+      <div class="cat-pills" id="catPills">
+        <button class="pill active" data-filter="cat" data-value="tutti">Tutte</button>
+      </div>
     </div>
 
   </div>
@@ -457,7 +493,7 @@ async function loadData() {
 // ── Costruisce i pill delle categorie dinamicamente ──────────────────────────
 function buildCategoryFilters() {
   const cats = [...new Set(allItems.map(i => i.categoria))].sort();
-  const container = document.getElementById("catFilters");
+  const container = document.getElementById("catPills");
   cats.forEach(cat => {
     const btn = document.createElement("button");
     btn.className = "pill";
@@ -469,6 +505,16 @@ function buildCategoryFilters() {
     container.appendChild(btn);
   });
 }
+
+// ── Apri/chiudi l'elenco categorie (attivo su mobile) ────────────────────────
+(function setupCatToggle() {
+  const group = document.getElementById("catFilters");
+  const toggle = document.getElementById("catToggle");
+  toggle.addEventListener("click", () => {
+    const open = group.classList.toggle("cat-open");
+    toggle.setAttribute("aria-expanded", open ? "true" : "false");
+  });
+})();
 
 // ── Filtri ───────────────────────────────────────────────────────────────────
 document.querySelectorAll(".pill").forEach(btn => {
@@ -482,6 +528,12 @@ function setFilter(filter, value, btn) {
   activeFilters[filter] = value;
   document.querySelectorAll(`[data-filter="${filter}"]`).forEach(b => b.classList.remove("active"));
   btn.classList.add("active");
+  // Su mobile, dopo aver scelto una categoria richiudi il pannello
+  if (filter === "cat" && window.matchMedia("(max-width: 768px)").matches) {
+    const group = document.getElementById("catFilters");
+    group.classList.remove("cat-open");
+    document.getElementById("catToggle").setAttribute("aria-expanded", "false");
+  }
   render();
 }
 
