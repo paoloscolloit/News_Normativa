@@ -310,5 +310,53 @@
     "summary_raw": "",
     "fetched_at": "2026-05-31T15:41:18.970229+00:00",
     "processed": true
+  },
+  {
+    "id": "f24d3a958bcb8220",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R0331R(02): Corrigendum to Commission Delegated Regulation (EU) 2026/331 of 13 February 2026 supplementing Regulation (EU) 2024/3110 of the European Parliament and of the Council by determining classes of performance in relation to the essential characteristic reaction to fire (OJ L, 2026/331, 21.4.2026)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R0331R(02)",
+    "pubblicato": "2026-06-01T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-06-01T09:09:07.717214+00:00",
+    "processed": true
+  },
+  {
+    "id": "97bb8fcf9850b35e",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R0687R(01):            Rectificatif au règlement (UE) 2026/687 du Parlement européen et du Conseil du 11 mars 2026 portant mise en œuvre des clauses de sauvegarde bilatérales prévue par l’accord de partenariat UE-Mercosur et l’accord intérimaire UE-Mercosur sur le commerce pour les produits agricoles (JO L, 2026/687, 19.3.2026)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R0687R(01)",
+    "pubblicato": "2026-06-01T00:00:00+02:00",
+    "summary_raw": "The corrigendum does not concern the English version.",
+    "fetched_at": "2026-06-01T09:09:07.717344+00:00",
+    "processed": true
+  },
+  {
+    "id": "abe1bb7280d6a308",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R1187: Commission Implementing Regulation (EU) 2026/1187 of 26 May 2026 fixing the representative prices, import duties and additional import duties applicable to molasses in the sugar sector from 1 June 2026",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1187",
+    "pubblicato": "2026-06-01T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-06-01T09:09:07.717458+00:00",
+    "processed": true
+  },
+  {
+    "id": "3f0c9971d527b88c",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R0392: Commission Delegated Regulation (EU) 2026/392 of 20 February 2026 amending the regulatory technical standards laid down in Delegated Regulation (EU) 2017/577 as regards the volume cap and the provision of information for the purposes of transparency and other calculations",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R0392",
+    "pubblicato": "2026-06-01T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-06-01T09:09:07.717554+00:00",
+    "processed": true
   }
 ]
