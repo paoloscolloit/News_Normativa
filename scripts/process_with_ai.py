@@ -129,6 +129,9 @@ def resolve_model(client: OpenAI) -> str:
             if "429" in err or "rate" in err.lower():
                 print("✗ rate limited, provo il prossimo")
                 continue
+            if "503" in err or "502" in err or "no healthy upstream" in err.lower() or "provider returned error" in err.lower():
+                print("✗ provider non disponibile, provo il prossimo")
+                continue
             # Altro errore (es. auth) — interrompi
             raise
     raise RuntimeError(
