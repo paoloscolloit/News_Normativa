@@ -1,7 +1,115 @@
 {
-  "last_updated": "2026-06-05T08:01:45.405081+00:00",
-  "total": 79,
+  "last_updated": "2026-06-08T08:58:49.799345+00:00",
+  "total": 84,
   "items": [
+    {
+      "id": "c9167ef5a48aaa46",
+      "titolo_popolare": "Regolamento delegato UE sulla classificazione delle filiere sostenibili",
+      "titolo_originale": "OJ:L_202690457",
+      "riassunto_esteso": "Il regolamento stabilisce i criteri per identificare quali attività economiche possono essere considerate sostenibili dal punto di vista ambientale. Lo scopo è orientare gli investimenti verso attività che contribuiscono agli obiettivi ambientali dell'UE, come la riduzione delle emissioni di gas serra e la transizione verso un'economia circolare. Le imprese dovranno rispettare determinati criteri per poter definire la propria attività come sostenibile.",
+      "cosa_cambia": [
+        "Le imprese devono rispettare criteri specifici per essere considerate sostenibili",
+        "Gli investitori potranno orientare i loro capitali verso attività veramente ecosostenibili",
+        "Maggiore trasparenza sulle filiere di approvvigionamento delle imprese"
+      ],
+      "chi_interessa": "imprese che operano in settori come energia, trasporti, edilizia, silvicoltura, agricoltura, attività manifatturiere",
+      "cosa_devi_fare": "verificare se l'attività svolta rispetta i criteri di sostenibilità ambientale previsti dal regolamento",
+      "impatto": "promuove investimenti in attività sostenibili e accelera la transizione verso un'economia a basse emissioni di carbonio",
+      "data_vigenza": "da definire con atti delegati",
+      "categoria": "Ambiente e Energia",
+      "importanza": 3,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690457",
+      "pubblicato": "2026-06-08T00:00:00+02:00",
+      "processed_at": "2026-06-08T08:47:50.049303+00:00"
+    },
+    {
+      "id": "a592b9d8a4d1c03e",
+      "titolo_popolare": "Nuova tassa di 3 euro sulle vendite online di prodotti importati sotto i 150 euro",
+      "titolo_originale": "OJ:L_202601200: Commission Implementing Regulation (EU) 2026/1200 of 5 June 2026 amending Implementing Regulation (EU) 2015/2447 as regards the rules on the implementation of the temporary EUR 3 customs duty on distance sales of imported goods in a consignment with an intrinsic value not exceeding EUR 150",
+      "riassunto_esteso": "La Commissione Europea ha introdotto un regolamento che prevede l'applicazione di un dazio doganale temporaneo di 3 euro sulle vendite a distanza di beni importati, quando il valore intrinseco della spedizione non supera i 150 euro. Questa misura è stata adottata per semplificare le procedure doganali e garantire una concorrenza equa tra venditori nazionali e internazionali.",
+      "cosa_cambia": [
+        "Viene introdotta una tassa di 3 euro sulle vendite online di prodotti importati di valore non superiore a 150 euro",
+        "Le procedure doganali per questi pacchi saranno semplificate"
+      ],
+      "chi_interessa": "Tutti i consumatori che acquistano prodotti importati online di valore non superiore a 150 euro",
+      "cosa_devi_fare": "Nessuna azione richiesta ai consumatori, la tassa verrà applicata automaticamente sugli acquisti che rientrano nei parametri",
+      "impatto": "I prezzi dei prodotti importati acquistati online potrebbero lievitare leggermente a causa della nuova tassa. Le imprese dovranno adeguare i propri sistemi per applicare correttamente la tassa.",
+      "data_vigenza": "Da definire con decreto attuativo",
+      "categoria": "Imprese e Mercato",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601200",
+      "pubblicato": "2026-06-08T00:00:00+02:00",
+      "processed_at": "2026-06-08T08:50:54.561234+00:00"
+    },
+    {
+      "id": "961f80575f7f2328",
+      "titolo_popolare": "Misure di emergenza per l'influenza aviaria in alcuni Stati membri",
+      "titolo_originale": "OJ:L_202601239: Commission Implementing Decision (EU) 2026/1239 of 4 June 2026 amending the Annex to Implementing Decision (EU) 2023/2447 concerning emergency measures in relation to outbreaks of highly pathogenic avian influenza in certain Member States (notified under document C(2026) 3930)",
+      "riassunto_esteso": "La Commissione europea ha adottato una decisione che modifica le misure di emergenza per contenere i focolai di influenza aviaria ad alta patogenicità in alcuni Stati membri. La decisione aggiorna l'elenco delle zone soggette a restrizioni e i relativi provvedimenti per limitare la diffusione del virus.",
+      "cosa_cambia": [
+        "Aggiornamento delle zone soggette a restrizioni per l'influenza aviaria",
+        "Applicazione di misure di biosicurezza più stringenti nelle zone interessate",
+        "Divieto di spostamento di volatili e prodotti avicoli dalle zone colpite"
+      ],
+      "chi_interessa": "Allevatori avicoli e operatori del settore nelle zone colpite",
+      "cosa_devi_fare": "Rispettare le misure di biosicurezza e le restrizioni imposte nella propria zona",
+      "impatto": "Limita la diffusione dell'influenza aviaria e protegge la salute degli animali e delle persone",
+      "data_vigenza": "In vigore da subito",
+      "categoria": "Agricoltura e Alimentare",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601239",
+      "pubblicato": "2026-06-08T00:00:00+02:00",
+      "processed_at": "2026-06-08T08:53:26.529379+00:00"
+    },
+    {
+      "id": "83705f7f43f6e29e",
+      "titolo_popolare": "Correzioni al regolamento sulle sanzioni contro chi minaccia l'Ucraina",
+      "titolo_originale": "OJ:L_202690460: Corrigendum to Council Implementing Regulation (EU) 2026/1055 of 11 May 2026 implementing Regulation (EU) No 269/2014 concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine (OJ L, 2026/1055, 11.5.2026)",
+      "riassunto_esteso": "Questo atto apporta alcune correzioni formali al regolamento che impone sanzioni a persone e enti che minacciano la sovranità e l'integrità territoriale dell'Ucraina. Le modifiche sono di natura tecnica e non cambiano la sostanza delle misure restrittive previste.",
+      "cosa_cambia": [
+        "Vengono corretti alcuni errori formali e refusi nel testo del regolamento",
+        "Le sanzioni verso chi minaccia l'Ucraina restano invariate"
+      ],
+      "chi_interessa": "Persone e organizzazioni soggette alle sanzioni per azioni contro l'Ucraina",
+      "cosa_devi_fare": "Nessuna azione richiesta, si tratta di correzioni formali",
+      "impatto": "Nessun impatto pratico, le sanzioni restano le stesse",
+      "data_vigenza": "In vigore da subito",
+      "categoria": "Giustizia e Diritti",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690460",
+      "pubblicato": "2026-06-08T00:00:00+02:00",
+      "processed_at": "2026-06-08T08:56:47.337308+00:00"
+    },
+    {
+      "id": "c9fa6168379cb352",
+      "titolo_popolare": "Nuove regole UE su etichettatura energetica elettrodomestici",
+      "titolo_originale": "OJ:L_202690431",
+      "riassunto_esteso": "Il regolamento introduce nuove regole per l'etichettatura energetica di frigoriferi, lavatrici, lavastoviglie e altri elettrodomestici. Le etichette energetiche saranno più semplici e chiare per i consumatori, con una scala da A a G. I produttori dovranno fornire informazioni più dettagliate sul consumo energetico. L'obiettivo è promuovere l'efficienza energetica e ridurre le emissioni di CO2.",
+      "cosa_cambia": [
+        "Etichette energetiche più semplici e chiare per elettrodomestici",
+        "Scala di classi energetiche da A a G",
+        "Maggiori informazioni sul consumo energetico fornite dai produttori"
+      ],
+      "chi_interessa": "Tutti i consumatori che acquistano elettrodomestici",
+      "cosa_devi_fare": "Nessuna azione richiesta ai consumatori",
+      "impatto": "Permette di risparmiare energia e ridurre le bollette elettriche scegliendo apparecchi più efficienti",
+      "data_vigenza": "In vigore dal 1° marzo 2021",
+      "categoria": "Ambiente e Energia",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690431",
+      "pubblicato": "2026-06-08T00:00:00+02:00",
+      "processed_at": "2026-06-08T08:58:49.797967+00:00"
+    },
     {
       "id": "3735e254750e168f",
       "titolo_popolare": "Nuove regole per l'epidemia di vaiolo ovino e caprino in Romania",
