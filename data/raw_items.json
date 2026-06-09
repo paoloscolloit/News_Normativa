@@ -957,7 +957,7 @@
     "pubblicato": "2026-06-08T00:00:00+02:00",
     "summary_raw": "This document does not exist in English.",
     "fetched_at": "2026-06-08T08:43:07.306532+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "c9167ef5a48aaa46",
@@ -981,7 +981,7 @@
     "pubblicato": "2026-06-08T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-06-08T08:43:07.306831+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "a592b9d8a4d1c03e",
@@ -1017,7 +1017,7 @@
     "pubblicato": "2026-06-08T00:00:00+02:00",
     "summary_raw": "This document does not exist in English.",
     "fetched_at": "2026-06-08T08:43:07.307209+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "83705f7f43f6e29e",
@@ -1041,6 +1041,210 @@
     "pubblicato": "2026-06-08T00:00:00+02:00",
     "summary_raw": "This document does not exist in English.",
     "fetched_at": "2026-06-08T08:43:07.307456+00:00",
+    "processed": true
+  },
+  {
+    "id": "1ed1248eb00d77e5",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202600743: Commission Delegated Regulation (EU) 2026/743 of 30 March 2026 amending Delegated Regulation (EU) 2016/127 as regards the protein-related requirements for infant and follow-on formula manufactured from protein hydrolysates",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202600743",
+    "pubblicato": "2026-06-09T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-06-09T07:35:48.575553+00:00",
+    "processed": true
+  },
+  {
+    "id": "6b19410dee1798bc",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601295: Council Implementing Decision (EU) 2026/1295 of 4 June 2026 authorising Sweden to apply reduced rates of excise duty to gas oil and unleaded petrol used as motor fuels, in accordance with Article 19 of Directive 2003/96/EC",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601295",
+    "pubblicato": "2026-06-09T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-06-09T07:35:48.575664+00:00",
+    "processed": true
+  },
+  {
+    "id": "3dd8ca8582f9adfc",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601235: Council Decision (CFSP) 2026/1235 of 8 June 2026 amending Decision (CFSP) 2022/667 on an assistance measure taking the form of a general programme for support to the African Union under the European Peace Facility for the period 2022-2024",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601235",
+    "pubblicato": "2026-06-09T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-06-09T07:35:48.575755+00:00",
+    "processed": true
+  },
+  {
+    "id": "4e46a6463ac47fa5",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202690465",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690465",
+    "pubblicato": "2026-06-09T00:00:00+02:00",
+    "summary_raw": "This document does not exist in English.",
+    "fetched_at": "2026-06-09T07:35:48.575843+00:00",
+    "processed": true
+  },
+  {
+    "id": "01848fefe915a26c",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202690447",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690447",
+    "pubblicato": "2026-06-09T00:00:00+02:00",
+    "summary_raw": "This document does not exist in English.",
+    "fetched_at": "2026-06-09T07:35:48.575926+00:00",
+    "processed": true
+  },
+  {
+    "id": "70aecfec3c80d611",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601203: Commission Implementing Regulation (EU) 2026/1203 of 8 June 2026 imposing a definitive anti-dumping duty on imports of certain woven and/or stitched glass fibre fabrics originating in the People’s Republic of China and the Arab Republic of Egypt as extended to imports brought to offshore installations, to imports consigned from the Kingdom of Morocco whether declared as originating in the Kingdom of Morocco or not, and to imports consigned from Türkiye whether declared as originating in Türkiye or not, following an expiry review pursuant to Article 11(2) of Regulation (EU) 2016/1036 of the European Parliament and of the Council",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601203",
+    "pubblicato": "2026-06-09T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-06-09T07:35:48.576003+00:00",
+    "processed": true
+  },
+  {
+    "id": "8880d09ead6546a3",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202690449:            Berichtigung der Delegierten Verordnung (EU) 2026/881 der Kommission vom 11. Dezember 2025 zur Ergänzung der Verordnung (EU) 2024/2847 des Europäischen Parlaments und des Rates durch Festlegung der Modalitäten und Bedingungen für die Geltendmachung von Cybersicherheitsgründen im Zusammenhang mit dem Aufschub der Verbreitung von Meldungen (ABl. L, 2026/881, 20.4.2026)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690449",
+    "pubblicato": "2026-06-09T00:00:00+02:00",
+    "summary_raw": "This document does not exist in English.",
+    "fetched_at": "2026-06-09T07:35:48.576098+00:00",
+    "processed": true
+  },
+  {
+    "id": "ae40aa329b9db6a7",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202690451",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690451",
+    "pubblicato": "2026-06-09T00:00:00+02:00",
+    "summary_raw": "This document does not exist in English.",
+    "fetched_at": "2026-06-09T07:35:48.576182+00:00",
+    "processed": true
+  },
+  {
+    "id": "f6a263b0cdd60c0d",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202690440",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690440",
+    "pubblicato": "2026-06-09T00:00:00+02:00",
+    "summary_raw": "This document does not exist in English.",
+    "fetched_at": "2026-06-09T07:35:48.576257+00:00",
+    "processed": true
+  },
+  {
+    "id": "0cab0663cc47bf25",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601224: Council Decision (CFSP) 2026/1224 of 9 June 2026 on an assistance measure under the European Peace Facility to support the Egyptian Armed Forces",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601224",
+    "pubblicato": "2026-06-09T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-06-09T07:35:48.576332+00:00",
+    "processed": true
+  },
+  {
+    "id": "47f55435e3551a87",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202600542: Commission Delegated Regulation (EU) 2026/542 of 12 March 2026 amending the Annex to Regulation (EU) 2019/287 of the European Parliament and of the Council",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202600542",
+    "pubblicato": "2026-06-09T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-06-09T07:35:48.576402+00:00",
+    "processed": true
+  },
+  {
+    "id": "2ecd500f554048ef",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202600547: Commission Delegated Regulation (EU) 2026/547 of 12 March 2026 amending the Annex to Regulation (EU) 2019/287 of the European Parliament and of the Council",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202600547",
+    "pubblicato": "2026-06-09T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-06-09T07:35:48.576471+00:00",
+    "processed": true
+  },
+  {
+    "id": "c8c6317b6f92977b",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202690448",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690448",
+    "pubblicato": "2026-06-09T00:00:00+02:00",
+    "summary_raw": "This document does not exist in English.",
+    "fetched_at": "2026-06-09T07:35:48.576549+00:00",
+    "processed": true
+  },
+  {
+    "id": "6de3fe80c3c50e37",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202690446",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690446",
+    "pubblicato": "2026-06-09T00:00:00+02:00",
+    "summary_raw": "This document does not exist in English.",
+    "fetched_at": "2026-06-09T07:35:48.576625+00:00",
+    "processed": true
+  },
+  {
+    "id": "80e15d39e71cbaf6",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202690442",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690442",
+    "pubblicato": "2026-06-09T00:00:00+02:00",
+    "summary_raw": "This document does not exist in English.",
+    "fetched_at": "2026-06-09T07:35:48.576698+00:00",
+    "processed": true
+  },
+  {
+    "id": "0834c8293df60423",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601227: Council Decision (CFSP) 2026/1227 of 8 June 2026 amending Decision (CFSP) 2024/2015 on an assistance measure under the European Peace Facility to support the Armed Forces of the Islamic Republic of Mauritania",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601227",
+    "pubblicato": "2026-06-09T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-06-09T07:35:48.576766+00:00",
+    "processed": true
+  },
+  {
+    "id": "96e84dea888e38a7",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202690441",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690441",
+    "pubblicato": "2026-06-09T00:00:00+02:00",
+    "summary_raw": "This document does not exist in English.",
+    "fetched_at": "2026-06-09T07:35:48.576834+00:00",
     "processed": true
   }
 ]
