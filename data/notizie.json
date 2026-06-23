@@ -1,7 +1,96 @@
 {
-  "last_updated": "2026-06-22T09:42:50.946869+00:00",
-  "total": 261,
+  "last_updated": "2026-06-23T07:38:55.575189+00:00",
+  "total": 265,
   "items": [
+    {
+      "id": "f4461104f6758534",
+      "titolo_popolare": "Posizione dell'UE alle norme internazionali per le auto",
+      "titolo_originale": "OJ:L_202601411: Council Decision (EU) 2026/1411 of 22 June 2026 on the position to be taken on behalf of the European Union within the World Forum for Harmonization of Vehicle Regulations of the United Nations Economic Commission for Europe concerning the June 2026 proposals for UN regulations",
+      "riassunto_esteso": "Il Consiglio dell'Unione Europea ha deciso quale sarà la posizione dell'UE nel Forum mondiale per l'armonizzazione delle normative sui veicoli, organizzato dalla Commissione economica per l'Europa delle Nazioni Unite. La decisione riguarda le proposte presentate a giugno 2026 per nuove regole ONU sui veicoli, come emissioni, sicurezza e omologazione. L'UE ha definito i punti di accordo e le riserve, per garantire che le norme internazionali siano compatibili con la legislazione europea e gli obiettivi climatici. Questa scelta serve a tutelare gli interessi dei produttori, dei consumatori e dell'ambiente europeo nelle trattative internazionali.",
+      "cosa_cambia": [
+        "L'UE parteciperà alle discussioni con una posizione comune definita dal Consiglio",
+        "Le proposte ONU saranno valutate rispetto alle norme UE prima di essere accettate",
+        "Eventuali differenze saranno negoziate per allineare le regole internazionali a quelle europee"
+      ],
+      "chi_interessa": "produttori di veicoli, importatori, autorità di omologazione e consumatori di auto in Europa",
+      "cosa_devi_fare": "Nessuna azione diretta richiesta ai cittadini; le imprese seguiranno le linee guida UE.",
+      "impatto": "Garantisce che le future norme internazionali sui veicoli siano coerenti con le leggi e gli obiettivi ambientali europei, evitando discrepanze normative.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Trasporti",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601411",
+      "pubblicato": "2026-06-23T00:00:00+02:00",
+      "processed_at": "2026-06-23T07:37:35.676887+00:00"
+    },
+    {
+      "id": "5ae3c988d568080b",
+      "titolo_popolare": "Nuove sanzioni UE contro il Sud Sudan",
+      "titolo_originale": "OJ:L_202601402: Council Implementing Regulation (EU) 2026/1402 of 22 June 2026 implementing Regulation (EU) 2015/735 concerning restrictive measures in respect of the situation in South Sudan",
+      "riassunto_esteso": "Il Consiglio europeo ha adottato il Regolamento UE 2026/1402 per attuare le misure restrittive previste dal Regolamento 2015/735, a causa della grave crisi politica e dei violenti conflitti in Sud Sudan. Il provvedimento prevede il congelamento dei beni, il divieto di viaggio e il blocco di operazioni finanziarie per individui, entità e settori ritenuti responsabili di violazioni dei diritti umani e di ostacolare la pace. È stato introdotto per aumentare la pressione diplomatica e spingere le parti a rispettare gli accordi di cessazione delle ostilità. Le sanzioni si applicano a tutti i soggetti presenti nella lista UE, comprese le società controllate da loro. Il regolamento entra in vigore subito, con obbligo per gli Stati membri di attuarlo entro pochi giorni.",
+      "cosa_cambia": [
+        "Congelamento immediato dei beni di persone e imprese sud sudanesi inserite nella lista UE",
+        "Divieto di ingresso nell'area Schengen per i soggetti sanzionati",
+        "Divieto per le banche europee di effettuare transazioni con le entità incluse",
+        "Obbligo per le imprese europee di verificare la presenza di soggetti sanzionati nei propri partner commerciali"
+      ],
+      "chi_interessa": "tutte le imprese, banche e professionisti che operano con partner internazionali, nonché i cittadini europei che viaggiano verso il Sud Sudan",
+      "cosa_devi_fare": "Verificare le liste UE di sanzioni e bloccare ogni transazione o viaggio con i soggetti indicati.",
+      "impatto": "Blocca i finanziamenti a chi alimenta il conflitto e impedisce viaggi di responsabili, contribuendo a far pressione per la pace.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Altro",
+      "importanza": 3,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601402",
+      "pubblicato": "2026-06-23T00:00:00+02:00",
+      "processed_at": "2026-06-23T07:37:52.085403+00:00"
+    },
+    {
+      "id": "04edd41a6d24a02f",
+      "titolo_popolare": "Nuove regole per l'Accademia Diplomatica UE",
+      "titolo_originale": "OJ:L_202601399: Council Decision (CFSP) 2026/1399 of 22 June 2026 amending Decision (CFSP) 2024/1472 on a European Union Diplomatic Academy",
+      "riassunto_esteso": "Il Consiglio dell'Unione Europea ha modificato la decisione del 2024 che istituisce l'Accademia Diplomatica dell'UE, introducendo aggiornamenti sul programma formativo, sui criteri di selezione dei partecipanti e sul finanziamento. L'obiettivo è rendere la formazione più coerente con le sfide attuali della politica estera, come la sicurezza digitale e le crisi climatiche, e garantire una maggiore trasparenza nella gestione dei fondi. La modifica è stata adottata per migliorare l'efficacia dei diplomatici europei e rafforzare la coesione tra gli Stati membri. Non cambia la struttura dell'Accademia, ma ne affina i contenuti e le modalità operative. È una risposta alle richieste degli Stati membri di avere diplomatici meglio preparati alle nuove minacce globali.",
+      "cosa_cambia": [
+        "Il programma di formazione include nuovi moduli su cybersicurezza e cambiamento climatico",
+        "I criteri di ammissione privilegiano candidati con esperienza in crisi internazionali",
+        "Il bilancio annuale dell'Accademia è aumentato del 10% per coprire i nuovi corsi"
+      ],
+      "chi_interessa": "tutti i diplomatici, funzionari esteri e funzionari pubblici che partecipano o vogliono partecipare all'Accademia Diplomatica UE",
+      "cosa_devi_fare": "Verificare i nuovi requisiti di ammissione e aggiornare la propria candidatura entro le scadenze previste.",
+      "impatto": "Diplomatici meglio preparati alle sfide moderne, con conseguente maggiore efficacia della politica estera europea.",
+      "data_vigenza": "dal 1 ottobre 2026",
+      "categoria": "Altro",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601399",
+      "pubblicato": "2026-06-23T00:00:00+02:00",
+      "processed_at": "2026-06-23T07:38:39.211530+00:00"
+    },
+    {
+      "id": "fa2ad0526008a764",
+      "titolo_popolare": "Sanzioni UE contro il Sud Sudan",
+      "titolo_originale": "OJ:L_202601401: Council Implementing Decision (CFSP) 2026/1401 of 22 June 2026 implementing Decision (CFSP) 2015/740 concerning restrictive measures in view of the situation in South Sudan",
+      "riassunto_esteso": "Il Consiglio europeo ha adottato una decisione di attuazione che aggiorna le misure restrittive già previste dalla decisione del 2015 a causa della situazione di conflitto e violazioni dei diritti umani in Sud Sudan. L’obiettivo è esercitare pressione sul governo sudanese per fermare le violenze e favorire un ritorno al dialogo politico. La decisione prevede il congelamento di beni, il divieto di viaggio per alcune persone e restrizioni su alcune transazioni finanziarie. È stata presa per rafforzare la risposta dell’Unione alle crisi umanitarie nella regione. Le nuove misure si aggiungono a quelle già in vigore, senza introdurre nuovi settori di applicazione.",
+      "cosa_cambia": [
+        "Vengono aggiornati i nomi delle persone e delle entità soggette a divieto di viaggio e blocco di beni",
+        "Rinforzano i controlli su operazioni finanziarie legate a soggetti sudanesi",
+        "Le imprese europee devono verificare la presenza di soggetti sanzionati nei loro clienti"
+      ],
+      "chi_interessa": "imprese europee, banche, professionisti del commercio internazionale, cittadini con legami economici al Sud Sudan",
+      "cosa_devi_fare": "Verificare se clienti o partner sono nella lista UE e bloccare eventuali transazioni.",
+      "impatto": "Le sanzioni limitano l’accesso a fondi e viaggi per i soggetti sudanesi, aumentando la pressione politica sull’estremismo.",
+      "data_vigenza": "dal 22 giugno 2026",
+      "categoria": "Altro",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601401",
+      "pubblicato": "2026-06-23T00:00:00+02:00",
+      "processed_at": "2026-06-23T07:38:55.571939+00:00"
+    },
     {
       "id": "f5a7774b9a268884",
       "titolo_popolare": "Correzione di un atto europeo",

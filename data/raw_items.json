@@ -3130,5 +3130,53 @@
     "summary_raw": "",
     "fetched_at": "2026-06-22T09:36:49.035295+00:00",
     "processed": true
+  },
+  {
+    "id": "f4461104f6758534",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601411: Council Decision (EU) 2026/1411 of 22 June 2026 on the position to be taken on behalf of the European Union within the World Forum for Harmonization of Vehicle Regulations of the United Nations Economic Commission for Europe concerning the June 2026 proposals for UN regulations",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601411",
+    "pubblicato": "2026-06-23T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-06-23T07:36:30.364436+00:00",
+    "processed": true
+  },
+  {
+    "id": "5ae3c988d568080b",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601402: Council Implementing Regulation (EU) 2026/1402 of 22 June 2026 implementing Regulation (EU) 2015/735 concerning restrictive measures in respect of the situation in South Sudan",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601402",
+    "pubblicato": "2026-06-23T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-06-23T07:36:30.364554+00:00",
+    "processed": true
+  },
+  {
+    "id": "04edd41a6d24a02f",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601399: Council Decision (CFSP) 2026/1399 of 22 June 2026 amending Decision (CFSP) 2024/1472 on a European Union Diplomatic Academy",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601399",
+    "pubblicato": "2026-06-23T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-06-23T07:36:30.364683+00:00",
+    "processed": true
+  },
+  {
+    "id": "fa2ad0526008a764",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601401: Council Implementing Decision (CFSP) 2026/1401 of 22 June 2026 implementing Decision (CFSP) 2015/740 concerning restrictive measures in view of the situation in South Sudan",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601401",
+    "pubblicato": "2026-06-23T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-06-23T07:36:30.364788+00:00",
+    "processed": true
   }
 ]
