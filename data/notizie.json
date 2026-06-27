@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-26T07:52:03.596441+00:00",
-  "total": 338,
+  "last_updated": "2026-06-27T06:59:16.885085+00:00",
+  "total": 344,
   "items": [
     {
       "id": "9a69237c4a41984d",
@@ -24,6 +24,126 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601370",
       "pubblicato": "2026-06-26T00:00:00+02:00",
       "processed_at": "2026-06-26T07:52:03.592107+00:00"
+    },
+    {
+      "id": "bbecc58800199042",
+      "titolo_popolare": "Atto normativo UE non disponibile",
+      "titolo_originale": "OJ:L_202690520",
+      "riassunto_esteso": "Il documento indicato nella fonte non risulta disponibile nella banca dati EUR-Lex, quindi non è possibile consultarne il testo completo. Si tratta probabilmente di un atto dell'Unione Europea pubblicato nella serie L della Gazzetta ufficiale. Senza il contenuto non si possono descrivere le disposizioni specifiche né gli obiettivi del provvedimento. L'assenza del testo impedisce di capire a chi si applica e quali effetti produce. Si consiglia di verificare nuovamente la fonte o cercare il documento tramite altri canali ufficiali.",
+      "cosa_cambia": [
+        "non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690520",
+      "pubblicato": "2026-06-26T00:00:00+02:00",
+      "processed_at": "2026-06-27T06:52:54.465438+00:00"
+    },
+    {
+      "id": "b6358d27c2c8eeb4",
+      "titolo_popolare": "Documento non disponibile",
+      "titolo_originale": "OJ:L_202690525",
+      "riassunto_esteso": "Il documento indicato non è reperibile nelle banche dati ufficiali. Pertanto non è possibile conoscere il suo contenuto né gli obiettivi che si proponeva di raggiungere. Senza il testo non si possono descrivere le disposizioni né il contesto di adozione. Questa mancanza impedisce qualsiasi analisi concreta per i cittadini.",
+      "cosa_cambia": [
+        "non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690525",
+      "pubblicato": "2026-06-26T00:00:00+02:00",
+      "processed_at": "2026-06-27T06:55:56.809467+00:00"
+    },
+    {
+      "id": "8a9f54000f62d1fd",
+      "titolo_popolare": "Atto normativo non disponibile in lingua italiana",
+      "titolo_originale": "OJ:L_202690526",
+      "riassunto_esteso": "L'atto proviene dalla Gazzetta ufficiale dell'Unione europea, serie L, con riferimento OJ:L_202690526. Tuttavia, il testo non è stato tradotto in italiano né è disponibile in inglese. Pertanto non si possono descrivere le disposizioni né gli obiettivi del provvedimento. Si consiglia di consultare la versione originale in lingua ufficiale dell'UE per ulteriori dettagli. In assenza di informazioni ufficiali, non è possibile valutare l'impatto sulle persone.",
+      "cosa_cambia": [],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690526",
+      "pubblicato": "2026-06-26T00:00:00+02:00",
+      "processed_at": "2026-06-27T06:56:13.115046+00:00"
+    },
+    {
+      "id": "e5ef9a6d5fa9c81f",
+      "titolo_popolare": "Accordo UE-Armenia aggiornato su cooperazione energetica",
+      "titolo_originale": "OJ:L_202601367: Commission Decision (EU) 2026/1367 of 15 June 2026 approving, on behalf of the European Union, the amendment of Annex X to the Comprehensive and Enhanced Partnership Agreement between the European Union and the European Atomic Energy Community and their Member States, of the one part, and the Republic of Armenia, of the other part",
+      "riassunto_esteso": "La decisione approva una modifica all'Allegato X dell'accordo di partenariato rafforzato tra l'Unione europea, la Comunità europea dell'energia atomica e la Repubblica di Armenia. Tale aggiornamento riguarda la cooperazione nel settore nucleare, soprattutto per la sicurezza, la gestione dei rifiuti e la ricerca scientifica. È stato adottato per tenere conto dei progressi tecnici e dei nuovi progetti comuni tra le parti. Non introduce nuovi obblighi per cittadini o imprese, ma adegua il quadro di collaborazione tra le autorità coinvolte. L'obiettivo è rafforzare la partnership nel rispetto degli standard di sicurezza e di non proliferazione.",
+      "cosa_cambia": [
+        "nessuna modifica diretta per cittadini o imprese"
+      ],
+      "chi_interessa": "autorità pubbliche e esperti dei settori nucleare e di ricerca coinvolti nell'accordo UE-Armenia",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "L'atto non ha effetti concreti sulla vita quotidiana dei cittadini; serve principalmente a mantenere aggiornato il quadro di cooperazione internazionale tra UE e Armenia.",
+      "data_vigenza": "dal 15 giugno 2026",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601367",
+      "pubblicato": "2026-06-26T00:00:00+02:00",
+      "processed_at": "2026-06-27T06:56:40.408038+00:00"
+    },
+    {
+      "id": "bbd8dfcf9fc85b06",
+      "titolo_popolare": "Documento non disponibile in lingua italiana",
+      "titolo_originale": "OJ:L_202690523",
+      "riassunto_esteso": "Il documento indicato non è disponibile nella banca dati EUR-Lex in lingua italiana. Pertanto non è possibile descrivere il contenuto specifico dell'atto normativo. Si tratta probabilmente di un atto recente o di una pubblicazione non ancora tradotta. Senza il testo non si possono indicare gli effetti pratici per i cittadini. Si consiglia di verificare direttamente sul sito ufficiale dell'Unione Europea per eventuali aggiornamenti.",
+      "cosa_cambia": [
+        "non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690523",
+      "pubblicato": "2026-06-26T00:00:00+02:00",
+      "processed_at": "2026-06-27T06:56:52.962899+00:00"
+    },
+    {
+      "id": "8b993a8f7616fa2d",
+      "titolo_popolare": "Nuove norme sul commercio di animali e piante protette",
+      "titolo_originale": "OJ:L_202601383: Commission Regulation (EU) 2026/1383 of 22 June 2026 amending Council Regulation (EC) No 338/97 to reflect amendments to the Convention on International Trade in Endangered Species of Wild Fauna and Flora (CITES) adopted at the 20th meeting of the Conference of the Parties and other amendments agreed by the Scientific Review Group",
+      "riassunto_esteso": "La modifica aggiorna il regolamento UE che attua la convenzione CITES, inserendo le nuove specie aggiunte o rimosse dalle liste di protezione decise alla 20ª riunione delle Parti. Questo adegua le regole europee agli impegni internazionali per contrastare il commercio illegale di flora e fauna in via di estinzione. Le variazioni riguardano sia gli animali che le piante, compresi prodotti derivati come legno, medicinali o oggetti d'arte. L'obiettivo è garantire che solo gli scambi autorizzati e sostenibili siano consentiti nell'Unione Europea.",
+      "cosa_cambia": [
+        "Le specie appena inserite nelle liste CITES richiedono ora un permesso per essere importate, esportate o ri‑esportate nell'UE.",
+        "Alcune specie previamente controllate sono state rimosse dalle liste, quindi il loro commercio è diventato più semplice.",
+        "I requisiti documentali per certificati e notifiche sono stati allineati alle nuove decisioni della Commissione Scientifica di CITES."
+      ],
+      "chi_interessa": "importatori, esportatori, allevatori, negozi di animali, fioristi, artisti e chiunque commercia o possiede specie animali o vegetali protette",
+      "cosa_devi_fare": "Verificare che i permessi CITES siano aggiornati secondo le nuove liste prima di effettuare qualsiasi scambio internazionale",
+      "impatto": "Il commercio sarà più trasparente e sicuro, riducendo il rischio di sanzioni e contribuendo alla conservazione della biodiversità globale.",
+      "data_vigenza": "in vigore dal 22 giugno 2026",
+      "categoria": "Ambiente e Energia",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601383",
+      "pubblicato": "2026-06-26T00:00:00+02:00",
+      "processed_at": "2026-06-27T06:57:20.190960+00:00"
     },
     {
       "id": "d0c182cb08d9cdb5",
