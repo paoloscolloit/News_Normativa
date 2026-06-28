@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-27T06:59:16.885085+00:00",
-  "total": 344,
+  "last_updated": "2026-06-28T07:46:56.106456+00:00",
+  "total": 353,
   "items": [
     {
       "id": "9a69237c4a41984d",
@@ -144,6 +144,206 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601383",
       "pubblicato": "2026-06-26T00:00:00+02:00",
       "processed_at": "2026-06-27T06:57:20.190960+00:00"
+    },
+    {
+      "id": "7a59be3597aaac9a",
+      "titolo_popolare": "Nuove sanzioni UE contro la Russia per la guerra in Ucraina",
+      "titolo_originale": "OJ:L_202601437: Council Decision (CFSP) 2026/1437 of 25 June 2026 amending Decision 2014/512/CFSP concerning restrictive measures in view of Russia’s actions destabilising the situation in Ukraine",
+      "riassunto_esteso": "Il Consiglio UE ha approvato una decisione che modifica le sanzioni già in vigore dal 2014 contro la Russia, a causa delle sue azioni che destabilizzano l'Ucraina. La modifica prevede l'ampliamento della lista di persone e imprese soggette a divieti di viaggio e blocco di beni, oltre a introdurre restrizioni aggiuntive su settori strategici come energia e finanza. L'obiettivo è aumentare la pressione economica su Mosca per farla tornare a rispettare il diritto internazionale. La decisione è stata adottata in risposta a nuovi episodi di aggressione e violazioni dei diritti umani. È parte della politica estera comune dell'UE volta a difendere la sicurezza europea.",
+      "cosa_cambia": [
+        "Vengono inserite nuove persone e società russe nella lista delle sanzioni UE",
+        "Si estendono i divieti di viaggio e il blocco dei beni a questi nuovi soggetti",
+        "Vengono introdotte restrizioni su operazioni finanziarie e commerciali in settori energetici",
+        "Le autorità nazionali devono aggiornare le proprie banche dati e controlli doganali"
+      ],
+      "chi_interessa": "tutti i cittadini e le imprese europee che operano con la Russia o con soggetti russi",
+      "cosa_devi_fare": "Verificare se clienti o partner russi sono nella nuova lista delle sanzioni e, in caso affermativo, interrompere le transazioni.",
+      "impatto": "Le imprese dovranno fermare rapporti con nuovi soggetti sanzionati, riducendo rischi legali ma potenzialmente limitando opportunità commerciali.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Altro",
+      "importanza": 3,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601437",
+      "pubblicato": "2026-06-26T00:00:00+02:00",
+      "processed_at": "2026-06-28T07:43:21.089702+00:00"
+    },
+    {
+      "id": "b15a1e18c4914129",
+      "titolo_popolare": "Nuove regole per i test di emissioni e consumo auto",
+      "titolo_originale": "OJ:L_202601130: UN Regulation No. 154 – Uniform provisions concerning the approval of light duty passenger and commercial vehicles with regards to criteria emissions, emissions of carbon dioxide and fuel consumption and/or the measurement of electric energy consumption and electric range (WLTP) [2026/1130]",
+      "riassunto_esteso": "Il Regolamento UE n. 154 introduce norme uniformi per l'omologazione di autoveicoli leggeri, sia passeggeri che commerciali, riguardo alle emissioni di inquinanti, CO₂, consumo di carburante e, per i veicoli elettrici, al consumo di energia e all'autonomia. L'obiettivo è rendere più trasparenti e comparabili i dati di consumo e di emissioni, migliorare la tutela ambientale e favorire la transizione verso la mobilità elettrica. Le nuove disposizioni sostituiscono il precedente ciclo di prova WLTP con versioni più realistiche, includendo scenari di guida urbana, extraurbana e a velocità costante. Il provvedimento è stato adottato per allineare le norme europee a quelle internazionali e per garantire che i consumi dichiarati siano più vicini a quelli reali degli utenti.",
+      "cosa_cambia": [
+        "I dati di consumo e di emissioni indicati nei contratti di vendita saranno basati su nuovi test più realistici",
+        "Le case automobilistiche dovranno fornire anche l'autonomia e il consumo di energia per i veicoli elettrici secondo il nuovo metodo WLTP",
+        "Le autorità di omologazione dovranno verificare i risultati dei test con procedure più stringenti",
+        "Le informazioni saranno pubblicate in modo più chiaro nei cataloghi e sui siti dei produttori"
+      ],
+      "chi_interessa": "tutti i consumatori di auto nuove, concessionarie e case automobilistiche",
+      "cosa_devi_fare": "Nessuna azione immediata; controllare i dati di consumo e CO₂ indicati al momento dell'acquisto.",
+      "impatto": "I consumi e le emissioni dichiarate saranno più vicini alla realtà, aiutando a scegliere veicoli più efficienti e a ridurre l'inquinamento.",
+      "data_vigenza": "dal 1 gennaio 2027",
+      "categoria": "Ambiente e Energia",
+      "importanza": 3,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601130",
+      "pubblicato": "2026-06-26T00:00:00+02:00",
+      "processed_at": "2026-06-28T07:43:53.729048+00:00"
+    },
+    {
+      "id": "fd90da85a33e25a0",
+      "titolo_popolare": "Regolamento sulle piante create con nuove tecniche genetiche",
+      "titolo_originale": "OJ:L_202601388: Regulation (EU) 2026/1388 of the European Parliament and of the Council of 17 June 2026 on plants obtained by certain new genomic techniques and their products, and amending Regulation (EU) 2017/625 (Text with EEA relevance)",
+      "riassunto_esteso": "Il nuovo regolamento UE stabilisce norme specifiche per le piante ottenute con certe tecniche genomiche innovative, come l'editing genetico di precisione, distinguendole da quelle tradizionali. L'obiettivo è garantire la sicurezza per la salute umana, animale e l'ambiente, semplificando al contempo le procedure di autorizzazione rispetto alla normativa precedente. Vengono introdotti criteri chiari per valutare i rischi e per decidere se una pianta rientra nella disciplina dei OGM o può essere esente. Il provvedimento modifica anche il Regolamento 2017/625, aggiornando i requisiti di controllo e monitoraggio. È stato adottato per rispondere ai rapidi progressi scientifici e per dare certezza normativa a ricercatori, agricoltori e imprese del settore agroalimentare.",
+      "cosa_cambia": [
+        "Le piante create con certe tecniche di editing genetico non saranno più considerate OGM se non presentano DNA estraneo.",
+        "Le procedure di autorizzazione per queste piante saranno più snelle e rapide.",
+        "Verranno introdotti obblighi di monitoraggio post‑immissione più mirati.",
+        "Le autorità di controllo avranno nuovi criteri per verificare la conformità."
+      ],
+      "chi_interessa": "ricercatori, imprese agricole, produttori di sementi e tutti gli agricoltori che usano tecniche genomiche",
+      "cosa_devi_fare": "Verificare se le proprie piante rientrano nelle nuove categorie esenti e, in caso, adeguare la documentazione di sicurezza.",
+      "impatto": "Permette di introdurre più velocemente varietà migliorate senza lunghi iter burocratici, favorendo innovazione e competitività agricola.",
+      "data_vigenza": "dal 1 gennaio 2027",
+      "categoria": "Imprese e Mercato",
+      "importanza": 3,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601388",
+      "pubblicato": "2026-06-26T00:00:00+02:00",
+      "processed_at": "2026-06-28T07:44:20.934914+00:00"
+    },
+    {
+      "id": "882089cc343248af",
+      "titolo_popolare": "Nuova normativa europea di cui non si conoscono i dettagli",
+      "titolo_originale": "OJ:L_202690524",
+      "riassunto_esteso": "L'atto citato è un documento della Gazzetta UE, ma non è disponibile una versione testuale né una traduzione in inglese, quindi i contenuti specifici non sono noti. In generale, le normative UE vengono adottate per armonizzare regole tra gli Stati membri su temi di interesse comune, come mercato interno, diritti dei cittadini o ambiente. Senza il testo, non è possibile spiegare cosa stabilisce né le motivazioni precise della sua adozione. Si tratta quindi di un riferimento a una legge di cui non si hanno informazioni pubbliche al momento.",
+      "cosa_cambia": [
+        "Non è possibile indicare cambiamenti concreti perché il contenuto dell'atto è sconosciuto"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "Nessuna azione richiesta finché non si ottengono dettagli sull'atto",
+      "impatto": "Impatto non determinabile finché non si conoscono le disposizioni dell'atto",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690524",
+      "pubblicato": "2026-06-26T00:00:00+02:00",
+      "processed_at": "2026-06-28T07:44:37.392223+00:00"
+    },
+    {
+      "id": "512b879ee8ef3669",
+      "titolo_popolare": "Registrazione della specialità gastronomica Brhlovské podlievané buchty",
+      "titolo_originale": "OJ:L_202601418: Commission Implementing Regulation (EU) 2026/1418 of 22 June 2026 on the registration of the geographical indication Brhlovské podlievané buchty (PGI) in the Union register of geographical indications pursuant to Regulation (EU) 2024/1143 of the European Parliament and of the Council",
+      "riassunto_esteso": "Il regolamento attua la procedura prevista dal Regolamento UE 2024/1143 per inserire la denominazione di origine protetta (PGI) \"Brhlovské podlievané buchty\" nel registro UE delle indicazioni geografiche. L’obiettivo è tutelare il nome di questo dolce tradizionale, garantendo che solo i prodotti realizzati secondo specifici criteri territoriali e di lavorazione possano usarlo. La Commissione ha valutato la domanda presentata dallo Stato membro competente e ha verificato che siano rispettati i requisiti di origine, tradizione e qualità. Con l’iscrizione, il prodotto ottiene una protezione a livello europeo contro usi non autorizzati. La misura risponde alla volontà di valorizzare le produzioni tipiche locali e di difendere i consumatori da frodi.",
+      "cosa_cambia": [
+        "Il nome \"Brhlovské podlievané buchty\" è ora protetto in tutta l'Unione Europea",
+        "Solo i produttori che rispettano le regole di produzione possono usare la denominazione",
+        "Gli altri operatori del settore devono evitare di usare quel nome per prodotti diversi"
+      ],
+      "chi_interessa": "produttori di dolci tradizionali, negozi di gastronomia, consumatori attenti alle origini dei prodotti",
+      "cosa_devi_fare": "Nessuna azione richiesta, ma i produttori devono rispettare le regole di produzione per usare il nome.",
+      "impatto": "Garantisce la qualità e l’autenticità del dolce, proteggendo i consumatori da imitazioni e favorendo la reputazione del prodotto locale.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Altro",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601418",
+      "pubblicato": "2026-06-26T00:00:00+02:00",
+      "processed_at": "2026-06-28T07:45:05.657355+00:00"
+    },
+    {
+      "id": "18d49273a959c06c",
+      "titolo_popolare": "Nuove regole per semi e piantine forestali",
+      "titolo_originale": "OJ:L_202601392: Regulation (EU) 2026/1392 of the European Parliament and of the Council of 20 May 2026 on the production and marketing of forest reproductive material, amending Regulations (EU) 2016/2031 and (EU) 2017/625 of the European Parliament and of the Council and repealing Council Directive 1999/105/EC (FRM Regulation) (Text with EEA relevance)",
+      "riassunto_esteso": "Il Regolamento UE 2026/1392 stabilisce norme più moderne per la produzione e la commercializzazione del materiale riproduttivo forestale, come semi e piantine, al fine di garantire la qualità, la tracciabilità e la sostenibilità delle foreste europee. Sostituisce la vecchia direttiva del 1999, aggiornando le procedure di certificazione e introducendo controlli più stringenti contro le specie invasive. È stato adottato per rispondere alle crescenti minacce di cambiamento climatico e per favorire la rigenerazione forestale con materiale certificato. Le nuove disposizioni mirano anche a semplificare gli scambi tra Stati membri, riducendo burocrazia e favorendo il mercato unico forestale. Inoltre, il regolamento prevede un rafforzamento della cooperazione tra autorità nazionali per monitorare la diffusione di patogeni e parassiti nelle piantagioni.",
+      "cosa_cambia": [
+        "I produttori devono ottenere una certificazione UE per tutti i semi e le piantine destinati al mercato.",
+        "Viene introdotto un sistema di tracciabilità digitale per ogni lotto di materiale riproduttivo.",
+        "Le specie invasive sono vietate nella produzione e nella vendita in tutta l'UE."
+      ],
+      "chi_interessa": "produttori, commercianti e forestali, nonché enti pubblici che gestiscono foreste",
+      "cosa_devi_fare": "Richiedere la certificazione UE entro 12 mesi e adottare il nuovo sistema di tracciabilità digitale.",
+      "impatto": "Migliora la qualità e la sicurezza del materiale forestale, favorendo foreste più sane e resilienti.",
+      "data_vigenza": "dal 1 gennaio 2027",
+      "categoria": "Ambiente e Energia",
+      "importanza": 3,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601392",
+      "pubblicato": "2026-06-26T00:00:00+02:00",
+      "processed_at": "2026-06-28T07:45:43.622946+00:00"
+    },
+    {
+      "id": "9f9fdc9f11f04937",
+      "titolo_popolare": "Entrata in vigore del nuovo accordo sul Trattato Energia",
+      "titolo_originale": "OJ:L_202601431: Information concerning the entry into force of the Agreement on the interpretation and application of the Energy Charter Treaty",
+      "riassunto_esteso": "L'Unione Europea ha comunicato che è entrato in vigore l'Accordo sul metodo di interpretazione e applicazione del Trattato Energia, un patto internazionale che regola gli investimenti e le transazioni nel settore energetico. L'accordo serve a chiarire come le clausole del trattato debbano essere lette e applicate, evitando controversie legali tra gli Stati firmatari e gli investitori. È stato adottato per garantire maggiore certezza giuridica e coerenza nelle decisioni giudiziarie, soprattutto in un contesto di transizione verso fonti più pulite. Con questa regola, le parti coinvolte potranno gestire meglio le dispute legate a progetti energetici, licenze e compensazioni. L'obiettivo è rafforzare la stabilità del mercato energetico europeo e allinearlo agli impegni climatici.",
+      "cosa_cambia": [
+        "Le controversie sul Trattato Energia saranno risolte secondo le nuove linee guida dell'accordo.",
+        "Gli investitori e gli Stati avranno un riferimento unico per interpretare le clausole del trattato.",
+        "Le decisioni giudiziarie saranno più uniformi, riducendo il rischio di sentenze divergenti."
+      ],
+      "chi_interessa": "imprese energetiche, investitori stranieri, autorità pubbliche e amministrazioni coinvolte in progetti energetici",
+      "cosa_devi_fare": "Nessuna azione immediata richiesta; monitorare eventuali aggiornamenti normativi per future procedure legali.",
+      "impatto": "Maggiore certezza giuridica per gli investimenti energetici, con potenziali riduzioni di contenziosi costosi.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Ambiente e Energia",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601431",
+      "pubblicato": "2026-06-26T00:00:00+02:00",
+      "processed_at": "2026-06-28T07:46:11.635990+00:00"
+    },
+    {
+      "id": "dd2af7e851c78d6e",
+      "titolo_popolare": "Nuove regole per controllare gli investimenti stranieri in UE",
+      "titolo_originale": "OJ:L_202601386: Regulation (EU) 2026/1386 of the European Parliament and of the Council of 17 June 2026 on the screening of foreign investments in the Union and repealing Regulation (EU) 2019/452",
+      "riassunto_esteso": "Il Regolamento UE 2026/1386 introduce un nuovo quadro per la verifica degli investimenti provenienti da paesi terzi che vogliono entrare in settori strategici dell'Unione. L'obiettivo è proteggere la sicurezza, l'ordine pubblico e gli interessi economici critici, evitando che tecnologie sensibili o infrastrutture chiave finiscano sotto controllo di soggetti potenzialmente ostili. Il provvedimento sostituisce la precedente normativa del 2019, ampliando i criteri di valutazione e rafforzando la cooperazione tra gli Stati membri e le autorità europee. È stato adottato per rispondere a crescenti preoccupazioni geopolitiche e a casi recenti di acquisizioni controverse. La procedura di screening prevede una fase preliminare di notifica, un'analisi più approfondita e la possibilità di imporre condizioni o bloccare l'investimento.",
+      "cosa_cambia": [
+        "Le autorità nazionali devono notificare all'UE gli investimenti stranieri in settori considerati sensibili entro 30 giorni.",
+        "L'UE può effettuare una valutazione di impatto a livello comunitario e suggerire misure correttive.",
+        "Le imprese straniere devono fornire informazioni più dettagliate su proprietà, finanziamenti e finalità dell'investimento.",
+        "Gli Stati membri devono creare o potenziare unità di screening con poteri più ampi."
+      ],
+      "chi_interessa": "tutte le imprese straniere che vogliono investire in settori strategici dell'UE e le autorità nazionali di controllo",
+      "cosa_devi_fare": "Se sei una società straniera, verifica se il tuo investimento rientra nei settori sensibili e, in caso affermativo, presenta la notifica entro i termini previsti.",
+      "impatto": "Maggiore trasparenza e controllo sugli investimenti critici, con possibili restrizioni o condizioni per proteggere la sicurezza dell'Unione.",
+      "data_vigenza": "dal 1 gennaio 2027",
+      "categoria": "Altro",
+      "importanza": 3,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601386",
+      "pubblicato": "2026-06-26T00:00:00+02:00",
+      "processed_at": "2026-06-28T07:46:35.311901+00:00"
+    },
+    {
+      "id": "8143b88de303e2ba",
+      "titolo_popolare": "Nuove regole per certificare prodotti biologici importati",
+      "titolo_originale": "OJ:L_202601398: Commission Implementing Regulation (EU) 2026/1398 of 25 June 2026 amending Implementing Regulation (EU) 2021/1378 as regards the recognition of certain control bodies in accordance with Article 46 of Regulation (EU) 2018/848 of the European Parliament and of the Council as competent to carry out controls and issue organic certificates in third countries for the purpose of imports of organic products into the Union",
+      "riassunto_esteso": "Il regolamento UE 2026/1398 modifica il precedente regolamento 2021/1378 per aggiornare l'elenco degli organismi di controllo riconosciuti ai sensi dell'articolo 46 del Regolamento biologico 2018/848. L'obiettivo è garantire che i controlli e le certificazioni biologiche effettuati nei paesi terzi siano affidabili e conformi agli standard europei, facilitando l'importazione di prodotti biologici. La modifica nasce per includere nuovi enti di certificazione che hanno dimostrato capacità tecniche e indipendenza, e per escludere quelli che non soddisfano più i requisiti. In pratica, si vuole rafforzare la fiducia dei consumatori europei sulla provenienza biologica dei prodotti importati. Il provvedimento entra in vigore senza ulteriori ritardi amministrativi.",
+      "cosa_cambia": [
+        "Vengono aggiunti nuovi organismi di controllo riconosciuti per certificare prodotti biologici fuori dall'UE",
+        "Alcuni organismi precedentemente riconosciuti perdono lo status perché non più conformi",
+        "Le autorità di controllo italiane dovranno aggiornare le liste dei certificatori accettati"
+      ],
+      "chi_interessa": "importatori di prodotti biologici, agricoltori, distributori e consumatori di alimenti biologici",
+      "cosa_devi_fare": "Verificare che il certificato biologico provenga da un organismo ora riconosciuto e, se necessario, richiedere la nuova certificazione al fornitore.",
+      "impatto": "Maggior trasparenza e sicurezza sulla provenienza dei prodotti biologici importati, con possibile riduzione di ritardi doganali.",
+      "data_vigenza": "dal 1 ottobre 2026",
+      "categoria": "Ambiente e Energia",
+      "importanza": 3,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601398",
+      "pubblicato": "2026-06-26T00:00:00+02:00",
+      "processed_at": "2026-06-28T07:46:56.102181+00:00"
     },
     {
       "id": "d0c182cb08d9cdb5",
