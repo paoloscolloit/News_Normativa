@@ -1,7 +1,86 @@
 {
-  "last_updated": "2026-06-28T07:46:56.106456+00:00",
-  "total": 353,
+  "last_updated": "2026-06-29T08:58:16.406789+00:00",
+  "total": 357,
   "items": [
+    {
+      "id": "7ad1bfd7a65fcd49",
+      "titolo_popolare": "Aggiornamento delle misure contro la Russia",
+      "titolo_originale": "CELEX:32025D0931R(01): Corrigendum to Council Decision (CFSP) 2025/931 of 20 May 2025 amending Decision 2014/512/CFSP concerning restrictive measures in view of Russia’s actions destabilising the situation in Ukraine (OJ L, 2025/931, 20.5.2025)",
+      "riassunto_esteso": "Il documento è un corrigendum che corregge errori materiali presenti nella decisione del Consiglio che aveva modificato le misure restrittive contro la Russia a causa delle sue azioni in Ucraina. Queste correzioni riguardano principalmente riferimenti a nomi di individui, entità e codici che erano stati indicati in modo impreciso. L'obiettivo è garantire che le sanzioni dell'UE siano applicate correttamente e senza ambiguità, evitando che errori di testo possano portare a violazioni involontarie. Il corrigendum non introduce nuove sanzioni, ma rende più affidabile il testo giuridico già adottato.",
+      "cosa_cambia": [
+        "Le liste di persone e organizzazioni russe soggette a sanzioni sono ora riportate con i nomi e i codici corretti",
+        "Le imprese devono fare riferimento al testo corretto per verificare se un loro partner è sanzionato"
+      ],
+      "chi_interessa": "imprese e cittadini che hanno rapporti economici o finanziari con la Russia",
+      "cosa_devi_fare": "Controllare che le proprie operazioni rispettino le liste aggiornate di soggetti sanzionati",
+      "impatto": "Maggiore certezza giuridica nell'applicazione delle sanzioni, riducendo il rischio di violazioni accidentali",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Giustizia e Diritti",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32025D0931R(01)",
+      "pubblicato": "2026-06-29T00:00:00+02:00",
+      "processed_at": "2026-06-29T08:49:19.227844+00:00"
+    },
+    {
+      "id": "f3dbe75128814a9e",
+      "titolo_popolare": "Prolungamento missione UE al valico di Rafah",
+      "titolo_originale": "CELEX:32026D1458: Political and Security Committee Decision (CFSP) 2026/1458 of 25 June 2026 extending the mandate of the Head of Mission of the European Union Border Assistance Mission for the Rafah Crossing Point (EU BAM Rafah) (EU BAM Rafah/1/2026)",
+      "riassunto_esteso": "La decisione del Comitato politico e di sicurezza dell'UE prolunga il mandato del capo della missione di assistenza alle frontiere dell'UE per il punto di passaggio di Rafah. Questa missione sostiene il controllo e la gestione sicura del valico tra la Striscia di Gaza e l'Egitto. Il prolungamento serve a garantire continuità nell'aiuto tecnico e operativo fornito dall'UE nella zona. L'atto è stato adottato per rispondere alla necessità di mantenere una presenza internazionale di supporto in un'area sensibile.",
+      "cosa_cambia": [
+        "nessun cambiamento diretto per i cittadini italiani"
+      ],
+      "chi_interessa": "nessun cittadino direttamente interessato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "L'atto non produce effetti concreti sulla vita quotidiana dei cittadini; serve semplicemente a mantenere attiva la missione UE di supporto al valico di Rafah.",
+      "data_vigenza": "in vigore dal 25 giugno 2026",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1458",
+      "pubblicato": "2026-06-29T00:00:00+02:00",
+      "processed_at": "2026-06-29T08:50:25.002952+00:00"
+    },
+    {
+      "id": "db4bc210da267657",
+      "titolo_popolare": "Sostegno UE contro il terrorismo nucleare",
+      "titolo_originale": "CELEX:32026D1450: Council Decision (CFSP) 2026/1450 of 26 June 2026 on Union support for the universalisation and effective implementation of the International Convention for the Suppression of Acts of Nuclear Terrorism",
+      "riassunto_esteso": "La decisione impegna l'Unione europea a promuovere l'adesione universale alla Convenzione internazionale per la repressione degli atti di terrorismo nucleare e a sostenere i paesi nell'applicazione efficace delle sue disposizioni. È stata adottata nel giugno 2026 per rafforzare la sicurezza globale di fronte al rischio che materiali nucleari finiscano nelle mani di gruppi terroristici. L'UE fornirà assistenza tecnica, condividerà buone pratiche e incoraggerà la ratifica e l'attuazione della convenzione da parte di tutti gli Stati. L'atto non crea nuovi obblighi diretti per cittadini, imprese o lavoratori, ma si limita a azioni di cooperazione internazionale e diplomatica. Il suo scopo è aumentare la prevenzione e la risposta agli atti di terrorismo nucleare a livello mondiale.",
+      "cosa_cambia": [
+        "Nessun cambiamento diretto per i cittadini comuni"
+      ],
+      "chi_interessa": "nessun gruppo specifico di cittadini",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "Rafforza la cooperazione internazionale contro il terrorismo nucleare, contribuendo a una maggiore sicurezza globale senza effetti tangibili sulla vita quotidiana delle persone.",
+      "data_vigenza": "in vigore dal 26 giugno 2026",
+      "categoria": "Giustizia e Diritti",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1450",
+      "pubblicato": "2026-06-29T00:00:00+02:00",
+      "processed_at": "2026-06-29T08:55:40.394937+00:00"
+    },
+    {
+      "id": "2e1f922dcae603c4",
+      "titolo_popolare": "Nomina del capo della missione UE di polizia in Palestina",
+      "titolo_originale": "CELEX:32026D1479: Political and Security Committee Decision (CFSP) 2026/1479 of 25 June 2026 on the appointment of the Head of Mission of the European Union Police Mission for the Palestinian Territories (EUPOL COPPS) (EUPOL COPPS/1/2026)",
+      "riassunto_esteso": "Il 25 giugno 2026 il Comitato politico e di sicurezza dell'UE ha deciso di nominare il nuovo responsabile della missione di polizia europea nei territori palestinesi, conosciuta come EUPOL COPPS. Questa decisione serve a garantire la continuità del supporto dell'Unione europea alle autorità palestinesi nel settore della sicurezza e dello stato di diritto. Il capo della missione avrà il compito di coordinare gli attività di formazione e consulenza per le forze di polizia locali. L'atto rientra nella politica estera e di sicurezza comune dell'UE, che mira a promuovere la stabilità nella regione.",
+      "cosa_cambia": [],
+      "chi_interessa": "nessun cittadino italiano direttamente",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "Non produce effetti diretti sui cittadini italiani, ma contribuisce agli sforzi dell'UE per migliorare la sicurezza e la cooperazione con le autorità palestinesi. Il suo valore è soprattutto simbolico e di sostegno alla politica estera europea.",
+      "data_vigenza": "in vigore dal 25 giugno 2026",
+      "categoria": "Giustizia e Diritti",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1479",
+      "pubblicato": "2026-06-29T00:00:00+02:00",
+      "processed_at": "2026-06-29T08:56:24.802768+00:00"
+    },
     {
       "id": "9a69237c4a41984d",
       "titolo_popolare": "Nuove indicazioni geografiche per prodotti agricoli islandesi",
