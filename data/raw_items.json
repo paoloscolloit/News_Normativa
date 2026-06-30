@@ -4269,7 +4269,7 @@
     "pubblicato": "2026-06-29T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-06-29T08:46:43.405782+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "f3dbe75128814a9e",
@@ -4293,7 +4293,7 @@
     "pubblicato": "2026-06-29T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-06-29T08:46:43.406002+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "87bd27dc95221262",
@@ -4305,7 +4305,7 @@
     "pubblicato": "2026-06-29T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-06-29T08:46:43.406090+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "2542b88010e347cc",
@@ -4317,7 +4317,7 @@
     "pubblicato": "2026-06-29T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-06-29T08:46:43.406178+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "cd7393fbeb486327",
@@ -4329,7 +4329,7 @@
     "pubblicato": "2026-06-29T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-06-29T08:46:43.406262+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "9d1aabcd2b679003",
@@ -4341,7 +4341,7 @@
     "pubblicato": "2026-06-29T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-06-29T08:46:43.406382+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "dd5d3f86be5f6200",
@@ -4353,7 +4353,7 @@
     "pubblicato": "2026-06-29T00:00:00+02:00",
     "summary_raw": "The corrigendum does not concern the English version.",
     "fetched_at": "2026-06-29T08:46:43.406475+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "8e68dd89ebeb5f74",
@@ -4365,7 +4365,7 @@
     "pubblicato": "2026-06-29T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-06-29T08:46:43.406574+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "db4bc210da267657",
@@ -4401,7 +4401,7 @@
     "pubblicato": "2026-06-29T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-06-29T08:46:43.406814+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "d3ae64abf30dc621",
@@ -4425,6 +4425,234 @@
     "pubblicato": "2026-06-29T00:00:00+02:00",
     "summary_raw": "The corrigendum does not concern the English version.",
     "fetched_at": "2026-06-29T08:46:43.406964+00:00",
+    "processed": true
+  },
+  {
+    "id": "ce398af5d33f2504",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026L1472: Directive (EU) 2026/1472 of the European Parliament and of the Council of 17 June 2026 amending Directive 2012/29/EU establishing minimum standards on the rights, support and protection of victims of crime, and replacing Council Framework Decision 2001/220/JHA",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026L1472",
+    "pubblicato": "2026-06-30T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-06-30T07:42:23.700702+00:00",
+    "processed": true
+  },
+  {
+    "id": "5ea9c18cce2143e6",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32025R2143R(01)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32025R2143R(01)",
+    "pubblicato": "2026-06-30T00:00:00+02:00",
+    "summary_raw": "The corrigendum does not concern the English version.",
+    "fetched_at": "2026-06-30T07:42:23.700850+00:00",
+    "processed": true
+  },
+  {
+    "id": "785608cbddf77c89",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202690529",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690529",
+    "pubblicato": "2026-06-30T00:00:00+02:00",
+    "summary_raw": "This document does not exist in English.",
+    "fetched_at": "2026-06-30T07:42:23.700987+00:00",
+    "processed": false
+  },
+  {
+    "id": "82c6ba259f3337a5",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R1463: Council Regulation (EU) 2026/1463 of 25 June 2026 amending Regulation (EU) 2021/2278 suspending the Common Customs Tariff duties referred to in Article 56(2), point (c), of Regulation (EU) No 952/2013 of the European Parliament and of the Council on certain agricultural and industrial products",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1463",
+    "pubblicato": "2026-06-30T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-06-30T07:42:23.701105+00:00",
+    "processed": true
+  },
+  {
+    "id": "7cf52bb2fa74694d",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R1455: Regulation (EU) 2026/1455 of the European Parliament and of the Council of 25 June 2026 on the adjustment of customs duties on imports of certain goods originating in the United States of America and opening of tariff quotas for imports of certain goods originating in the United States of America",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1455",
+    "pubblicato": "2026-06-30T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-06-30T07:42:23.701230+00:00",
+    "processed": true
+  },
+  {
+    "id": "92175d15f82ec747",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D1466: Council Decision (CFSP) 2026/1466 of 29 June 2026 amending Decision 2013/354/CFSP on the European Union Police Mission for the Palestinian Territories (EUPOL COPPS)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1466",
+    "pubblicato": "2026-06-30T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-06-30T07:42:23.701342+00:00",
+    "processed": true
+  },
+  {
+    "id": "9022b60d79748fbc",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R1461: Regulation (EU) 2026/1461 of the European Parliament and of the Council of 25 June 2026 on the non-application of customs duties on imports of certain goods",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1461",
+    "pubblicato": "2026-06-30T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-06-30T07:42:23.701462+00:00",
+    "processed": true
+  },
+  {
+    "id": "2fd8ad2c1d447ce1",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R1465: Council Regulation (EU) 2026/1465 of 25 June 2026 amending Regulation (EU) 2021/2283 opening and providing for the management of autonomous tariff quotas of the Union for certain agricultural and industrial products",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1465",
+    "pubblicato": "2026-06-30T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-06-30T07:42:23.701631+00:00",
+    "processed": true
+  },
+  {
+    "id": "ef41040bd17c0a66",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D1439: Council Decision (EU) 2026/1439 of 25 June 2026 authorising the opening of negotiations for protocols between the Union and Iceland, the Kingdom of Norway, the Swiss Confederation and the Principality of Liechtenstein supplementing their respective agreements and protocol concerning the criteria and mechanisms for establishing the State responsible for examining a request for asylum lodged in those countries, to include rules to enable their participation in Parts II and IV of Regulation (EU) 2024/1351 of the European Parliament and of the Council and in Chapters II and III of Regulation (EU) 2024/1359 of the European Parliament and of the Council",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1439",
+    "pubblicato": "2026-06-30T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-06-30T07:42:23.701742+00:00",
+    "processed": true
+  },
+  {
+    "id": "6b896a518cdc6e29",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D1440: Council Implementing Decision (EU) 2026/1440 of 25 June 2026 authorising Germany to apply a reduced rate of taxation to electricity directly supplied to vessels berthed in ports, in accordance with Article 19 of Directive 2003/96/EC",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1440",
+    "pubblicato": "2026-06-30T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-06-30T07:42:23.701849+00:00",
+    "processed": false
+  },
+  {
+    "id": "0a7946e4f0cb89f7",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D1407: Commission Decision (EU) 2026/1407 of 26 June 2026 on relief from import duties and VAT exemption on importation granted for goods to be distributed or made available free of charge to persons fleeing Russia's military aggression against Ukraine and to persons in need in Ukraine (notified under document C(2026) 4366)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1407",
+    "pubblicato": "2026-06-30T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-06-30T07:42:23.701952+00:00",
+    "processed": true
+  },
+  {
+    "id": "3df1427a6ddd8147",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R1422: Commission Implementing Regulation (EU) 2026/1422 of 25 June 2026 amending Implementing Regulation (EU) 2015/2447 as regards the procedural rules concerning the proof of non-preferential origin",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1422",
+    "pubblicato": "2026-06-30T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-06-30T07:42:23.702053+00:00",
+    "processed": false
+  },
+  {
+    "id": "478abd2829a2ab67",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32015R0340R(12)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32015R0340R(12)",
+    "pubblicato": "2026-06-30T00:00:00+02:00",
+    "summary_raw": "The corrigendum does not concern the English version.",
+    "fetched_at": "2026-06-30T07:42:23.702153+00:00",
+    "processed": true
+  },
+  {
+    "id": "7eb6a61ed6277053",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D1454: Council Implementing Decision (EU) 2026/1454 of 25 June 2026 on the suspension of certain provisions of Regulation (EC) No 810/2009 of the European Parliament and of the Council in respect of Somalia",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1454",
+    "pubblicato": "2026-06-30T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-06-30T07:42:23.702251+00:00",
+    "processed": true
+  },
+  {
+    "id": "c8f05323b79c70a6",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32025R2605R(01)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32025R2605R(01)",
+    "pubblicato": "2026-06-30T00:00:00+02:00",
+    "summary_raw": "The corrigendum does not concern the English version.",
+    "fetched_at": "2026-06-30T07:42:23.702350+00:00",
+    "processed": false
+  },
+  {
+    "id": "fceaaf7f18f2a8ab",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D1430: Council Decision (EU) 2026/1430 of 22 June 2026 on the position to be taken on behalf of the European Union within the ninth session of the ad hoc Committee on Legal Affairs and International Cooperation of the Intergovernmental Organisation for International Carriage by Rail (OTIF) concerning the proposed amendments to the Rules of Procedure of the ad hoc Committee",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1430",
+    "pubblicato": "2026-06-30T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-06-30T07:42:23.702446+00:00",
+    "processed": true
+  },
+  {
+    "id": "e2787c731366213a",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D1382: Commission Implementing Decision (EU) 2026/1382 of 22 June 2026 determining, pursuant to Regulation (EU) 2024/573 of the European Parliament and of the Council, reference values for the period from 1 January 2027 to 31 December 2029 for each producer or importer which has lawfully placed hydrofluorocarbons on the Union market from 1 January 2022 to 31 December 2024 (notified under document C(2026) 3000)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1382",
+    "pubblicato": "2026-06-30T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-06-30T07:42:23.702566+00:00",
+    "processed": false
+  },
+  {
+    "id": "cf307df603a65e2b",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D1426: Commission Implementing Decision (EU) 2026/1426 of 25 June 2026 amending the Annex to Implementing Decision (EU) 2023/2447 concerning emergency measures in relation to outbreaks of highly pathogenic avian influenza in certain Member States (notified under document C(2026) 4549)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1426",
+    "pubblicato": "2026-06-30T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-06-30T07:42:23.702669+00:00",
+    "processed": true
+  },
+  {
+    "id": "2925352d2a46a8d3",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D1467: Council Decision (CFSP) 2026/1467 of 29 June 2026 amending Joint Action 2005/889/CFSP on establishing a European Union Border Assistance Mission for the Rafah Crossing Point (EU BAM Rafah)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1467",
+    "pubblicato": "2026-06-30T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-06-30T07:42:23.702766+00:00",
     "processed": false
   }
 ]
