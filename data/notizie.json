@@ -1,7 +1,107 @@
 {
-  "last_updated": "2026-06-30T07:56:41.830924+00:00",
-  "total": 380,
+  "last_updated": "2026-07-01T08:17:26.958565+00:00",
+  "total": 387,
   "items": [
+    {
+      "id": "262a1cfc15061733",
+      "titolo_popolare": "Correzione di errori nelle versioni non inglesi di un regolamento UE",
+      "titolo_originale": "CELEX:32026R1164R(02)",
+      "riassunto_esteso": "Questo atto è un corrigendum, cioè una correzione, di un regolamento europeo pubblicato nel 2026. La correzione riguarda solo le versioni linguistiche diverse dall'inglese, fixing errori di traduzione o di stampa. Non modifica il contenuto sostanziale della norma, quindi non introduce nuovi obblighi o diritti. È stato adottato per garantire che tutti i testi ufficiali nelle lingue dell'UE siano coerenti e privi di refusi. Per i cittadini italiani non cambia nulla nella pratica quotidiana.",
+      "cosa_cambia": [
+        "nessuna modifica sostanziale per i cittadini"
+      ],
+      "chi_interessa": "nessun gruppo specifico di cittadini",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "nessun impatto pratico; serve solo a correggere errori di traduzione nelle versioni linguistiche del regolamento",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1164R(02)",
+      "pubblicato": "2026-07-01T00:00:00+02:00",
+      "processed_at": "2026-07-01T08:08:39.128100+00:00"
+    },
+    {
+      "id": "3a5ed5676f588ba2",
+      "titolo_popolare": "Correzione tecnica di un atto UE, nessuna modifica sostanziale",
+      "titolo_originale": "CELEX:32022L2464R(09)",
+      "riassunto_esteso": "Il documento è un corrigendum, cioè una correzione di errori materiali presenti nelle versioni non inglesi di un atto dell'Unione Europea. Non introduce nuove disposizioni né modifica il contenuto sostanziale della norma originale. Lo scopo è semplicemente allineare i testi delle varie lingue ufficiali, eliminando refusi o incoerenze di traduzione. In questo modo si garantisce maggiore certezza giuridica e uniformità nell'applicazione della norma negli Stati membri. Poiché la correzione riguarda solo la forma linguistica, non ci sono effetti pratici per i cittadini o le imprese.",
+      "cosa_cambia": [
+        "nessuna modifica sostanziale per i cittadini"
+      ],
+      "chi_interessa": "nessun cittadino in particolare",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "nessun impatto pratico; serve solo a correggere errori di lingua nei testi ufficiali.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32022L2464R(09)",
+      "pubblicato": "2026-07-01T00:00:00+02:00",
+      "processed_at": "2026-07-01T08:09:47.787584+00:00"
+    },
+    {
+      "id": "ba54b67641b8ab0f",
+      "titolo_popolare": "Correzione di un atto dell'Unione Europea",
+      "titolo_originale": "CELEX:32008L0008R(08)",
+      "riassunto_esteso": "Questo atto è un corrigendum, cioè una correzione tecnica, di un precedente atto dell'Unione Europea. La correzione si limita alle versioni linguistiche diverse dall'inglese, risolvendo eventuali errori di traduzione o di forma. Non introduce nuove disposizioni né modifica il contenuto sostanziale dell'atto originale. L'obiettivo è garantire che tutti i testi ufficiali nelle varie lingue siano coerenti e privi di refusi. In questo modo si evita confusione nell'applicazione della norma nei diversi Stati membri.",
+      "cosa_cambia": [
+        "nessuna modifica diretta per i cittadini"
+      ],
+      "chi_interessa": "nessun gruppo specifico di cittadini",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "nessun impatto concreto sui cittadini, poiché l'atto si limita a correzioni di forma senza cambiare diritti o obblighi. Quindi non comporta cambiamenti nella vita quotidiana.",
+      "data_vigenza": "non specificato",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32008L0008R(08)",
+      "pubblicato": "2026-07-01T00:00:00+02:00",
+      "processed_at": "2026-07-01T08:12:46.323897+00:00"
+    },
+    {
+      "id": "f54647af7ce8dfbb",
+      "titolo_popolare": "Correzione tecnica al regolamento UE",
+      "titolo_originale": "CELEX:32026O0689R(02)",
+      "riassunto_esteso": "Il documento è un corrigendum che corregge errori di traduzione nelle versioni linguistiche del regolamento europeo, senza modificare il contenuto sostanziale della norma. Non riguarda la versione inglese, quindi le correzioni si applicano alle altre lingue ufficiali dell'Unione. L'adozione di questo atto serve a garantire che tutti i testi ufficiali siano coerenti e privi di refusi, evitando possibili interpretazioni divergenti. Non introduce nuovi obblighi o diritti per i cittadini o le imprese. È una misura puramente tecnica di miglioramento della qualità legislativa.",
+      "cosa_cambia": [
+        "nessuna modifica sostanziale per i cittadini"
+      ],
+      "chi_interessa": "nessun gruppo specifico",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "nessun impatto concreto sulle persone; serve solo a correggere i testi di legge nelle varie lingue ufficiali.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026O0689R(02)",
+      "pubblicato": "2026-07-01T00:00:00+02:00",
+      "processed_at": "2026-07-01T08:15:51.282654+00:00"
+    },
+    {
+      "id": "9105049780a4a368",
+      "titolo_popolare": "Correzione di un atto UE senza effetti pratici",
+      "titolo_originale": "CELEX:32026D0564R(01)",
+      "riassunto_esteso": "Il documento è un corrigendum, cioè una correzione di errori materiali presenti in alcune versioni linguistiche di un atto dell'Unione Europea. La correzione non riguarda la versione inglese, quindi si limita a lingue come francese, tedesco, spagnolo o altre. L'obiettivo è allineare i testi ufficiali nelle varie lingue, garantendo che siano identici dal punto di vista sostanziale. Non introduce nuove disposizioni né modifica quelli già esistenti. Per i cittadini italiani non comporta alcun cambiamento concreto.",
+      "cosa_cambia": [
+        "Nessun cambiamento concreto per i cittadini"
+      ],
+      "chi_interessa": "nessun gruppo specifico di cittadini",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "nessun impatto concreto sui cittadini; serve solo a correggere testi in alcune lingue ufficiali dell'UE.",
+      "data_vigenza": "non specificato",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D0564R(01)",
+      "pubblicato": "2026-07-01T00:00:00+02:00",
+      "processed_at": "2026-07-01T08:16:26.541576+00:00"
+    },
     {
       "id": "ce398af5d33f2504",
       "titolo_popolare": "Nuove regole per la tutela delle vittime di reato",
@@ -289,6 +389,46 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1426",
       "pubblicato": "2026-06-30T00:00:00+02:00",
       "processed_at": "2026-06-30T07:56:41.826139+00:00"
+    },
+    {
+      "id": "785608cbddf77c89",
+      "titolo_popolare": "Atto normativo UE non disponibile in italiano",
+      "titolo_originale": "OJ:L_202690529",
+      "riassunto_esteso": "Il documento indicato non è presente nella banca dati EUR-Lex in lingua inglese, quindi non è possibile consultarne il contenuto. Di conseguenza non si conoscono le disposizioni specifiche che contiene. Non è possibile determinare a chi si applica né quali obblighi introduce. L'atto potrebbe riguardare qualsiasi materia comunitaria, ma senza il testo non è possibile affermarlo con certezza. Per avere informazioni bisogna verificare la fonte originale o attendere una traduzione ufficiale. In assenza di dati, le risposte sono basate su stime ragionevoli.",
+      "cosa_cambia": [
+        "non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690529",
+      "pubblicato": "2026-06-30T00:00:00+02:00",
+      "processed_at": "2026-07-01T08:03:40.114378+00:00"
+    },
+    {
+      "id": "c8f05323b79c70a6",
+      "titolo_popolare": "Aggiornamento tecnico di un atto europeo",
+      "titolo_originale": "CELEX:32025R2605R(01)",
+      "riassunto_esteso": "Il corrigendum pubblicato nella Gazzetta UE corregge alcuni errori di forma presenti nelle versioni linguistiche di un atto europeo, senza modificare il contenuto sostanziale della norma. Si tratta di un intervento tecnico necessario per garantire che tutti i testi ufficiali nelle lingue dell'Unione siano coerenti tra loro. Poiché la correzione non riguarda la versione inglese, l'impatto è limitato alle altre lingue ufficiali. Non introduce nuovi obblighi né diritti per i cittadini o le imprese. L'atto serve principalmente a migliorare la qualità giuridica dei testi comunitari. Non comporta oneri amministrativi per nessuno.",
+      "cosa_cambia": [
+        "nessuna modifica sostanziale per i cittadini"
+      ],
+      "chi_interessa": "nessun gruppo specifico di cittadini",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "nessun effetto pratico sulla vita quotidiana delle persone",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32025R2605R(01)",
+      "pubblicato": "2026-06-30T00:00:00+02:00",
+      "processed_at": "2026-07-01T08:05:27.609548+00:00"
     },
     {
       "id": "7ad1bfd7a65fcd49",

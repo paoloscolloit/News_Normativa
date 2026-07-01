@@ -4461,7 +4461,7 @@
     "pubblicato": "2026-06-30T00:00:00+02:00",
     "summary_raw": "This document does not exist in English.",
     "fetched_at": "2026-06-30T07:42:23.700987+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "82c6ba259f3337a5",
@@ -4605,7 +4605,7 @@
     "pubblicato": "2026-06-30T00:00:00+02:00",
     "summary_raw": "The corrigendum does not concern the English version.",
     "fetched_at": "2026-06-30T07:42:23.702350+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "fceaaf7f18f2a8ab",
@@ -4653,6 +4653,174 @@
     "pubblicato": "2026-06-30T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-06-30T07:42:23.702766+00:00",
+    "processed": false
+  },
+  {
+    "id": "a6cacbb55439be18",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D1416: Commission Implementing Decision (EU) 2026/1416 of 30 June 2026 setting up the European Digital Infrastructure Consortium for Cybersecurity Skills Coalition (CSC-EDIC)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1416",
+    "pubblicato": "2026-07-01T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-01T08:00:34.242481+00:00",
+    "processed": false
+  },
+  {
+    "id": "262a1cfc15061733",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R1164R(02)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1164R(02)",
+    "pubblicato": "2026-07-01T00:00:00+02:00",
+    "summary_raw": "The corrigendum does not concern the English version.",
+    "fetched_at": "2026-07-01T08:00:34.242569+00:00",
+    "processed": true
+  },
+  {
+    "id": "0f5ea09008c75ef2",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R1022: Commission Delegated Regulation (EU) 2026/1022 of 30 June 2026 amending Delegated Regulation (EU) 2015/2446 as regards definitions, customs declarations and data elements related to the temporary EUR 3 customs duty on distance sales of imported goods in a consignment with an intrinsic value not exceeding EUR 150",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1022",
+    "pubblicato": "2026-07-01T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-01T08:00:34.242645+00:00",
+    "processed": false
+  },
+  {
+    "id": "3a5ed5676f588ba2",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32022L2464R(09)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32022L2464R(09)",
+    "pubblicato": "2026-07-01T00:00:00+02:00",
+    "summary_raw": "The corrigendum does not concern the English version.",
+    "fetched_at": "2026-07-01T08:00:34.242710+00:00",
+    "processed": true
+  },
+  {
+    "id": "24768ec22bbeb82c",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026O1473: Guideline (EU) 2026/1473 of the European Central Bank of 4 May 2026 amending Guideline (EU) 2022/912 on a new-generation Trans-European Automated Real-time Gross Settlement Express Transfer system (TARGET) (ECB/2022/8) (ECB/2026/11)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026O1473",
+    "pubblicato": "2026-07-01T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-01T08:00:34.242770+00:00",
+    "processed": false
+  },
+  {
+    "id": "42f5b92bb1d2c63a",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D1459: Council Implementing Decision (EU) 2026/1459 of 25 June 2026 on the determination of the date from which personal data relating to dactyloscopic data may be supplied by Member States to Switzerland and Liechtenstein",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1459",
+    "pubblicato": "2026-07-01T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-01T08:00:34.242829+00:00",
+    "processed": false
+  },
+  {
+    "id": "53301d911833c755",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D0077R(01)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D0077R(01)",
+    "pubblicato": "2026-07-01T00:00:00+02:00",
+    "summary_raw": "The corrigendum does not concern the English version.",
+    "fetched_at": "2026-07-01T08:00:34.242891+00:00",
+    "processed": false
+  },
+  {
+    "id": "ba54b67641b8ab0f",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32008L0008R(08)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32008L0008R(08)",
+    "pubblicato": "2026-07-01T00:00:00+02:00",
+    "summary_raw": "The corrigendum does not concern the English version.",
+    "fetched_at": "2026-07-01T08:00:34.242967+00:00",
+    "processed": true
+  },
+  {
+    "id": "f081f0f65992677f",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D1460: Council Decision (EU) 2026/1460 of 25 June 2026 on the position to be adopted on behalf of the European Union within the EEA Joint Committee concerning an amendment to Protocol 31 to the EEA Agreement on cooperation in specific fields outside the four freedoms (Govsatcom and Secure Connectivity) (Text with EEA relevance)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1460",
+    "pubblicato": "2026-07-01T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-01T08:00:34.243028+00:00",
+    "processed": false
+  },
+  {
+    "id": "22f666c861460e1d",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R1421: Commission Implementing Regulation (EU) 2026/1421 of 30 June 2026 amending Implementing Regulation (EU) No 540/2011 as regards the extension of the approval periods of the active substances bensulfuron, benzovindiflupyr, chlorotoluron, clethodim, cycloxydim, cymoxanil, dazomet, deltamethrin, diclofop, fenazaquin, fluopicolide, hymexazol, lambda-cyhalothrin, MCPA, MCPB, metaldehyde, metsulfuron-methyl, paclobutrazol and tebuconazole",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1421",
+    "pubblicato": "2026-07-01T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-01T08:00:34.243086+00:00",
+    "processed": false
+  },
+  {
+    "id": "ed0dcf99e61b0064",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R0450: Commission Delegated Regulation (EU) 2026/450 of 27 February 2026 amending Regulation (EU) 2019/1241 as regards the establishment of measures to ensure compliance with existing mitigation measures to reduce incidental catches of the resident population of the Baltic Proper harbour porpoise (Phocoena phocoena) in the Baltic Sea",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R0450",
+    "pubblicato": "2026-07-01T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-01T08:00:34.243140+00:00",
+    "processed": false
+  },
+  {
+    "id": "f54647af7ce8dfbb",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026O0689R(02)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026O0689R(02)",
+    "pubblicato": "2026-07-01T00:00:00+02:00",
+    "summary_raw": "The corrigendum does not concern the English version.",
+    "fetched_at": "2026-07-01T08:00:34.243196+00:00",
+    "processed": true
+  },
+  {
+    "id": "9105049780a4a368",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D0564R(01)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D0564R(01)",
+    "pubblicato": "2026-07-01T00:00:00+02:00",
+    "summary_raw": "The corrigendum does not concern the English version.",
+    "fetched_at": "2026-07-01T08:00:34.243255+00:00",
+    "processed": true
+  },
+  {
+    "id": "4da9843e845d6d4c",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32006L0112R(23)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32006L0112R(23)",
+    "pubblicato": "2026-07-01T00:00:00+02:00",
+    "summary_raw": "The corrigendum does not concern the English version.",
+    "fetched_at": "2026-07-01T08:00:34.243316+00:00",
     "processed": false
   }
 ]
