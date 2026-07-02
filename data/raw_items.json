@@ -4665,7 +4665,7 @@
     "pubblicato": "2026-07-01T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-01T08:00:34.242481+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "262a1cfc15061733",
@@ -4737,7 +4737,7 @@
     "pubblicato": "2026-07-01T00:00:00+02:00",
     "summary_raw": "The corrigendum does not concern the English version.",
     "fetched_at": "2026-07-01T08:00:34.242891+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "ba54b67641b8ab0f",
@@ -4821,6 +4821,126 @@
     "pubblicato": "2026-07-01T00:00:00+02:00",
     "summary_raw": "The corrigendum does not concern the English version.",
     "fetched_at": "2026-07-01T08:00:34.243316+00:00",
+    "processed": false
+  },
+  {
+    "id": "d0b5a1e174d3ade4",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601520: Decision (EU) 2026/1520 of the European Central Bank of 23 June 2026 granting authorisation to sign agreements with customers of TARGET-ECB (ECB/2026/14)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601520",
+    "pubblicato": "2026-07-02T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-02T06:58:27.988754+00:00",
+    "processed": true
+  },
+  {
+    "id": "893195217e24216c",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32017R0392R(02):            Berichtigung der Delegierten Verordnung (EU) 2017/392 der Kommission vom 11. November 2016 zur Ergänzung der Verordnung (EU) Nr. 909/2014 des Europäischen Parlaments und des Rates durch technische Regulierungsstandards für die Zulassung von und für aufsichtliche und operationelle Anforderungen an Zentralverwahrer (ABl. L 65 vom 10.3.2017)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32017R0392R(02)",
+    "pubblicato": "2026-07-02T00:00:00+02:00",
+    "summary_raw": "The corrigendum does not concern the English version.",
+    "fetched_at": "2026-07-02T06:58:27.988869+00:00",
+    "processed": false
+  },
+  {
+    "id": "9c46ad226236eb02",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202690543:            Berichtigung des Beschlusses (GASP) 2021/698 des Rates vom 30. April 2021 über die Sicherheitssysteme und -dienste, die im Rahmen des Weltraumprogramms der Union eingerichtet, betrieben und genutzt werden und die Sicherheit der Union berühren können, sowie zur Aufhebung des Beschlusses 2014/496/GASP (ABl. L 170 vom 12.5.2021)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690543",
+    "pubblicato": "2026-07-02T00:00:00+02:00",
+    "summary_raw": "This document does not exist in English.",
+    "fetched_at": "2026-07-02T06:58:27.988961+00:00",
+    "processed": false
+  },
+  {
+    "id": "c8d3a2f637fb9953",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32016R1199R(10)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32016R1199R(10)",
+    "pubblicato": "2026-07-02T00:00:00+02:00",
+    "summary_raw": "The corrigendum does not concern the English version.",
+    "fetched_at": "2026-07-02T06:58:27.989044+00:00",
+    "processed": true
+  },
+  {
+    "id": "3ee07eb1cd0b8ee5",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601428: Commission Implementing Decision (EU) 2026/1428 of 1 July 2026 amending the Annex to Decision 2002/994/EC concerning certain protective measures with regard to the products of animal origin imported from China",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601428",
+    "pubblicato": "2026-07-02T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-02T06:58:27.989123+00:00",
+    "processed": false
+  },
+  {
+    "id": "13862f896d130c8d",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601538: Decision (EU) 2026/1538 of the European Central Bank of 23 June 2026 delegating the decision-making powers in matters related to agreements with customers of TARGET-ECB (ECB/2026/13)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601538",
+    "pubblicato": "2026-07-02T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-02T06:58:27.989200+00:00",
+    "processed": false
+  },
+  {
+    "id": "117dd4f28e3c4533",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601537: Council Decision (EU) 2026/1537 of 29 June 2026 appointing two European Prosecutors of the European Public Prosecutor’s Office",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601537",
+    "pubblicato": "2026-07-02T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-02T06:58:27.989277+00:00",
+    "processed": true
+  },
+  {
+    "id": "9fb0b6430eb4ffff",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601527: Council Decision (EU) 2026/1527 of 26 June 2026 authorising the opening of negotiations for an agreement between the Union and the Republic of India on the participation of the Republic of India in Union programmes and the association of the Republic of India to Pillar II of Horizon Europe – the Framework Programme for Research and Innovation (2021-2027)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601527",
+    "pubblicato": "2026-07-02T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-02T06:58:27.989353+00:00",
+    "processed": false
+  },
+  {
+    "id": "485b07ef9b04488d",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202690542",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690542",
+    "pubblicato": "2026-07-02T00:00:00+02:00",
+    "summary_raw": "This document does not exist in English.",
+    "fetched_at": "2026-07-02T06:58:27.989426+00:00",
+    "processed": true
+  },
+  {
+    "id": "198716c78698d62f",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601511: Council Decision (EU) 2026/1511 of 25 June 2026 on the position to be adopted on behalf of the European Union within the EEA Joint Committee concerning an amendment to Protocol 31 to the EEA Agreement on cooperation in specific fields outside the four freedoms (EDIP Regulation) (Text with EEA relevance)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601511",
+    "pubblicato": "2026-07-02T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-02T06:58:27.989495+00:00",
     "processed": false
   }
 ]

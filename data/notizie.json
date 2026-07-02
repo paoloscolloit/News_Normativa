@@ -1,7 +1,88 @@
 {
-  "last_updated": "2026-07-01T08:17:26.958565+00:00",
-  "total": 387,
+  "last_updated": "2026-07-02T07:27:06.161663+00:00",
+  "total": 393,
   "items": [
+    {
+      "id": "d0b5a1e174d3ade4",
+      "titolo_popolare": "ECB autorizza accordi con utenti del sistema TARGET",
+      "titolo_originale": "OJ:L_202601520: Decision (EU) 2026/1520 of the European Central Bank of 23 June 2026 granting authorisation to sign agreements with customers of TARGET-ECB (ECB/2026/14)",
+      "riassunto_esteso": "La BCE ha deciso di concedere l'autorizzazione a soggetti selezionati di stipulare accordi con i clienti che utilizzano il sistema di pagamento TARGET-ECB. Questo provvedimento mira a rendere più efficienti e sicuri i pagamenti transfrontalieri in euro nell'area della moneta unica. La decisione chiarisce chi può agire da intermediario nel sistema e quali condizioni devono essere rispettate per tali accordi. È stata adottata per sostenere il corretto funzionamento dell'infrastruttura di pagamento dell'eurozona. Per i cittadini comuni non ci sono effetti diretti, ma il miglioramento del sistema avvantaggia banche e prestatori di servizi di pagamento.",
+      "cosa_cambia": [
+        "Nessun cambiamento diretto per i cittadini"
+      ],
+      "chi_interessa": "banche e prestatori di servizi di pagamento che utilizzano TARGET-ECB",
+      "cosa_devi_fare": "nessuna azione richiesta per i cittadini",
+      "impatto": "L'atto migliora il funzionamento del sistema di pagamenti europeo, contribuendo a transazioni più sicure ed efficienti, senza effetti immediati sui cittadini.",
+      "data_vigenza": "in vigore dal 23 giugno 2026",
+      "categoria": "Banche e Finanza",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601520",
+      "pubblicato": "2026-07-02T00:00:00+02:00",
+      "processed_at": "2026-07-02T07:18:01.054597+00:00"
+    },
+    {
+      "id": "c8d3a2f637fb9953",
+      "titolo_popolare": "Aggiornamento minore di una norma europea",
+      "titolo_originale": "CELEX:32016R1199R(10)",
+      "riassunto_esteso": "Il corrigendum pubblicato nella Gazzetta UE corregge piccoli errori di traduzione presenti nelle versioni italiana, francese e tedesca del regolamento (UE) 2016/1199. Non riguarda la versione inglese, che rimane invariata. L'obiettivo è garantire che tutti i testi ufficiali nelle diverse lingue dell'Unione siano coerenti e privi di refusi. Si tratta di un intervento puramente tecnico, che non modifica alcun diritto o obbligo sostanziale per i cittadini o le imprese. L'atto è stato adottato per evitare incertezze interpretative dovute a discrepanze linguistiche. Non produce effetti pratici sulla vita quotidiana delle persone.",
+      "cosa_cambia": [
+        "nessuna modifica sostanziale dei diritti o degli obblighi per i cittadini",
+        "aggiornamento dei testi ufficiali in alcune lingue dell'UE"
+      ],
+      "chi_interessa": "nessun gruppo specifico di cittadini",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "nessun effetto pratico sui cittadini; serve solo a correggere i testi ufficiali in alcune lingue.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32016R1199R(10)",
+      "pubblicato": "2026-07-02T00:00:00+02:00",
+      "processed_at": "2026-07-02T07:21:52.684534+00:00"
+    },
+    {
+      "id": "117dd4f28e3c4533",
+      "titolo_popolare": "Nomina di due nuovi procuratori europei",
+      "titolo_originale": "OJ:L_202601537: Council Decision (EU) 2026/1537 of 29 June 2026 appointing two European Prosecutors of the European Public Prosecutor’s Office",
+      "riassunto_esteso": "Il Consiglio dell'UE ha deciso di nominare due nuovi procuratori da assegnare all'Ufficio europeo del pubblico ministero (EPPO). Questa decisione serve a rafforzare la capacità dell'EPPO di indagare e perseguire reati che ledono il bilancio dell'Unione, come frodi, corruzione e finanziamento illecito. La nomina avviene dopo una procedura di selezione basata su meritocrazia e indipendenza. Con questi nuovi incarichi, l'EPPO potrà affrontare un carico di lavoro maggiore e migliorare l'efficacia delle sue azioni. L'atto è pubblicato nella Gazzetta ufficiale dell'Unione europea e entra in vigore subito dopo la sua adozione.",
+      "cosa_cambia": [
+        "nessun cambiamento diretto per i cittadini comuni"
+      ],
+      "chi_interessa": "nessun cittadino direttamente",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "Rafforza la lotta contro le frodi al bilancio UE, contribuendo a proteggere i fondi pubblici destinati a tutti i cittadini. L'effetto è soprattutto istituzionale, con un possibile beneficio indiretto per la collettività.",
+      "data_vigenza": "in vigore dal 29 giugno 2026",
+      "categoria": "Giustizia e Diritti",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601537",
+      "pubblicato": "2026-07-02T00:00:00+02:00",
+      "processed_at": "2026-07-02T07:23:30.772537+00:00"
+    },
+    {
+      "id": "485b07ef9b04488d",
+      "titolo_popolare": "Atto europeo non specificato",
+      "titolo_originale": "OJ:L_202690542",
+      "riassunto_esteso": "Non sono disponibili dettagli sul contenuto di questo atto. Pertanto non è possibile descrivere cosa stabilisce o le motivazioni della sua adozione. L'atto è stato pubblicato nella Gazzetta ufficiale dell'Unione europea. Ulteriori informazioni sarebbero necessarie per una spiegazione completa.",
+      "cosa_cambia": [
+        "non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690542",
+      "pubblicato": "2026-07-02T00:00:00+02:00",
+      "processed_at": "2026-07-02T07:25:44.858967+00:00"
+    },
     {
       "id": "262a1cfc15061733",
       "titolo_popolare": "Correzione di errori nelle versioni non inglesi di un regolamento UE",
@@ -101,6 +182,50 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D0564R(01)",
       "pubblicato": "2026-07-01T00:00:00+02:00",
       "processed_at": "2026-07-01T08:16:26.541576+00:00"
+    },
+    {
+      "id": "a6cacbb55439be18",
+      "titolo_popolare": "Nuovo consorzio europeo per migliorare le competenze in cybersecurity",
+      "titolo_originale": "CELEX:32026D1416: Commission Implementing Decision (EU) 2026/1416 of 30 June 2026 setting up the European Digital Infrastructure Consortium for Cybersecurity Skills Coalition (CSC-EDIC)",
+      "riassunto_esteso": "La decisione istituisce il European Digital Infrastructure Consortium for Cybersecurity Skills Coalition (CSC-EDIC), un consorzio volto a rafforzare le competenze in materia di cybersecurity a livello europeo. Attraverso la condivisione di buone pratiche, la realizzazione di programmi di formazione comuni e la promozione di certificazioni riconosciute, il consorzio mira a colmare il divario di competenze nel settore. L'iniziativa nasce dalla crescente minaccia di attacchi informatici e dalla necessità di disporre di una forza lavoro qualificata per proteggere le infrastrutture digitali dell'UE. Il consorzio coinvolgerà autorità nazionali, imprese e istituzioni educative per sviluppare standard e percorsi di apprendimento accessibili. In questo modo si punta a migliorare la resilienza complessiva del continente contro le cyber‑minacce.",
+      "cosa_cambia": [
+        "Maggiori opportunità di formazione gratuita o a costo ridotto in cybersecurity per cittadini e lavoratori",
+        "Migliore protezione dei servizi online pubblici grazie a standard di sicurezza condivisi a livello europeo",
+        "Possibilità di ottenere certificazioni riconosciute in tutti gli Stati membri dell'UE",
+        "Accesso a risorse e materiali didattici aggiornati sulle ultime minacce e difese informatiche"
+      ],
+      "chi_interessa": "tutti i cittadini e le imprese che utilizzano servizi digitali",
+      "cosa_devi_fare": "Nessuna azione richiesta direttamente; eventuali corsi o certificazioni saranno comunicati dagli enti nazionali",
+      "impatto": "Miglioramento della sicurezza online e aumento delle competenze nel settore, contribuendo a ridurre il rischio di attacchi informatici. Questo si traduce in maggiore fiducia nei servizi digitali e minori danni economici per cittadini e imprese.",
+      "data_vigenza": "in vigore dal 30 giugno 2026",
+      "categoria": "Digitale e Privacy",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1416",
+      "pubblicato": "2026-07-01T00:00:00+02:00",
+      "processed_at": "2026-07-02T07:08:27.256053+00:00"
+    },
+    {
+      "id": "53301d911833c755",
+      "titolo_popolare": "Correzione di un atto europeo",
+      "titolo_originale": "CELEX:32026D0077R(01)",
+      "riassunto_esteso": "Il documento è un corrigendum, cioè una correzione di errori materiali presenti in alcune versioni linguistiche di un atto dell'Unione Europea. Non riguarda la versione inglese, ma si occupa di allineare le altre lingue al testo originale. L'obiettivo è garantire che tutti i testi ufficiali siano identici e privi di refusi, evitando possibili confusioni nell'interpretazione delle norme. Questa correzione non introduce nuovi diritti o obblighi, ma migliora la qualità della documentazione giuridica. In pratica, serve a mantenere l'uniformità e la chiarezza della normativa europea nei diversi Stati membri.",
+      "cosa_cambia": [
+        "Nessuna modifica sostanziale dei diritti o degli obblighi per i cittadini",
+        "I testi ufficiali nelle lingue diverse dall'inglese sono stati corretti e allineati alla versione originale"
+      ],
+      "chi_interessa": "chi consulta gli atti ufficiali dell'UE in lingue diverse dall'inglese",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "Garantisce che i testi siano corretti e uniformi, riducendo il rischio di interpretazioni errate delle norme. Questo contribuisce a maggiore certezza giuridica per cittadini e imprese.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D0077R(01)",
+      "pubblicato": "2026-07-01T00:00:00+02:00",
+      "processed_at": "2026-07-02T07:13:08.750702+00:00"
     },
     {
       "id": "ce398af5d33f2504",
