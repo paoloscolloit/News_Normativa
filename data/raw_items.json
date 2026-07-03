@@ -4137,7 +4137,7 @@
     "pubblicato": "2026-06-26T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-06-26T07:40:30.116672+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "18d49273a959c06c",
@@ -4413,7 +4413,7 @@
     "pubblicato": "2026-06-29T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-06-29T08:46:43.406889+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "6e7e4d67202620f0",
@@ -4545,7 +4545,7 @@
     "pubblicato": "2026-06-30T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-06-30T07:42:23.701849+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "0a7946e4f0cb89f7",
@@ -4569,7 +4569,7 @@
     "pubblicato": "2026-06-30T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-06-30T07:42:23.702053+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "478abd2829a2ab67",
@@ -4629,7 +4629,7 @@
     "pubblicato": "2026-06-30T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-06-30T07:42:23.702566+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "cf307df603a65e2b",
@@ -4653,7 +4653,7 @@
     "pubblicato": "2026-06-30T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-06-30T07:42:23.702766+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "a6cacbb55439be18",
@@ -4689,7 +4689,7 @@
     "pubblicato": "2026-07-01T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-01T08:00:34.242645+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "3a5ed5676f588ba2",
@@ -4713,7 +4713,7 @@
     "pubblicato": "2026-07-01T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-01T08:00:34.242770+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "42f5b92bb1d2c63a",
@@ -4725,7 +4725,7 @@
     "pubblicato": "2026-07-01T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-01T08:00:34.242829+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "53301d911833c755",
@@ -4761,7 +4761,7 @@
     "pubblicato": "2026-07-01T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-01T08:00:34.243028+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "22f666c861460e1d",
@@ -4773,7 +4773,7 @@
     "pubblicato": "2026-07-01T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-01T08:00:34.243086+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "ed0dcf99e61b0064",
@@ -4785,7 +4785,7 @@
     "pubblicato": "2026-07-01T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-01T08:00:34.243140+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "f54647af7ce8dfbb",
@@ -4845,7 +4845,7 @@
     "pubblicato": "2026-07-02T00:00:00+02:00",
     "summary_raw": "The corrigendum does not concern the English version.",
     "fetched_at": "2026-07-02T06:58:27.988869+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "9c46ad226236eb02",
@@ -4857,7 +4857,7 @@
     "pubblicato": "2026-07-02T00:00:00+02:00",
     "summary_raw": "This document does not exist in English.",
     "fetched_at": "2026-07-02T06:58:27.988961+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "c8d3a2f637fb9953",
@@ -4893,7 +4893,7 @@
     "pubblicato": "2026-07-02T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-02T06:58:27.989200+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "117dd4f28e3c4533",
@@ -4917,7 +4917,7 @@
     "pubblicato": "2026-07-02T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-02T06:58:27.989353+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "485b07ef9b04488d",
@@ -4941,6 +4941,462 @@
     "pubblicato": "2026-07-02T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-02T06:58:27.989495+00:00",
+    "processed": true
+  },
+  {
+    "id": "fb480b486acc7de2",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601547: Council Regulation (EU) 2026/1547 of 1 July 2026 amending Regulation (EU) 2026/249 fixing for 2026, 2027 and 2028 the fishing opportunities for certain fish stocks, applicable in Union waters and, for Union fishing vessels, in certain non-Union waters, and amending Regulation (EU) 2025/2454 fixing the fishing opportunities for certain fish stocks and groups of fish stocks applicable in the Baltic Sea for 2026",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601547",
+    "pubblicato": "2026-07-03T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-03T06:52:25.268602+00:00",
+    "processed": true
+  },
+  {
+    "id": "f149e5a1dcd408dd",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601447: Commission Decision (EU) 2026/1447 of 30 June 2026 laying down internal rules concerning the provision of information to data subjects and the restriction of certain data-subjects’ rights in relation to the processing of personal data by the Commission for the purpose of investigation, enforcement and monitoring under Regulation (EU) 2022/2560 of the European Parliament and of the Council",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601447",
+    "pubblicato": "2026-07-03T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-03T06:52:25.268717+00:00",
+    "processed": true
+  },
+  {
+    "id": "f17201f50977f092",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202690549",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690549",
+    "pubblicato": "2026-07-03T00:00:00+02:00",
+    "summary_raw": "This document does not exist in English.",
+    "fetched_at": "2026-07-03T06:52:25.268808+00:00",
+    "processed": true
+  },
+  {
+    "id": "ce81f271ebb021da",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601522: Council Decision (EU) 2026/1522 of 4 June 2026 on the conclusion on behalf of the European Union of the Agreement between the European Union and the Lebanese Republic on the cooperation between the European Union Agency for Criminal Justice Cooperation (Eurojust) and the authorities of the Lebanese Republic competent for judicial cooperation in criminal matters",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601522",
+    "pubblicato": "2026-07-03T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-03T06:52:25.268893+00:00",
+    "processed": true
+  },
+  {
+    "id": "e6cdb9cf65f26ecf",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601481: Commission Implementing Decision (EU) 2026/1481 of 2 July 2026 designating a Union testing facility for textiles in accordance with Regulation (EU) 2019/1020 of the European Parliament and of the Council",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601481",
+    "pubblicato": "2026-07-03T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-03T06:52:25.268972+00:00",
+    "processed": false
+  },
+  {
+    "id": "f1b6033a3abd71e8",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601420: Commission Implementing Decision (EU) 2026/1420 of 30 June 2026 on the non-approval of terbutryn, 1,2-Benzisothiazol-3(2H)-one (BIT) and tetrahydro-1,3,4,6-tetrakis(hydroxymethyl)imidazo[4,5-d]imidazole-2,5(1H,3H)-dione (TMAD) as existing active substances for use in biocidal products of product-types 9, 9, and 12, respectively, in accordance with Regulation (EU) No 528/2012 of the European Parliament and of the Council",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601420",
+    "pubblicato": "2026-07-03T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-03T06:52:25.269052+00:00",
+    "processed": false
+  },
+  {
+    "id": "0e4629bbc4be3898",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601443: Commission Implementing Decision (EU) 2026/1443 of 29 June 2026 authorising the placing on the market of products containing, consisting of or produced from genetically modified maize DP202216 x NK603 x DAS-40278-9 and its sub-combinations DP202216 x NK603, DP202216 x DAS-40278-9, pursuant to Regulation (EC) No 1829/2003 of the European Parliament and of the Council (notified under document C(2026) 4403)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601443",
+    "pubblicato": "2026-07-03T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-03T06:52:25.269127+00:00",
+    "processed": false
+  },
+  {
+    "id": "7d2caf54b0848384",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601446: Commission Decision (EU) 2026/1446 of 30 June 2026 laying down internal rules concerning the provision of information to data subjects and the restriction of certain data-subjects’ rights in relation to the processing of personal data by the Commission for the purpose of the investigation, enforcement and monitoring under Regulation (EU) 2022/1925 of the European Parliament and of the Council",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601446",
+    "pubblicato": "2026-07-03T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-03T06:52:25.269203+00:00",
+    "processed": true
+  },
+  {
+    "id": "e885c92ef6490817",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202690546",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690546",
+    "pubblicato": "2026-07-03T00:00:00+02:00",
+    "summary_raw": "This document does not exist in English.",
+    "fetched_at": "2026-07-03T06:52:25.269285+00:00",
+    "processed": true
+  },
+  {
+    "id": "b2265b2fe977dd70",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202690552",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690552",
+    "pubblicato": "2026-07-03T00:00:00+02:00",
+    "summary_raw": "This document does not exist in English.",
+    "fetched_at": "2026-07-03T06:52:25.269359+00:00",
+    "processed": true
+  },
+  {
+    "id": "6a038a38ba2d9917",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202690555",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690555",
+    "pubblicato": "2026-07-03T00:00:00+02:00",
+    "summary_raw": "This document does not exist in English.",
+    "fetched_at": "2026-07-03T06:52:25.269433+00:00",
+    "processed": true
+  },
+  {
+    "id": "684f14c0f9d252d6",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601444: Commission Implementing Regulation (EU) 2026/1444 of 2 July 2026 repealing Regulations (EC) No 1497/2007 and (EC) No 1516/2007 on leakage checking requirements for certain equipment containing fluorinated greenhouse gases",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601444",
+    "pubblicato": "2026-07-03T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-03T06:52:25.269524+00:00",
+    "processed": false
+  },
+  {
+    "id": "6d11b08c7fbfcc45",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601539: Council Decision (EU) 2026/1539 of 22 June 2026 on the position to be taken on behalf of the European Union within the Council of Members of the International Olive Council with regard to the organoleptic assessment method for virgin olive oil",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601539",
+    "pubblicato": "2026-07-03T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-03T06:52:25.269596+00:00",
+    "processed": false
+  },
+  {
+    "id": "19e5edc235edf92d",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601535: Council Decision (EU) 2026/1535 of 25 June 2026 on the position to be adopted on behalf of the European Union within the Joint Committee established by the Agreement between the European Community and the Principality of Monaco on the application of certain Community acts on the territory of the Principality of Monaco concerning amendments to the Annex to that Agreement",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601535",
+    "pubblicato": "2026-07-03T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-03T06:52:25.269667+00:00",
+    "processed": false
+  },
+  {
+    "id": "dadfba46ef482a91",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601543: Decision (EU) 2026/1543 of the European Parliament and of the Council of 17 June 2026 on the mobilisation of the European Globalisation Adjustment Fund for Displaced Workers following an application from Belgium – EGF/2025/009 BE/Soliver",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601543",
+    "pubblicato": "2026-07-03T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-03T06:52:25.269734+00:00",
+    "processed": false
+  },
+  {
+    "id": "da1dc06c5beabd02",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601508: Commission Implementing Regulation (EU) 2026/1508 of 2 July 2026 correcting certain language versions of Regulation (EU) 2015/340 laying down technical requirements and administrative procedures relating to air traffic controllers’ licences and certificates pursuant to Regulation (EC) No 216/2008 of the European Parliament and of the Council",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601508",
+    "pubblicato": "2026-07-03T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-03T06:52:25.269803+00:00",
+    "processed": false
+  },
+  {
+    "id": "9ea81b5fd5a00456",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601417: Commission Implementing Decision (EU) 2026/1417 of 29 June 2026 renewing the authorisation for the placing on the market of products containing, consisting of or produced from genetically modified maize NK603 × T25 pursuant to Regulation (EC) No 1829/2003 of the European Parliament and of the Council (notified under document C(2026) 4404)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601417",
+    "pubblicato": "2026-07-03T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-03T06:52:25.269871+00:00",
+    "processed": false
+  },
+  {
+    "id": "d515a716158d053d",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601521: Agreement between the European Union and the Lebanese Republic on the cooperation between the European Union Agency for Criminal Justice Cooperation (Eurojust) and the authorities of the Lebanese Republic competent for judicial cooperation in criminal matters",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601521",
+    "pubblicato": "2026-07-03T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-03T06:52:25.269937+00:00",
+    "processed": false
+  },
+  {
+    "id": "95990b1ff8900436",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601441: Commission Implementing Decision (EU) 2026/1441 of 25 June 2026 approving the United States’ request for reciprocal access under the Ukraine Facility established by Regulation (EU) 2024/792 of the European Parliament and of the Council",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601441",
+    "pubblicato": "2026-07-03T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-03T06:52:25.270004+00:00",
+    "processed": false
+  },
+  {
+    "id": "d00cfeaeab44c7b2",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601425: Commission Implementing Decision (EU) 2026/1425 of 30 June 2026 laying down rules for the application of Directive (EU) 2019/904 of the European Parliament and of the Council as regards the calculation, verification and reporting of data on recycled plastic content in single-use plastic beverage bottles and repealing Commission Implementing Decision (EU) 2023/2683",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601425",
+    "pubblicato": "2026-07-03T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-03T06:52:25.270070+00:00",
+    "processed": false
+  },
+  {
+    "id": "af28f31edd95146f",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601468: Decision No 1/2026 of the CETA Joint Committee of 5 March 2026 adopting supplemental rules on expedited procedures for the resolution of investment disputes between investors and states, in particular for natural persons or small and medium-sized enterprises [2026/1468]",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601468",
+    "pubblicato": "2026-07-03T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-03T06:52:25.270137+00:00",
+    "processed": false
+  },
+  {
+    "id": "cafa86945b9edcbc",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601445: Commission Implementing Decision (EU) 2026/1445 of 26 June 2026 approving the United Kingdom’s request for reciprocal access under the Ukraine Facility established by Regulation (EU) 2024/792 of the European Parliament and of the Council",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601445",
+    "pubblicato": "2026-07-03T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-03T06:52:25.270203+00:00",
+    "processed": false
+  },
+  {
+    "id": "b30a4985565a77ed",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601442: Commission Implementing Decision (EU) 2026/1442 of 25 June 2026 approving Canada’s request for reciprocal access under the Ukraine Facility established by Regulation (EU) 2024/792 of the European Parliament and of the Council",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601442",
+    "pubblicato": "2026-07-03T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-03T06:52:25.270267+00:00",
+    "processed": false
+  },
+  {
+    "id": "0009aee7b5d01044",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202690556: Corrigendum to Commission Delegated Regulation (EU) 2026/1022 of 30 June 2026 amending Delegated Regulation (EU) 2015/2446 as regards definitions, customs declarations and data elements related to the temporary EUR 3 customs duty on distance sales of imported goods in a consignment with an intrinsic value not exceeding EUR 150 (OJ L, 2026/1022, 1.7.2026)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690556",
+    "pubblicato": "2026-07-03T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-03T06:52:25.270331+00:00",
+    "processed": false
+  },
+  {
+    "id": "d089802f4c98a0a5",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202690547",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690547",
+    "pubblicato": "2026-07-03T00:00:00+02:00",
+    "summary_raw": "This document does not exist in English.",
+    "fetched_at": "2026-07-03T06:52:25.270396+00:00",
+    "processed": false
+  },
+  {
+    "id": "ef42da05b0ca44df",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202690553",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690553",
+    "pubblicato": "2026-07-03T00:00:00+02:00",
+    "summary_raw": "This document does not exist in English.",
+    "fetched_at": "2026-07-03T06:52:25.270461+00:00",
+    "processed": false
+  },
+  {
+    "id": "df31d00577d3e203",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601424: Commission Implementing Decision (EU) 2026/1424 of 30 June 2026 on the non-approval of poly(dimethyloctadecyl[3-(trihydroxysilyl)propyl]ammonium chloride) generated from dimethyloctadecyl[3-(trimethoxysilyl)propyl]ammonium chloride as an existing active substance for use in biocidal products of product-types 2, 7 and 9 in accordance with Regulation (EU) No 528/2012 of the European Parliament and of the Council",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601424",
+    "pubblicato": "2026-07-03T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-03T06:52:25.270543+00:00",
+    "processed": false
+  },
+  {
+    "id": "e35b2aaa3e97d344",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601427: Commission Implementing Regulation (EU) 2026/1427 of 2 July 2026 authorising the placing on the market of egg membrane hydrolysate (enzymatically produced) as a novel food and amending Implementing Regulation (EU) 2017/2470",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601427",
+    "pubblicato": "2026-07-03T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-03T06:52:25.270609+00:00",
+    "processed": false
+  },
+  {
+    "id": "74ebb856bb0ff8d7",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202690551",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690551",
+    "pubblicato": "2026-07-03T00:00:00+02:00",
+    "summary_raw": "This document does not exist in English.",
+    "fetched_at": "2026-07-03T06:52:25.270675+00:00",
+    "processed": false
+  },
+  {
+    "id": "8fed1e03e5837a34",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202690554",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690554",
+    "pubblicato": "2026-07-03T00:00:00+02:00",
+    "summary_raw": "This document does not exist in English.",
+    "fetched_at": "2026-07-03T06:52:25.270746+00:00",
+    "processed": false
+  },
+  {
+    "id": "70b6c6bdd791f715",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601550: Commission Implementing Regulation (EU) 2026/1550 of 2 July 2026 amending Annexes V and XIV to Implementing Regulation (EU) 2021/404 as regards the entries for Canada, Chile and the United States in the lists of third countries, territories, or zones thereof authorised for the entry into the Union of consignments of poultry and germinal products of poultry, and of fresh meat of poultry and game birds",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601550",
+    "pubblicato": "2026-07-03T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-03T06:52:25.270813+00:00",
+    "processed": false
+  },
+  {
+    "id": "ba3fbc50b7805c2a",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202600908: Commission Delegated Regulation (EU) 2026/908 of 27 April 2026 amending Delegated Regulation (EU) 2021/630 as regards the private attestation requirements of the composite products exempted from official controls at border control posts, and the inclusion of certain cereal products, prepared or preserved vegetables, fruits, nuts, sauces, condiments, seasonings and confectionery in the list of exempted composite products",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202600908",
+    "pubblicato": "2026-07-03T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-03T06:52:25.270879+00:00",
+    "processed": false
+  },
+  {
+    "id": "b9d1886725111efc",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601419: Commission Implementing Decision (EU) 2026/1419 of 29 June 2026 renewing the authorisation for the placing on the market of products containing, consisting of or produced from genetically modified soybean MON 87705 pursuant to Regulation (EC) No 1829/2003 of the European Parliament and of the Council (notified under document C(2026) 4402)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601419",
+    "pubblicato": "2026-07-03T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-03T06:52:25.270949+00:00",
+    "processed": false
+  },
+  {
+    "id": "538764cb24e6a60e",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601449: Commission Implementing Decision (EU) 2026/1449 of 25 June 2026 approving Japan’s request for reciprocal access under the Ukraine Facility established by Regulation (EU) 2024/792 of the European Parliament and of the Council",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601449",
+    "pubblicato": "2026-07-03T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-03T06:52:25.271017+00:00",
+    "processed": false
+  },
+  {
+    "id": "ac89d17bd34cc3e6",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601469: Interpretation No 1/2026 of the CETA Joint Committee of 5 March 2026 regarding Article 8.10, Annex 8-A, Article 8.9 and Article 8.39 of the Comprehensive Economic and Trade Agreement (CETA) [2026/1469]",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601469",
+    "pubblicato": "2026-07-03T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-03T06:52:25.271085+00:00",
+    "processed": false
+  },
+  {
+    "id": "e7106037695c160e",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202690545",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690545",
+    "pubblicato": "2026-07-03T00:00:00+02:00",
+    "summary_raw": "This document does not exist in English.",
+    "fetched_at": "2026-07-03T06:52:25.271152+00:00",
+    "processed": false
+  },
+  {
+    "id": "285e744a881dcad5",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202690548",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690548",
+    "pubblicato": "2026-07-03T00:00:00+02:00",
+    "summary_raw": "This document does not exist in English.",
+    "fetched_at": "2026-07-03T06:52:25.271218+00:00",
+    "processed": false
+  },
+  {
+    "id": "a2dbe08cd7b9ac6e",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202690544",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690544",
+    "pubblicato": "2026-07-03T00:00:00+02:00",
+    "summary_raw": "This document does not exist in English.",
+    "fetched_at": "2026-07-03T06:52:25.271281+00:00",
     "processed": false
   }
 ]

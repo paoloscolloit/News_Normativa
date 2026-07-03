@@ -1,7 +1,175 @@
 {
-  "last_updated": "2026-07-02T07:27:06.161663+00:00",
-  "total": 393,
+  "last_updated": "2026-07-03T07:04:31.175439+00:00",
+  "total": 418,
   "items": [
+    {
+      "id": "fb480b486acc7de2",
+      "titolo_popolare": "Nuove quote di pesca per i prossimi tre anni",
+      "titolo_originale": "OJ:L_202601547: Council Regulation (EU) 2026/1547 of 1 July 2026 amending Regulation (EU) 2026/249 fixing for 2026, 2027 and 2028 the fishing opportunities for certain fish stocks, applicable in Union waters and, for Union fishing vessels, in certain non-Union waters, and amending Regulation (EU) 2025/2454 fixing the fishing opportunities for certain fish stocks and groups of fish stocks applicable in the Baltic Sea for 2026",
+      "riassunto_esteso": "Il Consiglio dell'Unione Europea ha modificato le regole che stabiliscono quante tonnellate di pesce possono essere catturate nel 2026, 2027 e 2028. L'obiettivo è garantire la sostenibilità delle risorse marine, evitando la sovrasfruttamento di alcune specie. Le nuove quote si applicano alle acque dell'Unione e, per le imbarcazioni comunitarie, anche a certe acque extra‑UE. Inoltre, è stato aggiornato il piano di pesca per il Mar Baltico per il 2026. La norma nasce per adeguare le quote alle più recenti valutazioni scientifiche e alle richieste dei pescatori.",
+      "cosa_cambia": [
+        "Le quote di cattura per alcune specie sono state ridotte o aumentate per il 2026‑2028.",
+        "Le imbarcazioni dell'UE devono rispettare le nuove quote anche in alcune acque non UE.",
+        "Il piano di pesca del Mar Baltico è stato rivisto per il 2026."
+      ],
+      "chi_interessa": "tutti i pescatori professionali con imbarcazioni dell'UE, le cooperative di pesca e le autorità di gestione delle risorse marine",
+      "cosa_devi_fare": "Verificare le nuove quote per le specie di interesse e adeguare i piani di pesca entro la fine dell'anno.",
+      "impatto": "Garantisce una pesca più sostenibile e protegge le popolazioni di pesce, ma richiede ai pescatori di adeguare le proprie attività.",
+      "data_vigenza": "dal 1 luglio 2026",
+      "categoria": "Ambiente e Energia",
+      "importanza": 3,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601547",
+      "pubblicato": "2026-07-03T00:00:00+02:00",
+      "processed_at": "2026-07-03T07:01:32.326050+00:00"
+    },
+    {
+      "id": "f149e5a1dcd408dd",
+      "titolo_popolare": "Regole UE su come la Commissione usa i tuoi dati",
+      "titolo_originale": "OJ:L_202601447: Commission Decision (EU) 2026/1447 of 30 June 2026 laying down internal rules concerning the provision of information to data subjects and the restriction of certain data-subjects’ rights in relation to the processing of personal data by the Commission for the purpose of investigation, enforcement and monitoring under Regulation (EU) 2022/2560 of the European Parliament and of the Council",
+      "riassunto_esteso": "La Commissione europea ha adottato una decisione che stabilisce come deve informare le persone sui dati personali che tratta e quali diritti possono essere limitati quando questi dati sono usati per indagini, controlli o monitoraggi ai sensi del Regolamento UE 2022/2560. L’obiettivo è garantire trasparenza e coerenza nelle attività di vigilanza, evitando che le richieste di accesso o cancellazione ostacolino le indagini in corso. Le nuove regole definiscono i contenuti delle comunicazioni, i tempi di risposta e le circostanze in cui alcuni diritti, come il diritto di opposizione o di cancellazione, possono essere temporaneamente sospesi. Sono state introdotte anche procedure interne per documentare le decisioni di limitazione dei diritti, così da tutelare sia i cittadini sia l’efficacia delle attività di controllo. La decisione è parte di un più ampio quadro europeo volto a rafforzare la sicurezza e la corretta applicazione delle norme in materia di concorrenza e mercato interno.",
+      "cosa_cambia": [
+        "La Commissione deve fornire informazioni più dettagliate e tempestive sui dati trattati per indagini.",
+        "In alcuni casi la Commissione può limitare temporaneamente diritti come l'accesso o la cancellazione dei dati.",
+        "Le decisioni di limitazione devono essere motivate e registrate secondo nuove procedure interne."
+      ],
+      "chi_interessa": "tutte le persone i cui dati personali sono trattati dalla Commissione per indagini, controlli o monitoraggi",
+      "cosa_devi_fare": "Nessuna azione richiesta, ma è utile verificare le comunicazioni ricevute dalla Commissione.",
+      "impatto": "Maggior trasparenza sui trattamenti dei dati da parte della Commissione e possibilità di limitare alcuni diritti per garantire indagini efficaci.",
+      "data_vigenza": "dal 1 luglio 2026",
+      "categoria": "Digitale e Privacy",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601447",
+      "pubblicato": "2026-07-03T00:00:00+02:00",
+      "processed_at": "2026-07-03T07:02:06.360205+00:00"
+    },
+    {
+      "id": "f17201f50977f092",
+      "titolo_popolare": "Nuova normativa europea non specificata",
+      "titolo_originale": "OJ:L_202690549",
+      "riassunto_esteso": "Il documento citato è un atto della Gazzetta UE, ma non è disponibile alcun contenuto testuale né traduzione in inglese. Per questo motivo non è possibile descrivere in dettaglio le disposizioni né le motivazioni che hanno portato all'adozione. In generale, gli atti pubblicati nella Gazzetta UE riguardano regole comuni per gli Stati membri su temi di interesse europeo. Senza il testo, non si conoscono gli obblighi o i benefici previsti.",
+      "cosa_cambia": [
+        "Non è possibile indicare cambiamenti concreti perché il contenuto dell'atto non è noto"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "Nessuna azione da intraprendere finché non si ottiene il testo dell'atto",
+      "impatto": "Impatto non determinabile senza conoscere le disposizioni dell'atto",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690549",
+      "pubblicato": "2026-07-03T00:00:00+02:00",
+      "processed_at": "2026-07-03T07:02:20.699234+00:00"
+    },
+    {
+      "id": "ce81f271ebb021da",
+      "titolo_popolare": "Accordo UE-Lebanon per la cooperazione giudiziaria penale",
+      "titolo_originale": "OJ:L_202601522: Council Decision (EU) 2026/1522 of 4 June 2026 on the conclusion on behalf of the European Union of the Agreement between the European Union and the Lebanese Republic on the cooperation between the European Union Agency for Criminal Justice Cooperation (Eurojust) and the authorities of the Lebanese Republic competent for judicial cooperation in criminal matters",
+      "riassunto_esteso": "Il Consiglio dell'Unione Europea ha deciso di firmare, a nome dell'UE, un accordo con la Repubblica libanese per far collaborare Eurojust, l'Agenzia europea per la cooperazione giudiziaria in materia penale, con le autorità libanesi competenti. L'obiettivo è migliorare lo scambio di informazioni, coordinare le indagini transfrontaliere e facilitare l'assistenza reciproca nei procedimenti penali. L'accordo nasce dalla necessità di combattere più efficacemente la criminalità organizzata, il traffico di droga e il terrorismo, che spesso coinvolgono più paesi. Con questo patto, le autorità di entrambi i territori potranno richiedere e fornire supporto legale in modo più rapido e strutturato. È stato adottato per rafforzare la sicurezza comune e la lotta al crimine internazionale.",
+      "cosa_cambia": [
+        "Eurojust potrà scambiare dati e assistenza diretta con le autorità libanesi",
+        "Le indagini penali transfrontaliere tra UE e Libano saranno più rapide e coordinate",
+        "Le richieste di assistenza giudiziaria potranno essere gestite con procedure standardizzate"
+      ],
+      "chi_interessa": "autorità giudiziarie, pubblici ministeri, forze dell'ordine e enti di cooperazione penale in UE e Libano",
+      "cosa_devi_fare": "Nessuna azione richiesta ai cittadini; le autorità competenti dovranno attuare le procedure previste dall'accordo.",
+      "impatto": "Migliora l'efficacia delle indagini criminali internazionali, contribuendo a una maggiore sicurezza per i cittadini europei e libanesi.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Giustizia e Diritti",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601522",
+      "pubblicato": "2026-07-03T00:00:00+02:00",
+      "processed_at": "2026-07-03T07:02:53.372972+00:00"
+    },
+    {
+      "id": "7d2caf54b0848384",
+      "titolo_popolare": "Regole UE su come la Commissione usa i dati personali",
+      "titolo_originale": "OJ:L_202601446: Commission Decision (EU) 2026/1446 of 30 June 2026 laying down internal rules concerning the provision of information to data subjects and the restriction of certain data-subjects’ rights in relation to the processing of personal data by the Commission for the purpose of the investigation, enforcement and monitoring under Regulation (EU) 2022/1925 of the European Parliament and of the Council",
+      "riassunto_esteso": "La Commissione europea ha adottato una decisione che stabilisce come deve informare le persone sui loro dati personali quando li tratta per indagini, controlli e monitoraggi previsti dal Regolamento UE 2022/1925. Sono state definite le modalità di comunicazione, i contenuti minimi da fornire e le situazioni in cui alcuni diritti (come l'accesso o la cancellazione) possono essere limitati per motivi di sicurezza o di efficacia dell'indagine. L'obiettivo è garantire trasparenza, tutelare i diritti dei cittadini e allo stesso tempo consentire alla Commissione di svolgere le proprie funzioni di vigilanza senza ostacoli inutili. La decisione è interna alla Commissione, ma si applica a tutti i soggetti i cui dati vengono trattati in questi contesti. È stata introdotta per uniformare le pratiche e rispondere a richieste di maggiore chiarezza da parte dei cittadini e dei tribunali.",
+      "cosa_cambia": [
+        "La Commissione deve fornire informazioni più chiare e dettagliate a chiunque i suoi dati vengano trattati per indagini o controlli",
+        "In alcuni casi la Commissione può limitare diritti come l'accesso o la cancellazione dei dati per motivi di sicurezza o di efficacia dell'indagine",
+        "Vengono fissate procedure interne precise per gestire le richieste dei cittadini e per documentare le limitazioni dei diritti"
+      ],
+      "chi_interessa": "tutte le persone i cui dati personali sono trattati dalla Commissione europea per scopi di indagine, applicazione della legge o monitoraggio",
+      "cosa_devi_fare": "Se ricevi una comunicazione dalla Commissione, leggi le informazioni fornite e, se necessario, esercita i tuoi diritti entro i termini indicati.",
+      "impatto": "Maggior trasparenza sui trattamenti dei dati da parte della Commissione e possibilità di limitare alcuni diritti solo in casi giustificati, garantendo al contempo la sicurezza delle indagini.",
+      "data_vigenza": "dal 30 giugno 2026",
+      "categoria": "Digitale e Privacy",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601446",
+      "pubblicato": "2026-07-03T00:00:00+02:00",
+      "processed_at": "2026-07-03T07:03:45.716816+00:00"
+    },
+    {
+      "id": "e885c92ef6490817",
+      "titolo_popolare": "Normativa europea non specificata",
+      "titolo_originale": "OJ:L_202690546",
+      "riassunto_esteso": "Il documento citato è un atto della Gazzetta UE ma non è disponibile una versione testuale né in inglese né in altre lingue. Per questo non è possibile conoscere i contenuti, gli obiettivi o le motivazioni che hanno portato all'adozione. Senza il testo, non si può spiegare né contestualizzare la norma. L'assenza di informazioni rende difficile capire a chi è destinata né quali cambiamenti comporta. In pratica, al momento non ci sono indicazioni operative per i cittadini.",
+      "cosa_cambia": [
+        "Nessuna informazione disponibile sui cambiamenti concreti per le persone"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "Nessuna azione richiesta finché non si ottengono dettagli sull'atto",
+      "impatto": "Impatto non determinabile a causa della mancanza di dati",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690546",
+      "pubblicato": "2026-07-03T00:00:00+02:00",
+      "processed_at": "2026-07-03T07:04:00.711087+00:00"
+    },
+    {
+      "id": "b2265b2fe977dd70",
+      "titolo_popolare": "Nuova normativa europea di cui non si conosce il contenuto",
+      "titolo_originale": "OJ:L_202690552",
+      "riassunto_esteso": "Il documento citato è un atto della Gazzetta UE, ma non è disponibile alcuna traduzione né un riassunto del contenuto. Per questo motivo non è possibile spiegare in dettaglio cosa stabilisca o le motivazioni che hanno portato alla sua adozione. Si tratta di un provvedimento ufficiale dell'Unione Europea, pubblicato nella serie L, ma le informazioni necessarie per comprenderlo non sono state fornite. Senza il testo è impossibile capire a chi sia destinato né quali cambiamenti comporti. In assenza di dati, non si può indicare né le scadenze né le eventuali misure da adottare.",
+      "cosa_cambia": [
+        "Nessuna informazione disponibile sul cambiamento concreto per i cittadini"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "Nessuna azione da intraprendere finché non si ottengono dettagli sul provvedimento",
+      "impatto": "Impatto non determinabile senza conoscere il contenuto dell'atto",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690552",
+      "pubblicato": "2026-07-03T00:00:00+02:00",
+      "processed_at": "2026-07-03T07:04:14.055568+00:00"
+    },
+    {
+      "id": "6a038a38ba2d9917",
+      "titolo_popolare": "Norma europea non specificata",
+      "titolo_originale": "OJ:L_202690555",
+      "riassunto_esteso": "Il documento citato è un atto della Gazzetta UE, ma non è disponibile alcun contenuto testuale né traduzione in inglese. Per questo motivo non è possibile descrivere in modo dettagliato cosa stabilisca o le motivazioni alla base della sua adozione. Si tratta di una norma europea di cui non si conoscono i contenuti né l'ambito di applicazione. Senza ulteriori informazioni, non è possibile fornire una spiegazione concreta.",
+      "cosa_cambia": [
+        "Non è possibile indicare cambiamenti concreti perché il contenuto dell'atto è sconosciuto"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "Nessuna azione da intraprendere finché non si ottengono dettagli sull'atto",
+      "impatto": "Impatto non determinabile a causa dell'assenza di informazioni sul contenuto",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690555",
+      "pubblicato": "2026-07-03T00:00:00+02:00",
+      "processed_at": "2026-07-03T07:04:31.170136+00:00"
+    },
     {
       "id": "d0b5a1e174d3ade4",
       "titolo_popolare": "ECB autorizza accordi con utenti del sistema TARGET",
@@ -82,6 +250,117 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690542",
       "pubblicato": "2026-07-02T00:00:00+02:00",
       "processed_at": "2026-07-02T07:25:44.858967+00:00"
+    },
+    {
+      "id": "893195217e24216c",
+      "titolo_popolare": "Correzione a norme tecniche per i depositari centrali",
+      "titolo_originale": "CELEX:32017R0392R(02):            Berichtigung der Delegierten Verordnung (EU) 2017/392 der Kommission vom 11. November 2016 zur Ergänzung der Verordnung (EU) Nr. 909/2014 des Europäischen Parlaments und des Rates durch technische Regulierungsstandards für die Zulassung von und für aufsichtliche und operationelle Anforderungen an Zentralverwahrer (ABl. L 65 vom 10.3.2017)",
+      "riassunto_esteso": "Il provvedimento è un corrigendum, cioè una correzione, della delegata regolamentazione UE n. 2017/392 del 11 novembre 2016. Tale regolamento stabiliva gli standard tecnici per l’autorizzazione e i requisiti di vigilanza e operativi dei depositari centrali di titoli, in attuazione della direttiva europea sui mercati dei capitali. La correzione non riguarda la versione inglese del testo e serve a rettificare errori di battitura o di formattazione presenti nella versione originale. Non introduce nuove regole né modifica i contenuti sostanziali. È stata adottata per garantire la coerenza e la chiarezza del documento normativo.",
+      "cosa_cambia": [
+        "Viene corretta la versione del regolamento UE 2017/392 senza alterare le disposizioni sostanziali",
+        "Nessun nuovo obbligo per i depositari centrali",
+        "Nessuna variazione per gli operatori di mercato"
+      ],
+      "chi_interessa": "depositari centrali di titoli, autorità di vigilanza e operatori dei mercati finanziari",
+      "cosa_devi_fare": "Nessuna azione richiesta, basta tenere conto della versione corretta del testo.",
+      "impatto": "Il provvedimento non cambia le regole operative, ma assicura che tutti facciano riferimento a un documento privo di errori.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Altro",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32017R0392R(02)",
+      "pubblicato": "2026-07-02T00:00:00+02:00",
+      "processed_at": "2026-07-03T06:59:08.273415+00:00"
+    },
+    {
+      "id": "9c46ad226236eb02",
+      "titolo_popolare": "Correzione alle regole di sicurezza dei sistemi spaziali UE",
+      "titolo_originale": "OJ:L_202690543:            Berichtigung des Beschlusses (GASP) 2021/698 des Rates vom 30. April 2021 über die Sicherheitssysteme und -dienste, die im Rahmen des Weltraumprogramms der Union eingerichtet, betrieben und genutzt werden und die Sicherheit der Union berühren können, sowie zur Aufhebung des Beschlusses 2014/496/GASP (ABl. L 170 vom 12.5.2021)",
+      "riassunto_esteso": "Il Consiglio ha pubblicato una correzione al proprio provvedimento del 30 aprile 2021, che disciplina i sistemi e i servizi di sicurezza legati ai programmi spaziali dell'Unione. La modifica serve a sistemare errori formali e a chiarire alcuni riferimenti normativi, senza introdurre nuove regole sostanziali. Contestualmente, è stato annullato il precedente decisione 2014/496/GASP, ormai superata. L’obiettivo è garantire che la normativa sia coerente e pronta a sostenere la sicurezza delle attività spaziali dell’UE.",
+      "cosa_cambia": [
+        "Vengono corretti errori di forma e di riferimento nel provvedimento del 2021",
+        "Viene revocata la decisione 2014/496/GASP",
+        "Nessuna nuova obbligazione per i soggetti coinvolti"
+      ],
+      "chi_interessa": "operatori di sistemi e servizi spaziali, agenzie nazionali, fornitori di tecnologie per il settore spaziale",
+      "cosa_devi_fare": "Nessuna azione richiesta; la correzione si applica automaticamente.",
+      "impatto": "L’effetto è amministrativo: la normativa diventa più chiara ma non cambia le regole operative per le imprese.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Digitale e Privacy",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690543",
+      "pubblicato": "2026-07-02T00:00:00+02:00",
+      "processed_at": "2026-07-03T06:59:25.594882+00:00"
+    },
+    {
+      "id": "13862f896d130c8d",
+      "titolo_popolare": "Nuove regole per i contratti con il sistema di pagamenti TARGET-ECB",
+      "titolo_originale": "OJ:L_202601538: Decision (EU) 2026/1538 of the European Central Bank of 23 June 2026 delegating the decision-making powers in matters related to agreements with customers of TARGET-ECB (ECB/2026/13)",
+      "riassunto_esteso": "La Banca Centrale Europea ha deciso di delegare ad altre autorità interne la capacità di prendere decisioni sui contratti che le banche e gli altri clienti hanno con il sistema di pagamenti TARGET-ECB. Questa delega serve a rendere più veloce e flessibile la gestione dei rapporti contrattuali, senza dover attendere l'approvazione diretta della BCE per ogni singola questione. In pratica, le autorità deleganti potranno definire termini, condizioni e modifiche dei contratti, sempre nel rispetto delle norme europee. La decisione è stata adottata per migliorare l’efficienza operativa del sistema di pagamenti transfrontalieri dell’Eurozona. L’obiettivo è garantire che le regole contrattuali siano aggiornate rapidamente in risposta alle esigenze del mercato e alle innovazioni tecnologiche.",
+      "cosa_cambia": [
+        "Le autorità interne della BCE possono ora approvare o modificare i contratti con i clienti di TARGET-ECB senza dover chiedere il via libera alla BCE per ogni caso",
+        "Le decisioni sui termini contrattuali saranno più rapide e adattabili alle esigenze del mercato",
+        "Le banche dovranno interfacciarsi con le nuove autorità deleganti per questioni contrattuali"
+      ],
+      "chi_interessa": "banche, istituti di pagamento e altri clienti del sistema TARGET-ECB",
+      "cosa_devi_fare": "Contattare l’autorità delegante indicata dalla BCE per gestire o aggiornare i propri contratti con TARGET-ECB.",
+      "impatto": "Velocizza le modifiche contrattuali e migliora l’adattamento del sistema di pagamenti alle nuove esigenze, riducendo i tempi di attesa.",
+      "data_vigenza": "dal 23 giugno 2026",
+      "categoria": "Digitale e Privacy",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601538",
+      "pubblicato": "2026-07-02T00:00:00+02:00",
+      "processed_at": "2026-07-03T07:00:01.731330+00:00"
+    },
+    {
+      "id": "9fb0b6430eb4ffff",
+      "titolo_popolare": "Avvio negoziati UE-India per Horizon Europe",
+      "titolo_originale": "OJ:L_202601527: Council Decision (EU) 2026/1527 of 26 June 2026 authorising the opening of negotiations for an agreement between the Union and the Republic of India on the participation of the Republic of India in Union programmes and the association of the Republic of India to Pillar II of Horizon Europe – the Framework Programme for Research and Innovation (2021-2027)",
+      "riassunto_esteso": "Il Consiglio europeo ha deciso di aprire i negoziati con l'India per definire un accordo che permetta al Paese di partecipare ai programmi dell'Unione europea e di associarsi al Pilastro II di Horizon Europe, il programma quadro per la ricerca e l'innovazione 2021-2027. L'obiettivo è favorire la collaborazione scientifica e tecnologica tra l'UE e l'India, sfruttando le rispettive competenze e risorse. La decisione nasce dalla volontà di rafforzare i legami di ricerca con un importante attore globale, creando opportunità di finanziamento congiunto e scambio di conoscenze. Il processo di negoziazione dovrà rispettare le norme UE sugli accordi internazionali e sarà finalizzato a un accordo quadro che disciplini i termini di partecipazione. Una volta concluso, l'India potrà accedere ai bandi di Horizon Europe come paese associato.",
+      "cosa_cambia": [
+        "L'India potrà partecipare ai progetti di Horizon Europe come paese associato.",
+        "Le istituzioni di ricerca italiane potranno collaborare più facilmente con controparti indiane.",
+        "Le imprese italiane avranno nuove opportunità di co‑finanziamento in progetti di ricerca europei.",
+        "Il quadro normativo UE dovrà includere disposizioni specifiche per l'India."
+      ],
+      "chi_interessa": "ricercatori, università, centri di ricerca, imprese innovative e start‑up italiane",
+      "cosa_devi_fare": "tenere d'occhio i bandi di Horizon Europe e preparare proposte di collaborazione con partner indiani.",
+      "impatto": "Più opportunità di finanziamento e partnership internazionali per la ricerca italiana, con potenziali benefici economici e tecnologici.",
+      "data_vigenza": "in vigore da subito, con negoziati avviati a partire dal 26 giugno 2026",
+      "categoria": "Altro",
+      "importanza": 3,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601527",
+      "pubblicato": "2026-07-02T00:00:00+02:00",
+      "processed_at": "2026-07-03T07:00:37.316186+00:00"
+    },
+    {
+      "id": "198716c78698d62f",
+      "titolo_popolare": "Nuova cooperazione UE-SEE in settori fuori le quattro libertà",
+      "titolo_originale": "OJ:L_202601511: Council Decision (EU) 2026/1511 of 25 June 2026 on the position to be adopted on behalf of the European Union within the EEA Joint Committee concerning an amendment to Protocol 31 to the EEA Agreement on cooperation in specific fields outside the four freedoms (EDIP Regulation) (Text with EEA relevance)",
+      "riassunto_esteso": "Il Consiglio europeo ha deciso la posizione dell'Unione da presentare al Comitato Congiunto SEE per modificare il Protocollo 31 dell'Accordo SEE. La modifica riguarda la cooperazione in ambiti specifici che non rientrano nelle quattro libertà fondamentali del mercato interno, come la difesa, la sicurezza e la politica estera. L'obiettivo è rendere più efficace il coordinamento tra UE e paesi SEE in questi settori, garantendo una risposta più rapida e armonizzata alle sfide comuni. La decisione nasce dalla necessità di aggiornare le regole di collaborazione per tenere conto dei recenti sviluppi geopolitici e tecnologici. Una volta adottata, la proposta diventerà la base per le negoziazioni tra le parti coinvolte.",
+      "cosa_cambia": [
+        "Verrà introdotto un nuovo quadro di cooperazione tra UE e paesi SEE in settori come difesa e sicurezza",
+        "Le autorità dei paesi SEE dovranno adeguare le proprie normative alle nuove disposizioni del protocollo",
+        "Saranno creati meccanismi di scambio di informazioni più rapidi tra UE e SEE"
+      ],
+      "chi_interessa": "governi e autorità pubbliche dei paesi dell'Area Economica Europea (Norvegia, Islanda, Liechtenstein) e le istituzioni dell'Unione Europea",
+      "cosa_devi_fare": "Nessuna azione diretta per i cittadini; le autorità competenti dovranno aggiornare le procedure interne.",
+      "impatto": "Migliora la capacità di risposta congiunta a minacce comuni, ma richiede adeguamenti normativi da parte dei paesi SEE.",
+      "data_vigenza": "in vigore da subito, previa ratifica dal Comitato Congiunto SEE",
+      "categoria": "Altro",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601511",
+      "pubblicato": "2026-07-02T00:00:00+02:00",
+      "processed_at": "2026-07-03T07:01:09.901248+00:00"
     },
     {
       "id": "262a1cfc15061733",
@@ -226,6 +505,138 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D0077R(01)",
       "pubblicato": "2026-07-01T00:00:00+02:00",
       "processed_at": "2026-07-02T07:13:08.750702+00:00"
+    },
+    {
+      "id": "0f5ea09008c75ef2",
+      "titolo_popolare": "Nuove regole per la tassa di 3 € sulle vendite a distanza",
+      "titolo_originale": "CELEX:32026R1022: Commission Delegated Regulation (EU) 2026/1022 of 30 June 2026 amending Delegated Regulation (EU) 2015/2446 as regards definitions, customs declarations and data elements related to the temporary EUR 3 customs duty on distance sales of imported goods in a consignment with an intrinsic value not exceeding EUR 150",
+      "riassunto_esteso": "Il Regolamento delegato UE 2026/1022 modifica il precedente regolamento del 2015 per precisare le definizioni, le dichiarazioni doganali e gli elementi di dato relativi alla tassa temporanea di 3 euro sui pacchi importati con valore intrinseco non superiore a 150 euro. La modifica è nata per rendere più chiaro cosa si intende per valore intrinseco e per uniformare le informazioni che gli operatori devono fornire alla dogana. In pratica, chi vende online a clienti dell’UE deve indicare nuovi codici e descrizioni nei moduli di importazione, così da facilitare il controllo e l’applicazione della tassa. L’obiettivo è semplificare le procedure e garantire che la tassa sia applicata correttamente solo ai pacchi entro il limite di valore previsto.",
+      "cosa_cambia": [
+        "Viene definita con precisione la nozione di “valore intrinseco” dei pacchi fino a 150 euro",
+        "Le dichiarazioni doganali devono includere nuovi campi obbligatori per identificare la merce e il valore",
+        "I sistemi informatici delle imprese devono aggiornare i codici di tariffa per la tassa di 3 euro"
+      ],
+      "chi_interessa": "tutti i venditori online che spediscono merci dall’estero verso l’UE e i loro spedizionieri",
+      "cosa_devi_fare": "Aggiornare i moduli doganali e i software di spedizione con i nuovi codici e le nuove definizioni entro il prossimo mese.",
+      "impatto": "Le dogane potranno verificare più facilmente la corretta applicazione della tassa di 3 euro, evitando errori e ritardi nelle consegne.",
+      "data_vigenza": "dal 1 luglio 2026",
+      "categoria": "Imprese e Mercato",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1022",
+      "pubblicato": "2026-07-01T00:00:00+02:00",
+      "processed_at": "2026-07-03T06:56:13.782755+00:00"
+    },
+    {
+      "id": "24768ec22bbeb82c",
+      "titolo_popolare": "Nuove regole per il sistema di pagamenti TARGET",
+      "titolo_originale": "CELEX:32026O1473: Guideline (EU) 2026/1473 of the European Central Bank of 4 May 2026 amending Guideline (EU) 2022/912 on a new-generation Trans-European Automated Real-time Gross Settlement Express Transfer system (TARGET) (ECB/2022/8) (ECB/2026/11)",
+      "riassunto_esteso": "La Banca Centrale Europea ha aggiornato le linee guida che disciplinano il sistema di pagamenti transfrontalieri TARGET, introdotto nel 2022. L’obiettivo è rendere il sistema più veloce, sicuro e compatibile con le nuove tecnologie digitali, garantendo una migliore gestione dei flussi di denaro tra le banche europee. Le modifiche includono requisiti più stringenti per la resilienza operativa, l’adozione di standard di messaggistica più moderni e nuove regole per la trasparenza dei costi. Questa revisione è stata adottata per sostenere la crescita del mercato unico e per rispondere alle richieste di efficienza del settore finanziario.",
+      "cosa_cambia": [
+        "Le banche devono adeguare i propri sistemi al nuovo standard di messaggistica previsto dal TARGET aggiornato.",
+        "Vengono introdotti requisiti più severi di continuità operativa e sicurezza informatica.",
+        "I costi di utilizzo del sistema devono essere comunicati in modo più chiaro ai clienti."
+      ],
+      "chi_interessa": "tutte le banche e gli istituti di pagamento che operano nell'area SEPA",
+      "cosa_devi_fare": "Aggiornare i sistemi informatici e le procedure interne entro il 31 dicembre 2026 per rispettare le nuove linee guida.",
+      "impatto": "Pagamenti più rapidi e sicuri tra paesi europei, con maggiore trasparenza sui costi per le imprese e i consumatori.",
+      "data_vigenza": "dal 1 gennaio 2027",
+      "categoria": "Altro",
+      "importanza": 3,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026O1473",
+      "pubblicato": "2026-07-01T00:00:00+02:00",
+      "processed_at": "2026-07-03T06:56:33.990068+00:00"
+    },
+    {
+      "id": "42f5b92bb1d2c63a",
+      "titolo_popolare": "Quando l'UE può inviare dati delle impronte a Svizzera e Liechtenstein",
+      "titolo_originale": "CELEX:32026D1459: Council Implementing Decision (EU) 2026/1459 of 25 June 2026 on the determination of the date from which personal data relating to dactyloscopic data may be supplied by Member States to Switzerland and Liechtenstein",
+      "riassunto_esteso": "Il Consiglio europeo ha deciso, con una decisione di attuazione, la data a partire dalla quale gli Stati membri potranno trasferire dati personali relativi alle impronte digitali verso la Svizzera e il Liechtenstein. Questa misura nasce per garantire che lo scambio di informazioni biometriche avvenga nel rispetto delle norme sulla protezione dei dati, dopo che è stata verificata la conformità dei due paesi alle regole UE. La decisione fissa un termine preciso, così da dare certezza sia alle autorità che ai cittadini. In pratica, dal giorno stabilito i paesi dell'UE potranno condividere questi dati per finalità di sicurezza e di identificazione, senza dover attendere ulteriori autorizzazioni. L'obiettivo è facilitare la cooperazione transfrontaliera mantenendo alti standard di privacy.",
+      "cosa_cambia": [
+        "Dal giorno indicato gli Stati membri potranno inviare dati di impronte digitali a Svizzera e Liechtenstein.",
+        "Le autorità di polizia e di frontiera potranno scambiare queste informazioni più rapidamente.",
+        "I cittadini vedranno garantito che il trasferimento avvenga secondo le regole UE sulla privacy."
+      ],
+      "chi_interessa": "autorità di polizia, dogane, agenzie di sicurezza di tutti gli Stati membri, e i cittadini le cui impronte sono raccolte",
+      "cosa_devi_fare": "Nessuna azione richiesta ai cittadini; le autorità devono rispettare la data stabilita per lo scambio.",
+      "impatto": "Facilita la cooperazione in materia di sicurezza e identificazione transfrontaliera, mantenendo la tutela dei dati personali.",
+      "data_vigenza": "dal 1 ottobre 2026",
+      "categoria": "Digitale e Privacy",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1459",
+      "pubblicato": "2026-07-01T00:00:00+02:00",
+      "processed_at": "2026-07-03T06:57:07.627429+00:00"
+    },
+    {
+      "id": "f081f0f65992677f",
+      "titolo_popolare": "Nuove regole UE per Govsatcom e connessioni sicure",
+      "titolo_originale": "CELEX:32026D1460: Council Decision (EU) 2026/1460 of 25 June 2026 on the position to be adopted on behalf of the European Union within the EEA Joint Committee concerning an amendment to Protocol 31 to the EEA Agreement on cooperation in specific fields outside the four freedoms (Govsatcom and Secure Connectivity) (Text with EEA relevance)",
+      "riassunto_esteso": "Il Consiglio UE ha deciso la posizione da assumere nel Comitato congiunto SEE per modificare il Protocollo 31 dell'Accordo SEE. La modifica introduce norme specifiche per la cooperazione tra gli Stati membri in settori al di fuori delle quattro libertà, in particolare per le comunicazioni satellitari governative (Govsatcom) e per le reti di connettività sicura. L'obiettivo è garantire una maggiore sicurezza, interoperabilità e coordinamento tra i paesi partecipanti, rispondendo alle crescenti minacce cibernetiche e alle esigenze di comunicazione critica. La decisione è stata adottata per rafforzare la resilienza delle infrastrutture digitali europee e per armonizzare gli standard tecnici tra i paesi SEE.",
+      "cosa_cambia": [
+        "Le autorità pubbliche dovranno adottare standard comuni per le comunicazioni satellitari governative.",
+        "Le imprese di telecomunicazioni dovranno garantire connessioni sicure secondo le nuove linee guida UE.",
+        "Verrà istituito un meccanismo di scambio di informazioni tra gli Stati membri per le minacce cibernetiche legate a Govsatcom."
+      ],
+      "chi_interessa": "autorità pubbliche, operatori di telecomunicazioni, fornitori di servizi di connettività critica e cittadini che usano servizi governativi digitali",
+      "cosa_devi_fare": "Adeguare le proprie infrastrutture e protocolli alle nuove linee guida UE entro i termini stabiliti.",
+      "impatto": "Migliora la sicurezza delle comunicazioni governative e delle reti critiche, riducendo il rischio di attacchi informatici.",
+      "data_vigenza": "in vigore da subito, con attuazione entro 12 mesi dalla pubblicazione",
+      "categoria": "Digitale e Privacy",
+      "importanza": 3,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1460",
+      "pubblicato": "2026-07-01T00:00:00+02:00",
+      "processed_at": "2026-07-03T06:57:35.258093+00:00"
+    },
+    {
+      "id": "22f666c861460e1d",
+      "titolo_popolare": "Estensione dei termini di autorizzazione per 20 pesticidi",
+      "titolo_originale": "CELEX:32026R1421: Commission Implementing Regulation (EU) 2026/1421 of 30 June 2026 amending Implementing Regulation (EU) No 540/2011 as regards the extension of the approval periods of the active substances bensulfuron, benzovindiflupyr, chlorotoluron, clethodim, cycloxydim, cymoxanil, dazomet, deltamethrin, diclofop, fenazaquin, fluopicolide, hymexazol, lambda-cyhalothrin, MCPA, MCPB, metaldehyde, metsulfuron-methyl, paclobutrazol and tebuconazole",
+      "riassunto_esteso": "Il regolamento UE 2026/1421 modifica il precedente regolamento d'attuazione n. 540/2011 per prolungare la durata delle autorizzazioni di uso di venti sostanze attive impiegate nei pesticidi. La decisione nasce dalla necessità di garantire continuità nella disponibilità di prodotti agricoli già valutati, evitando interruzioni per gli agricoltori. Le autorità hanno verificato che i rischi per la salute umana e per l'ambiente rimangono accettabili, così da poter confermare le autorizzazioni senza richiedere nuove valutazioni complete. L’estensione è temporanea e soggetta a future revisioni. L’obiettivo è sostenere la produzione agricola europea mantenendo al contempo gli standard di sicurezza.",
+      "cosa_cambia": [
+        "Le autorizzazioni per i 20 pesticidi elencati sono prorogate per un periodo più lungo.",
+        "Gli agricoltori potranno continuare a usare questi prodotti senza dover attendere nuove autorizzazioni.",
+        "Le aziende produttrici non dovranno presentare nuove domande di rinnovo immediatamente."
+      ],
+      "chi_interessa": "agricoltori, produttori di pesticidi, distributori di prodotti fitosanitari",
+      "cosa_devi_fare": "Nessuna azione immediata richiesta; continuare a usare i prodotti già autorizzati.",
+      "impatto": "Garantisce la continuità dell’offerta di pesticidi senza interruzioni, evitando possibili ritardi nella coltivazione.",
+      "data_vigenza": "dal 30 giugno 2026",
+      "categoria": "Ambiente e Energia",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1421",
+      "pubblicato": "2026-07-01T00:00:00+02:00",
+      "processed_at": "2026-07-03T06:58:07.372247+00:00"
+    },
+    {
+      "id": "ed0dcf99e61b0064",
+      "titolo_popolare": "Nuove regole per proteggere il porpoise del Baltico",
+      "titolo_originale": "CELEX:32026R0450: Commission Delegated Regulation (EU) 2026/450 of 27 February 2026 amending Regulation (EU) 2019/1241 as regards the establishment of measures to ensure compliance with existing mitigation measures to reduce incidental catches of the resident population of the Baltic Proper harbour porpoise (Phocoena phocoena) in the Baltic Sea",
+      "riassunto_esteso": "Il Regolamento delegato UE 2026/450 modifica la normativa del 2019 che già prevedeva misure per limitare le catture accidentali del delfino di fiume del Baltico. Sono state introdotte disposizioni più stringenti per garantire che le misure di mitigazione esistenti vengano effettivamente rispettate, con controlli più frequenti e sanzioni più severe. L’obiettivo è salvaguardare la popolazione residente di questo mammifero marino, minacciata da reti da pesca e altre attività. La modifica nasce dalla necessità di invertire il trend di declino osservato negli ultimi anni. Si applica a tutti gli operatori di pesca che operano nelle acque del Mar Baltico, in particolare nelle zone dove il porpoise è più presente.",
+      "cosa_cambia": [
+        "Verranno effettuati controlli più frequenti a bordo e a terra per verificare il rispetto delle misure anti‑bycatch.",
+        "Le sanzioni per chi non rispetta le regole saranno aumentate.",
+        "Saranno obbligatorie nuove tecnologie di selettività (es. retine a maglia più fine) per le reti da posta e da trascinamento."
+      ],
+      "chi_interessa": "tutti gli operatori di pesca e le imprese di acquisto di prodotti ittici operanti nel Mar Baltico",
+      "cosa_devi_fare": "Adeguare le attrezzature di pesca alle nuove specifiche e tenere a disposizione la documentazione per i controlli.",
+      "impatto": "Riduzione delle morti accidentali di porpoise, contribuendo alla conservazione della specie; per i pescatori, maggiori costi di adeguamento e rischio di sanzioni.",
+      "data_vigenza": "dal 1 aprile 2026",
+      "categoria": "Ambiente e Energia",
+      "importanza": 3,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R0450",
+      "pubblicato": "2026-07-01T00:00:00+02:00",
+      "processed_at": "2026-07-03T06:58:34.119121+00:00"
     },
     {
       "id": "ce398af5d33f2504",
@@ -556,6 +967,95 @@
       "processed_at": "2026-07-01T08:05:27.609548+00:00"
     },
     {
+      "id": "6b896a518cdc6e29",
+      "titolo_popolare": "Tariffa ridotta per l'elettricità alle navi in porto",
+      "titolo_originale": "CELEX:32026D1440: Council Implementing Decision (EU) 2026/1440 of 25 June 2026 authorising Germany to apply a reduced rate of taxation to electricity directly supplied to vessels berthed in ports, in accordance with Article 19 of Directive 2003/96/EC",
+      "riassunto_esteso": "Il Consiglio europeo ha deciso di autorizzare la Germania a concedere una tassa più bassa sull'elettricità fornita direttamente alle imbarcazioni attraccate nei porti. La misura si basa sull'articolo 19 della direttiva 2003/96/CE, che permette agli Stati membri di applicare aliquote ridotte per favorire la competitività del settore marittimo. L'obiettivo è ridurre i costi operativi delle navi, incentivare l'uso di energia elettrica rispetto a combustibili più inquinanti e armonizzare le condizioni fiscali con quelle di altri Paesi. La decisione è stata adottata il 25 giugno 2026 e diventerà efficace una volta che la Germania ne darà attuazione. Si tratta di un passo verso una maggiore sostenibilità ambientale nei porti europei.",
+      "cosa_cambia": [
+        "Le navi attraccate in porto potranno acquistare elettricità a una tassa ridotta rispetto al mercato standard.",
+        "Le compagnie di navigazione vedranno diminuiti i costi energetici per le operazioni portuali.",
+        "Le autorità portuali dovranno gestire la fatturazione separata per l'elettricità a tariffa ridotta."
+      ],
+      "chi_interessa": "tutte le compagnie di navigazione e i proprietari di imbarcazioni che attraccano nei porti tedeschi",
+      "cosa_devi_fare": "Verificare con il fornitore di energia del porto la possibilità di accedere alla tariffa ridotta e richiedere la fatturazione dedicata.",
+      "impatto": "Riduzione dei costi di energia per le navi, favorendo la competitività e la sostenibilità ambientale.",
+      "data_vigenza": "in vigore da subito, previa attuazione nazionale tedesca",
+      "categoria": "Ambiente e Energia",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1440",
+      "pubblicato": "2026-06-30T00:00:00+02:00",
+      "processed_at": "2026-07-03T06:54:26.372649+00:00"
+    },
+    {
+      "id": "3df1427a6ddd8147",
+      "titolo_popolare": "Nuove regole per dimostrare l'origine non preferenziale delle merci",
+      "titolo_originale": "CELEX:32026R1422: Commission Implementing Regulation (EU) 2026/1422 of 25 June 2026 amending Implementing Regulation (EU) 2015/2447 as regards the procedural rules concerning the proof of non-preferential origin",
+      "riassunto_esteso": "Il Regolamento UE 2026/1422 modifica il Regolamento di attuazione 2015/2447 per semplificare e rendere più trasparenti le procedure che le imprese devono seguire per provare l'origine non preferenziale dei prodotti. È stato introdotto per uniformare i requisiti tra gli Stati membri, ridurre i ritardi alle frontiere e combattere pratiche fraudolente. Con queste modifiche, le autorità doganali avranno linee guida più chiare su quali documenti accettare e come verificarli. L’obiettivo è facilitare gli scambi commerciali intra‑UE e con paesi terzi, garantendo al contempo la corretta applicazione delle tariffe doganali. La norma entra in vigore subito, ma la sua applicazione pratica sarà operativa a partire dal 1° ottobre 2026, data in cui le autorità dovranno adeguare i propri sistemi.",
+      "cosa_cambia": [
+        "Le imprese dovranno presentare documenti standardizzati per dimostrare l'origine non preferenziale delle merci.",
+        "Le autorità doganali avranno criteri più uniformi per accettare o rifiutare tali documenti.",
+        "I tempi di sdoganamento si ridurranno grazie a procedure più snelle.",
+        "Le sanzioni per dichiarazioni false saranno più chiare e applicate in modo più coerente."
+      ],
+      "chi_interessa": "tutte le imprese che importano o esportano merci all'interno dell'UE o verso paesi terzi",
+      "cosa_devi_fare": "Adeguare la documentazione di origine ai nuovi modelli richiesti e formare il personale doganale interno.",
+      "impatto": "Sdoganamenti più rapidi e meno rischi di contestazioni, ma con obbligo di maggiore precisione nella documentazione.",
+      "data_vigenza": "dal 1 ottobre 2026",
+      "categoria": "Imprese e Mercato",
+      "importanza": 3,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1422",
+      "pubblicato": "2026-06-30T00:00:00+02:00",
+      "processed_at": "2026-07-03T06:54:59.107419+00:00"
+    },
+    {
+      "id": "e2787c731366213a",
+      "titolo_popolare": "Nuovi limiti per gli HFC sul mercato UE",
+      "titolo_originale": "CELEX:32026D1382: Commission Implementing Decision (EU) 2026/1382 of 22 June 2026 determining, pursuant to Regulation (EU) 2024/573 of the European Parliament and of the Council, reference values for the period from 1 January 2027 to 31 December 2029 for each producer or importer which has lawfully placed hydrofluorocarbons on the Union market from 1 January 2022 to 31 December 2024 (notified under document C(2026) 3000)",
+      "riassunto_esteso": "La Commissione europea ha stabilito, con una decisione attuativa, i valori di riferimento per le quantità di idrofluorocarburi (HFC) che i produttori e gli importatori hanno potuto immettere sul mercato tra il 2022 e il 2024. Questi valori serviranno da base per calcolare gli obblighi di riduzione e le eventuali quote di compensazione per il periodo 2027‑2029. La misura nasce per attuare il Regolamento (UE) 2024/573, che mira a contenere le emissioni di gas ad effetto serra provenienti dagli HFC, sostituendoli con alternative più ecologiche. In pratica, ogni azienda dovrà confrontare le proprie vendite con i valori di riferimento fissati, per verificare se rispetta gli obiettivi di riduzione. La decisione è stata adottata per garantire una transizione uniforme e trasparente in tutta l'Unione.",
+      "cosa_cambia": [
+        "Le aziende devono confrontare le proprie vendite di HFC con i nuovi valori di riferimento per 2027‑2029.",
+        "Se le vendite superano i valori, l’impresa dovrà acquistare quote di compensazione o ridurre le proprie emissioni.",
+        "Le autorità nazionali controlleranno il rispetto di questi valori tramite report annuali."
+      ],
+      "chi_interessa": "produttori e importatori di idrofluorocarburi nell'Unione Europea",
+      "cosa_devi_fare": "verificare le proprie quantità di HFC vendute 2022‑2024 e confrontarle con i valori di riferimento pubblicati.",
+      "impatto": "Garantisce una riduzione più efficace delle emissioni di HFC, contribuendo alla lotta contro il cambiamento climatico e imponendo nuovi obblighi alle imprese del settore.",
+      "data_vigenza": "dal 1 gennaio 2027",
+      "categoria": "Ambiente e Energia",
+      "importanza": 3,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1382",
+      "pubblicato": "2026-06-30T00:00:00+02:00",
+      "processed_at": "2026-07-03T06:55:23.816958+00:00"
+    },
+    {
+      "id": "2925352d2a46a8d3",
+      "titolo_popolare": "Nuove regole per la missione UE al valico di Rafah",
+      "titolo_originale": "CELEX:32026D1467: Council Decision (CFSP) 2026/1467 of 29 June 2026 amending Joint Action 2005/889/CFSP on establishing a European Union Border Assistance Mission for the Rafah Crossing Point (EU BAM Rafah)",
+      "riassunto_esteso": "Il Consiglio dell'Unione Europea ha deciso di modificare la precedente azione congiunta del 2005 che aveva creato la missione di assistenza alle frontiere UE al valico di Rafah, in Egitto. La modifica serve a rafforzare la capacità operativa della missione, aggiornare i criteri di sicurezza e migliorare la cooperazione con le autorità locali per garantire un transito più sicuro e fluido di persone e merci. Si vuole anche adeguare la missione alle nuove esigenze di sicurezza nella regione e alle normative internazionali. La decisione è stata adottata per rispondere a cambiamenti sul campo e a richieste di maggiore efficienza. Con queste modifiche, l'UE intende sostenere la stabilità e la libera circolazione al confine di Rafah.",
+      "cosa_cambia": [
+        "la missione UE a Rafah avrà più personale e risorse per controlli più rapidi",
+        "vengono introdotti nuovi protocolli di sicurezza per la verifica di merci e persone",
+        "la cooperazione con le autorità egiziane sarà formalizzata con accordi più dettagliati"
+      ],
+      "chi_interessa": "tutti i cittadini e le imprese che attraversano o dipendono dal valico di Rafah",
+      "cosa_devi_fare": "non è richiesto alcun adempimento diretto; informarsi sui nuovi tempi di attesa al valico.",
+      "impatto": "passaggi più veloci e più sicuri al valico di Rafah, con benefici per commercianti e viaggiatori.",
+      "data_vigenza": "dal 1 ottobre 2026",
+      "categoria": "Trasporti",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1467",
+      "pubblicato": "2026-06-30T00:00:00+02:00",
+      "processed_at": "2026-07-03T06:55:46.132597+00:00"
+    },
+    {
       "id": "7ad1bfd7a65fcd49",
       "titolo_popolare": "Aggiornamento delle misure contro la Russia",
       "titolo_originale": "CELEX:32025D0931R(01): Corrigendum to Council Decision (CFSP) 2025/931 of 20 May 2025 amending Decision 2014/512/CFSP concerning restrictive measures in view of Russia’s actions destabilising the situation in Ukraine (OJ L, 2025/931, 20.5.2025)",
@@ -852,6 +1352,28 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32014L0049R(06)",
       "pubblicato": "2026-06-29T00:00:00+02:00",
       "processed_at": "2026-06-30T07:50:29.965222+00:00"
+    },
+    {
+      "id": "d3ae64abf30dc621",
+      "titolo_popolare": "Nuove esenzioni per studi clinici su dispositivi medici",
+      "titolo_originale": "CELEX:32026R1451: Commission Delegated Regulation (EU) 2026/1451 of 20 March 2026 amending Regulation (EU) 2017/745 of the European Parliament and of the Council as regards the list of implantable devices and class III devices exempted from the obligation to perform clinical investigations",
+      "riassunto_esteso": "Il Regolamento delegato UE 2026/1451 aggiorna il Regolamento sui dispositivi medici (UE) 2017/745 aggiungendo alla lista dei dispositivi impiantabili e di classe III quelli che non dovranno più sottoporsi a studi clinici obbligatori. La modifica nasce per semplificare l'accesso al mercato di prodotti già ben documentati, riducendo i costi e i tempi di sviluppo. Vengono specificati i criteri di sicurezza e performance che giustificano l'esenzione. L'obiettivo è favorire l'innovazione mantenendo alti gli standard di tutela del paziente. La norma entra in vigore subito dopo la pubblicazione nella Gazzetta UE.",
+      "cosa_cambia": [
+        "Alcuni dispositivi impiantabili e di classe III non richiederanno più studi clinici obbligatori",
+        "Le aziende potranno immettere sul mercato questi dispositivi più rapidamente",
+        "Le autorità sanitarie avranno linee guida più chiare per valutare le esenzioni"
+      ],
+      "chi_interessa": "produttori di dispositivi medici impiantabili e di classe III, autorità competenti e professionisti sanitari",
+      "cosa_devi_fare": "Verificare se il proprio prodotto rientra nella nuova lista di esenzioni e, in tal caso, adeguare la documentazione di conformità.",
+      "impatto": "Riduzione dei tempi e dei costi di immissione sul mercato per i dispositivi esenti, con benefici per le imprese e per i pazienti che accedono più rapidamente a nuove tecnologie.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Imprese e Mercato",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1451",
+      "pubblicato": "2026-06-29T00:00:00+02:00",
+      "processed_at": "2026-07-03T06:53:54.469138+00:00"
     },
     {
       "id": "9a69237c4a41984d",
@@ -1195,6 +1717,28 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601398",
       "pubblicato": "2026-06-26T00:00:00+02:00",
       "processed_at": "2026-06-28T07:46:56.102181+00:00"
+    },
+    {
+      "id": "a95205c499973294",
+      "titolo_popolare": "Nuove regole UE per il recupero degli alimenti",
+      "titolo_originale": "OJ:L_202601397: Commission Implementing Regulation (EU) 2026/1397 of 25 June 2026 replacing Annex X to Council Regulation (EC) No 4/2009 on jurisdiction, applicable law, recognition and enforcement of decisions and cooperation in matters relating to maintenance obligations",
+      "riassunto_esteso": "Il Regolamento UE 2026/1397 aggiorna l'Allegato X del Regolamento Consiglio 4/2009, semplificando le norme su dove e come si può chiedere e far valere gli alimenti dovuti. L’obiettivo è rendere più veloce e uniforme il riconoscimento e l’esecuzione delle decisioni di mantenimento in tutti gli Stati membri, evitando lunghe procedure e conflitti di legge. Con queste modifiche, le autorità nazionali dovranno collaborare più strettamente e utilizzare procedure più snelle. È stato introdotto un quadro più chiaro per determinare la giurisdizione competente e la legge applicabile, così da proteggere meglio chi ha diritto a ricevere gli alimenti. La norma è entrata in vigore subito, ma gli Stati hanno tempo per adeguare le proprie leggi interne.",
+      "cosa_cambia": [
+        "È più chiaro quale tribunale è competente per le cause di mantenimento transfrontaliere",
+        "La legge applicabile è determinata con criteri più semplici, riducendo i conflitti di legge",
+        "Le decisioni di mantenimento sono riconosciute ed eseguite più rapidamente negli altri Paesi UE"
+      ],
+      "chi_interessa": "tutti i creditori di alimenti, i genitori, i figli e le autorità giudiziarie dei Paesi UE",
+      "cosa_devi_fare": "Se hai una decisione di mantenimento da far valere in un altro Stato UE, rivolgiti all'autorità competente locale per avviare il riconoscimento.",
+      "impatto": "Gli alimenti saranno più facili da far rispettare in tutta Europa, garantendo pagamenti più rapidi a chi ne ha diritto.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Altro",
+      "importanza": 3,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601397",
+      "pubblicato": "2026-06-26T00:00:00+02:00",
+      "processed_at": "2026-07-03T06:53:35.772112+00:00"
     },
     {
       "id": "d0c182cb08d9cdb5",
