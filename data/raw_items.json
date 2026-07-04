@@ -4881,7 +4881,7 @@
     "pubblicato": "2026-07-02T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-02T06:58:27.989123+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "13862f896d130c8d",
@@ -5013,7 +5013,7 @@
     "pubblicato": "2026-07-03T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-03T06:52:25.269052+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "0e4629bbc4be3898",
@@ -5025,7 +5025,7 @@
     "pubblicato": "2026-07-03T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-03T06:52:25.269127+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "7d2caf54b0848384",
@@ -5085,7 +5085,7 @@
     "pubblicato": "2026-07-03T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-03T06:52:25.269524+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "6d11b08c7fbfcc45",
@@ -5097,7 +5097,7 @@
     "pubblicato": "2026-07-03T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-03T06:52:25.269596+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "19e5edc235edf92d",
@@ -5109,7 +5109,7 @@
     "pubblicato": "2026-07-03T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-03T06:52:25.269667+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "dadfba46ef482a91",
@@ -5133,7 +5133,7 @@
     "pubblicato": "2026-07-03T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-03T06:52:25.269803+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "9ea81b5fd5a00456",
@@ -5145,7 +5145,7 @@
     "pubblicato": "2026-07-03T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-03T06:52:25.269871+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "d515a716158d053d",
@@ -5157,7 +5157,7 @@
     "pubblicato": "2026-07-03T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-03T06:52:25.269937+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "95990b1ff8900436",
@@ -5169,7 +5169,7 @@
     "pubblicato": "2026-07-03T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-03T06:52:25.270004+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "d00cfeaeab44c7b2",
@@ -5181,7 +5181,7 @@
     "pubblicato": "2026-07-03T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-03T06:52:25.270070+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "af28f31edd95146f",
@@ -5205,7 +5205,7 @@
     "pubblicato": "2026-07-03T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-03T06:52:25.270203+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "b30a4985565a77ed",
@@ -5217,7 +5217,7 @@
     "pubblicato": "2026-07-03T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-03T06:52:25.270267+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "0009aee7b5d01044",
@@ -5229,7 +5229,7 @@
     "pubblicato": "2026-07-03T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-03T06:52:25.270331+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "d089802f4c98a0a5",
@@ -5241,7 +5241,7 @@
     "pubblicato": "2026-07-03T00:00:00+02:00",
     "summary_raw": "This document does not exist in English.",
     "fetched_at": "2026-07-03T06:52:25.270396+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "ef42da05b0ca44df",
@@ -5253,7 +5253,7 @@
     "pubblicato": "2026-07-03T00:00:00+02:00",
     "summary_raw": "This document does not exist in English.",
     "fetched_at": "2026-07-03T06:52:25.270461+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "df31d00577d3e203",
@@ -5277,7 +5277,7 @@
     "pubblicato": "2026-07-03T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-03T06:52:25.270609+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "74ebb856bb0ff8d7",
@@ -5289,7 +5289,7 @@
     "pubblicato": "2026-07-03T00:00:00+02:00",
     "summary_raw": "This document does not exist in English.",
     "fetched_at": "2026-07-03T06:52:25.270675+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "8fed1e03e5837a34",
@@ -5301,7 +5301,7 @@
     "pubblicato": "2026-07-03T00:00:00+02:00",
     "summary_raw": "This document does not exist in English.",
     "fetched_at": "2026-07-03T06:52:25.270746+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "70b6c6bdd791f715",
@@ -5313,7 +5313,7 @@
     "pubblicato": "2026-07-03T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-03T06:52:25.270813+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "ba3fbc50b7805c2a",
@@ -5337,7 +5337,7 @@
     "pubblicato": "2026-07-03T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-03T06:52:25.270949+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "538764cb24e6a60e",
