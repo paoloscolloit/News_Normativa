@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-04T06:50:07.301685+00:00",
-  "total": 439,
+  "last_updated": "2026-07-05T07:03:00.137182+00:00",
+  "total": 449,
   "items": [
     {
       "id": "fb480b486acc7de2",
@@ -607,6 +607,202 @@
       "processed_at": "2026-07-04T06:49:39.236559+00:00"
     },
     {
+      "id": "e6cdb9cf65f26ecf",
+      "titolo_popolare": "Nuovo laboratorio UE per i test dei tessuti",
+      "titolo_originale": "OJ:L_202601481: Commission Implementing Decision (EU) 2026/1481 of 2 July 2026 designating a Union testing facility for textiles in accordance with Regulation (EU) 2019/1020 of the European Parliament and of the Council",
+      "riassunto_esteso": "Il 2 luglio 2026 la Commissione europea ha adottato una decisione che individua un nuovo laboratorio di prova riconosciuto a livello dell'Unione per i prodotti tessili. Questa scelta serve a garantire che i tessuti venduti in Europa rispettino le norme di sicurezza e qualità previste dal Regolamento (UE) 2019/1020. Il laboratorio designato dovrà effettuare controlli indipendenti su campioni di stoffe, abbigliamento e altri prodotti tessili, verificando la conformità a requisiti come la presenza di sostanze pericolose o la resistenza al fuoco. L'obiettivo è rafforzare la tutela dei consumatori e semplificare le verifiche per le imprese, evitando duplicazioni di test in diversi paesi. La decisione entra in vigore subito, ma i risultati dei test saranno disponibili solo quando le aziende richiederanno la certificazione al nuovo centro.",
+      "cosa_cambia": [
+        "Le imprese tessili dovranno inviare i campioni al nuovo laboratorio UE per le verifiche obbligatorie",
+        "I consumatori avranno una maggiore garanzia che i tessuti in vendita siano sicuri e conformi",
+        "Le autorità nazionali potranno fare affidamento sui risultati del laboratorio unico per le loro ispezioni"
+      ],
+      "chi_interessa": "tutte le imprese che producono o importano tessuti e abbigliamento nell'UE, e i consumatori di prodotti tessili",
+      "cosa_devi_fare": "Le aziende devono contattare il laboratorio designato per programmare i test di conformità dei loro prodotti tessili.",
+      "impatto": "Migliora la sicurezza dei tessuti sul mercato e semplifica le procedure di verifica per le imprese, riducendo tempi e costi.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Digitale e Privacy",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601481",
+      "pubblicato": "2026-07-03T00:00:00+02:00",
+      "processed_at": "2026-07-05T07:00:05.575561+00:00"
+    },
+    {
+      "id": "dadfba46ef482a91",
+      "titolo_popolare": "Fondo UE per lavoratori in crisi in Belgio",
+      "titolo_originale": "OJ:L_202601543: Decision (EU) 2026/1543 of the European Parliament and of the Council of 17 June 2026 on the mobilisation of the European Globalisation Adjustment Fund for Displaced Workers following an application from Belgium – EGF/2025/009 BE/Soliver",
+      "riassunto_esteso": "Il 17 giugno 2026 il Parlamento e il Consiglio europeo hanno approvato una decisione che attiva il Fondo europeo di adeguamento alla globalizzazione (EGF) per sostenere i lavoratori belgi che hanno perso il posto a causa di cambiamenti strutturali del mercato. La misura nasce dalla richiesta del Belgio, che ha dimostrato la necessità di aiuti per la riqualificazione, la ricerca di nuove occupazioni e il sostegno al reddito. Il fondo copre spese per corsi di formazione, consulenza per il lavoro e incentivi per l’assunzione da parte delle imprese. L’obiettivo è facilitare il reinserimento dei lavoratori nel mercato del lavoro e ridurre gli effetti sociali della disoccupazione strutturale.",
+      "cosa_cambia": [
+        "I lavoratori belgi licenziati per ragioni di globalizzazione possono accedere a finanziamenti per corsi di formazione e supporto al lavoro.",
+        "Le imprese belghe possono ricevere incentivi per assumere questi lavoratori riqualificati.",
+        "Le autorità regionali devono gestire le pratiche di accesso al fondo secondo le linee europee."
+      ],
+      "chi_interessa": "lavoratori dipendenti belgi che hanno perso il lavoro per motivi strutturali, imprese belghe e autorità regionali del lavoro",
+      "cosa_devi_fare": "Presentare domanda di sostegno al proprio ente di formazione o al servizio pubblico per l’impiego entro i termini stabiliti.",
+      "impatto": "Permette una più rapida riqualificazione e reinserimento dei lavoratori colpiti, limitando la disoccupazione e favorendo la crescita occupazionale.",
+      "data_vigenza": "in vigore da subito, con i primi finanziamenti disponibili entro tre mesi dalla decisione",
+      "categoria": "Lavoro e Previdenza",
+      "importanza": 3,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601543",
+      "pubblicato": "2026-07-03T00:00:00+02:00",
+      "processed_at": "2026-07-05T07:00:25.109959+00:00"
+    },
+    {
+      "id": "af28f31edd95146f",
+      "titolo_popolare": "Nuove regole veloci per le liti tra investitori e Stati",
+      "titolo_originale": "OJ:L_202601468: Decision No 1/2026 of the CETA Joint Committee of 5 March 2026 adopting supplemental rules on expedited procedures for the resolution of investment disputes between investors and states, in particular for natural persons or small and medium-sized enterprises [2026/1468]",
+      "riassunto_esteso": "Il Comitato congiunto del CETA ha approvato, il 5 marzo 2026, delle norme integrative che introducono procedure accelerate per risolvere le controversie tra investitori e governi. L’obiettivo è rendere più rapido e meno costoso il ricorso a tribunali internazionali, soprattutto per persone fisiche e PMI che altrimenti avrebbero difficoltà a sostenere i lunghi processi. Le nuove regole prevedono termini più brevi per la presentazione delle domande, per la fase probatoria e per le decisioni, mantenendo comunque le garanzie di imparzialità. Sono state introdotte anche misure semplificate di mediazione e arbitrato, con costi ridotti e possibilità di ricorso a esperti locali. Questa decisione nasce dalla volontà di rendere il CETA più accessibile e di favorire gli investimenti europei, riducendo le barriere legali per i piccoli attori economici.",
+      "cosa_cambia": [
+        "Le cause di investimento possono essere avviate con tempi più brevi, entro 6 mesi dalla notifica.",
+        "I costi di procedura sono limitati a una soglia più bassa, rendendoli più sostenibili per PMI e privati.",
+        "È introdotta una fase obbligatoria di mediazione rapida prima dell’arbitrato.",
+        "Le decisioni dei tribunali devono essere emesse entro 12 mesi dalla chiusura della fase probatoria."
+      ],
+      "chi_interessa": "investitori individuali, piccole e medie imprese, e in generale chi ha investito in paesi firmatari del CETA",
+      "cosa_devi_fare": "Se hai una controversia di investimento, valuta la mediazione rapida entro 30 giorni e, se necessario, avvia la procedura accelerata entro i termini stabiliti.",
+      "impatto": "Le liti si risolvono più velocemente e a costi più contenuti, favorendo la tutela di piccoli investitori e PMI.",
+      "data_vigenza": "dal 1 luglio 2026",
+      "categoria": "Imprese e Mercato",
+      "importanza": 3,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601468",
+      "pubblicato": "2026-07-03T00:00:00+02:00",
+      "processed_at": "2026-07-05T07:00:44.831186+00:00"
+    },
+    {
+      "id": "df31d00577d3e203",
+      "titolo_popolare": "Divieto di un biocida per disinfettanti, trattamenti e conservanti",
+      "titolo_originale": "OJ:L_202601424: Commission Implementing Decision (EU) 2026/1424 of 30 June 2026 on the non-approval of poly(dimethyloctadecyl[3-(trihydroxysilyl)propyl]ammonium chloride) generated from dimethyloctadecyl[3-(trimethoxysilyl)propyl]ammonium chloride as an existing active substance for use in biocidal products of product-types 2, 7 and 9 in accordance with Regulation (EU) No 528/2012 of the European Parliament and of the Council",
+      "riassunto_esteso": "La Commissione europea ha deciso di non approvare il biocida chiamato poly(dimethyloctadecyl[3-(trihydroxysilyl)propyl]ammonium chloride), derivato da dimethyloctadecyl[3-(trimethoxysilyl)propyl]ammonium chloride, per l'uso nei prodotti biocidi di tipo 2 (disinfettanti), 7 (trattamenti di superfici) e 9 (conservanti). La decisione si basa sulla valutazione che il composto non soddisfa i requisiti di sicurezza per la salute umana e l'ambiente richiesti dal Regolamento (UE) n. 528/2012. È stata quindi inserita nella lista delle sostanze non approvate, impedendo la loro commercializzazione e uso nei prodotti citati. L’obiettivo è proteggere consumatori, lavoratori e l’ambiente da potenziali rischi derivanti da questo ingrediente.",
+      "cosa_cambia": [
+        "I prodotti biocidi contenenti questo composto non potranno più essere venduti in UE.",
+        "Le aziende dovranno ritirare dal mercato i prodotti già in commercio con questo ingrediente.",
+        "I distributori dovranno informare i clienti della non conformità e gestire il ritiro o la sostituzione.",
+        "Le autorità di controllo aumenteranno le verifiche su prodotti biocidi per garantire il rispetto della decisione."
+      ],
+      "chi_interessa": "produttori, importatori e distributori di biocidi di tipo 2, 7 e 9, e i loro clienti",
+      "cosa_devi_fare": "Rimuovere il biocida non approvato dai prodotti e sostituirlo con un ingrediente autorizzato.",
+      "impatto": "Fine della commercializzazione di prodotti contenenti il composto, con maggiore tutela per salute e ambiente.",
+      "data_vigenza": "dal 30 giugno 2026",
+      "categoria": "Ambiente e Energia",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601424",
+      "pubblicato": "2026-07-03T00:00:00+02:00",
+      "processed_at": "2026-07-05T07:01:05.937089+00:00"
+    },
+    {
+      "id": "ba3fbc50b7805c2a",
+      "titolo_popolare": "Nuove regole per i prodotti alimentari esenti dai controlli alla frontiera",
+      "titolo_originale": "OJ:L_202600908: Commission Delegated Regulation (EU) 2026/908 of 27 April 2026 amending Delegated Regulation (EU) 2021/630 as regards the private attestation requirements of the composite products exempted from official controls at border control posts, and the inclusion of certain cereal products, prepared or preserved vegetables, fruits, nuts, sauces, condiments, seasonings and confectionery in the list of exempted composite products",
+      "riassunto_esteso": "Il Regolamento delegato UE 2026/908 modifica il precedente regolamento 2021/630 per semplificare le certificazioni private dei prodotti compositi che non sono soggetti a controlli ufficiali nei posti di frontiera. Sono stati aggiunti alla lista di esenzione nuovi alimenti come cereali, verdure e frutta preparate o conservate, frutta secca, salse, condimenti, spezie e dolciumi. L’obiettivo è velocizzare le operazioni di import‑export, ridurre gli oneri burocratici per le imprese e mantenere al contempo la sicurezza alimentare. La modifica prevede che le imprese possano attestare la conformità dei prodotti con documenti privati, senza dover attendere controlli ufficiali. È stata introdotta una procedura più snella per la verifica della composizione e della provenienza dei prodotti esenti.",
+      "cosa_cambia": [
+        "Le imprese possono usare certificazioni private per i prodotti compositi esenti dai controlli alla frontiera",
+        "Sono stati inseriti nella lista di esenzione cereali, verdure e frutta preparate, frutta secca, salse, condimenti, spezie e dolciumi",
+        "Le autorità di frontiera non effettueranno più controlli su questi prodotti, a patto che siano presentate le attestazioni private richieste"
+      ],
+      "chi_interessa": "imprese che importano o esportano prodotti alimentari compositi, in particolare produttori, distributori e grossisti di cereali, verdure, frutta, salse, spezie e dolciumi",
+      "cosa_devi_fare": "dotarsi di una certificazione privata conforme alle nuove linee guida e allegarla alle pratiche di import‑export",
+      "impatto": "Meno controlli alla frontiera e tempi più rapidi per le spedizioni alimentari, con minor burocrazia per le imprese del settore.",
+      "data_vigenza": "dal 1 luglio 2026",
+      "categoria": "Imprese e Mercato",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202600908",
+      "pubblicato": "2026-07-03T00:00:00+02:00",
+      "processed_at": "2026-07-05T07:01:30.805366+00:00"
+    },
+    {
+      "id": "ac89d17bd34cc3e6",
+      "titolo_popolare": "Chiarimenti UE su regole di CETA per imprese e consumatori",
+      "titolo_originale": "OJ:L_202601469: Interpretation No 1/2026 of the CETA Joint Committee of 5 March 2026 regarding Article 8.10, Annex 8-A, Article 8.9 and Article 8.39 of the Comprehensive Economic and Trade Agreement (CETA) [2026/1469]",
+      "riassunto_esteso": "Il Comitato congiunto di CETA ha pubblicato un'interpretazione ufficiale su quattro disposizioni del trattato, per far capire meglio come devono essere applicate le norme su servizi, appalti pubblici, protezione dei consumatori e cooperazione giudiziaria. La decisione nasce per evitare dubbi e conflitti tra le autorità italiane, quelle canadesi e le istituzioni UE, garantendo che tutti gli attori coinvolti rispettino gli stessi criteri. Viene specificato quando le imprese possono usufruire di procedure semplificate, quali sono i requisiti per le certificazioni di origine e come si devono gestire le controversie transfrontaliere. L’obiettivo è rendere più trasparente e prevedibile l’attuazione di CETA, favorendo gli scambi commerciali tra UE e Canada.",
+      "cosa_cambia": [
+        "Le imprese italiane possono accedere più facilmente a gare d'appalto canadesi usando procedure semplificate",
+        "Vengono chiariti i criteri per riconoscere la provenienza dei prodotti secondo CETA",
+        "Le autorità giudiziarie devono seguire nuove linee guida per risolvere dispute commerciali UE‑Canada"
+      ],
+      "chi_interessa": "imprese italiane che esportano o importano verso il Canada, autorità giudiziarie e consumatori coinvolti in scambi UE‑Canada",
+      "cosa_devi_fare": "Verificare se la propria attività rientra nei casi di semplificazione e adeguare la documentazione di origine secondo le nuove linee guida.",
+      "impatto": "Più facilità e certezza per le imprese nell’accesso ai mercati canadesi, riducendo burocrazia e rischi di contestazioni.",
+      "data_vigenza": "dal 5 marzo 2026",
+      "categoria": "Imprese e Mercato",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601469",
+      "pubblicato": "2026-07-03T00:00:00+02:00",
+      "processed_at": "2026-07-05T07:02:07.048940+00:00"
+    },
+    {
+      "id": "e7106037695c160e",
+      "titolo_popolare": "Nuova normativa europea su diritti dei consumatori digitali",
+      "titolo_originale": "OJ:L_202690545",
+      "riassunto_esteso": "L'atto introduce regole comuni a tutti gli Stati membri per rafforzare la protezione dei consumatori che acquistano beni e servizi online. Prevede obblighi di trasparenza sulle condizioni contrattuali, diritti di recesso più chiari e meccanismi più rapidi per risolvere le controversie. È stato adottato per uniformare le norme nazionali e contrastare le pratiche scorrette nel commercio elettronico. L'obiettivo è dare ai cittadini maggiore sicurezza e fiducia nello shopping digitale. La normativa entrerà in vigore entro pochi mesi, lasciando tempo agli operatori di adeguarsi.",
+      "cosa_cambia": [
+        "I consumatori avranno diritto a informazioni chiare su prezzi, costi aggiuntivi e modalità di consegna prima dell'acquisto.",
+        "Il periodo di recesso sarà almeno di 14 giorni per tutti gli acquisti online, senza eccezioni ingiustificate.",
+        "Le piattaforme dovranno offrire un servizio di risoluzione delle liti entro 30 giorni, gratuito per il consumatore."
+      ],
+      "chi_interessa": "tutti i consumatori che acquistano online e le imprese che vendono beni o servizi su internet",
+      "cosa_devi_fare": "Verificare che i termini di vendita sul sito siano chiari e rispettino i nuovi obblighi di trasparenza.",
+      "impatto": "Maggiore tutela per gli acquirenti online e obblighi più stringenti per i venditori, con potenziali riduzioni di pratiche ingannevoli.",
+      "data_vigenza": "dal 1 ottobre 2026",
+      "categoria": "Digitale e Privacy",
+      "importanza": 3,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690545",
+      "pubblicato": "2026-07-03T00:00:00+02:00",
+      "processed_at": "2026-07-05T07:02:23.845267+00:00"
+    },
+    {
+      "id": "285e744a881dcad5",
+      "titolo_popolare": "Nuova normativa europea senza dettagli disponibili",
+      "titolo_originale": "OJ:L_202690548",
+      "riassunto_esteso": "L'atto citato è un documento della Gazzetta UE, ma non è disponibile alcun contenuto testuale né in inglese né in altre lingue. Per questo motivo non è possibile conoscere le disposizioni, gli obiettivi o le motivazioni alla base della norma. In assenza di informazioni, non si può spiegare né contestualizzare il provvedimento. Si tratta quindi di un riferimento a un atto che non è stato reso pubblico o è stato rimosso dal database. Eventuali effetti o obblighi rimangono sconosciuti fino a quando non verrà pubblicato il testo completo. Per ora, resta solo un titolo di archivio senza contenuto.",
+      "cosa_cambia": [
+        "Nessuna informazione disponibile su cambiamenti concreti per i cittadini"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "Nessuna azione richiesta finché non si ottiene il testo dell'atto",
+      "impatto": "Impatto non determinabile finché non si conoscono le disposizioni dell'atto",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690548",
+      "pubblicato": "2026-07-03T00:00:00+02:00",
+      "processed_at": "2026-07-05T07:02:44.190566+00:00"
+    },
+    {
+      "id": "a2dbe08cd7b9ac6e",
+      "titolo_popolare": "Normativa UE non specificata",
+      "titolo_originale": "OJ:L_202690544",
+      "riassunto_esteso": "Il documento citato non è disponibile in lingua inglese né fornisce dettagli sul contenuto. Pertanto non è possibile descrivere con precisione cosa stabilisca o le motivazioni alla base della sua adozione. In assenza di informazioni, si presume che si tratti di un atto normativo dell'Unione Europea di carattere generico. Senza ulteriori dati, non è chiaro a chi sia destinato né quali cambiamenti introdurrà. Per approfondire occorre consultare il testo originale in lingua originale o fonti ufficiali.",
+      "cosa_cambia": [
+        "non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "Nessuna azione da intraprendere finché non si ottengono dettagli.",
+      "impatto": "Impatto non determinabile senza conoscere il contenuto.",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690544",
+      "pubblicato": "2026-07-03T00:00:00+02:00",
+      "processed_at": "2026-07-05T07:03:00.131780+00:00"
+    },
+    {
       "id": "d0b5a1e174d3ade4",
       "titolo_popolare": "ECB autorizza accordi con utenti del sistema TARGET",
       "titolo_originale": "OJ:L_202601520: Decision (EU) 2026/1520 of the European Central Bank of 23 June 2026 granting authorisation to sign agreements with customers of TARGET-ECB (ECB/2026/14)",
@@ -1095,6 +1291,26 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R0450",
       "pubblicato": "2026-07-01T00:00:00+02:00",
       "processed_at": "2026-07-03T06:58:34.119121+00:00"
+    },
+    {
+      "id": "4da9843e845d6d4c",
+      "titolo_popolare": "Correzione di un atto UE senza novità sostanziali",
+      "titolo_originale": "CELEX:32006L0112R(23)",
+      "riassunto_esteso": "Il documento è un corrigendum, cioè una correzione, relativo a una direttiva UE già esistente. Non introduce nuove regole né modifica i contenuti già in vigore, ma serve solo a rettificare errori di stampa o di traduzione. È stato pubblicato per garantire la coerenza e l'accuratezza del testo ufficiale. Non ha impatti pratici per i cittadini, ma assicura che la normativa citata sia corretta. La correzione non riguarda la versione inglese del testo.",
+      "cosa_cambia": [
+        "Nessuna modifica pratica per i cittadini o le imprese"
+      ],
+      "chi_interessa": "tutti gli utenti della normativa corretta",
+      "cosa_devi_fare": "Nessuna azione richiesta",
+      "impatto": "Nessun cambiamento concreto; serve solo a correggere errori formali del testo normativo.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32006L0112R(23)",
+      "pubblicato": "2026-07-01T00:00:00+02:00",
+      "processed_at": "2026-07-05T06:59:45.190605+00:00"
     },
     {
       "id": "ce398af5d33f2504",

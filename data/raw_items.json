@@ -4821,7 +4821,7 @@
     "pubblicato": "2026-07-01T00:00:00+02:00",
     "summary_raw": "The corrigendum does not concern the English version.",
     "fetched_at": "2026-07-01T08:00:34.243316+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "d0b5a1e174d3ade4",
@@ -5001,7 +5001,7 @@
     "pubblicato": "2026-07-03T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-03T06:52:25.268972+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "f1b6033a3abd71e8",
@@ -5121,7 +5121,7 @@
     "pubblicato": "2026-07-03T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-03T06:52:25.269734+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "da1dc06c5beabd02",
@@ -5193,7 +5193,7 @@
     "pubblicato": "2026-07-03T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-03T06:52:25.270137+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "cafa86945b9edcbc",
@@ -5265,7 +5265,7 @@
     "pubblicato": "2026-07-03T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-03T06:52:25.270543+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "e35b2aaa3e97d344",
@@ -5325,7 +5325,7 @@
     "pubblicato": "2026-07-03T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-03T06:52:25.270879+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "b9d1886725111efc",
@@ -5361,7 +5361,7 @@
     "pubblicato": "2026-07-03T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-03T06:52:25.271085+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "e7106037695c160e",
@@ -5373,7 +5373,7 @@
     "pubblicato": "2026-07-03T00:00:00+02:00",
     "summary_raw": "This document does not exist in English.",
     "fetched_at": "2026-07-03T06:52:25.271152+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "285e744a881dcad5",
@@ -5385,7 +5385,7 @@
     "pubblicato": "2026-07-03T00:00:00+02:00",
     "summary_raw": "This document does not exist in English.",
     "fetched_at": "2026-07-03T06:52:25.271218+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "a2dbe08cd7b9ac6e",
@@ -5397,6 +5397,6 @@
     "pubblicato": "2026-07-03T00:00:00+02:00",
     "summary_raw": "This document does not exist in English.",
     "fetched_at": "2026-07-03T06:52:25.271281+00:00",
-    "processed": false
+    "processed": true
   }
 ]
