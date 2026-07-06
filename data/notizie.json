@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-07-05T07:03:00.137182+00:00",
-  "total": 449,
+  "last_updated": "2026-07-06T08:16:26.531348+00:00",
+  "total": 451,
   "items": [
+    {
+      "id": "ca03c799c7995366",
+      "titolo_popolare": "Correzione di testi UE in altre lingue",
+      "titolo_originale": "CELEX:32019L1995R(03)",
+      "riassunto_esteso": "Il documento è un corrigendum, cioè una correzione di errori materiali, relativo a un atto dell'Unione europea pubblicato nel 2019. La correzione riguarda soltanto le versioni linguistiche diverse dall'inglese, lasciando invariato il testo originale in inglese. Non introduce nuove disposizioni né modifica sostanzialmente il contenuto dell'atto. Pertanto, per i cittadini e le imprese non ci sono effetti pratici diretti. Serve soltanto a garantire che tutti i testi ufficiali nelle varie lingue siano coerenti.",
+      "cosa_cambia": [
+        "nessuna modifica sostanziale per i cittadini"
+      ],
+      "chi_interessa": "nessun gruppo specifico di cittadini",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "nessun impatto pratico sulle persone; serve solo a correggere testi in altre lingue dell'UE.",
+      "data_vigenza": "non specificato",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32019L1995R(03)",
+      "pubblicato": "2026-07-06T00:00:00+02:00",
+      "processed_at": "2026-07-06T08:14:24.637969+00:00"
+    },
+    {
+      "id": "6141a6a55a959426",
+      "titolo_popolare": "Atto normativo UE non disponibile in inglese",
+      "titolo_originale": "OJ:L_202690550",
+      "riassunto_esteso": "Il documento indicato non è disponibile nella versione inglese, quindi non è possibile conoscerne il contenuto specifico. Probabilmente si tratta di un atto normativo dell'Unione Europea pubblicato nella Gazzetta Ufficiale. Senza il testo non si possono indicare gli obblighi introdotti né gli scopi del provvedimento. Per avere informazioni bisogna consultare la versione originale nella lingua ufficiale dell'atto. In att. In attesa di ulteriori dettagli, si consiglia di verificare eventuali comunicazioni nazionali di recepimento.",
+      "cosa_cambia": [
+        "non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690550",
+      "pubblicato": "2026-07-06T00:00:00+02:00",
+      "processed_at": "2026-07-06T08:16:26.526015+00:00"
+    },
     {
       "id": "fb480b486acc7de2",
       "titolo_popolare": "Nuove quote di pesca per i prossimi tre anni",
