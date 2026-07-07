@@ -5481,7 +5481,7 @@
     "pubblicato": "2026-07-06T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-06T08:08:11.941732+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "b476e57f43727ecb",
@@ -5506,5 +5506,89 @@
     "summary_raw": "This document does not exist in English.",
     "fetched_at": "2026-07-06T08:08:11.941978+00:00",
     "processed": true
+  },
+  {
+    "id": "b73903e5ea25474b",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601540: Commission Implementing Regulation (EU) 2026/1540 of 6 July 2026 imposing a definitive anti-dumping duty on imports of new pneumatic tyres, of rubber, of a kind used on motor cars, buses or lorries with a load index not exceeding 121 (tyres) originating in the People’s Republic of China",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601540",
+    "pubblicato": "2026-07-07T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-07T07:26:18.863919+00:00",
+    "processed": false
+  },
+  {
+    "id": "8e9b75e187cc968d",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202690558",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690558",
+    "pubblicato": "2026-07-07T00:00:00+02:00",
+    "summary_raw": "This document does not exist in English.",
+    "fetched_at": "2026-07-07T07:26:18.864045+00:00",
+    "processed": true
+  },
+  {
+    "id": "2904b885fd3e17d3",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202600807: Commission Delegated Regulation (EU) 2026/807 of 10 March 2026 amending the regulatory technical standards laid down in Delegated Regulation (EU) 2023/206 as regards the updating of references and the alignment of terminology following amendments to Regulation (EU) No 575/2013",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202600807",
+    "pubblicato": "2026-07-07T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-07T07:26:18.864151+00:00",
+    "processed": false
+  },
+  {
+    "id": "41332d1a0d649fb4",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202690559",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690559",
+    "pubblicato": "2026-07-07T00:00:00+02:00",
+    "summary_raw": "This document does not exist in English.",
+    "fetched_at": "2026-07-07T07:26:18.864258+00:00",
+    "processed": true
+  },
+  {
+    "id": "87592cdf77114736",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601549: Commission Implementing Regulation (EU) 2026/1549 of 6 July 2026 suspending commercial policy measures concerning certain products from the United States of America imposed by Implementing Regulation (EU) 2020/1646 following the adjudication of a trade dispute under the Dispute Settlement Understanding of the World Trade Organization",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601549",
+    "pubblicato": "2026-07-07T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-07T07:26:18.864359+00:00",
+    "processed": true
+  },
+  {
+    "id": "750c867f768a5a72",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202690560:            Berichtigung der Richtlinie 2005/12/EG der Kommission vom 18. Februar 2005 zur Änderung der Anhänge I und II der Richtlinie 2003/25/EG des Europäischen Parlaments und des Rates über besondere Stabilitätsanforderungen für Ro-Ro-Fahrgastschiffe (ABl. L 48 vom 19.2.2005)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690560",
+    "pubblicato": "2026-07-07T00:00:00+02:00",
+    "summary_raw": "This document does not exist in English.",
+    "fetched_at": "2026-07-07T07:26:18.864460+00:00",
+    "processed": false
+  },
+  {
+    "id": "6328f3c885dd0cc2",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601548: Council Decision (EU) 2026/1548 of 8 June 2026 on the conclusion, on behalf of the Union, of the Protocol on the implementation of the Fisheries Partnership Agreement between the Democratic Republic of São Tomé and Príncipe and the European Community (2025–2029)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601548",
+    "pubblicato": "2026-07-07T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-07T07:26:18.864591+00:00",
+    "processed": false
   }
 ]

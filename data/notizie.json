@@ -1,7 +1,70 @@
 {
-  "last_updated": "2026-07-06T08:16:26.531348+00:00",
-  "total": 451,
+  "last_updated": "2026-07-07T07:36:42.588161+00:00",
+  "total": 455,
   "items": [
+    {
+      "id": "8e9b75e187cc968d",
+      "titolo_popolare": "Documento UE non disponibile in lingua inglese",
+      "titolo_originale": "OJ:L_202690558",
+      "riassunto_esteso": "L'atto normativo non è disponibile nella versione inglese, quindi non è possibile conoscerne il contenuto preciso. Probabilmente riguarda una materia di competenza dell'Unione europea e potrebbe avere effetti su cittadini o imprese. In attesa della pubblicazione ufficiale, si consiglia di verificare eventuali comunicazioni nazionali. Senza ulteriori dettagli non è possibile descrivere più precisamente gli obiettivi o le motivazioni dell'atto.",
+      "cosa_cambia": [
+        "Non è possibile specificare cambiamenti concreti senza il testo dell'atto."
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "Non è possibile valutare l'impatto concreto senza conoscere il contenuto dell'atto.",
+      "data_vigenza": "da definire con eventuale pubblicazione ufficiale",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690558",
+      "pubblicato": "2026-07-07T00:00:00+02:00",
+      "processed_at": "2026-07-07T07:34:09.013317+00:00"
+    },
+    {
+      "id": "41332d1a0d649fb4",
+      "titolo_popolare": "Documento normativo non disponibile",
+      "titolo_originale": "OJ:L_202690559",
+      "riassunto_esteso": "Il documento indicato non è reperibile nelle banche dati ufficiali, pertanto non è possibile conoscerne il contenuto. Probabilmente si tratta di un atto recente o di una bozza non ancora pubblicata. Senza il testo non si possono indicare gli effetti pratici né le motivazioni alla base della sua adozione. Si consiglia di verificare la fonte ufficiale o attendere la pubblicazione integrale.",
+      "cosa_cambia": [
+        "non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690559",
+      "pubblicato": "2026-07-07T00:00:00+02:00",
+      "processed_at": "2026-07-07T07:34:57.130892+00:00"
+    },
+    {
+      "id": "87592cdf77114736",
+      "titolo_popolare": "Sospensione dei dazi su alcuni prodotti statunitensi",
+      "titolo_originale": "OJ:L_202601549: Commission Implementing Regulation (EU) 2026/1549 of 6 July 2026 suspending commercial policy measures concerning certain products from the United States of America imposed by Implementing Regulation (EU) 2020/1646 following the adjudication of a trade dispute under the Dispute Settlement Understanding of the World Trade Organization",
+      "riassunto_esteso": "La Commissione europea ha deciso di sospendere le misure commerciali aggiuntive che erano state applicate a determinati prodotti provenienti dagli Stati Uniti. Queste misure, sotto forma di dazi aggiuntivi, erano state introdotte nel 2020 a seguito di una controversia commerciale risolta dall'Organizzazione Mondiale del Commercio. La sospensione segue la decisione dell'OMC che ha ritenuto le misure non conformi alle regole internazionali. Con questa azione l'UE vuole evitare l'escalation di una guerra commerciale e mantenere stabili i rapporti transatlantici. Il provvedimento è automatico e non richiede interventi da parte dei cittadini o delle imprese.",
+      "cosa_cambia": [
+        "I prezzi di alcuni prodotti statunitensi, come acciaio, alluminio e alcuni prodotti agricoli, potrebbero diminuire per via della riduzione dei dazi.",
+        "Le imprese europee che importano questi beni affronteranno costi doganali inferiori, migliorando la loro competitività.",
+        "Si riduce il rischio di nuove ritorsioni commerciali tra UE e USA, contribuendo a un clima di scambi più prevedibile.",
+        "Non sono previsti nuovi obblighi amministrativi per i consumatori o le aziende."
+      ],
+      "chi_interessa": "tutti i consumatori e le imprese che acquistano o importano prodotti dagli Stati Uniti",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "Possibile riduzione dei prezzi su alcuni beni statunitensi e minore tensione commerciale, con effetti positivi sul potere d'acquisto e sulla stabilità dei mercati.",
+      "data_vigenza": "in vigore dal 6 luglio 2026",
+      "categoria": "Imprese e Mercato",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601549",
+      "pubblicato": "2026-07-07T00:00:00+02:00",
+      "processed_at": "2026-07-07T07:35:16.917296+00:00"
+    },
     {
       "id": "ca03c799c7995366",
       "titolo_popolare": "Correzione di testi UE in altre lingue",
@@ -41,6 +104,29 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690550",
       "pubblicato": "2026-07-06T00:00:00+02:00",
       "processed_at": "2026-07-06T08:16:26.526015+00:00"
+    },
+    {
+      "id": "1dd73d486568420b",
+      "titolo_popolare": "Nuove regole contro un parassita dannoso per le piante",
+      "titolo_originale": "CELEX:32026R1432: Commission Implementing Regulation (EU) 2026/1432 of 3 July 2026 on measures to prevent the establishment and the spread within the Union territory of Meloidogyne graminicola Golden &amp;amp; Birchfield and for the eradication and containment of that pest within certain demarcated areas and repealing Implementing Regulation (EU) 2022/1372",
+      "riassunto_esteso": "La regolamentazione prevede misure per evitare che il nematode Meloidogyne graminicola si insedi e si diffonda nel territorio dell'Unione europea. Vengono definite zone delimitate dove il parassita è già presente, obbligando le autorità a intervenire per eradicatorlo e contenerlo. Gli Stati membri devono intensificare i controlli sui prodotti vegetali e sui terreni, nonché segnalare tempestivamente qualsiasi focolaio. La norma abroga il precedente regolamento del 2022, aggiornando le procedure in base alle ultime conoscenze scientifiche.",
+      "cosa_cambia": [
+        "Gli agricoltori devono controllare regolarmente i propri campi e segnalare la presenza del nematode alle autorità fitosanitarie",
+        "È vietato spostare piante, terriccio o altri materiali potenzialmente infetti dalle zone delimitate senza autorizzazione",
+        "Le imprese vivaistiche devono adottare trattamenti specifici e tenere registri dei controlli effettuati",
+        "I laboratori ufficiali devono eseguire analisi più frequenti sui campioni sospetti"
+      ],
+      "chi_interessa": "agricoltori, vivaisti e operatori del commercio di piante e terreno",
+      "cosa_devi_fare": "nessuna azione richiesta per i cittadini comuni; gli agricoltori devono effettuare monitoraggi e segnalazioni secondo le nuove procedure",
+      "impatto": "Una migliore difesa delle colture riduce le perdite economiche per il settore agricolo e limita l'uso di pesticidi di emergenza. Questo contribuisce a mantenere la sicurezza alimentare e la sostenibilità delle produzioni vegetali.",
+      "data_vigenza": "in vigore dal 3 luglio 2026",
+      "categoria": "Agricoltura e Alimentare",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1432",
+      "pubblicato": "2026-07-06T00:00:00+02:00",
+      "processed_at": "2026-07-07T07:31:53.124178+00:00"
     },
     {
       "id": "fb480b486acc7de2",
