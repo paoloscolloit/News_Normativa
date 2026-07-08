@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-07-07T07:36:42.588161+00:00",
-  "total": 455,
+  "last_updated": "2026-07-08T06:25:44.766284+00:00",
+  "total": 459,
   "items": [
+    {
+      "id": "b068e2d85bb1623f",
+      "titolo_popolare": "Correzione tecnica al programma UE di connettività sicura",
+      "titolo_originale": "OJ:L_202690564:            Berichtigung des Beschlusses (GASP) 2023/598 des Rates vom 14. März 2023 zur Änderung des Beschlusses (GASP) 2021/698 des Rates zur Aufnahme des Programms der Union für sichere Konnektivität (ABl. L 79 vom 17.3.2023)",
+      "riassunto_esteso": "Il documento è una correzione tecnica (corrigendum) di una decisione del Consiglio dell'Unione europea che modificava il programma per la connettività sicura dell'UE. Serve a sistemare errori materiali presenti nel testo originale della decisione, garantendo che le disposizioni siano chiare e correttamente applicabili. Non introduce nuove norme né modifiche sostanziali al contenuto del programma, ma si limita a rendere ufficiale la versione corretta del testo. Questo tipo di atto è comune quando si scopre un refuso o un'incongruenza dopo l'adozione di un atto giuridico.",
+      "cosa_cambia": [
+        "Nessuna modifica diretta per i cittadini"
+      ],
+      "chi_interessa": "nessun cittadino in particolare",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "L'atto non ha effetti concreti sulla vita quotidiana delle persone; serve solo a garantire la correttezza dei testi ufficiali dell'UE.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Digitale e Privacy",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690564",
+      "pubblicato": "2026-07-08T00:00:00+02:00",
+      "processed_at": "2026-07-08T06:25:44.761698+00:00"
+    },
     {
       "id": "8e9b75e187cc968d",
       "titolo_popolare": "Documento UE non disponibile in lingua inglese",
@@ -66,6 +86,49 @@
       "processed_at": "2026-07-07T07:35:16.917296+00:00"
     },
     {
+      "id": "b73903e5ea25474b",
+      "titolo_popolare": "Nuova tassa sulle gomme cinesi importate",
+      "titolo_originale": "OJ:L_202601540: Commission Implementing Regulation (EU) 2026/1540 of 6 July 2026 imposing a definitive anti-dumping duty on imports of new pneumatic tyres, of rubber, of a kind used on motor cars, buses or lorries with a load index not exceeding 121 (tyres) originating in the People’s Republic of China",
+      "riassunto_esteso": "La Commissione europea ha deciso di applicare un dazio antidumping definitivo sulle importazioni di pneumatici nuovi in gomma destinati a auto, autobus e camion leggeri proveniente dalla Cina. Il provvedimento mira a contrastare la pratica di vendita a prezzi sleali che, secondo l'indagine, danneggia i produttori europei di pneumatici. Il dazio sarà calcolato sulla base del margine di dumping riscontrato e si aggiungerà al normale dazio doganale. In pratica, le gomme cinesi potrebbero diventare più costose per chi le acquista nell'Unione europea. La misura entra in vigore subito dopo la pubblicazione nella Gazzetta ufficiale dell'UE.",
+      "cosa_cambia": [
+        "Le pneumatici cinesi potrebbero aumentare di prezzo nei negozi e nelle officine",
+        "Gli automobilisti potrebbero orientarsi verso marche europee o di altri paesi",
+        "Le imprese che importano gomme dalla Cina dovranno pagare il nuovo dazio"
+      ],
+      "chi_interessa": "automobilisti, officine meccaniche e chiunque acquisti pneumatici per auto, furgoni o camion leggeri",
+      "cosa_devi_fare": "nessuna azione richiesta, basta verificare l'eventuale aumento di prezzo al momento dell'acquisto",
+      "impatto": "Le gomme cinesi potrebbero diventare più care, spingendo verso prodotti UE o altri fornitori e proteggendo l'industria europea del settore. Questo può influire sul costo della manutenzione del veicolo.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Imprese e Mercato",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601540",
+      "pubblicato": "2026-07-07T00:00:00+02:00",
+      "processed_at": "2026-07-08T06:24:09.181293+00:00"
+    },
+    {
+      "id": "750c867f768a5a72",
+      "titolo_popolare": "Correzione tecnica alle norme di sicurezza delle navi passeggeri Ro-Ro",
+      "titolo_originale": "OJ:L_202690560:            Berichtigung der Richtlinie 2005/12/EG der Kommission vom 18. Februar 2005 zur Änderung der Anhänge I und II der Richtlinie 2003/25/EG des Europäischen Parlaments und des Rates über besondere Stabilitätsanforderungen für Ro-Ro-Fahrgastschiffe (ABl. L 48 vom 19.2.2005)",
+      "riassunto_esteso": "L'atto è una correzione tecnica di una direttiva europea che stabilisce requisiti particolari di stabilità per le navi passeggeri Ro-Ro. La correzione serve a sistemare errori presenti negli allegati I e II della direttiva originale, garantendo che le regole siano applicate correttamente. È stata adottata per evitare che eventuali imprecisioni tecniche possano compromettere la sicurezza delle imbarcazioni. In pratica, non introduce nuovi obblighi, ma chiarisce quelli già esistenti. La modifica è destinata principalmente agli operatori del settore navale. Non comporta cambiamenti diretti per i cittadini comuni.",
+      "cosa_cambia": [
+        "nessun cambiamento diretto per i cittadini",
+        "chiarimento dei requisiti di stabilità per le navi passeggeri Ro-Ro"
+      ],
+      "chi_interessa": "operatori e gestori di navi passeggeri Ro-Ro",
+      "cosa_devi_fare": "nessuna azione richiesta per i cittadini",
+      "impatto": "migliora la sicurezza delle navi passeggeri Ro-Ro riducendo il rischio di incidenti legati alla stabilità. Questo contribuisce a una maggiore affidabilità del trasporto marittimo passeggeri.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Trasporti",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690560",
+      "pubblicato": "2026-07-07T00:00:00+02:00",
+      "processed_at": "2026-07-08T06:24:47.248687+00:00"
+    },
+    {
       "id": "ca03c799c7995366",
       "titolo_popolare": "Correzione di testi UE in altre lingue",
       "titolo_originale": "CELEX:32019L1995R(03)",
@@ -127,6 +190,27 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1432",
       "pubblicato": "2026-07-06T00:00:00+02:00",
       "processed_at": "2026-07-07T07:31:53.124178+00:00"
+    },
+    {
+      "id": "b476e57f43727ecb",
+      "titolo_popolare": "Aggiornamento tecnico delle norme transitorie UE",
+      "titolo_originale": "CELEX:32026R1471: Commission Implementing Regulation (EU) 2026/1471 of 3 July 2026 correcting Implementing Regulation (EU) 2026/103 as regards transitional measures",
+      "riassunto_esteso": "La Commissione europea ha pubblicato un regolamento che corregge un precedente atto sulle misure transitorie. Questo intervento serve a sistemare alcuni dettagli tecnici che potevano creare incertezze nell'applicazione delle norme. L'obiettivo è garantire che le disposizioni transitorie siano chiare e coerenti per tutti gli interessati. Si tratta di una modifica di carattere principalmente amministrativo, senza introdurre nuovi obblighi sostanziali. Il regolamento entra in vigore subito dopo la sua pubblicazione nella Gazzetta ufficiale dell'UE.",
+      "cosa_cambia": [
+        "nessun cambiamento diretto per i cittadini comuni",
+        "le imprese devono tenere conto di piccole correzioni procedurali nelle norme transitorie"
+      ],
+      "chi_interessa": "le imprese che applicano le norme transitorie dell'UE",
+      "cosa_devi_fare": "nessuna azione richiesta per i cittadini",
+      "impatto": "assicura l'applicazione corretta delle norme transitorie, riducendo rischi di confusione giuridica per le imprese",
+      "data_vigenza": "in vigore dal 3 luglio 2026",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1471",
+      "pubblicato": "2026-07-06T00:00:00+02:00",
+      "processed_at": "2026-07-08T06:23:56.227890+00:00"
     },
     {
       "id": "fb480b486acc7de2",
