@@ -1,7 +1,50 @@
 {
-  "last_updated": "2026-07-08T06:25:44.766284+00:00",
-  "total": 459,
+  "last_updated": "2026-07-09T07:38:29.933953+00:00",
+  "total": 462,
   "items": [
+    {
+      "id": "49d82ed27b4dbd6c",
+      "titolo_popolare": "Aggiornamento delle sanzioni UE contro la Russia",
+      "titolo_originale": "CELEX:32026R1362R(01): Corrigendum to Council Implementing Regulation (EU) 2026/1362 of 15 June 2026 implementing Regulation (EU) 2024/1485 concerning restrictive measures in view of the situation in Russia (OJ L, 2026/1362, 15.6.2026)",
+      "riassunto_esteso": "Il documento è un corrigendum, cioè una correzione di errori materiali presenti nel regolamento che applica le sanzioni contro la Russia. Queste sanzioni erano state introdotte per rispondere alla situazione in Ucraina e riguardano restrizioni economiche e finanziarie. Il corrigendum non cambia il contenuto sostanziale delle misure, ma corregge refusi, riferimenti errati o errori di formulazione nel testo ufficiale. L'obiettivo è garantire che il regolamento sia chiaro e privo di ambiguità per chi lo deve applicare. Non introduce nuovi obblighi o diritti per i cittadini.",
+      "cosa_cambia": [
+        "nessuna modifica sostanziale per i cittadini"
+      ],
+      "chi_interessa": "nessun cittadino direttamente interessato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "nessun impatto concreto sulle persone; serve solo a correggere errori tecnici del testo normativo.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1362R(01)",
+      "pubblicato": "2026-07-09T00:00:00+02:00",
+      "processed_at": "2026-07-09T07:34:31.351990+00:00"
+    },
+    {
+      "id": "7d7e6157610ac9b0",
+      "titolo_popolare": "Aggiornamento delle sanzioni UE contro la Russia",
+      "titolo_originale": "CELEX:32026D1363R(01): Corrigendum to Council Decision (CFSP) 2026/1363 of 15 June 2026 amending Decision (CFSP) 2024/1484 concerning restrictive measures in view of the situation in Russia (OJ L, 2026/1363, 15.6.2026)",
+      "riassunto_esteso": "Il corrigendum corregge alcuni errori materiali presenti nella decisione del Consiglio che aveva introdotto nuove misure restrittive nei confronti della Russia. Queste correzioni riguardano principalmente l'elenco di persone e enti soggetti a sanzioni, le date di efficacia di alcune disposizioni e alcuni riferimenti normativi. L'obiettivo è garantire che le sanzioni siano applicate in modo corretto e uniforme da tutti gli Stati membri. Il testo non introduce nuove misure, ma rende più chiaro e preciso quello che già era stato deciso.",
+      "cosa_cambia": [
+        "Elenco aggiornato di persone e enti soggetti a congelamento dei beni e divieto di viaggio",
+        "Chiarimento sulle deroghe consentite per l'esportazione di prodotti agricoli e alimentari",
+        "Correzione di riferimenti agli articoli della decisione originale che erano stati indicati in modo errato",
+        "Specifica delle procedure da seguire per la revoca o la modifica delle sanzioni in caso di cambiamenti della situazione"
+      ],
+      "chi_interessa": "Chi ha rapporti economici, finanziari o commerciali con soggetti russi sottoposti a sanzioni UE",
+      "cosa_devi_fare": "Verificare che le proprie transazioni non coinvolgano persone o enti sanzionati e, in caso di dubbio, consultare le autorità competenti",
+      "impatto": "Maggiore chiarezza sulle sanzioni riduce il rischio di violazioni involontarie e protegge da eventuali sanzioni amministrative o penali.",
+      "data_vigenza": "dal 15 giugno 2026",
+      "categoria": "Giustizia e Diritti",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1363R(01)",
+      "pubblicato": "2026-07-09T00:00:00+02:00",
+      "processed_at": "2026-07-09T07:35:47.716257+00:00"
+    },
     {
       "id": "b068e2d85bb1623f",
       "titolo_popolare": "Correzione tecnica al programma UE di connettività sicura",
@@ -211,6 +254,29 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1471",
       "pubblicato": "2026-07-06T00:00:00+02:00",
       "processed_at": "2026-07-08T06:23:56.227890+00:00"
+    },
+    {
+      "id": "980515341e237185",
+      "titolo_popolare": "Aggiornamento delle norme sul vino Tokaj",
+      "titolo_originale": "CELEX:32026R1556: Commission Implementing Regulation (EU) 2026/1556 of 2 July 2026 on the approval of a Union amendment to the product specification of the protected designation of origin Tokaj / Tokaji pursuant to of Regulation (EU) 2024/1143 of the European Parliament and of the Council",
+      "riassunto_esteso": "La Commissione europea ha approvato una modifica alle specifiche del prodotto per il vino Tokaj, riconosciuto come denominazione di origine protetta. L'atto adegua il disciplinare di produzione a nuove caratteristiche tecniche e qualitative richieste dal settore. L'obiettivo è garantire maggiore coerenza e trasparenza per i produttori e una migliore tutela per i consumatori. La modifica si basa sul regolamento quadro UE 2024/1143 sulle indicazioni geografiche. Viene così aggiornato il riferimento ufficiale usato nei controlli e nelle etichette.",
+      "cosa_cambia": [
+        "I produttori devono rispettare le nuove caratteristiche chimiche e sensoriali previste nello specifiche aggiornate",
+        "Le etichette delle bottiglie di Tokaj dovranno indicare il rispetto del nuovo disciplinare",
+        "Gli organismi di controllo applicheranno i nuovi criteri nelle verifiche di conformità",
+        "Eventuali modifiche ai processi di vinificazione dovranno essere documentate e comunicate alle autorità"
+      ],
+      "chi_interessa": "i produttori, gli imbottigliatori e gli esportatori di vino Tokaj in Ungheria e Slovacchia",
+      "cosa_devi_fare": "I produttori devono adeguare le proprie pratiche di produzione e le etichette entro i termini indicati dal regolamento",
+      "impatto": "Maggiore tutela dell'autenticità del vino Tokaj e maggiore fiducia dei consumatori nel prodotto acquistato",
+      "data_vigenza": "in vigore dal 2 luglio 2026",
+      "categoria": "Agricoltura e Alimentare",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1556",
+      "pubblicato": "2026-07-06T00:00:00+02:00",
+      "processed_at": "2026-07-09T07:28:42.830124+00:00"
     },
     {
       "id": "fb480b486acc7de2",

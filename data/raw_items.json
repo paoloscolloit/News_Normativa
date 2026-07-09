@@ -5409,7 +5409,7 @@
     "pubblicato": "2026-07-06T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-06T08:08:11.940929+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "1d379aac1bfa4701",
@@ -5614,5 +5614,89 @@
     "summary_raw": "This document does not exist in English.",
     "fetched_at": "2026-07-08T06:20:03.215446+00:00",
     "processed": true
+  },
+  {
+    "id": "db091c9dcfcfcc06",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R1547R(01): Corrigendum to Council Regulation (EU) 2026/1547 of 1 July 2026 amending Regulation (EU) 2026/249 fixing for 2026, 2027 and 2028 the fishing opportunities for certain fish stocks, applicable in Union waters and, for Union fishing vessels, in certain non-Union waters, and amending Regulation (EU) 2025/2454 fixing the fishing opportunities for certain fish stocks and groups of fish stocks applicable in the Baltic Sea for 2026 (OJ L, 2026/1547, 3.7.2026)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1547R(01)",
+    "pubblicato": "2026-07-09T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-09T07:26:44.604437+00:00",
+    "processed": false
+  },
+  {
+    "id": "6378f574158b44e9",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D1555: Council Decision (EU) 2026/1555 of 29 June 2026 appointing an alternate member, proposed by the Republic of Cyprus, of the Committee of the Regions",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1555",
+    "pubblicato": "2026-07-09T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-09T07:26:44.604564+00:00",
+    "processed": false
+  },
+  {
+    "id": "49d82ed27b4dbd6c",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R1362R(01): Corrigendum to Council Implementing Regulation (EU) 2026/1362 of 15 June 2026 implementing Regulation (EU) 2024/1485 concerning restrictive measures in view of the situation in Russia (OJ L, 2026/1362, 15.6.2026)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1362R(01)",
+    "pubblicato": "2026-07-09T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-09T07:26:44.604671+00:00",
+    "processed": true
+  },
+  {
+    "id": "7d7e6157610ac9b0",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D1363R(01): Corrigendum to Council Decision (CFSP) 2026/1363 of 15 June 2026 amending Decision (CFSP) 2024/1484 concerning restrictive measures in view of the situation in Russia (OJ L, 2026/1363, 15.6.2026)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1363R(01)",
+    "pubblicato": "2026-07-09T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-09T07:26:44.604772+00:00",
+    "processed": true
+  },
+  {
+    "id": "9bd0903d890f3be7",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R1546: Commission Regulation (EU) 2026/1546 of 8 July 2026 amending Annexes II, III and V to Regulation (EC) No 396/2005 of the European Parliament and of the Council as regards maximum residue levels for benomyl, carbendazim and thiophanate-methyl in or on certain products",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1546",
+    "pubblicato": "2026-07-09T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-09T07:26:44.604872+00:00",
+    "processed": false
+  },
+  {
+    "id": "1c1140e24731bdae",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D1558: Council Decision (EU) 2026/1558 of 29 June 2026 appointing seven members and eight alternate members, proposed by the Kingdom of Denmark, of the Committee of the Regions",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1558",
+    "pubblicato": "2026-07-09T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-09T07:26:44.604973+00:00",
+    "processed": false
+  },
+  {
+    "id": "8948d4a4998eac71",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D1691: Commission Decision (Euratom) 2026/1691 of 8 July 2026 on the conclusion, by the European Commission, on behalf of the European Atomic Energy Community, and provisional application of the Agreement in respect of Gibraltar between the European Union and the European Atomic Energy Community, of the one part, and the United Kingdom of Great Britain and Northern Ireland, of the other part",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1691",
+    "pubblicato": "2026-07-09T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-09T07:26:44.605071+00:00",
+    "processed": false
   }
 ]
