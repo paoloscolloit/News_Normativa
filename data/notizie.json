@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-09T07:38:29.933953+00:00",
-  "total": 462,
+  "last_updated": "2026-07-10T07:48:48.811724+00:00",
+  "total": 464,
   "items": [
     {
       "id": "49d82ed27b4dbd6c",
@@ -46,6 +46,28 @@
       "processed_at": "2026-07-09T07:35:47.716257+00:00"
     },
     {
+      "id": "9bd0903d890f3be7",
+      "titolo_popolare": "Nuovi limiti per pesticidi negli alimenti",
+      "titolo_originale": "CELEX:32026R1546: Commission Regulation (EU) 2026/1546 of 8 July 2026 amending Annexes II, III and V to Regulation (EC) No 396/2005 of the European Parliament and of the Council as regards maximum residue levels for benomyl, carbendazim and thiophanate-methyl in or on certain products",
+      "riassunto_esteso": "La regolamentazione aggiorna i livelli massimi di residui consentiti per tre fungicidi (benomil, carbendazim e tiophanato-metile) in alcuni prodotti alimentari. Questi limiti sono stati rivisti sulla base delle ultime valutazioni scientifiche sulla sicurezza dei consumatori. L'obiettivo è garantire che gli alimenti venduti nell'UE contengano quantità di questi pesticidi ritenute sicure per la salute. La modifica si applica a frutta, verdura e cereali specificamente elencati negli allegati II, III e V del regolamento base. In questo modo si allinea la normativa UE agli standard internazionali e si riduce l'esposizione potenziale a sostanze chimiche.",
+      "cosa_cambia": [
+        "I livelli ammessi di benomil, carbendazim e tiophanato-metile in alcuni alimenti sono stati ridotti o aumentati secondo le nuove valutazioni.",
+        "Gli agricoltori devono rispettare i nuovi limiti quando utilizzano questi fungicidi sulle colture autorizzate.",
+        "I controlli ufficiali sui residui nei prodotti alimentari saranno effettuati con i nuovi valori di riferimento."
+      ],
+      "chi_interessa": "agricoltori, produttori e trasformatori di alimenti, nonché i consumatori finali",
+      "cosa_devi_fare": "Verificare che i prodotti rispettino i nuovi limiti; nessuna azione richiesta direttamente ai consumatori.",
+      "impatto": "Gli alimenti sul mercato avranno residui di pesticidi più controllati, aumentando la fiducia nella sicurezza alimentare. Questo protegge la salute pubblica e favorisce il commercio leale nell'UE.",
+      "data_vigenza": "in vigore dal 8 luglio 2026",
+      "categoria": "Agricoltura e Alimentare",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1546",
+      "pubblicato": "2026-07-09T00:00:00+02:00",
+      "processed_at": "2026-07-10T07:37:52.983018+00:00"
+    },
+    {
       "id": "b068e2d85bb1623f",
       "titolo_popolare": "Correzione tecnica al programma UE di connettività sicura",
       "titolo_originale": "OJ:L_202690564:            Berichtigung des Beschlusses (GASP) 2023/598 des Rates vom 14. März 2023 zur Änderung des Beschlusses (GASP) 2021/698 des Rates zur Aufnahme des Programms der Union für sichere Konnektivität (ABl. L 79 vom 17.3.2023)",
@@ -64,6 +86,27 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690564",
       "pubblicato": "2026-07-08T00:00:00+02:00",
       "processed_at": "2026-07-08T06:25:44.761698+00:00"
+    },
+    {
+      "id": "84764b4aee214ee4",
+      "titolo_popolare": "Aggiornamento delle liste di arbitri e esperti UE-Corea",
+      "titolo_originale": "OJ:L_202601557: Council Decision (EU) 2026/1557 of 29 June 2026 on the position to be taken on behalf of the European Union within the Trade Committee established by the Free Trade Agreement between the European Union and its Member States, of the one part, and the Republic of Korea, of the other part, on a revised list of arbitrators in accordance with Article 14.18 thereof and on a revised list of experts in accordance with Article 13.15 thereof",
+      "riassunto_esteso": "Il Consiglio dell'UE ha adottato una decisione che stabilisce la posizione che l'Unione deve assumere nel comitato commerciale creato dall'accordo di libero scambio con la Corea del Sud. Tale posizione riguarda l'aggiornamento delle liste di arbitri e di esperti previste dagli articoli 14.18 e 13.15 dell'accordo, necessarie per il funzionamento del meccanismo di risoluzione delle controversie. La decisione non introduce nuovi obblighi per cittadini o imprese, ma serve a garantire che le procedure di contenzioso commerciale siano sempre operative. È un atto interno di coordinamento tra le istituzioni europee.",
+      "cosa_cambia": [
+        "Nessuna modifica diretta per i cittadini",
+        "Nessun nuovo obbligo per le imprese"
+      ],
+      "chi_interessa": "nessun gruppo specifico di cittadini",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "L'atto non ha effetti concreti sulla vita quotidiana dei cittadini; serve solo al funzionamento interno del meccanismo di risoluzione delle controversie UE-Corea.",
+      "data_vigenza": "in vigore dal 29 giugno 2026",
+      "categoria": "Imprese e Mercato",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601557",
+      "pubblicato": "2026-07-08T00:00:00+02:00",
+      "processed_at": "2026-07-10T07:33:30.446210+00:00"
     },
     {
       "id": "8e9b75e187cc968d",
