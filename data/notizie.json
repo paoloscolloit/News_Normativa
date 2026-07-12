@@ -1,7 +1,161 @@
 {
-  "last_updated": "2026-07-11T06:51:22.546915+00:00",
-  "total": 464,
+  "last_updated": "2026-07-12T06:35:03.429134+00:00",
+  "total": 482,
   "items": [
+    {
+      "id": "81a73bb15d57a7c5",
+      "titolo_popolare": "Divieto di esportare rifiuti urbani misti per il recupero",
+      "titolo_originale": "CELEX:32026R1703: Regulation (EU) 2026/1703 of the European Parliament and of the Council of 8 July 2026 amending Regulation (EU) 2024/1157 as regards the prohibition on the export of mixed municipal waste destined for recovery (Text with EEA relevance)",
+      "riassunto_esteso": "Il Regolamento UE 2026/1703 modifica il Regolamento 2024/1157 introducendo il divieto di esportare rifiuti urbani misti destinati al recupero verso paesi terzi. È stato adottato per rafforzare la gestione dei rifiuti all'interno dell'Unione, ridurre il rischio di scarichi ambientali all'estero e incentivare il riciclo interno. La norma si applica a tutti i tipi di rifiuti solidi urbani non separati alla fonte, anche se destinati a impianti di recupero. L'obiettivo è garantire che il ciclo di vita dei rifiuti sia gestito principalmente sul territorio europeo, limitando le pratiche di esportazione che possono compromettere gli standard ambientali. La misura entra in vigore subito, ma i soggetti interessati hanno tempo per adeguare le proprie procedure di smaltimento.",
+      "cosa_cambia": [
+        "È vietato esportare rifiuti urbani misti destinati al recupero verso paesi fuori UE",
+        "Le imprese devono gestire questi rifiuti entro i confini dell'Unione",
+        "Le autorità nazionali devono monitorare e sanzionare le esportazioni illecite"
+      ],
+      "chi_interessa": "tutti i produttori di rifiuti urbani, le aziende di gestione dei rifiuti, i comuni e le autorità locali",
+      "cosa_devi_fare": "Verificare che i rifiuti urbani misti non vengano più spediti all'estero e organizzare il loro trattamento in Italia o UE.",
+      "impatto": "Riduzione delle esportazioni di rifiuti verso paesi con normative meno stringenti, con beneficio per l'ambiente e maggiore occupazione nel settore del riciclo interno.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Ambiente e Energia",
+      "importanza": 3,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1703",
+      "pubblicato": "2026-07-10T00:00:00+02:00",
+      "processed_at": "2026-07-12T06:31:20.245383+00:00"
+    },
+    {
+      "id": "70f6580e74133955",
+      "titolo_popolare": "Nuove regole per il vino Drăgăşani a Indicazione Geografica Protetta",
+      "titolo_originale": "CELEX:32026R1702: Commission Implementing Regulation (EU) 2026/1702 of 7 July 2026 on the approval of a Union amendment to the product specification of the protected designation of origin Drăgăşani pursuant to of Regulation (EU) 2024/1143 of the European Parliament and of the Council",
+      "riassunto_esteso": "Il regolamento UE 2026/1702 approva una modifica al disciplinare del prodotto per il vino Drăgăşani, una denominazione di origine protetta. La modifica aggiorna i criteri di produzione, le zone ammissibili e le caratteristiche organolettiche per garantire la qualità e l’autenticità del vino. È stata introdotta per adeguare il disciplinare alle pratiche attuali dei produttori e per rafforzare la tutela del marchio a livello europeo. Con queste nuove regole, il vino potrà continuare a essere commercializzato con la DOP in tutta l’Unione, mantenendo la sua riconoscibilità. La decisione è parte di un più ampio sforzo dell’UE di armonizzare le norme sui prodotti tipici.",
+      "cosa_cambia": [
+        "Vengono aggiornate le zone di produzione ammesse per il vino Drăgăşani",
+        "Sono modificati i limiti di resa per ettaro e le tecniche di vinificazione consentite",
+        "Vengono precisate le caratteristiche sensoriali obbligatorie del prodotto"
+      ],
+      "chi_interessa": "produttori di vino Drăgăşani, distributori, ristoratori e consumatori di vini DOP",
+      "cosa_devi_fare": "Adeguare le pratiche di coltivazione e vinificazione alle nuove specifiche entro il prossimo ciclo di vendemmia.",
+      "impatto": "Migliora la tutela del marchio e la coerenza qualitativa del vino, garantendo ai consumatori un prodotto più affidabile.",
+      "data_vigenza": "dal 1 ottobre 2026",
+      "categoria": "Ambiente e Energia",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1702",
+      "pubblicato": "2026-07-10T00:00:00+02:00",
+      "processed_at": "2026-07-12T06:31:53.180807+00:00"
+    },
+    {
+      "id": "b772a69e4290edb1",
+      "titolo_popolare": "Regole per la raccolta dati sulla mobilità urbana",
+      "titolo_originale": "CELEX:32026R1554: Commission Implementing Regulation (EU) 2026/1554 of 9 July 2026 laying down rules for the application of Regulation (EU) 2024/1679 of the European Parliament and of the Council as regards the collection and submission to the Commission of urban mobility data per urban node in the fields of sustainability, safety and accessibility",
+      "riassunto_esteso": "Il regolamento stabilisce come i comuni e le autorità locali devono raccogliere e inviare alla Commissione europea i dati sulla mobilità urbana, suddivisi per zona di città (nodo urbano). L’obiettivo è fornire informazioni uniformi su sostenibilità, sicurezza e accessibilità dei trasporti, così da monitorare gli obiettivi climatici e migliorare la qualità della vita nelle città. Sono indicati i tipi di dati da raccogliere, le modalità di misurazione, i formati standard e le scadenze di trasmissione. Il provvedimento nasce per dare attuazione al Regolamento UE 2024/1679, che richiede una visione europea dei flussi di mobilità. In pratica, le amministrazioni dovranno dotarsi di sistemi di rilevazione e creare banche dati periodiche da condividere con l’Unione.",
+      "cosa_cambia": [
+        "I comuni devono raccogliere dati dettagliati su traffico, emissioni, incidenti e accessibilità per ogni nodo urbano.",
+        "I dati devono essere inviati alla Commissione europea con cadenza stabilita, usando formati standardizzati.",
+        "Le autorità devono adottare strumenti di misurazione compatibili con le linee guida UE."
+      ],
+      "chi_interessa": "tutti i comuni, le autorità metropolitane e gli enti locali responsabili dei trasporti urbani",
+      "cosa_devi_fare": "Implementare sistemi di raccolta dati secondo le specifiche e inviare i report alla Commissione entro le scadenze previste.",
+      "impatto": "Permetterà un confronto europeo più preciso sulla mobilità, favorendo politiche più efficaci per ridurre le emissioni e migliorare la sicurezza stradale.",
+      "data_vigenza": "dal 1 gennaio 2027",
+      "categoria": "Ambiente e Energia",
+      "importanza": 3,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1554",
+      "pubblicato": "2026-07-10T00:00:00+02:00",
+      "processed_at": "2026-07-12T06:32:34.988271+00:00"
+    },
+    {
+      "id": "dfb7829ecf18446a",
+      "titolo_popolare": "Correzione della lista delle compagnie di navigazione",
+      "titolo_originale": "CELEX:32026D1453: Commission Implementing Decision (EU) 2026/1453 of 2 July 2026 correcting Commission Implementing Decision (EU) 2024/411 on the list of shipping companies specifying the administering authority in respect of a shipping company in accordance with Directive 2003/87/EC of the European Parliament and of the Council",
+      "riassunto_esteso": "Il 2 luglio 2026 la Commissione europea ha pubblicato una decisione di attuazione che corregge una precedente del 2024, relativa all’elenco delle compagnie di navigazione e all’autorità amministrativa competente per ciascuna di esse, come previsto dalla direttiva sul mercato dell’emissione di certificati di riduzione delle emissioni (ETS). La correzione serve a sistemare errori di trascrizione e aggiornare i dati, garantendo che le informazioni siano corrette per il monitoraggio delle emissioni di CO2 dei trasporti marittimi. È una misura tecnica, senza nuove regole, ma fondamentale per la trasparenza e la corretta applicazione del sistema ETS nel settore marittimo.",
+      "cosa_cambia": [
+        "Viene aggiornato l’elenco ufficiale delle compagnie di navigazione con le autorità competenti corrette",
+        "Vengono rettificati eventuali errori di denominazione o di attribuzione dell’autorità amministrativa",
+        "Le compagnie interessate devono verificare che i dati ora riportati corrispondano alla realtà"
+      ],
+      "chi_interessa": "tutte le compagnie di navigazione soggette al sistema ETS e le autorità amministrative competenti",
+      "cosa_devi_fare": "Controllare l’elenco aggiornato e, se necessario, comunicare eventuali discrepanze all’autorità competente.",
+      "impatto": "Assicura che le compagnie di navigazione siano collegate all’autorità giusta per la gestione dei certificati ETS, evitando sanzioni o errori di reporting.",
+      "data_vigenza": "dal 2 luglio 2026",
+      "categoria": "Ambiente e Energia",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1453",
+      "pubblicato": "2026-07-10T00:00:00+02:00",
+      "processed_at": "2026-07-12T06:33:13.108761+00:00"
+    },
+    {
+      "id": "94f3a45ffce8e0b7",
+      "titolo_popolare": "Prolungamento del divieto di idrogeno russo e bielorusso",
+      "titolo_originale": "CELEX:32026D1551: Commission Implementing Decision (EU) 2026/1551 of 9 July 2026 laying down rules for the application of Regulation (EU) 2024/1789 of the European Parliament and of the Council as regards the renewal of the temporary exclusion of offers of hydrogen supplies originating in the Russian Federation or the Republic of Belarus from being collected through the mechanism to support the market development of hydrogen",
+      "riassunto_esteso": "La Commissione europea ha deciso di estendere, per un periodo temporaneo, l'esclusione delle offerte di idrogeno provenienti dalla Russia e dalla Bielorussia dal meccanismo di sostegno al mercato dell'idrogeno. Questa misura attua le disposizioni del Regolamento UE 2024/1789, che mira a garantire la sicurezza energetica dell'Unione e a non finanziare fornitori ritenuti non affidabili. Il provvedimento è stato adottato per rispondere alle tensioni geopolitiche e alle preoccupazioni di dipendenza energetica. La decisione stabilisce le modalità operative per l'esclusione, compresi i criteri di verifica dell'origine del prodotto. È una misura temporanea, soggetta a revisione in base all'evoluzione della situazione internazionale.",
+      "cosa_cambia": [
+        "Le offerte di idrogeno dalla Russia e dalla Bielorussia non potranno più accedere ai fondi UE per lo sviluppo del mercato dell'idrogeno.",
+        "Le imprese europee dovranno verificare l'origine dell'idrogeno prima di richiedere i finanziamenti.",
+        "Le autorità di controllo avranno procedure più stringenti per accertare la provenienza del prodotto."
+      ],
+      "chi_interessa": "imprese energetiche, fornitori di idrogeno, autorità di controllo e tutti gli attori coinvolti nei progetti di idrogeno sostenuto dall'UE",
+      "cosa_devi_fare": "Verificare l'origine dell'idrogeno e, se proviene da Russia o Bielorussia, escluderlo dalle domande di finanziamento.",
+      "impatto": "Si riduce il rischio di dipendenza da fornitori russi/bielorussi e si garantisce che i fondi UE supportino solo fonti considerate sicure.",
+      "data_vigenza": "dal 1 settembre 2026",
+      "categoria": "Altro",
+      "importanza": 3,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1551",
+      "pubblicato": "2026-07-10T00:00:00+02:00",
+      "processed_at": "2026-07-12T06:33:57.432945+00:00"
+    },
+    {
+      "id": "ea44c8a788e875f1",
+      "titolo_popolare": "Divieto temporaneo di certi parassiti nell'UE",
+      "titolo_originale": "CELEX:32026R1553: Commission Implementing Regulation (EU) 2026/1553 of 9 July 2026 amending Implementing Regulation (EU) 2022/1941 as regards the temporary prohibition of introduction into, movement within, holding, multiplication or release of certain pests in the Union territory",
+      "riassunto_esteso": "Il regolamento UE 2026/1553 modifica una norma del 2022 per introdurre un divieto temporaneo sull'introduzione, il movimento, la detenzione, la moltiplicazione o il rilascio di specifici parassiti nocivi nel territorio dell'Unione. È stato adottato per proteggere agricoltura, foreste e biodiversità da minacce biologiche emergenti. La misura è limitata nel tempo e riguarda specie individuate come particolarmente pericolose. Si applica a tutti gli operatori che manipolano piante, animali o prodotti agricoli che potrebbero contenere questi parassiti. L'obiettivo è evitare danni economici e ambientali prima che vengano sviluppate soluzioni più durature.",
+      "cosa_cambia": [
+        "Divieto temporaneo di importare o spostare le specie di parassiti elencate nell'UE",
+        "Obbligo di controlli più severi su merci vegetali e animali sospette",
+        "Possibili sanzioni per chi viola il divieto durante il periodo di validità"
+      ],
+      "chi_interessa": "tutti gli operatori del settore agricolo, forestale, zootecnico e i commercianti di prodotti vegetali o animali",
+      "cosa_devi_fare": "Verificare se i prodotti trattati contengono i parassiti vietati e, in caso affermativo, sospendere l'importazione o il trasferimento fino al termine del divieto.",
+      "impatto": "Riduce il rischio di invasioni biologiche dannose, proteggendo colture e ecosistemi, ma impone controlli aggiuntivi per gli operatori.",
+      "data_vigenza": "dal 9 luglio 2026",
+      "categoria": "Ambiente e Energia",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1553",
+      "pubblicato": "2026-07-10T00:00:00+02:00",
+      "processed_at": "2026-07-12T06:34:34.598210+00:00"
+    },
+    {
+      "id": "4202d63d555c9e8a",
+      "titolo_popolare": "Accordo UE-Canada per gli appalti pubblici sicuri",
+      "titolo_originale": "CELEX:22026X01699: Information relating to the entry into force of the Agreement between the European Union and Canada laying down the conditions for the participation of Canadian legal entities and products originating in Canada to procurement under the Safe Instrument [2026/1699]",
+      "riassunto_esteso": "L'Unione europea e il Canada hanno firmato un accordo che stabilisce le regole per permettere a imprese canadesi e ai prodotti made in Canada di partecipare alle gare d'appalto pubbliche europee sotto il cosiddetto Safe Instrument. L'obiettivo è aumentare la trasparenza, la concorrenza leale e la sicurezza delle forniture, garantendo che le aziende canadesi possano concorrere alle stesse condizioni dei fornitori europei. L'accordo è stato adottato per rafforzare i legami commerciali e per offrire più scelte agli enti pubblici europei. Entrerà in vigore una volta pubblicato il relativo atto delegato. Da quel momento le autorità di gara dovranno rispettare le nuove condizioni previste dal trattato.",
+      "cosa_cambia": [
+        "Le imprese canadesi potranno partecipare alle gare d'appalto pubbliche dell'UE con le stesse regole degli operatori europei",
+        "I prodotti originari del Canada saranno considerati idonei per gli appalti sotto il Safe Instrument",
+        "Le amministrazioni pubbliche UE dovranno includere i criteri dell'accordo nei loro bandi"
+      ],
+      "chi_interessa": "imprese canadesi, fornitori di prodotti canadesi, autorità pubbliche europee che gestiscono appalti",
+      "cosa_devi_fare": "Le imprese canadesi devono registrarsi nei sistemi di gara UE e dimostrare la provenienza canadese dei prodotti.",
+      "impatto": "Maggiore concorrenza e scelta per gli appalti pubblici UE, con opportunità di mercato per le aziende canadesi.",
+      "data_vigenza": "in vigore da subito dopo pubblicazione del decreto attuativo",
+      "categoria": "Appalti Pubblici",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:22026X01699",
+      "pubblicato": "2026-07-10T00:00:00+02:00",
+      "processed_at": "2026-07-12T06:35:03.423059+00:00"
+    },
     {
       "id": "49d82ed27b4dbd6c",
       "titolo_popolare": "Aggiornamento delle sanzioni UE contro la Russia",
@@ -66,6 +220,95 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1546",
       "pubblicato": "2026-07-09T00:00:00+02:00",
       "processed_at": "2026-07-10T07:37:52.983018+00:00"
+    },
+    {
+      "id": "db091c9dcfcfcc06",
+      "titolo_popolare": "Correzione alle quote di pesca 2026-2028",
+      "titolo_originale": "CELEX:32026R1547R(01): Corrigendum to Council Regulation (EU) 2026/1547 of 1 July 2026 amending Regulation (EU) 2026/249 fixing for 2026, 2027 and 2028 the fishing opportunities for certain fish stocks, applicable in Union waters and, for Union fishing vessels, in certain non-Union waters, and amending Regulation (EU) 2025/2454 fixing the fishing opportunities for certain fish stocks and groups of fish stocks applicable in the Baltic Sea for 2026 (OJ L, 2026/1547, 3.7.2026)",
+      "riassunto_esteso": "Il Consiglio UE ha pubblicato un corrigendum, cioè una correzione, al regolamento che stabiliva le quote di pesca per gli anni 2026, 2027 e 2028. L’obiettivo è rettificare errori tecnici o di trascrizione presenti nella versione originale, garantendo che le quote per le varie specie ittiche siano corrette sia nelle acque dell’Unione sia, per le imbarcazioni comunitarie, in alcune acque extra‑UE. La correzione riguarda anche le quote specifiche per il Mar Baltico, già fissate dal regolamento del 2025. In pratica, il provvedimento assicura che i pescatori e le autorità di gestione della pesca operino con dati precisi e aggiornati.",
+      "cosa_cambia": [
+        "Le quote di pesca per alcune specie sono state corrette per gli anni 2026‑2028.",
+        "Le quote per il Mar Baltico nel 2026 sono state aggiornate.",
+        "Le correzioni si applicano sia alle acque UE sia a quelle extra‑UE dove operano imbarcazioni comunitarie."
+      ],
+      "chi_interessa": "tutti i pescatori, le imprese di pesca e le autorità di gestione delle risorse marine",
+      "cosa_devi_fare": "Verificare le nuove quote nei propri piani di pesca e adeguare le attività di conseguenza.",
+      "impatto": "Le quote corrette evitano sanzioni per eccessi di pesca e garantiscono una gestione più sostenibile delle risorse ittiche.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Ambiente e Energia",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1547R(01)",
+      "pubblicato": "2026-07-09T00:00:00+02:00",
+      "processed_at": "2026-07-12T06:29:06.700909+00:00"
+    },
+    {
+      "id": "6378f574158b44e9",
+      "titolo_popolare": "Nomina di un rappresentante cipriota al Comitato delle Regioni",
+      "titolo_originale": "CELEX:32026D1555: Council Decision (EU) 2026/1555 of 29 June 2026 appointing an alternate member, proposed by the Republic of Cyprus, of the Committee of the Regions",
+      "riassunto_esteso": "Il Consiglio dell'Unione Europea ha deciso di nominare, su proposta della Repubblica di Cipro, un membro supplente per il Comitato delle Regioni, l'organo consultivo che rappresenta le autorità locali e regionali dell'UE. La decisione è stata presa il 29 giugno 2026 e serve a garantire la corretta rappresentanza di Cipro nelle discussioni su politiche regionali, coesione territoriale e sviluppo locale. Il supplente potrà intervenire quando il membro principale non è disponibile, assicurando continuità nelle attività del Comitato. Questa nomina rientra nelle consuete procedure di rotazione e bilanciamento delle rappresentanze tra gli Stati membri. L'obiettivo è rafforzare la partecipazione delle regioni cipriote alle decisioni europee su temi come fondi strutturali, urbanistica e ambiente.",
+      "cosa_cambia": [
+        "Cipro avrà un nuovo rappresentante supplente nel Comitato delle Regioni.",
+        "Il supplente potrà partecipare alle riunioni quando il membro principale è assente.",
+        "Le autorità locali cipriote avranno una voce in più nelle decisioni UE su politiche regionali."
+      ],
+      "chi_interessa": "le autorità regionali e locali di Cipro, i cittadini ciprioti interessati alle politiche europee regionali",
+      "cosa_devi_fare": "Nessuna azione richiesta ai cittadini; la nomina è gestita dalle istituzioni.",
+      "impatto": "Migliora la rappresentanza di Cipro nelle politiche regionali UE, potenzialmente influenzando meglio i fondi e i progetti locali.",
+      "data_vigenza": "dal 29 giugno 2026",
+      "categoria": "Altro",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1555",
+      "pubblicato": "2026-07-09T00:00:00+02:00",
+      "processed_at": "2026-07-12T06:29:40.010583+00:00"
+    },
+    {
+      "id": "1c1140e24731bdae",
+      "titolo_popolare": "Nomina dei rappresentanti danesi al Comitato delle Regioni",
+      "titolo_originale": "CELEX:32026D1558: Council Decision (EU) 2026/1558 of 29 June 2026 appointing seven members and eight alternate members, proposed by the Kingdom of Denmark, of the Committee of the Regions",
+      "riassunto_esteso": "Il Consiglio dell'Unione Europea ha deciso di conferire al Regno di Danimarca la possibilità di nominare sette membri e otto supplenti al Comitato delle Regioni, l'organo consultivo che rappresenta le autorità locali e regionali dell'UE. La decisione, adottata il 29 giugno 2026, segue le regole di ripartizione dei posti tra gli Stati membri e serve a garantire una rappresentanza equilibrata delle diverse realtà territoriali. L'obiettivo è rafforzare il ruolo del Comitato nelle politiche europee, assicurando che le istanze delle regioni danesi siano ascoltate. La nomina avviene su proposta del governo danese e sarà valida per il mandato previsto del Comitato.",
+      "cosa_cambia": [
+        "Il Danimarca può ora inviare sette rappresentanti al Comitato delle Regioni",
+        "Vengono nominati anche otto supplenti che sostituiranno i membri assenti",
+        "I rappresentanti danesi parteciperanno alle deliberazioni e alle opinioni del Comitato",
+        "Nessun cambiamento diretto per i cittadini, ma una voce più forte per le regioni danesi a livello UE"
+      ],
+      "chi_interessa": "le autorità regionali e locali della Danimarca, i politici danesi e i cittadini interessati alle decisioni UE che riguardano le regioni",
+      "cosa_devi_fare": "Nessuna azione richiesta ai cittadini; i rappresentanti saranno scelti dal governo danese.",
+      "impatto": "Migliora la capacità delle regioni danesi di influenzare le politiche UE, potenzialmente favorendo decisioni più vicine alle esigenze locali.",
+      "data_vigenza": "dal 29 giugno 2026",
+      "categoria": "Appalti Pubblici",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1558",
+      "pubblicato": "2026-07-09T00:00:00+02:00",
+      "processed_at": "2026-07-12T06:30:03.881058+00:00"
+    },
+    {
+      "id": "8948d4a4998eac71",
+      "titolo_popolare": "Accordo nucleare UE-UK per Gibilterra",
+      "titolo_originale": "CELEX:32026D1691: Commission Decision (Euratom) 2026/1691 of 8 July 2026 on the conclusion, by the European Commission, on behalf of the European Atomic Energy Community, and provisional application of the Agreement in respect of Gibraltar between the European Union and the European Atomic Energy Community, of the one part, and the United Kingdom of Great Britain and Northern Ireland, of the other part",
+      "riassunto_esteso": "Il 8 luglio 2026 la Commissione Europea, per conto dell'Euratom, ha deciso di concludere e applicare provvisoriamente un accordo tra l'Unione Europea e il Regno Unito riguardante la cooperazione nucleare a Gibilterra. L’accordo mira a garantire la continuità delle attività nucleari, la sicurezza e la gestione dei rifiuti in quella zona, evitando interruzioni dopo la Brexit. È stato adottato per assicurare che le normative di sicurezza nucleare rimangano armonizzate e per facilitare scambi scientifici e tecnici. La decisione è provvisoria, in attesa di ratifica completa da parte dei soggetti coinvolti. L’obiettivo è mantenere elevati standard di protezione e favorire la ricerca congiunta.",
+      "cosa_cambia": [
+        "Le attività nucleari a Gibilterra seguiranno le norme UE/Euratom anche dopo la Brexit.",
+        "Le autorità britanniche dovranno collaborare con l'UE per la sicurezza e la gestione dei rifiuti nucleari.",
+        "Le imprese e i centri di ricerca potranno continuare a scambiare dati e tecnologie nucleari senza interruzioni."
+      ],
+      "chi_interessa": "operatori nucleari, ricercatori, autorità di sicurezza e gestione rifiuti a Gibilterra e nel Regno Unito",
+      "cosa_devi_fare": "Nessuna azione immediata richiesta; monitorare eventuali comunicazioni per la ratifica definitiva.",
+      "impatto": "Garantisce continuità e sicurezza delle attività nucleari a Gibilterra, evitando vuoti normativi post‑Brexit.",
+      "data_vigenza": "dal 8 luglio 2026 (applicazione provvisoria)",
+      "categoria": "Ambiente e Energia",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1691",
+      "pubblicato": "2026-07-09T00:00:00+02:00",
+      "processed_at": "2026-07-12T06:30:39.462800+00:00"
     },
     {
       "id": "b068e2d85bb1623f",
@@ -215,6 +458,51 @@
       "processed_at": "2026-07-08T06:24:47.248687+00:00"
     },
     {
+      "id": "2904b885fd3e17d3",
+      "titolo_popolare": "Aggiornamento norme per le banche su requisiti patrimoniali",
+      "titolo_originale": "OJ:L_202600807: Commission Delegated Regulation (EU) 2026/807 of 10 March 2026 amending the regulatory technical standards laid down in Delegated Regulation (EU) 2023/206 as regards the updating of references and the alignment of terminology following amendments to Regulation (EU) No 575/2013",
+      "riassunto_esteso": "Il Regolamento delegato UE 2026/807 del 10 marzo 2026 modifica le norme tecniche già stabilite nel Regolamento delegato 2023/206. L’obiettivo è aggiornare i riferimenti normativi e uniformare la terminologia in seguito alle modifiche apportate al Regolamento (UE) n. 575/2013, che disciplina i requisiti patrimoniali delle banche. In pratica, si adegua la documentazione tecnica alle nuove disposizioni europee per garantire coerenza e chiarezza. Questa revisione è necessaria per mantenere allineati i criteri di vigilanza bancaria con le ultime evoluzioni legislative. Il cambiamento riguarda tutti gli enti creditizi che operano nell’Unione Europea.",
+      "cosa_cambia": [
+        "Vengono aggiornati i riferimenti normativi nelle regole tecniche per le banche",
+        "La terminologia usata nei requisiti patrimoniali è uniformata con le nuove disposizioni del Regolamento 575/2013",
+        "Le banche dovranno adeguare la loro documentazione interna alle nuove indicazioni",
+        "Nessun altro cambiamento sostanziale indicato"
+      ],
+      "chi_interessa": "tutte le banche e gli istituti di credito operanti nell'Unione Europea",
+      "cosa_devi_fare": "Aggiornare i manuali e le procedure interne per riflettere i nuovi riferimenti e termini.",
+      "impatto": "Migliora la coerenza delle regole patrimoniali, facilitando la vigilanza e riducendo errori di interpretazione.",
+      "data_vigenza": "dal 1 aprile 2026",
+      "categoria": "Banche e Finanza",
+      "importanza": 3,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202600807",
+      "pubblicato": "2026-07-07T00:00:00+02:00",
+      "processed_at": "2026-07-12T06:27:58.308963+00:00"
+    },
+    {
+      "id": "6328f3c885dd0cc2",
+      "titolo_popolare": "Accordo di pesca UE‑São Tomé e Príncipe 2025‑2029",
+      "titolo_originale": "OJ:L_202601548: Council Decision (EU) 2026/1548 of 8 June 2026 on the conclusion, on behalf of the Union, of the Protocol on the implementation of the Fisheries Partnership Agreement between the Democratic Republic of São Tomé and Príncipe and the European Community (2025–2029)",
+      "riassunto_esteso": "Il Consiglio europeo ha deciso di firmare, a nome dell'Unione, il protocollo che mette in pratica l'Accordo di Partnership per la pesca tra l'UE e la Repubblica Democratica di São Tomé e Príncipe per il periodo 2025‑2029. L'obiettivo è garantire a pescatori europei l'accesso alle acque di São Tomé e Príncipe in cambio di contributi finanziari, trasferimento di tecnologie e sostegno allo sviluppo della pesca locale. L'accordo è stato adottato per rafforzare la cooperazione sostenibile nel settore marittimo, tutelare le risorse ittiche e promuovere lo sviluppo economico del partner africano. Prevede quote di cattura, misure di controllo e monitoraggio, e programmi di formazione per i pescatori locali. È parte della più ampia strategia UE di gestione responsabile delle risorse marine e di aiuto allo sviluppo nei paesi ACP.",
+      "cosa_cambia": [
+        "I pescatori europei potranno accedere alle zone di pesca di São Tomé e Príncipe secondo le quote stabilite.",
+        "São Tomé e Príncipe riceverà finanziamenti e supporto tecnico per migliorare la gestione delle proprie risorse marine.",
+        "Verranno introdotti sistemi di monitoraggio con osservatori a bordo per garantire la sostenibilità delle attività di pesca."
+      ],
+      "chi_interessa": "pescatori e imprese di pesca dell'UE, autorità marittime italiane, e le autorità di São Tomé e Príncipe",
+      "cosa_devi_fare": "Le imprese di pesca devono richiedere le autorizzazioni entro i termini stabiliti dal protocollo e rispettare le quote e le norme di controllo.",
+      "impatto": "Aumento delle opportunità di pesca per le flotte UE e sostegno allo sviluppo della pesca sostenibile a São Tomé e Príncipe.",
+      "data_vigenza": "in vigore dal 1 luglio 2026",
+      "categoria": "Ambiente e Energia",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601548",
+      "pubblicato": "2026-07-07T00:00:00+02:00",
+      "processed_at": "2026-07-12T06:28:30.612253+00:00"
+    },
+    {
       "id": "ca03c799c7995366",
       "titolo_popolare": "Correzione di testi UE in altre lingue",
       "titolo_originale": "CELEX:32019L1995R(03)",
@@ -320,6 +608,95 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1556",
       "pubblicato": "2026-07-06T00:00:00+02:00",
       "processed_at": "2026-07-09T07:28:42.830124+00:00"
+    },
+    {
+      "id": "1d379aac1bfa4701",
+      "titolo_popolare": "Autorizzazione al nuovo alimento a base di fungo Rhizomucor pusillus",
+      "titolo_originale": "CELEX:32026R1507: Commission Implementing Regulation (EU) 2026/1507 of 3 July 2026 authorising the placing on the market of Rhizomucor pusillus mycelium as a novel food and amending Implementing Regulation (EU) 2017/2470",
+      "riassunto_esteso": "Il regolamento UE 2026/1507 del 3 luglio 2026 autorizza la commercializzazione del micelio del fungo Rhizomucor pusillus come nuovo alimento. La decisione è stata presa dopo la valutazione della sicurezza da parte dell'EFSA, per garantire che il prodotto sia innocuo per i consumatori. Il provvedimento modifica anche il regolamento di attuazione del 2017/2470, aggiornando l'elenco dei nuovi alimenti autorizzati. L'obiettivo è ampliare le scelte alimentari e favorire l'innovazione nel settore alimentare, mantenendo alti standard di sicurezza. Con questa norma, le aziende potranno introdurre sul mercato prodotti a base di questo micelio, ad esempio integratori o ingredienti per alimenti trasformati.",
+      "cosa_cambia": [
+        "Le aziende alimentari possono ora vendere prodotti contenenti micelio di Rhizomucor pusillus in UE.",
+        "L'elenco dei nuovi alimenti autorizzati viene aggiornato includendo questo fungo.",
+        "I consumatori avranno a disposizione un nuovo ingrediente alimentare sul mercato."
+      ],
+      "chi_interessa": "produttori e distributori di alimenti, negozi alimentari, consumatori interessati a nuovi ingredienti",
+      "cosa_devi_fare": "Le aziende devono garantire che i prodotti rispettino le condizioni di sicurezza stabilite nel regolamento.",
+      "impatto": "Apre il mercato a un nuovo ingrediente alimentare, potenzialmente ampliando l'offerta di prodotti innovativi e salutari.",
+      "data_vigenza": "dal 3 luglio 2026",
+      "categoria": "Altro",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1507",
+      "pubblicato": "2026-07-06T00:00:00+02:00",
+      "processed_at": "2026-07-12T06:25:20.977528+00:00"
+    },
+    {
+      "id": "aca517d53b9ea595",
+      "titolo_popolare": "Nuove regole UE per le segnalazioni dei prezzi dei produttori di frutta e verdura",
+      "titolo_originale": "CELEX:32026R0912: Commission Delegated Regulation (EU) 2026/912 of 27 April 2026 amending Delegated Regulation (EU) 2017/891 as regards the Member States’ notifications concerning producer prices of fruit and vegetables on the internal market",
+      "riassunto_esteso": "Il Regolamento delegato UE 2026/912 modifica il precedente Regolamento 2017/891 per aggiornare le modalità con cui gli Stati membri comunicano i prezzi di produzione di frutta e verdura al mercato interno. L’obiettivo è rendere i dati più tempestivi, omogenei e confrontabili, così da migliorare la trasparenza del settore agroalimentare e supportare le politiche di mercato. La modifica introduce un nuovo schema di reportistica digitale e prevede una frequenza di invio più elevata, passando da una volta all'anno a due volte l'anno. È stata anche inserita la possibilità di includere informazioni aggiuntive sui costi di produzione. La norma è stata adottata per rispondere alle richieste della Commissione di avere dati più accurati per monitorare le fluttuazioni dei prezzi e garantire una concorrenza leale.",
+      "cosa_cambia": [
+        "Gli Stati membri devono inviare le segnalazioni dei prezzi dei produttori di frutta e verdura due volte l'anno anziché una sola volta.",
+        "Le segnalazioni devono essere effettuate tramite un nuovo formato digitale standardizzato.",
+        "È possibile includere dati sui costi di produzione per una visione più completa del mercato."
+      ],
+      "chi_interessa": "produttori agricoli, associazioni di categoria, autorità nazionali di statistica e tutti gli operatori del mercato agroalimentare",
+      "cosa_devi_fare": "Se sei un produttore o rappresenti un'associazione, verifica il nuovo modello digitale e prepara le due comunicazioni annuali entro le scadenze indicate.",
+      "impatto": "Dati più frequenti e uniformi migliorano la trasparenza dei prezzi, aiutando agricoltori e autorità a prendere decisioni più informate.",
+      "data_vigenza": "dal 1 gennaio 2027",
+      "categoria": "Agricoltura e Alimentare",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R0912",
+      "pubblicato": "2026-07-06T00:00:00+02:00",
+      "processed_at": "2026-07-12T06:26:01.762569+00:00"
+    },
+    {
+      "id": "59be4c8bdf8a2ce0",
+      "titolo_popolare": "Divieto e controlli su una nuova nematode delle colture",
+      "titolo_originale": "CELEX:32026R1433: Commission Implementing Regulation (EU) 2026/1433 of 3 July 2026 amending Annexes II, VII and VIII to Implementing Regulation (EU) 2019/2072 as regards measures to prevent the entry into, and the presence, establishment and spread within, the Union territory of Meloidogyne graminicola Golden &amp;amp; Birchfield",
+      "riassunto_esteso": "Il regolamento UE 2026/1433 aggiorna le norme per impedire l'ingresso, l'insediamento e la diffusione in Europa del nematode Meloidogyne graminicola, un parassita che attacca le colture di riso e altre piante. La misura è stata adottata perché la specie è stata identificata come minaccia per la sicurezza agricola e per evitare danni economici alle produzioni. Il provvedimento modifica gli allegati II, VII e VIII del regolamento 2019/2072, inserendo nuove restrizioni, requisiti di certificazione e controlli sanitari per le merci vegetali interessate. L'obiettivo è rafforzare la difesa fitosanitaria dell'Unione, riducendo il rischio di diffusione di questo organismo nocivo. La norma entra in vigore subito, ma la sua applicazione pratica dipenderà da eventuali decreti attuativi nazionali.",
+      "cosa_cambia": [
+        "Divieto di importare e commercializzare piante o prodotti vegetali contaminati da Meloidogyne graminicola",
+        "Obbligo di certificazione fitosanitaria per le esportazioni verso l'UE di materiale vegetale a rischio",
+        "Controlli più stringenti nei punti di ingresso (dogane, posti di frontiera) per rilevare il nematode"
+      ],
+      "chi_interessa": "produttori agricoli, importatori ed esportatori di piante e prodotti vegetali, autorità fitosanitarie",
+      "cosa_devi_fare": "Verificare la certificazione fitosanitaria dei prodotti vegetali e assicurarsi che non contengano il nematode prima di esportare o importare.",
+      "impatto": "Riduce il rischio di infestazioni da Meloidogyne graminicola, proteggendo le colture e limitando perdite economiche per gli agricoltori.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Ambiente e Energia",
+      "importanza": 3,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1433",
+      "pubblicato": "2026-07-06T00:00:00+02:00",
+      "processed_at": "2026-07-12T06:26:30.622821+00:00"
+    },
+    {
+      "id": "38e0d8157281ef7b",
+      "titolo_popolare": "Nuove regole per la pesca nel Mediterraneo",
+      "titolo_originale": "CELEX:32026R0921: Commission Delegated Regulation (EU) 2026/921 of 29 April 2026 on the implementation of Union’s international obligations, as referred to in Article 15(2) of Regulation (EU) No 1380/2013 of the European Parliament and of the Council, under the General Fisheries Commission for the Mediterranean",
+      "riassunto_esteso": "Il Regolamento delegato UE 2026/921 traduce in norme nazionali gli impegni internazionali dell'Unione in materia di pesca mediterranea, come previsto dal Regolamento 1380/2013. Serve a garantire che le quote di cattura, le misure di conservazione e i controlli siano allineati con le decisioni della General Fisheries Commission for the Mediterranean (GFCM). L'obiettivo è proteggere le risorse ittiche, evitare la sovrasfruttamento e favorire una gestione sostenibile del mare. Il provvedimento fissa i livelli di cattura per le specie più vulnerabili, introduce obblighi di monitoraggio più stringenti e prevede sanzioni per chi non rispetta le regole. È stato adottato per adempiere agli accordi internazionali e per rispondere alle richieste di pescatori e ambientalisti di una gestione più trasparente.",
+      "cosa_cambia": [
+        "Le quote di cattura per alcune specie mediterranee sono state ridotte o adeguate.",
+        "I pescatori devono utilizzare sistemi di tracciamento elettronico per tutte le imbarcazioni di oltre 12 metri.",
+        "Le autorità di controllo hanno poteri rafforzati per effettuare ispezioni a bordo.",
+        "Le sanzioni per superamento quote o mancato rispetto delle misure di conservazione sono aumentate."
+      ],
+      "chi_interessa": "tutti i pescatori operanti nel Mediterraneo, le imprese di pesca e le autorità di controllo marittimo",
+      "cosa_devi_fare": "Adeguare le proprie attività alle nuove quote, installare i dispositivi di tracciamento richiesti e tenere registri di pesca aggiornati.",
+      "impatto": "Contribuirà a preservare le risorse ittiche e a garantire una pesca più sostenibile, ma comporta nuovi obblighi tecnici per i pescatori.",
+      "data_vigenza": "dal 1 gennaio 2027",
+      "categoria": "Ambiente e Energia",
+      "importanza": 3,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R0921",
+      "pubblicato": "2026-07-06T00:00:00+02:00",
+      "processed_at": "2026-07-12T06:27:19.357380+00:00"
     },
     {
       "id": "fb480b486acc7de2",
@@ -1120,6 +1497,28 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690544",
       "pubblicato": "2026-07-03T00:00:00+02:00",
       "processed_at": "2026-07-05T07:03:00.131780+00:00"
+    },
+    {
+      "id": "538764cb24e6a60e",
+      "titolo_popolare": "Accesso giapponese al Fondo Ucraina dell'UE",
+      "titolo_originale": "OJ:L_202601449: Commission Implementing Decision (EU) 2026/1449 of 25 June 2026 approving Japan’s request for reciprocal access under the Ukraine Facility established by Regulation (EU) 2024/792 of the European Parliament and of the Council",
+      "riassunto_esteso": "Il 25 giugno 2026 la Commissione europea ha deciso di approvare la richiesta del Giappone di partecipare al Fondo Ucraina, creato dal Regolamento UE 2024/792 per sostenere la ricostruzione e lo sviluppo dell'Ucraina. Questa decisione consente al Giappone di fornire e ricevere aiuti in modo reciproco, facilitando la cooperazione internazionale e aumentando le risorse disponibili per il progetto. L'obiettivo è rafforzare la solidarietà europea con l'Ucraina e coinvolgere partner esterni affidabili. La misura è parte di una più ampia strategia di sostegno economico e umano all'Ucraina dopo il conflitto. L'approvazione è stata data sulla base di criteri di trasparenza, tracciabilità e rispetto dei principi UE.",
+      "cosa_cambia": [
+        "Il Giappone può ora contribuire finanziariamente al Fondo Ucraina dell'UE.",
+        "Il Giappone potrà anche accedere a progetti di ricostruzione in Ucraina gestiti dall'UE.",
+        "Le autorità ucraine potranno ricevere fondi anche da fonti giapponesi tramite il medesimo meccanismo."
+      ],
+      "chi_interessa": "Il governo giapponese, le imprese giapponesi interessate a progetti in Ucraina, le autorità ucraine e gli enti gestori del Fondo Ucraina dell'UE",
+      "cosa_devi_fare": "Nessuna azione immediata per i cittadini; le autorità competenti dovranno coordinare i flussi di finanziamento.",
+      "impatto": "Aumenta le risorse disponibili per la ricostruzione dell'Ucraina e rafforza la cooperazione UE‑Giappone, con benefici per i progetti sul territorio ucraino.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Ambiente e Energia",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601449",
+      "pubblicato": "2026-07-03T00:00:00+02:00",
+      "processed_at": "2026-07-12T06:24:55.141577+00:00"
     },
     {
       "id": "d0b5a1e174d3ade4",

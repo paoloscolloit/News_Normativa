@@ -5349,7 +5349,7 @@
     "pubblicato": "2026-07-03T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-03T06:52:25.271017+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "ac89d17bd34cc3e6",
@@ -5421,7 +5421,7 @@
     "pubblicato": "2026-07-06T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-06T08:08:11.941078+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "aca517d53b9ea595",
@@ -5433,7 +5433,7 @@
     "pubblicato": "2026-07-06T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-06T08:08:11.941221+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "59be4c8bdf8a2ce0",
@@ -5445,7 +5445,7 @@
     "pubblicato": "2026-07-06T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-06T08:08:11.941380+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "ca03c799c7995366",
@@ -5469,7 +5469,7 @@
     "pubblicato": "2026-07-06T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-06T08:08:11.941619+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "1dd73d486568420b",
@@ -5541,7 +5541,7 @@
     "pubblicato": "2026-07-07T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-07T07:26:18.864151+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "41332d1a0d649fb4",
@@ -5589,7 +5589,7 @@
     "pubblicato": "2026-07-07T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-07T07:26:18.864591+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "84764b4aee214ee4",
@@ -5625,7 +5625,7 @@
     "pubblicato": "2026-07-09T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-09T07:26:44.604437+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "6378f574158b44e9",
@@ -5637,7 +5637,7 @@
     "pubblicato": "2026-07-09T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-09T07:26:44.604564+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "49d82ed27b4dbd6c",
@@ -5685,7 +5685,7 @@
     "pubblicato": "2026-07-09T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-09T07:26:44.604973+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "8948d4a4998eac71",
@@ -5697,7 +5697,7 @@
     "pubblicato": "2026-07-09T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-09T07:26:44.605071+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "81a73bb15d57a7c5",
@@ -5709,7 +5709,7 @@
     "pubblicato": "2026-07-10T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-10T07:24:46.152462+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "70f6580e74133955",
@@ -5721,7 +5721,7 @@
     "pubblicato": "2026-07-10T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-10T07:24:46.152611+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "b772a69e4290edb1",
@@ -5733,7 +5733,7 @@
     "pubblicato": "2026-07-10T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-10T07:24:46.152722+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "dfb7829ecf18446a",
@@ -5745,7 +5745,7 @@
     "pubblicato": "2026-07-10T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-10T07:24:46.152828+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "94f3a45ffce8e0b7",
@@ -5757,7 +5757,7 @@
     "pubblicato": "2026-07-10T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-10T07:24:46.152932+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "ea44c8a788e875f1",
@@ -5769,7 +5769,7 @@
     "pubblicato": "2026-07-10T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-10T07:24:46.153036+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "4202d63d555c9e8a",
@@ -5781,6 +5781,6 @@
     "pubblicato": "2026-07-10T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-10T07:24:46.153145+00:00",
-    "processed": false
+    "processed": true
   }
 ]
