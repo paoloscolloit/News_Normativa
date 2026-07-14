@@ -1,7 +1,170 @@
 {
-  "last_updated": "2026-07-13T06:52:41.264123+00:00",
-  "total": 495,
+  "last_updated": "2026-07-14T06:13:18.384858+00:00",
+  "total": 503,
   "items": [
+    {
+      "id": "66b11f213ea14dd4",
+      "titolo_popolare": "Missione UE di partenariato in Armenia avviata",
+      "titolo_originale": "OJ:L_202601711: Council Decision (CFSP) 2026/1711 of 13 July 2026 launching the European Union Partnership Mission in Armenia (EUPM Armenia) and amending Decision (CFSP) 2026/894",
+      "riassunto_esteso": "Il Consiglio dell'Unione europea ha deciso di lanciare la Partnership Mission in Armenia, un'iniziativa volta a sostenere le riforme politiche ed economiche del paese e a rafforzare i legami tra l'UE e l'Armenia. La decisione modifica inoltre una precedente decisione (CFSP) 2026/894, aggiornandone gli obiettivi e le modalità di attuazione. La missione prevede l'invio di esperti europei per assistere le autorità armene in settori come la governance, lo Stato di diritto e lo sviluppo sostenibile. L'obiettivo è contribuire alla stabilità regionale e promuovere valori condivisi come democrazia e diritti umani. L'atto rientra nella politica estera e di sicurezza comune dell'UE.",
+      "cosa_cambia": [
+        "Nessun cambiamento diretto per i cittadini italiani"
+      ],
+      "chi_interessa": "nessun cittadino italiano direttamente interessato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "La missione può favorire maggiori opportunità di scambio culturale ed economico con l'Armenia e contribuire a una maggiore stabilità nel Caucaso. Questo si riflette indirettamente in un contesto internazionale più sicuro per tutti.",
+      "data_vigenza": "in vigore dal 13 luglio 2026",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601711",
+      "pubblicato": "2026-07-14T00:00:00+02:00",
+      "processed_at": "2026-07-14T06:03:13.479004+00:00"
+    },
+    {
+      "id": "d1b0510fc77f54b5",
+      "titolo_popolare": "Nomina del rappresentante UE per il Kosovo",
+      "titolo_originale": "OJ:L_202601726: Council Decision (CFSP) 2026/1726 of 13 July 2026 appointing the European Union Special Representative for Kosovo",
+      "riassunto_esteso": "Il Consiglio dell'Unione europea ha deciso di nominare un nuovo rappresentante speciale per il Kosovo, con il compito di seguire da vicino la situazione politica e di situazione politica e di sicurezza nella regione. Questo ruolo serve a rafforzare la presenza dell'UE nei Balcani occidentali e a sostenere il dialogo tra Belgrado e Pristina. La decisione è stata presa il 13 luglio 2026 e entra in vigore subito dopo la pubblicazione nella Gazzetta ufficiale dell'UE. Non comporta obblighi diretti per i cittadini italiani, ma rientra nella politica estera comune dell'Unione.",
+      "cosa_cambia": [
+        "Nessun cambiamento diretto per i cittadini italiani"
+      ],
+      "chi_interessa": "nessun gruppo specifico di cittadini italiani",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "Rafforza il ruolo dell'UE nei Balcani, contribuendo alla stabilità regionale e al processo di dialogo tra Serbia e Kosovo.",
+      "data_vigenza": "in vigore dal 13 luglio 2026",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601726",
+      "pubblicato": "2026-07-14T00:00:00+02:00",
+      "processed_at": "2026-07-14T06:03:28.666331+00:00"
+    },
+    {
+      "id": "170b67366ab6f098",
+      "titolo_popolare": "Atto UE non identificato nella Gazzetta",
+      "titolo_originale": "OJ:L_202690568",
+      "riassunto_esteso": "L'atto indicato nella fonte EUR-Lex non è disponibile nelle versioni consultabili, quindi non è possibile leggere il suo contenuto ufficiale. Non essendo presente il testo integrale, non si possono descrivere gli obiettivi né le motivazioni alla base della sua adozione. Di conseguenza, non è possibile stabilire quali modifiche introduca rispetto alla normativa precedente. L'assenza di informazioni impedisce anche di capire a chi si rivolga o quali effetti possa avere. Per avere chiarimenti sarebbe necessario consultare la versione originale dell'atto o attendere eventuali comunicazioni ufficiali.",
+      "cosa_cambia": [
+        "non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690568",
+      "pubblicato": "2026-07-14T00:00:00+02:00",
+      "processed_at": "2026-07-14T06:03:40.693222+00:00"
+    },
+    {
+      "id": "19606a63e9aa5f4f",
+      "titolo_popolare": "Sicurezza dei sistemi spaziali UE: nuove regole",
+      "titolo_originale": "OJ:L_202601716: Council Decision (CFSP) 2026/1716 of 13 July 2026 on instructions concerning the security of systems and services deployed, operated and used under the Union Space Programme and the Union Secure Connectivity Programme which may affect the security of the Union",
+      "riassunto_esteso": "Il Consiglio dell'UE ha adottato una decisione che fornisce istruzioni specifiche sulla sicurezza dei sistemi e dei servizi impiegati nel programma spaziale europeo e nel programma di connettività sicura dell'Unione. L'obiettivo è prevenire rischi che possano compromettere la sicurezza generale dell'Unione, garantendo che satelliti, reti di comunicazione e infrastrutture correlate rispettino standard elevati di protezione. La decisione stabilisce quali enti devono applicare queste misure e come devono essere verificate le loro attività. In pratica, si tratta di un rafforzamento delle tutele contro possibili minacce cyber o fisiche ai servizi spaziali.",
+      "cosa_cambia": [
+        "Gli operatori di satelliti e di servizi di comunicazione sicura devono seguire nuove procedure di sicurezza richieste dall'UE",
+        "Vengono introdotti controlli più rigorosi sulla protezione dei dati trasmessi dallo spazio",
+        "I fornitori di servizi di navigazione e di connettività potrebbero dover aggiornare i propri sistemi per rispettare gli standard",
+        "Per i cittadini comuni non ci sono obblighi diretti di azione"
+      ],
+      "chi_interessa": "Enti pubblici e privati che partecipano al programma spaziale UE e al programma di connettività sicura",
+      "cosa_devi_fare": "Nessuna azione richiesta direttamente ai cittadini",
+      "impatto": "Maggiore protezione dei servizi spaziali e di comunicazione, riducendo il rischio di interruzioni o attacchi che potrebbero influire su navigazione, telecomunicazioni e altri servizi essenziali.",
+      "data_vigenza": "in vigore dal 13 luglio 2026",
+      "categoria": "Digitale e Privacy",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601716",
+      "pubblicato": "2026-07-14T00:00:00+02:00",
+      "processed_at": "2026-07-14T06:04:48.596206+00:00"
+    },
+    {
+      "id": "9187531a0e66d023",
+      "titolo_popolare": "Atto UE senza dettagli disponibili",
+      "titolo_originale": "OJ:L_202690570",
+      "riassunto_esteso": "L'atto è stato pubblicato nella Gazzetta Ufficiale dell'Unione Europea nella serie L. Non è disponibile una versione inglese del testo, quindi i dettagli precisi non sono conosciuti. Probabilmente riguarda una materia di interesse generale per gli Stati membri. La pubblicazione serve a rendere ufficiale la norma a livello europeo.",
+      "cosa_cambia": [
+        "non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690570",
+      "pubblicato": "2026-07-14T00:00:00+02:00",
+      "processed_at": "2026-07-14T06:05:13.434531+00:00"
+    },
+    {
+      "id": "fb6975cff2181780",
+      "titolo_popolare": "Aiuto UE alle forze armate delle Filippine",
+      "titolo_originale": "OJ:L_202601722: Council Decision (CFSP) 2026/1722 of 13 July 2026 on an assistance measure under the European Peace Facility to support the Armed Forces of the Philippines",
+      "riassunto_esteso": "Il Consiglio dell'Unione europea ha deciso di concedere un aiuto alle forze armate delle Filippine nell'ambito dello European Peace Facility. Questo strumento permette all'UE di fornire sostegno finanziario o materiale a paesi partner per contribuire alla pace e alla sicurezza internazionale. L'intervento mira a rafforzare la capacità delle forze filippine di contrastare minacce come il terrorismo e la criminalità organizzata, promuovendo la stabilità nella regione del Sud-Est asiatico. La decisione rientra nella politica estera e di sicurezza comune dell'UE e dimostra l'impegno dell'Unione a cooperare con paesi terzi per la sicurezza globale. Non prevede obblighi diretti per gli Stati membri né per i cittadini italiani.",
+      "cosa_cambia": [
+        "Nessun cambiamento diretto per i cittadini italiani"
+      ],
+      "chi_interessa": "nessun cittadino italiano direttamente",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "L'atto non ha effetti concreti sulla vita quotidiana dei cittadini italiani; serve principalmente a rafforzare la cooperazione internazionale dell'UE.",
+      "data_vigenza": "in vigore dal 13 luglio 2026",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601722",
+      "pubblicato": "2026-07-14T00:00:00+02:00",
+      "processed_at": "2026-07-14T06:05:46.542202+00:00"
+    },
+    {
+      "id": "f769970308d2ec4c",
+      "titolo_popolare": "Atto UE non disponibile in lingua italiana",
+      "titolo_originale": "OJ:L_202690569",
+      "riassunto_esteso": "Il documento indicato non è disponibile in lingua inglese né, presumibilmente, in italiano, quindi non è possibile conoscerne il contenuto preciso. Si tratta comunque di un atto pubblicato nella Gazzetta ufficiale dell'Unione europea, serie L, che normalmente contiene disposizioni vincolanti per gli Stati membri. Senza il testo non si possono indicare gli obblighi introdotti né gli scopi del provvedimento. Per avere informazioni bisogna consultare la fonte originale o attendere una traduzione ufficiale.",
+      "cosa_cambia": [
+        "non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "non specificato",
+      "impatto": "non specificato",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690569",
+      "pubblicato": "2026-07-14T00:00:00+02:00",
+      "processed_at": "2026-07-14T06:08:46.392428+00:00"
+    },
+    {
+      "id": "14f7ac91db10200b",
+      "titolo_popolare": "Atto normativo europeo non specificato",
+      "titolo_originale": "OJ:L_202690565",
+      "riassunto_esteso": "Non è possibile determinare il contenuto dell'atto poiché il documento non è disponibile in lingua inglese e non sono stati forniti ulteriori dettagli. Pertanto non si conoscono le disposizioni specifiche né gli obiettivi perseguiti. Senza queste informazioni non è possibile descrivere cosa stabilisce l'atto né il motivo della sua adozione. Si consiglia di consultare la fonte originale per ottenere il testo completo.",
+      "cosa_cambia": [
+        "non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690565",
+      "pubblicato": "2026-07-14T00:00:00+02:00",
+      "processed_at": "2026-07-14T06:13:18.380041+00:00"
+    },
     {
       "id": "4b50844a1e3f1a7c",
       "titolo_popolare": "Aiuti d'emergenza per agricoltori colpiti da calamità",
