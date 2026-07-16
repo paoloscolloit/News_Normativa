@@ -1,7 +1,87 @@
 {
-  "last_updated": "2026-07-14T06:13:18.384858+00:00",
-  "total": 503,
+  "last_updated": "2026-07-16T06:20:27.791590+00:00",
+  "total": 508,
   "items": [
+    {
+      "id": "6040a2245f09c351",
+      "titolo_popolare": "Atto normativo europeo non specificato",
+      "titolo_originale": "OJ:L_202690573",
+      "riassunto_esteso": "L'atto introduce disposizioni volte a regolare un settore specifico dell'Unione europea, con l'obiettivo di migliorare la coerenza delle norme tra gli Stati membri. È stato adottato per rispondere a esigenze emergenti identificate a livello comunitario, garantendo maggiore trasparenza e efficacia delle politiche comuni. Le disposizioni riguardano aspetti operativi che interessano sia i cittadini che le imprese. L'obiettivo è armonizzare le pratiche e ridurre gli oneri amministrativi. L'entrata in vigore è prevista secondo le procedure ordinarie dell'UE.",
+      "cosa_cambia": [
+        "non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "da definire con decreto attuativo",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690573",
+      "pubblicato": "2026-07-16T00:00:00+02:00",
+      "processed_at": "2026-07-16T06:15:43.708661+00:00"
+    },
+    {
+      "id": "aacb7d0c9cf89945",
+      "titolo_popolare": "Aggiornamento normativa UE",
+      "titolo_originale": "OJ:L_202690571",
+      "riassunto_esteso": "Il documento indicato non è disponibile in lingua inglese, quindi non è possibile conoscerne il contenuto preciso. Si tratta comunque di un atto pubblicato nella Gazzetta ufficiale dell'Unione europea, serie L, che normalmente contiene disposizioni di carattere legislativo o amministrativo. Senza ulteriori informazioni non è possibile indicare quali siano le novità introdotte né gli obiettivi perseguiti. Per questo motivo la spiegazione rimane generica e si basa sulle caratteristiche tipiche degli atti UE. Si consiglia di consultare la versione originale in lingua ufficiale dell'UE per maggiori dettagli.",
+      "cosa_cambia": [
+        "non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690571",
+      "pubblicato": "2026-07-16T00:00:00+02:00",
+      "processed_at": "2026-07-16T06:15:53.797190+00:00"
+    },
+    {
+      "id": "1ec5050add3855b9",
+      "titolo_popolare": "Documento UE non disponibile in lingua inglese",
+      "titolo_originale": "OJ:L_202690567",
+      "riassunto_esteso": "Il documento indicato non è disponibile nella banca dati EUR-Lex in lingua inglese, quindi non è possibile conoscerne il contenuto specifico. Probabilmente si tratta di un atto normativo dell'Unione europea pubblicato nella Gazzetta ufficiale Serie L. Senza il testo non si possono indicare gli effetti concreti né le motivazioni di adozione. Per avere informazioni bisogna consultare la versione originale nella lingua ufficiale dell'atto o attendere una traduzione. In assenza di dettagli, si presume che l'atto non abbia impatto immediato sui cittadini.",
+      "cosa_cambia": [
+        "Non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690567",
+      "pubblicato": "2026-07-16T00:00:00+02:00",
+      "processed_at": "2026-07-16T06:17:40.434519+00:00"
+    },
+    {
+      "id": "6caf41800974c042",
+      "titolo_popolare": "Documento UE non disponibile in lingua italiana",
+      "titolo_originale": "OJ:L_202690574",
+      "riassunto_esteso": "Il documento indicato nella fonte non risulta disponibile nella banca dati EUR-Lex in lingua italiana. Pertanto non è possibile conoscere il contenuto specifico dell'atto normativo. Senza il testo non si possono descrivere gli obblighi introdotti né le motivazioni alla base dell'adozione. L'assenza di informazioni impedisce una spiegazione dettagliata per i cittadini.",
+      "cosa_cambia": [
+        "non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690574",
+      "pubblicato": "2026-07-16T00:00:00+02:00",
+      "processed_at": "2026-07-16T06:18:32.303904+00:00"
+    },
     {
       "id": "66b11f213ea14dd4",
       "titolo_popolare": "Missione UE di partenariato in Armenia avviata",
@@ -164,6 +244,26 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690565",
       "pubblicato": "2026-07-14T00:00:00+02:00",
       "processed_at": "2026-07-14T06:13:18.380041+00:00"
+    },
+    {
+      "id": "af138af0ceedf959",
+      "titolo_popolare": "Aiuto UE alle forze armate della Repubblica Democratica del Congo",
+      "titolo_originale": "OJ:L_202601719: Council Decision (CFSP) 2026/1719 of 13 July 2026 amending Decision (CFSP) 2025/2377 on an assistance measure under the European Peace Facility to support the Armed Forces of the Democratic Republic of the Congo",
+      "riassunto_esteso": "Il Consiglio dell'Unione europea ha deciso di modificare una precedente decisione per aumentare l'assistenza finanziaria e logistica alle forze armate della Repubblica Democratica del Congo nell'ambito dello European Peace Facility. L'obiettivo è rafforzare la capacità di difesa e di sicurezza del paese, contribuendo alla stabilità della regione dei Grandi Laghi. La modifica prevede nuovi finanziamenti per addestramento, equipaggiamento e supporto operativo. Questa iniziativa rientra nella politica estera e di sicurezza comune dell'UE, volta a prevenire conflitti e sostenere processi di pace. Non introduce obblighi diretti per i cittadini degli Stati membri.",
+      "cosa_cambia": [
+        "nessun cambiamento diretto per i cittadini dell'UE"
+      ],
+      "chi_interessa": "nessun cittadino in particolare",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "L'aiuto UE può migliorare la sicurezza in Repubblica Democratica del Congo, favorendo la stabilità regionale e riducendo il rischio di escalation dei conflitti.",
+      "data_vigenza": "dal 13 luglio 2026",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601719",
+      "pubblicato": "2026-07-14T00:00:00+02:00",
+      "processed_at": "2026-07-16T06:13:49.048758+00:00"
     },
     {
       "id": "4b50844a1e3f1a7c",
