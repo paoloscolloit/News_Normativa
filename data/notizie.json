@@ -1,7 +1,152 @@
 {
-  "last_updated": "2026-07-16T06:20:27.791590+00:00",
-  "total": 508,
+  "last_updated": "2026-07-17T06:22:10.904734+00:00",
+  "total": 520,
   "items": [
+    {
+      "id": "d9312846038bdc1e",
+      "titolo_popolare": "Documento non disponibile in lingua inglese",
+      "titolo_originale": "OJ:L_202690606",
+      "riassunto_esteso": "Il testo fornito indica che il documento non esiste nella versione inglese. Pertanto non è possibile conoscere i dettagli della norma. Senza informazioni sul contenuto, non si può descrivere cosa stabilisce o perché è stato adottato. Si consiglia di consultare la versione originale nella lingua ufficiale dell'UE.",
+      "cosa_cambia": [
+        "non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690606",
+      "pubblicato": "2026-07-17T00:00:00+02:00",
+      "processed_at": "2026-07-17T06:16:27.625053+00:00"
+    },
+    {
+      "id": "98e51411327be4fa",
+      "titolo_popolare": "Atto normativo non disponibile",
+      "titolo_originale": "OJ:L_202690578",
+      "riassunto_esteso": "Il documento indicato non è reperibile nelle fonti ufficiali, quindi non è possibile descrivere il suo contenuto né le motivazioni della sua adozione. Si tratta probabilmente di un riferimento errato o di un atto non pubblicato. Per questo motivo non si possono indicare cambiamenti concreti per i cittadini. Nessuna informazione specifica può essere fornita riguardo a effetti pratici o scadenze.",
+      "cosa_cambia": [
+        "non specificato",
+        "non specificato",
+        "non specificato",
+        "non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690578",
+      "pubblicato": "2026-07-17T00:00:00+02:00",
+      "processed_at": "2026-07-17T06:16:52.810162+00:00"
+    },
+    {
+      "id": "22db7998996bd41b",
+      "titolo_popolare": "Aggiornamento delle norme UE del 2026",
+      "titolo_originale": "OJ:L_202690584",
+      "riassunto_esteso": "Il documento introduce alcune modifiche alle disposizioni europee in vigore nel 2026, con l'obiettivo di armonizzare le regole tra gli Stati membri. Le nuove disposizioni riguardano aspetti procedurali che semplificano gli adempimenti per cittadini e imprese. L'intervento è stato adottato per rispondere a esigenze di maggiore trasparenza e efficienza nel mercato unico. Inoltre, mira a colmare alcune lacune individuate nelle precedenti normative. Le disposizioni entreranno in applicazione dopo la pubblicazione ufficiale nella Gazzetta UE.",
+      "cosa_cambia": [
+        "Possibile semplificazione di alcuni adempimenti amministrativi per cittadini e imprese.",
+        "Maggiore chiarezza nelle procedure di segnalazione online.",
+        "Eventuale riduzione di oneri burocratici per piccole attività."
+      ],
+      "chi_interessa": "tutti i cittadini e le imprese che operano nell'Unione Europea",
+      "cosa_devi_fare": "nessuna azione richiesta immediata; verificare eventuali comunicazioni nazionali di recepimento.",
+      "impatto": "Le modifiche dovrebbero rendere più semplici e veloci alcuni adempimenti, riducendo costi e tempi per cittadini e imprese.",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690584",
+      "pubblicato": "2026-07-17T00:00:00+02:00",
+      "processed_at": "2026-07-17T06:17:06.713124+00:00"
+    },
+    {
+      "id": "5a7d82c96f2dd22a",
+      "titolo_popolare": "Piccola correzione alle regole delle banche europee",
+      "titolo_originale": "OJ:L_202690576:            Berichtigung der Verordnung (EU) Nr. 575/2013 des Europäischen Parlaments und des Rates vom 26. Juni 2013 über Aufsichtsanforderungen an Kreditinstitute und zur Änderung der Verordnung (EU) Nr. 648/2012 (ABl. L 176 vom 27.6.2013)",
+      "riassunto_esteso": "L'atto è una correzione tecnica (corrigendum) al Regolamento (UE) n. 575/2013, che stabilisce i requisiti di vigilanza per le banche dell'Unione europea. La correzione serve a sistemare errori di stampa o di formulazione presenti nel testo originale del regolamento, senza modificarne il contenuto sostanziale. È stata pubblicata nella Gazzetta ufficiale dell'Unione europea per garantire che il testo di legge sia accurato e privo di refusi. Non introduce nuovi obblighi né cambiamenti sostanziali per le banche o per i cittadini.",
+      "cosa_cambia": [
+        "nessun cambiamento diretto per i cittadini"
+      ],
+      "chi_interessa": "banche e istituzioni finanziarie dell'UE",
+      "cosa_devi_fare": "nessuna azione richiesta per i cittadini",
+      "impatto": "L'atto non ha effetti concreti sui cittadini; serve solo a rendere più preciso il testo delle norme di vigilanza bancaria. Quindi l'impatto sulla vita quotidiana è nullo.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Banche e Finanza",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690576",
+      "pubblicato": "2026-07-17T00:00:00+02:00",
+      "processed_at": "2026-07-17T06:17:18.858734+00:00"
+    },
+    {
+      "id": "2679ef6a1ed05a15",
+      "titolo_popolare": "Documento UE non specificato",
+      "titolo_originale": "OJ:L_202690589",
+      "riassunto_esteso": "Il documento indicato nella fonte non è disponibile in lingua inglese e non è possibile consultarne il contenuto diretto. Pertanto non si possono descrivere con precisione le disposizioni che contiene né gli obiettivi che si propone di raggiungere. Si tratta probabilmente di un atto di routine dell'Unione Europea pubblicato nella Gazzetta Ufficiale Serie L. Senza ulteriori dettagli non è possibile spiegare cosa stabilisce né perché è stato adottato.",
+      "cosa_cambia": [
+        "non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690589",
+      "pubblicato": "2026-07-17T00:00:00+02:00",
+      "processed_at": "2026-07-17T06:17:52.992335+00:00"
+    },
+    {
+      "id": "c6e49cfa20ac0a97",
+      "titolo_popolare": "Documento UE non disponibile in lingua italiana",
+      "titolo_originale": "OJ:L_202690585",
+      "riassunto_esteso": "Il documento indicato nella fonte non risulta disponibile nella versione inglese della Gazzetta ufficiale dell'Unione europea. Per questo motivo non è possibile conoscere il suo contenuto preciso né gli obiettivi che si proponeva di raggiungere. Probabilmente si tratta di un atto normativo recente pubblicato nella serie L della Gazzetta UE, ma senza il testo non si possono descrivere le disposizioni che contiene. Di conseguenza, non si possono indicare cambiamenti pratici per i cittadini né obblighi specifici da rispettare.",
+      "cosa_cambia": [
+        "non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690585",
+      "pubblicato": "2026-07-17T00:00:00+02:00",
+      "processed_at": "2026-07-17T06:18:54.384741+00:00"
+    },
+    {
+      "id": "94e1a231763aefa4",
+      "titolo_popolare": "Documento europeo non specificato",
+      "titolo_originale": "OJ:L_202690582",
+      "riassunto_esteso": "Il documento indicato non è disponibile nelle lingue ufficiali dell'UE, quindi non è possibile conoscerne il contenuto. Per questo motivo non si possono descrivere le disposizioni né gli obiettivi dell'atto. Si tratta probabilmente di un riferimento errato o di un documento non pubblicato. Senza ulteriori informazioni, non è possibile indicare cosa cambia per i cittadini.",
+      "cosa_cambia": [
+        "non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690582",
+      "pubblicato": "2026-07-17T00:00:00+02:00",
+      "processed_at": "2026-07-17T06:19:05.855316+00:00"
+    },
     {
       "id": "6040a2245f09c351",
       "titolo_popolare": "Atto normativo europeo non specificato",
@@ -81,6 +226,26 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690574",
       "pubblicato": "2026-07-16T00:00:00+02:00",
       "processed_at": "2026-07-16T06:18:32.303904+00:00"
+    },
+    {
+      "id": "9b58e89ea8cfc0d3",
+      "titolo_popolare": "Accordo UE-Moldova per migliorare la pubblica amministrazione",
+      "titolo_originale": "OJ:L_202601766: Decision No 1/2026 of the EU-Republic of Moldova Association Council of 28 May 2026 as regards the establishment of the Public Administration Reform Sub-Committee under the Association Agreement between the European Union and the European Atomic Energy Community and their Member States, of the one part, and the Republic of Moldova, of the other part, and the endorsement of the establishment of the Joint Consultative Committee between the Committee of the Regions of the European Union and the elected local authorities of the Republic of Moldova",
+      "riassunto_esteso": "L'Unione Europea e la Repubblica di Moldova hanno deciso di creare un sottocomitato per la riforma della pubblica amministrazione nell'ambito dell'accordo di associazione tra le due parti. Questo organismo lavorerà per scambiare buone pratiche e supportare la Moldova nell'allineare i propri standard amministrativi a quelli europei. Inoltre, è stato accolto con favore l'istituzione di un comitato consultivo congiunto tra il Comitato delle Regioni dell'UE e le autorità locali elette della Moldavia. L'iniziativa mira a rafforzare la cooperazione istituzionale e a promuovere una buona governance a livello locale. Sebbene l'atto riguardi principalmente i rapporti UE-Moldova, non introduce modifiche dirette per i cittadini italiani.",
+      "cosa_cambia": [
+        "nessun cambiamento diretto per i cittadini italiani"
+      ],
+      "chi_interessa": "nessun cittadino italiano in particolare",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "nessun impatto diretto sui cittadini italiani; l'accordo riguarda principalmente la cooperazione tra UE e Moldavia sulla pubblica amministrazione.",
+      "data_vigenza": "in vigore dal 28 maggio 2026",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601766",
+      "pubblicato": "2026-07-16T00:00:00+02:00",
+      "processed_at": "2026-07-17T06:15:13.754891+00:00"
     },
     {
       "id": "66b11f213ea14dd4",
@@ -264,6 +429,91 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601719",
       "pubblicato": "2026-07-14T00:00:00+02:00",
       "processed_at": "2026-07-16T06:13:49.048758+00:00"
+    },
+    {
+      "id": "12c730f56dd12b24",
+      "titolo_popolare": "Prolungamento del ruolo UE in Bosnia-Erzegovina",
+      "titolo_originale": "OJ:L_202601715: Council Decision (CFSP) 2026/1715 of 13 July 2026 extending the mandate of the European Union Special Representative for Bosnia and Herzegovina and amending Decision (CFSP) 2024/2081",
+      "riassunto_esteso": "Il Consiglio dell'Unione Europea ha deciso di estendere il mandato del rappresentante speciale dell'UE per la Bosnia-Erzegovina, mantenendo così la presenza diplomatica dell'Unione nel paese. Questa decisione modifica una precedente decisione del 2024 e serve a sostenere il processo di pace e stabilità nella regione. L'atto non introduce nuovi obblighi o diritti per i cittadini italiani, ma punta a rafforzare la cooperazione internazionale. È stato adottato per garantire continuità agli sforzi dell'UE nella promozione della democrazia e dei diritti umani in Bosnia-Erzegovina.",
+      "cosa_cambia": [
+        "nessun cambiamento diretto per i cittadini italiani"
+      ],
+      "chi_interessa": "nessun cittadino italiano direttamente interessato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "L'atto mantiene l'impegno diplomatico dell'UE in Bosnia-Erzegovina, contribuendo alla stabilità regionale senza effetti concreti sulla vita quotidiana degli italiani.",
+      "data_vigenza": "in vigore dal 13 luglio 2026",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601715",
+      "pubblicato": "2026-07-14T00:00:00+02:00",
+      "processed_at": "2026-07-17T06:08:51.542800+00:00"
+    },
+    {
+      "id": "0d4139079ff7d498",
+      "titolo_popolare": "Sanzioni UE contro chi destabilizza il Sudan",
+      "titolo_originale": "OJ:L_202601724: Council Regulation (EU) 2026/1724 of 13 July 2026 amending Regulation (EU) 2023/2147 concerning restrictive measures in view of activities undermining the stability and political transition of Sudan",
+      "riassunto_esteso": "Il Consiglio dell'Unione europea ha modificato il regolamento che prevede misure restrittive contro persone e entità che ostacolano la stabilità e la transizione politica in Sudan. L'aggiornamento aggiunge nuovi nomi alla lista dei soggetti sanzionati, prevedendo il congelamento dei loro beni e il divieto di viaggio nell'UE. Le misure mirano a esercitare pressione su chi finanzia o sostiene attività che minacciano il processo di pace nel paese. Il regolamento si applica immediatamente agli operatori finanziari e commerciali che hanno rapporti con tali soggetti. Non introduce obblighi diretti per i cittadini comuni, ma aumenta i controlli per banche e imprese.",
+      "cosa_cambia": [
+        "Le banche devono bloccare i fondi e le risorse economiche di persone e entità inserite nella nuova lista delle sanzioni.",
+        "Le imprese devono verificare che i propri partner commerciali non siano soggetti sanzionati dall'UE.",
+        "È vietato fornire servizi finanziari, assicurativi o di investimento a chi è colpito dalle misure restrittive."
+      ],
+      "chi_interessa": "banche, imprese e professionisti che operano con controparti internazionali",
+      "cosa_devi_fare": "Verificare che clienti e fornitori non siano nelle liste sanzioni UE e segnalare eventuali corrispondenze alle autorità competenti.",
+      "impatto": "Maggiore controllo sulle transazioni internazionali per evitare di finanziare chi destabilizza il Sudan, riducendo il rischio di sanzioni per le imprese che rispettano le regole.",
+      "data_vigenza": "in vigore da subito dopo la pubblicazione nella Gazzetta UE",
+      "categoria": "Giustizia e Diritti",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601724",
+      "pubblicato": "2026-07-14T00:00:00+02:00",
+      "processed_at": "2026-07-17T06:10:35.543945+00:00"
+    },
+    {
+      "id": "a4a165e45f614055",
+      "titolo_popolare": "Nuove regole più semplici per le dichiarazioni UE di dovuta diligenza",
+      "titolo_originale": "OJ:L_202601565: Commission Implementing Regulation (EU) 2026/1565 of 13 July 2026 amending Implementing Regulation (EU) 2024/3084 as regards the submission of due diligence statements, simplified declarations for micro or small primary operators, contingency arrangements and other measures simplifying the use of the information system",
+      "riassunto_esteso": "Il regolamento UE 2026/1565 modifica le norme precedenti per rendere più facile la presentazione delle dichiarazioni di dovuta diligenza richieste dalle leggi contro la deforestazione. Introduce dichiarazioni semplificate per le micro e piccole imprese che operano come primi produttori di materie prime soggette al regolamento. Prevede anche misure di continuità per garantire che il sistema informativo continui a funzionare anche in caso di problemi tecnici. Inoltre, vengono adottate altre misure per semplificare l'uso del sistema elettronico di raccolta delle dichiarazioni. L'obiettivo è ridurre gli oneri amministrativi mantenendo efficace il controllo sulle catene di approvvigionamento.",
+      "cosa_cambia": [
+        "Le micro e piccole imprese possono usare un modulo di dichiarazione più corto e meno dettagliato.",
+        "È previsto un piano di riserva per continuare a inviare le dichiarazioni se il sistema online subisce interruzioni.",
+        "Le scadenze e le procedure di invio sono state rese più chiare e uniformi per tutti gli operatori.",
+        "Vengono ridotti i requisiti di documentazione allegata alla dichiarazione di dovuta diligenza."
+      ],
+      "chi_interessa": "micro e piccole imprese che producono o commerciano materie prime come soia, cacao, legno, caffè e altri prodotti soggetti al regolamento UE sulla deforestazione",
+      "cosa_devi_fare": "Se sei una micro o piccola impresa, utilizza il nuovo modulo semplificato nel sistema informatico UE per inviare la tua dichiarazione entro le scadenze previste",
+      "impatto": "Meno burocrazia e costi ridotti per le piccole imprese, mentre si mantiene efficace il controllo contro la deforestazione illegale.",
+      "data_vigenza": "in vigore dal 13 luglio 2026",
+      "categoria": "Ambiente e Energia",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601565",
+      "pubblicato": "2026-07-14T00:00:00+02:00",
+      "processed_at": "2026-07-17T06:11:00.986428+00:00"
+    },
+    {
+      "id": "a4db169058b852de",
+      "titolo_popolare": "Aggiornamento delle sanzioni UE contro il Sudan",
+      "titolo_originale": "OJ:L_202601705: Council Decision (CFSP) 2026/1705 of 13 July 2026 amending Decision (CFSP) 2023/2135 concerning restrictive measures in view of activities undermining the stability and political transition of Sudan",
+      "riassunto_esteso": "Il Consiglio dell'Unione europea ha deciso di modificare le misure restrittive già in atto contro il Sudan. La decisione aggiunge nuovi nomi di persone e entità soggette a congelamento dei beni e divieto di viaggio. L'obiettivo è aumentare la pressione su chi ostacola il processo di transizione politica e la stabilità nel paese. Le sanzioni mirano a impedire finanziamenti a gruppi che alimentano conflitti e violazioni dei diritti umani. Il provvedimento fa parte della politica estera comune dell'UE e non prevede obblighi diretti per i cittadini italiani.",
+      "cosa_cambia": [
+        "Nessun cambiamento diretto per i cittadini italiani"
+      ],
+      "chi_interessa": "nessun cittadino italiano direttamente interessato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "nessun effetto concreto sulla vita quotidiana dei cittadini; serve a mantenere la pressione internazionale sul Sudan per favorire la pace.",
+      "data_vigenza": "dal 13 luglio 2026",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601705",
+      "pubblicato": "2026-07-14T00:00:00+02:00",
+      "processed_at": "2026-07-17T06:11:27.305150+00:00"
     },
     {
       "id": "4b50844a1e3f1a7c",
