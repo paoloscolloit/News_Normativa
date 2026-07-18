@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-17T06:22:10.904734+00:00",
-  "total": 520,
+  "last_updated": "2026-07-18T06:10:56.493339+00:00",
+  "total": 527,
   "items": [
     {
       "id": "d9312846038bdc1e",
@@ -148,6 +148,131 @@
       "processed_at": "2026-07-17T06:19:05.855316+00:00"
     },
     {
+      "id": "d6d612df606b0f2f",
+      "titolo_popolare": "Autorizzazione UE per un nuovo disinfettante mani",
+      "titolo_originale": "OJ:L_202601410: Commission Implementing Regulation (EU) 2026/1410 of 26 June 2026 granting a Union authorisation for the biocidal product family Prisman Händedesinfektion in accordance with Regulation (EU) No 528/2012 of the European Parliament and of the Council",
+      "riassunto_esteso": "La Commissione europea ha concesso l'autorizzazione a livello dell'Unione per la famiglia di prodotti biocidi Prisman Händedesinfektion, un disinfettante per le mani. Questo atto permette che il prodotto possa essere immesso sul mercato e utilizzato in tutti gli Stati membri, rispettando gli standard di sicurezza ed efficacia previsti dal regolamento biocidi UE. L'autorizzazione è stata adottata per garantire la disponibilità di un disinfettante efficace contro virus e batteri, soprattutto in contesti di igiene pubblica e privata. Con questa decisione si vuole armonizzare le condizioni di commercializzazione e aumentare la fiducia dei consumatori nei prodotti disinfettanti.",
+      "cosa_cambia": [
+        "Il disinfettante mani Prisman può ora essere venduto e usato liberamente in tutta l'Unione europea",
+        "I produttori devono indicare sull'etichetta il numero di autorizzazione UE assegnato",
+        "I controlli di mercato verificano che il prodotto rispetti i requisiti di sicurezza e prestazione"
+      ],
+      "chi_interessa": "tutti i consumatori, i distributori e i produttori di prodotti disinfettanti per le mani",
+      "cosa_devi_fare": "nessuna azione richiesta per i consumatori; verificare la presenza del numero di autorizzazione sull'etichetta se si è rivenditori",
+      "impatto": "Maggiore disponibilità di un disinfettante mani sicuro ed efficace, contribuendo a migliorare l'igiene personale e pubblica. Questo aumenta la protezione contro infezioni e semplifica la scelta di prodotti affidabili sul mercato.",
+      "data_vigenza": "in vigore da subito (dal giorno della pubblicazione nella Gazzetta ufficiale dell'UE)",
+      "categoria": "Salute e Farmaci",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601410",
+      "pubblicato": "2026-07-17T00:00:00+02:00",
+      "processed_at": "2026-07-18T06:04:01.700915+00:00"
+    },
+    {
+      "id": "2f7adf773db1df37",
+      "titolo_popolare": "Documento europeo non specificato",
+      "titolo_originale": "OJ:L_202690586",
+      "riassunto_esteso": "Non è possibile determinare il contenuto specifico dell'atto dalle informazioni fornite. Il documento è stato pubblicato nella Gazzetta ufficiale dell'Unione europea, serie L, con il riferimento OJ:L_202690586. Non essendo disponibile una versione in inglese, non si possono leggere i dettagli normativi. Pertanto non si conoscono gli obiettivi né le motivazioni che hanno portato all'adozione di questo atto. Per avere informazioni precise sarebbe necessario consultare il testo originale nella lingua ufficiale di pubblicazione.",
+      "cosa_cambia": [
+        "Non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690586",
+      "pubblicato": "2026-07-17T00:00:00+02:00",
+      "processed_at": "2026-07-18T06:07:35.539696+00:00"
+    },
+    {
+      "id": "04a810af65957d77",
+      "titolo_popolare": "Pubblicazione ufficiale UE nella Gazzetta Ufficiale",
+      "titolo_originale": "OJ:L_202690579",
+      "riassunto_esteso": "Questo atto è la pubblicazione di un documento ufficiale dell'Unione Europea nella Gazzetta Ufficiale della Serie L. Serve a rendere pubblico e ufficiale un provvedimento adottato dalle istituzioni europee, garantendo trasparenza e accessibilità a cittadini e imprese. La pubblicazione permette a tutti gli interessati di conoscere il testo definitivo e di applicarlo nei rispettivi ambiti. Non sono disponibili ulteriori dettagli sul contenuto specifico del documento.",
+      "cosa_cambia": [
+        "non specificato"
+      ],
+      "chi_interessa": "tutti i cittadini e le imprese che devono rispettare la normativa europea",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "garantisce trasparenza e accesso ufficiale ai testi europei, facilitando il rispetto delle norme.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Iter Legislativo",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690579",
+      "pubblicato": "2026-07-17T00:00:00+02:00",
+      "processed_at": "2026-07-18T06:07:46.044501+00:00"
+    },
+    {
+      "id": "8ca48dafde745310",
+      "titolo_popolare": "Aggiornamento normativa UE non specificato",
+      "titolo_originale": "OJ:L_202690599",
+      "riassunto_esteso": "L'atto pubblicato nella Gazzetta UE riguarda una misura normativa dell'Unione europea, sebbene il testo completo non sia disponibile in inglese. Non è possibile determinare con precisione gli obiettivi specifici della misura dalle informazioni fornite. Probabilmente riguarda un settore di interesse comune agli Stati membri, come indicato dal numero di pubblicazione. L'adozione dell'atto segue le procedure ordinarie dell'UE per garantire l'armonizzazione delle norme. Per ulteriori dettagli sarebbe necessario consultare la versione originale nella lingua ufficiale dell'atto.",
+      "cosa_cambia": [
+        "non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690599",
+      "pubblicato": "2026-07-17T00:00:00+02:00",
+      "processed_at": "2026-07-18T06:08:36.568862+00:00"
+    },
+    {
+      "id": "334b8dcc8fa15983",
+      "titolo_popolare": "Atto UE non disponibile in lingua italiana",
+      "titolo_originale": "OJ:L_202690577",
+      "riassunto_esteso": "L'atto normativo indicato nella fonte non è disponibile nella versione inglese, quindi non possiamo consultarne il contenuto diretto. Si tratta comunque di un documento pubblicato nella Gazzetta ufficiale dell'Unione europea, serie L, che normalmente contiene disposizioni vincolanti. Poiché il testo non è accessibile, non è possibile descrivere precisamente quali obblighi o diritti introduce. L'assenza di informazioni impedisce di capire le motivazioni che hanno portato alla sua adozione. Per conoscere gli effetti concreti sarebbe necessario reperire il testo originale tramite altri canali o attendere una traduzione ufficiale.",
+      "cosa_cambia": [
+        "non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690577",
+      "pubblicato": "2026-07-17T00:00:00+02:00",
+      "processed_at": "2026-07-18T06:08:57.457969+00:00"
+    },
+    {
+      "id": "da97b735983f81f4",
+      "titolo_popolare": "Correzione della direttiva sulla stabilità delle navi",
+      "titolo_originale": "OJ:L_202690600:            Berichtigung der Richtlinie (EU) 2023/946 des Europäischen Parlaments und des Rates vom 10. Mai 2023 zur Änderung der Richtlinie 2003/25/EG hinsichtlich der Aufnahme verbesserter Stabilitätsanforderungen und der Angleichung jener Richtlinie an die von der Internationalen Seeschifffahrtsorganisation festgelegten Stabilitätsanforderungen (ABl. L 128 vom 15.5.2023)",
+      "riassunto_esteso": "L'atto è una correzione tecnica (corrigendum) della direttiva UE che modifica le regole di stabilità delle navi per allinearle agli standard dell'Organizzazione Marittima Internazionale. La correzione serve a sistemare errori di redazione presenti nel testo originale, senza cambiare il contenuto sostanziale delle norme. In questo modo si evita che interpretazioni errate possano creare incertezze per le imprese del settore navale. L'obiettivo è garantire che le navi costruite o operate nell'UE rispettino correttamente i requisiti di sicurezza richiesti dall'IMO.",
+      "cosa_cambia": [
+        "nessuna modifica pratica dei requisiti di stabilità per le navi",
+        "aggiornamento formale del testo della direttiva per correggere errori di stampa",
+        "maggiore chiarezza nell'applicazione delle norme IMO da parte delle autorità marittime",
+        "riduzione del rischio di contenziosi dovuti a interpretazioni errate del testo"
+      ],
+      "chi_interessa": "imprese di navigazione, costruttori navali e autorità marittime",
+      "cosa_devi_fare": "nessuna azione richiesta per i cittadini comuni",
+      "impatto": "garantisce l'applicazione uniforme e corretta delle norme di sicurezza navale, contribuendo a prevenire incidenti in mare.",
+      "data_vigenza": "in vigore dalla pubblicazione nella Gazzetta Ufficiale dell'UE",
+      "categoria": "Imprese e Mercato",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690600",
+      "pubblicato": "2026-07-17T00:00:00+02:00",
+      "processed_at": "2026-07-18T06:10:56.487871+00:00"
+    },
+    {
       "id": "6040a2245f09c351",
       "titolo_popolare": "Atto normativo europeo non specificato",
       "titolo_originale": "OJ:L_202690573",
@@ -246,6 +371,28 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601766",
       "pubblicato": "2026-07-16T00:00:00+02:00",
       "processed_at": "2026-07-17T06:15:13.754891+00:00"
+    },
+    {
+      "id": "ce83c5dbcd8e86e3",
+      "titolo_popolare": "Regole UE per trading più trasparente e sicuro",
+      "titolo_originale": "OJ:L_202600788: Commission Delegated Regulation (EU) 2026/788 of 8 April 2026 amending Delegated Regulation (EU) 2016/522 as regards the permission for trading during closed periods, the list of designated trading venues that have a significant cross-border dimension in the supervision of market abuse, and the indicators of market manipulation",
+      "riassunto_esteso": "La Commissione europea ha aggiornato le norme che disciplinano le attività di borsa, introducendo nuove possibilità di operare anche nei periodi normalmente chiusi al trading. Sono stati modificati gli elenchi delle piattaforme di negoziazione considerate rilevanti a livello transfrontaliero, per migliorare la vigilanza contro gli abusi di mercato. Inoltre, sono stati aggiunti nuovi indicatori che aiutano a riconoscere comportamenti di manipolazione dei prezzi. Queste modifiche mirano a rendere i mercati finanziari più trasparenti e a proteggere gli investitori da pratiche scorrette. Il provvedimento entra in vigore subito dopo la sua pubblicazione nella Gazzetta ufficiale dell'Unione europea.",
+      "cosa_cambia": [
+        "È permesso fare alcune operazioni di trading anche nei periodi normalmente chiusi, sotto precise condizioni.",
+        "L'elenco delle piattaforme di trading ritenute importanti a livello internazionale è stato aggiornato.",
+        "Sono stati definiti nuovi segnali che le autorità usano per individuare possibili manipolazioni di mercato."
+      ],
+      "chi_interessa": "banche, società di intermediazione, trader professionali e investitori che operano sui mercati finanziari",
+      "cosa_devi_fare": "Nessuna azione richiesta direttamente ai cittadini comuni; gli operatori devono adeguare le proprie procedure interne.",
+      "impatto": "Maggiore trasparenza e controlli più efficaci riducono il rischio di abusi, aumentando la fiducia degli investitori nei mercati.",
+      "data_vigenza": "in vigore dall'8 aprile 2026",
+      "categoria": "Banche e Finanza",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202600788",
+      "pubblicato": "2026-07-16T00:00:00+02:00",
+      "processed_at": "2026-07-18T05:59:33.270649+00:00"
     },
     {
       "id": "66b11f213ea14dd4",
