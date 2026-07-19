@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-18T06:10:56.493339+00:00",
-  "total": 527,
+  "last_updated": "2026-07-19T06:35:51.810219+00:00",
+  "total": 530,
   "items": [
     {
       "id": "d9312846038bdc1e",
@@ -273,6 +273,46 @@
       "processed_at": "2026-07-18T06:10:56.487871+00:00"
     },
     {
+      "id": "5741dd53ada99df1",
+      "titolo_popolare": "Nomina del capo della missione UE in Kosovo",
+      "titolo_originale": "OJ:L_202601781: Political and Security Committee Decision (CFSP) 2026/1781 of 14 July 2026 on the appointment of the Head of Mission of the European Union Rule of Law Mission in Kosovo (EULEX KOSOVO) (EULEX KOSOVO/2/2026)",
+      "riassunto_esteso": "Il Comitato politico e di sicurezza dell'UE ha deciso il 14 luglio 2026 di nominare il nuovo capo della missione EULEX in Kosovo. La missione sostiene il sistema giudiziario, la polizia e le dogane kosovare nello sviluppo dello stato di diritto. La nomina assicura la continuità dell'impegno europeo nel paese dopo anni di presenza. Questa decisione rientra nella politica estera e di sicurezza comune dell'UE. Non introduce nuovi obblighi per cittadini o imprese italiane.",
+      "cosa_cambia": [
+        "Nessuna modifica diretta per i cittadini italiani o per le imprese"
+      ],
+      "chi_interessa": "nessun gruppo specifico di cittadini",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "L'atto non ha effetti pratici sulla vita quotidiana dei cittadini, ma garantisce la continuità della missione UE di sostegno allo stato di diritto in Kosovo.",
+      "data_vigenza": "in vigore dal 14 luglio 2026",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601781",
+      "pubblicato": "2026-07-17T00:00:00+02:00",
+      "processed_at": "2026-07-19T06:30:39.622515+00:00"
+    },
+    {
+      "id": "809e151820a10c69",
+      "titolo_popolare": "Prestito UE per aiutare l'Ucraina nel 2026-2027",
+      "titolo_originale": "OJ:L_202690590: Corrigendum to Regulation (EU) 2026/467 of the European Parliament and of the Council of 24 February 2026 implementing enhanced cooperation on the establishment of the Ukraine Support Loan for 2026 and 2027 (OJ L, 2026/467, 26.2.2026)",
+      "riassunto_esteso": "Il regolamento corregge piccoli errori presenti nel testo originale che istituisce il prestito di sostegno all'Ucraina per gli anni 2026 e 2027. Questo strumento finanziario permette all'Unione europea di raccogliere fondi sui mercati e di erogarli all'Ucraina per sostenere il suo bilancio e la ricostruzione. Il corrigendum non cambia la sostanza del provvedimento, ma garantisce che il testo sia formalmente corretto e pienamente applicabile. L'adozione del correttivo è dovuta alla necessità di evitare ambiguità che potrebbero complicare l'attuazione del prestito. In pratica, l'UE può procedere con l'emissione del prestito senza ulteriori ritardi amministrativi.",
+      "cosa_cambia": [
+        "nessuna modifica diretta per i cittadini dell'UE"
+      ],
+      "chi_interessa": "nessun gruppo specifico di cittadini; l'atto riguarda principalmente le istituzioni UE e i mercati finanziari",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "Il prestito permette all'UE di fornire finanziamenti all'Ucraina, contribuendo alla stabilità regionale e riducendo il rischio di ripercussioni economiche anche negli Stati membri.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Banche e Finanza",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690590",
+      "pubblicato": "2026-07-17T00:00:00+02:00",
+      "processed_at": "2026-07-19T06:35:51.804079+00:00"
+    },
+    {
       "id": "6040a2245f09c351",
       "titolo_popolare": "Atto normativo europeo non specificato",
       "titolo_originale": "OJ:L_202690573",
@@ -393,6 +433,29 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202600788",
       "pubblicato": "2026-07-16T00:00:00+02:00",
       "processed_at": "2026-07-18T05:59:33.270649+00:00"
+    },
+    {
+      "id": "edf3aae78e68bfb0",
+      "titolo_popolare": "Misure di emergenza contro la peste ovina e caprina in Grecia",
+      "titolo_originale": "OJ:L_202601759: Commission Implementing Decision (EU) 2026/1759 of 14 July 2026 amending Implementing Decision (EU) 2024/2207 concerning certain emergency measures relating to sheep pox and goat pox in Greece (notified under document C(2026) 5059)",
+      "riassunto_esteso": "La decisione della Commissione europea aggiorna le misure di emergenza già in atto per affrontare focolai di peste ovina e caprina che si sono verificati in Grecia. Vengono introdotte nuove disposizioni riguardo alla vaccinazione obbligatoria degli animali, al controllo dei movimenti di bestiame e dei prodotti derivati, nonché al rafforzamento della sorveglianza e della segnalazione dei casi sospetti. L'obiettivo è contenere la diffusione della malattia all'interno del territorio greco e impedirne il propagarsi ad altri Stati membri. L'atto è stato adottato rapidamente per rispondere all'urgenza sanitaria e proteggere il settore zootecnico dell'Unione.",
+      "cosa_cambia": [
+        "Obbligo di vaccinare tutte le pecore e le capre presenti nelle zone interessate",
+        "Limitazioni agli spostamenti di animali e dei loro prodotti fuori dalle zone focolaio",
+        "Obbligo per gli allevatori di segnalare immediatamente qualsiasi sintomo sospetto alle autorità veterinarie",
+        "Aumento dei controlli ufficiali negli allevamenti e nei mercati di bestiame"
+      ],
+      "chi_interessa": "Allevatori di pecore e capre in Grecia e gli operatori che commerciano con loro",
+      "cosa_devi_fare": "Gli allevatori greci devono rispettare le nuove regole di vaccinazione, movimento e segnalazione; per gli altri cittadini non è richiesta alcuna azione specifica",
+      "impatto": "Maggiore tutela della salute animale e riduzione del rischio di diffusione della malattia, con possibili limitazioni temporanee al commercio di animali e prodotti derivati",
+      "data_vigenza": "in vigore dal 14 luglio 2026",
+      "categoria": "Agricoltura e Alimentare",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601759",
+      "pubblicato": "2026-07-16T00:00:00+02:00",
+      "processed_at": "2026-07-19T06:29:50.038229+00:00"
     },
     {
       "id": "66b11f213ea14dd4",
