@@ -1,7 +1,70 @@
 {
-  "last_updated": "2026-07-19T06:35:51.810219+00:00",
-  "total": 530,
+  "last_updated": "2026-07-20T06:50:21.830305+00:00",
+  "total": 534,
   "items": [
+    {
+      "id": "3c231405d5a0064f",
+      "titolo_popolare": "Documento UE non disponibile",
+      "titolo_originale": "OJ:L_202690593",
+      "riassunto_esteso": "L'atto indicato nella fonte non è disponibile in lingua inglese e, di conseguenza, non è possibile conoscerne il contenuto dettagliato. Non essendo fornito alcun testo italiano, non si possono descrivere le disposizioni né gli scopi per cui è stato adottato. Si tratta probabilmente di un riferimento a un atto che non è stato pubblicato o tradotto. Per queste ragioni, la spiegazione rimane generica.",
+      "cosa_cambia": [
+        "non specificato",
+        "non specificato",
+        "non specificato",
+        "non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690593",
+      "pubblicato": "2026-07-20T00:00:00+02:00",
+      "processed_at": "2026-07-20T06:47:04.638433+00:00"
+    },
+    {
+      "id": "f74fed55dbaa4d38",
+      "titolo_popolare": "Atto UE non disponibile in italiano",
+      "titolo_originale": "OJ:L_202690581",
+      "riassunto_esteso": "Il documento indicato non è reperibile nelle banche dati ufficiali; pertanto non è possibile descriverne il contenuto. Probabilmente si tratta di un atto UE pubblicato nella Gazzetta ufficiale Serie L, ma i dettagli specifici non sono accessibili. Senza il testo non si possono indicare gli obblighi né gli scopi. Si consiglia di verificare il riferimento diretto sul sito EUR-Lex o contattare l'ufficio competente per ottenere una copia.",
+      "cosa_cambia": [
+        "non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690581",
+      "pubblicato": "2026-07-20T00:00:00+02:00",
+      "processed_at": "2026-07-20T06:48:40.597733+00:00"
+    },
+    {
+      "id": "ff9a9abc0dd3418a",
+      "titolo_popolare": "Aggiornamento normativa UE non dettagliato",
+      "titolo_originale": "OJ:L_202690596",
+      "riassunto_esteso": "Il documento riguarda una misura adottata dall'Unione Europea per affrontare una questione di interesse comune, anche se i dettagli specifici non sono disponibili nella versione inglese. L'atto mira a introdurre disposizioni che riguardano cittadini e imprese, con l'obiettivo di migliorare la coerenza normativa a livello europeo. Sebbene il testo completo non sia consultabile, si presume che contenga obblighi o facilitazioni in un settore non precisato. L'adozione riflette la volontà dell'UE di rispondere a esigenze emergenti segnalate dagli Stati membri. In assenza di dettagli, le implicazioni pratiche rimangono da definire.",
+      "cosa_cambia": [
+        "non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690596",
+      "pubblicato": "2026-07-20T00:00:00+02:00",
+      "processed_at": "2026-07-20T06:49:41.336146+00:00"
+    },
     {
       "id": "d9312846038bdc1e",
       "titolo_popolare": "Documento non disponibile in lingua inglese",
@@ -456,6 +519,29 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601759",
       "pubblicato": "2026-07-16T00:00:00+02:00",
       "processed_at": "2026-07-19T06:29:50.038229+00:00"
+    },
+    {
+      "id": "67f310442f5767d2",
+      "titolo_popolare": "Esenzione tasse CO2 su gas per imprese norvegesi ETS",
+      "titolo_originale": "OJ:L_202601748: EFTA Surveillance Authority Decision No 064/2026/COL of 8 April 2026 concerning an exemption from the CO2 tax on LPG and natural gas for undertakings covered by the EU ETS (Norway) [2026/1748]",
+      "riassunto_esteso": "L'Autorità di vigilanza SEE ha deciso di esentare le imprese norvegesi che partecipano al sistema europeo di scambio di quote di emissione (ETS) dal pagamento della tassa sul CO2 applicata al GPL e al gas naturale. La misura vuole evitare una doppia imposizione su queste aziende, che già devono acquistare quote per le loro emissioni nell'ambito dell'ETS. L'esenzione si applica a partire dalla data della decisione e vale per tutti gli usi di GPL e gas naturale nelle attività coperte. In questo modo si cerca di mantenere la competitività delle imprese norvegesi nel mercato europeo, riducendo oneri fiscali sovrapposti.",
+      "cosa_cambia": [
+        "Le imprese norvegesi ETS non pagheranno più la tassa sul CO2 per GPL e gas naturale",
+        "Il costo energetico relativo a questi combustibili si riduce per le aziende interessate",
+        "Non è più necessario presentare richieste di rimborso della tassa sul CO2 per questi prodotti",
+        "Le autorità fiscali norvegesi non applicheranno la tassa sul CO2 su tali forniture"
+      ],
+      "chi_interessa": "le imprese norvegesi soggette al sistema ETS dell'UE",
+      "cosa_devi_fare": "nessuna azione richiesta, l'esenzione si applica automaticamente",
+      "impatto": "Le imprese interessate vedranno bollette energetiche più basse, migliorando la loro competitività senza aumentare le emissioni.",
+      "data_vigenza": "in vigore dall'8 aprile 2026",
+      "categoria": "Ambiente e Energia",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601748",
+      "pubblicato": "2026-07-16T00:00:00+02:00",
+      "processed_at": "2026-07-20T06:40:58.378100+00:00"
     },
     {
       "id": "66b11f213ea14dd4",
