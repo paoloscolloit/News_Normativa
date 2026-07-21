@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-20T06:50:21.830305+00:00",
-  "total": 534,
+  "last_updated": "2026-07-21T06:39:59.900098+00:00",
+  "total": 539,
   "items": [
     {
       "id": "3c231405d5a0064f",
@@ -64,6 +64,46 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690596",
       "pubblicato": "2026-07-20T00:00:00+02:00",
       "processed_at": "2026-07-20T06:49:41.336146+00:00"
+    },
+    {
+      "id": "9a0988acd03c78b6",
+      "titolo_popolare": "Aggiornamento delle sanzioni UE contro il Libano",
+      "titolo_originale": "OJ:L_202601767: Council Decision (CFSP) 2026/1767 of 17 July 2026 amending Decision (CFSP) 2021/1277 concerning restrictive measures in view of the situation in Lebanon",
+      "riassunto_esteso": "Il Consiglio dell'Unione europea ha deciso di modificare le misure restrittive già in vigore contro il Libano, aggiornando l'elenco di persone ed entità soggette a sanzioni. La decisione segue l'evoluzione della situazione politica e di sicurezza nel paese, mirando a esercitare pressione su chi è ritenuto responsabile di azioni che destabilizzano la regione. Le sanzioni includono il congelamento di beni e il divieto di viaggiare nell'UE per i soggetti designati. Questo aggiornamento non introduce nuove misure generali, ma rende più mirate quelle esistenti. L'obiettivo è contribuire a una soluzione pacifica della crisi libanese senza impattare direttamente sui cittadini comuni.",
+      "cosa_cambia": [
+        "Nessun cambiamento diretto per i cittadini comuni"
+      ],
+      "chi_interessa": "nessun cittadino specifico",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "Le sanzioni riguardano soltanto individui e entità libanesi designate, quindi non ci sono effetti concreti sulle persone comuni nell'UE.",
+      "data_vigenza": "dal 17 luglio 2026",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601767",
+      "pubblicato": "2026-07-20T00:00:00+02:00",
+      "processed_at": "2026-07-21T06:36:24.056944+00:00"
+    },
+    {
+      "id": "7452224957957f27",
+      "titolo_popolare": "Documento UE non disponibile in italiano",
+      "titolo_originale": "OJ:L_202690592",
+      "riassunto_esteso": "Il documento indicato non risulta disponibile nelle banche dati ufficiali. Pertanto non è possibile conoscere il suo contenuto preciso. Non essendo reperibile il testo, non si possono indicare le disposizioni che introduce. Per questo motivo l'analisi si basa sull'assenza di informazioni.",
+      "cosa_cambia": [
+        "non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690592",
+      "pubblicato": "2026-07-20T00:00:00+02:00",
+      "processed_at": "2026-07-21T06:38:23.531176+00:00"
     },
     {
       "id": "d9312846038bdc1e",
@@ -374,6 +414,52 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690590",
       "pubblicato": "2026-07-17T00:00:00+02:00",
       "processed_at": "2026-07-19T06:35:51.804079+00:00"
+    },
+    {
+      "id": "4274df9bd5141f5f",
+      "titolo_popolare": "Autorizzati i bus transfrontalieri nelle zone di confine",
+      "titolo_originale": "OJ:L_202601769: Decision (EU) 2026/1769 of the European Parliament and of the Council of 14 July 2026 empowering Austria to amend its bilateral road transport agreement with Switzerland with a view to authorising cabotage operations in the course of the provision of international passenger transport services by coach and bus in the border regions between the two countries",
+      "riassunto_esteso": "La decisione europea permette all'Austria di modificare l'accordo bilaterale sui trasporti stradali con la Svizzera, così da consentire operazioni di cabotaggio per i servizi internazionali di passeggeri effettuati con autobus e pullman nelle regioni di frontiera. In pratica, le imprese di trasporto potranno effettuare anche tratte interne al paese partner mentre svolgono un viaggio internazionale. L'obiettivo è aumentare la concorrenza e migliorare l'offerta di collegamenti transfrontalieri. La misura si applica solo alle zone di confine tra i due Stati.",
+      "cosa_cambia": [
+        "Gli autobus e i pullman possono svolgere tratte nazionali nel paese partner durante un servizio internazionale",
+        "Le compagnie di trasporto ottengono maggiore flessibilità nella pianificazione dei percorsi transfrontalieri",
+        "I passeggeri nelle zone di confine possono beneficiare di più collegamenti e potenziali tariffe più basse",
+        "Le autorità doganali e di controllo dovranno adeguare le verifiche alle nuove operazioni di cabotaggio"
+      ],
+      "chi_interessa": "imprese di trasporto passeggeri su strada e passeggeri che utilizzano servizi transfrontalieri nelle zone di confine tra Austria e Svizzera",
+      "cosa_devi_fare": "nessuna azione richiesta per i cittadini; le imprese devono adeguarsi alle nuove disposizioni dell'accordo",
+      "impatto": "Maggiore concorrenza tra operatori potrebbe portare a prezzi più bassi e a un'offerta di servizi più ampia per i viaggiatori transfrontalieri.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Trasporti",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601769",
+      "pubblicato": "2026-07-17T00:00:00+02:00",
+      "processed_at": "2026-07-21T06:28:07.882707+00:00"
+    },
+    {
+      "id": "929f535b1cd4ec05",
+      "titolo_popolare": "Accordo UE-USA-Islanda-Norvegia sui voli entra in vigore",
+      "titolo_originale": "OJ:L_202601745: Information concerning the entry into force of the Ancillary Agreement between the European Union and its Member States, of the first part, Iceland, of the second part, and the Kingdom of Norway, of the third part, on the application of the Air Transport Agreement between the United States of America, of the first part, the European Union and its Member States, of the second part, Iceland, of the third part, and the Kingdom of Norway, of the fourth part [2026/1745]",
+      "riassunto_esteso": "L'atto segnala l'entrata in vigore di un accordo aggiuntivo che estende l'applicazione dell'accordo sui trasporti aerei tra Stati Uniti e Unione Europea anche a Islanda e Norvegia. Questo permette alle compagnie aeree di questi quattro territori di operare voli transatlantici con minori restrizioni. L'obiettivo è aumentare la concorrenza, migliorare la connettività e offrire più scelte ai viaggiatori. L'accordo si inserisce nella politica di liberalizzazione del trasporto aereo atlantico.",
+      "cosa_cambia": [
+        "Possibilità di nuovi voli diretti tra USA e Islanda/Norvegia, aumentando le opzioni di viaggio.",
+        "Maggiore concorrenza tra compagnie aeree, che potrebbe portare a tariffe più basse.",
+        "Applicazione delle norme UE sui diritti dei passeggeri anche sui voli verso Islanda e Norvegia.",
+        "Miglioramento della connettività aeroportuale per gli scali del nord Europa."
+      ],
+      "chi_interessa": "tutti i passeggeri di voli tra USA, UE, Islanda e Norvegia e le compagnie aeree che operano su tali rotte",
+      "cosa_devi_fare": "nessuna azione richiesta per i cittadini; eventualmente verificare la disponibilità di nuove rotte",
+      "impatto": "Si prevedono più voli e possibili riduzioni di prezzo, con maggiore scelta e tutela per i viaggiatori.",
+      "data_vigenza": "in vigore dalla pubblicazione nella Gazzetta UE (data non specificata)",
+      "categoria": "Trasporti",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601745",
+      "pubblicato": "2026-07-17T00:00:00+02:00",
+      "processed_at": "2026-07-21T06:34:03.717025+00:00"
     },
     {
       "id": "6040a2245f09c351",
@@ -810,6 +896,28 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601705",
       "pubblicato": "2026-07-14T00:00:00+02:00",
       "processed_at": "2026-07-17T06:11:27.305150+00:00"
+    },
+    {
+      "id": "f451caa1760a6766",
+      "titolo_popolare": "Nuove regole per i dati sull'e-commerce",
+      "titolo_originale": "OJ:L_202601566: Commission Implementing Regulation (EU) 2026/1566 of 13 July 2026 laying down the technical specifications of data requirements and the deadlines for submission of annual metadata and quality reports for the topic ICT usage and e-commerce for the reference year 2027, pursuant to Regulation (EU) 2019/2152 of the European Parliament and of the Council",
+      "riassunto_esteso": "Il regolamento stabilisce le specifiche tecniche che le imprese devono seguire per raccogliere e trasmettere ogni anno i metadati e i rapporti di qualità sull'uso delle tecnologie dell'informazione e della comunicazione e sull'e-commerce. Queste regole sono state adottate per migliorare la comparabilità e l'affidabilità delle statistiche europee sul commercio digitale, in base al quadro generale del regolamento 2019/2152. Le imprese interessate dovranno adeguare i propri sistemi di raccolta dati e rispettare le scadenze fissate per la presentazione dei rapporti relativi all'anno di riferimento 2027. L'obiettivo è avere dati più uniformi e utili per le politiche dell'UE e per chi studia il mercato digitale.",
+      "cosa_cambia": [
+        "Le imprese dovranno raccogliere i dati sull'uso di ICT e sull'e-commerce secondo le nuove specifiche tecniche.",
+        "Dovranno inviare i rapporti annuali di metadati e qualità entro le scadenze stabilite per l'anno di riferimento 2027.",
+        "Dovranno garantire la qualità dei dati riportati, seguendo le indicazioni del regolamento."
+      ],
+      "chi_interessa": "le imprese che svolgono attività di e-commerce o che utilizzano tecnologie ICT",
+      "cosa_devi_fare": "adeguare i sistemi di raccolta dati e presentare i rapporti entro le scadenze indicate",
+      "impatto": "migliora la qualità e la comparabilità delle statistiche sull'e-commerce a livello UE, utile per politiche e analisi di mercato.",
+      "data_vigenza": "in vigore dal 13 luglio 2026",
+      "categoria": "Imprese e Mercato",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601566",
+      "pubblicato": "2026-07-14T00:00:00+02:00",
+      "processed_at": "2026-07-21T06:21:24.383011+00:00"
     },
     {
       "id": "4b50844a1e3f1a7c",
