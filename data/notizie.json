@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-21T06:39:59.900098+00:00",
-  "total": 539,
+  "last_updated": "2026-07-22T06:35:59.813812+00:00",
+  "total": 548,
   "items": [
     {
       "id": "3c231405d5a0064f",
@@ -104,6 +104,108 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690592",
       "pubblicato": "2026-07-20T00:00:00+02:00",
       "processed_at": "2026-07-21T06:38:23.531176+00:00"
+    },
+    {
+      "id": "473e857279a0b4d7",
+      "titolo_popolare": "Nuove regole sul plastica riciclata nelle bottiglie",
+      "titolo_originale": "OJ:L_202690601: Corrigendum to Commission Implementing Decision (EU) 2026/1425 of 30 June 2026 laying down rules for the application of Directive (EU) 2019/904 of the European Parliament and of the Council as regards the calculation, verification and reporting of data on recycled plastic content in single-use plastic beverage bottles and repealing Commission Implementing Decision (EU) 2023/2683 (OJ L, 2026/1425, 3.7.2026)",
+      "riassunto_esteso": "La decisione corregge e sostituisce le precedenti regole UE su come calcolare, verificare e comunicare la quantità di plastica riciclata presente nelle bottiglie di plastica monouso per bevande. L'obiettivo è garantire che i dati riportati dai produttori siano affidabili e confrontabili, così da monitorare meglio il raggiungimento degli obiettivi di riciclo dell'UE. Introduce metodologie più precise e controlli più severi sulle dichiarazioni di contenuto riciclato. Abroga la decisione precedente del 2023 per evitare sovrapposizioni e incoerenze normative.",
+      "cosa_cambia": [
+        "Le bottiglie di bevande dovranno indicare con maggiore precisione la quantità di plastica riciclata contenuta.",
+        "I controlli sulle dichiarazioni di contenuto riciclato saranno più rigorosi e basati su metodi di calcolo aggiornati.",
+        "Le aziende produttrici dovranno adottare nuovi procedimenti di verifica e reporting dei dati."
+      ],
+      "chi_interessa": "produttori e importatori di bottiglie di plastica per bevande",
+      "cosa_devi_fare": "nessuna azione richiesta per i cittadini",
+      "impatto": "Maggiore trasparenza sul contenuto di plastica riciclata nelle bottiglie, contribuendo a ridurre l'inquinamento da plastica e a raggiungere gli obiettivi di riciclo dell'UE.",
+      "data_vigenza": "in vigore dal 3 luglio 2026",
+      "categoria": "Ambiente e Energia",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690601",
+      "pubblicato": "2026-07-20T00:00:00+02:00",
+      "processed_at": "2026-07-22T06:33:23.377081+00:00"
+    },
+    {
+      "id": "37f041d5719b3597",
+      "titolo_popolare": "Atto UE non disponibile in lingua inglese",
+      "titolo_originale": "OJ:L_202690597",
+      "riassunto_esteso": "Il documento indicato non è disponibile in versione inglese, quindi non è possibile conoscerne il contenuto preciso. Probabilmente si tratta di un atto amministrativo dell'Unione europea pubblicato nella Gazzetta ufficiale. Senza il testo non si possono descrivere gli obblighi introdotti né gli scopi del provvedimento. Per avere informazioni bisogna consultare la versione originale in una delle lingue ufficiali dell'UE. In attesa di ulteriori dettagli, non si possono indicare cambiamenti concreti per i cittadini.",
+      "cosa_cambia": [
+        "non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690597",
+      "pubblicato": "2026-07-20T00:00:00+02:00",
+      "processed_at": "2026-07-22T06:33:41.551710+00:00"
+    },
+    {
+      "id": "cb65d49455d4defa",
+      "titolo_popolare": "Atto UE non disponibile in italiano",
+      "titolo_originale": "OJ:L_202690588",
+      "riassunto_esteso": "Il documento indicato non è disponibile in lingua inglese né, presumibilmente, in italiano nella banca dati consultata. Non è quindi possibile descrivere nel dettaglio il contenuto dell'atto né le motivazioni che hanno portato alla sua adozione. Si tratta comunque di un atto pubblicato nella Gazzetta Ufficiale dell'Unione Europea, serie L, che normalmente contiene disposizioni vincolanti per gli Stati membri. Senza ulteriori informazioni, non si possono indicare gli effetti concreti né gli ambiti di applicazione specifici.",
+      "cosa_cambia": [
+        "non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690588",
+      "pubblicato": "2026-07-20T00:00:00+02:00",
+      "processed_at": "2026-07-22T06:33:58.343094+00:00"
+    },
+    {
+      "id": "57a0b2299797d010",
+      "titolo_popolare": "Documento UE non disponibile in lingua italiana",
+      "titolo_originale": "OJ:L_202690595",
+      "riassunto_esteso": "Il riferimento normativo fornito indica un atto dell'Unione Europea che, tuttavia, non risulta disponibile nella versione inglese né, presumibilmente, in altre lingue ufficiali. Non essendo possibile consultare il testo integrale, non è possibile descrivere nel dettaglio le disposizioni contenute nell'atto. Si tratta probabilmente di un atto di routine o di un documento tecnico la cui pubblicazione è stata omessa o ritardata. Per conoscere gli effetti concreti sarebbe necessario attendere la pubblicazione ufficiale o cercare una versione ufficiale nella lingua desiderata.",
+      "cosa_cambia": [
+        "Non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690595",
+      "pubblicato": "2026-07-20T00:00:00+02:00",
+      "processed_at": "2026-07-22T06:34:10.633418+00:00"
+    },
+    {
+      "id": "c537657a80993e2f",
+      "titolo_popolare": "Atto normativo UE non specificato",
+      "titolo_originale": "OJ:L_202690587",
+      "riassunto_esteso": "Il documento indicato nella fonte non è disponibile in lingua inglese e non fornisce dettagli sul contenuto. Non è possibile determinare quali disposizioni contiene né gli obiettivi che si propone di raggiungere. Di conseguenza, non si possono descrivere le modifiche che introduce né le motivazioni alla base della sua adozione. Per avere informazioni accurate sarebbe necessario consultare il testo originale dell'atto.",
+      "cosa_cambia": [
+        "Non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690587",
+      "pubblicato": "2026-07-20T00:00:00+02:00",
+      "processed_at": "2026-07-22T06:34:30.505848+00:00"
     },
     {
       "id": "d9312846038bdc1e",
@@ -460,6 +562,75 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601745",
       "pubblicato": "2026-07-17T00:00:00+02:00",
       "processed_at": "2026-07-21T06:34:03.717025+00:00"
+    },
+    {
+      "id": "3d8de8b65ecca631",
+      "titolo_popolare": "Nuovo programma di ricerca per carbone e acciaio",
+      "titolo_originale": "OJ:L_202601561: Council Decision (EU) 2026/1561 of 29 June 2026 on the establishment of the Research Programme of the Research Fund for Coal and Steel, the multiannual technical guidelines for that programme, the multiannual financial guidelines for managing the assets of the Research Fund for Coal and Steel, and repealing Decisions 2003/77/EC and 2008/376/EC",
+      "riassunto_esteso": "La decisione istituisce il nuovo programma di ricerca del Fondo europeo per il carbone e l'acciaio, definendo le linee guida tecniche e finanziarie per gestire i finanziamenti. Sostituisce le precedenti decisioni del 2003 e del 2008, aggiornando le regole in linea con gli obiettivi di innovazione e transizione ecologica. L'obiettivo è sostenere progetti di ricerca che migliorino l'efficienza, riducano le emissioni e rafforzino la competitività del settore. Il fondo continuerà a finanziare studi e sperimentazioni utili sia alle imprese che alla società.",
+      "cosa_cambia": [
+        "I ricercatori del settore carbone e acciaio possono presentare progetti per ottenere nuovi finanziamenti UE.",
+        "Le imprese del settore hanno accesso a bandi di ricerca finanziati dal fondo con criteri aggiornati.",
+        "Le linee guida tecniche introducono priorità su tecnologie a basse emissioni e efficienza energetica.",
+        "Le linee guida finanziarie semplificano la rendicontazione e il controllo dei fondi assegnati."
+      ],
+      "chi_interessa": "ricercatori e imprese del settore carbone e acciaio",
+      "cosa_devi_fare": "nessuna azione richiesta per i cittadini comuni",
+      "impatto": "Maggiori opportunità di finanziamento per ricerca innovativa nel carbone e acciaio, favorendo tecnologie più pulite e la competitività europea.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Imprese e Mercato",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601561",
+      "pubblicato": "2026-07-17T00:00:00+02:00",
+      "processed_at": "2026-07-22T06:26:15.402088+00:00"
+    },
+    {
+      "id": "47e0068a206f4e78",
+      "titolo_popolare": "UE semplifica l'accesso ai fondi per la difesa dell'Ucraina",
+      "titolo_originale": "OJ:L_202601793: Commission Implementing Decision (EU) 2026/1793 of 16 July 2026 approving derogations from Regulation (EU) 2026/467 of the European Parliament and of the Council, as regards the eligibility conditions of defence products for financial assistance to Ukraine",
+      "riassunto_esteso": "La decisione della Commissione europea approva alcune eccezioni alle regole che determinano quali prodotti della difesa possono ricevere aiuti finanziari dall'UE per sostenere l'Ucraina. In pratica, vengono allentati alcuni requisiti di ammissibilità, permettendo a un numero maggiore di equipaggiamenti e tecnologie militari di essere finanziati. L'obiettivo è accelerare il sostegno militare all'Ucraina in un contesto di conflitto in corso. La misura si inserisce nel quadro più ampio di assistenza finanziaria dell'UE al paese aggredito. Non introduce nuovi obblighi per i cittadini, ma agisce sulle imprese del settore difesa e sulle autorità nazionali che gestiscono i fondi.",
+      "cosa_cambia": [
+        "Alcuni prodotti della difesa previamente esclusi possono ora ottenere finanziamenti UE per l'Ucraina",
+        "Le condizioni tecniche e amministrative per l'ammissibilità sono state semplificate",
+        "Gli Stati membri hanno maggiore flessibilità nel scegliere quali equipaggiamenti finanziare",
+        "Non sono previsti cambiamenti diretti per i cittadini comuni"
+      ],
+      "chi_interessa": "imprese del settore difesa e gli Stati membri che gestiscono gli aiuti finanziari all'Ucraina",
+      "cosa_devi_fare": "nessuna azione richiesta per i cittadini",
+      "impatto": "Facilita l'arrivo di equipaggiamenti militari all'Ucraina, potenziando il sostegno europeo senza nuovi oneri per i contribuenti.",
+      "data_vigenza": "in vigore dal 16 luglio 2026",
+      "categoria": "Imprese e Mercato",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601793",
+      "pubblicato": "2026-07-17T00:00:00+02:00",
+      "processed_at": "2026-07-22T06:26:26.738710+00:00"
+    },
+    {
+      "id": "dcbdc2a8cf26fee3",
+      "titolo_popolare": "Aggiornamento UE sull'accesso alle informazioni ambientali",
+      "titolo_originale": "OJ:L_202690591: Corrigendum to Commission Implementing Regulation (EU) 2025/905 of 12 May 2025 amending Regulation (EC) No 794/2004 as regards an internal review mechanism to follow up on the findings of the Aarhus Convention Compliance Committee in case ACCC/C/2015/128 and other procedural updates (OJ L, 2025/905, 13.6.2025)",
+      "riassunto_esteso": "Il corrigendum corregge alcuni errori di forma nel regolamento di attuazione che introduce un meccanismo interno di revisione per seguire le conclusioni del Comitato di conformità della Convenzione di Aarhus. Questo meccanismo permette agli Stati membri e alle istituzioni UE di rivedere le proprie decisioni quando il Comitato segnala mancate osservanze riguardo all'accesso alle informazioni, alla partecipazione pubblica o alla giustizia in materia ambientale. L'obiettivo è garantire che l'UE rispetti meglio gli obblighi della Convenzione di Aarhus, migliorando trasparenza e coinvolgimento dei cittadini nelle questioni ambientali. Il testo non cambia sostanzialmente i diritti già riconosciuti, ma rende più chiaro e operativo il processo di follow‑up delle raccomandazioni del Comitato.",
+      "cosa_cambia": [
+        "Migliorata la possibilità di chiedere una revisione interna sulle decisioni ambientali dell'UE quando il Comitato di Aarhus segnala problemi",
+        "Procedure più chiare per contestare mancate risposte alle richieste di informazioni ambientali presso le istituzioni UE",
+        "Maggiori garanzie di partecipazione pubblica nei processi decisionali che hanno impatto sull'ambiente",
+        "Aggiornamento dei riferimenti procedurali per evitare errori di applicazione del meccanismo di revisione"
+      ],
+      "chi_interessa": "tutti i cittadini che desiderano accedere a informazioni ambientali o partecipare a decisioni ambientali a livello UE",
+      "cosa_devi_fare": "nessuna azione richiesta direttamente; se vuoi esercitare i tuoi diritti ambientali puoi presentare le solite richieste di informazioni o partecipare alle consultazioni pubbliche",
+      "impatto": "Maggiore trasparenza e tutela dei diritti ambientali, con più fiducia nelle decisioni UE grazie a un meccanismo di revisione più efficace",
+      "data_vigenza": "in vigore dal 13 giugno 2025",
+      "categoria": "Ambiente e Energia",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690591",
+      "pubblicato": "2026-07-17T00:00:00+02:00",
+      "processed_at": "2026-07-22T06:27:19.060281+00:00"
     },
     {
       "id": "6040a2245f09c351",
@@ -918,6 +1089,26 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601566",
       "pubblicato": "2026-07-14T00:00:00+02:00",
       "processed_at": "2026-07-21T06:21:24.383011+00:00"
+    },
+    {
+      "id": "d9ebe20c5d2206f8",
+      "titolo_popolare": "...",
+      "titolo_originale": "OJ:L_202601718: Council Decision (CFSP) 2026/1718 of 13 July 2026 extending the mandate of the European Union Special Representative for the Horn of Africa and amending Decision (CFSP) 2021/1012",
+      "riassunto_esteso": "...",
+      "cosa_cambia": [
+        "..."
+      ],
+      "chi_interessa": "...",
+      "cosa_devi_fare": "...",
+      "impatto": "...",
+      "data_vigenza": "...",
+      "categoria": "Altro",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601718",
+      "pubblicato": "2026-07-14T00:00:00+02:00",
+      "processed_at": "2026-07-22T06:20:31.552262+00:00"
     },
     {
       "id": "4b50844a1e3f1a7c",
