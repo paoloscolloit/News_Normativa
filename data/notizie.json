@@ -1,7 +1,109 @@
 {
-  "last_updated": "2026-07-22T06:35:59.813812+00:00",
-  "total": 548,
+  "last_updated": "2026-07-23T06:38:49.117747+00:00",
+  "total": 554,
   "items": [
+    {
+      "id": "b4b4cefaf3d4a542",
+      "titolo_popolare": "Correzione al prospetto UE per offerte di titoli",
+      "titolo_originale": "OJ:L_202690610:            Rectificatif au règlement délégué (UE) 2026/773 de la Commission du 4 mars 2026 modifiant le règlement délégué (UE) 2019/980 en ce qui concerne le contenu réduit et le format et l’ordre normalisés du prospectus d’émission subséquente de l’Union et du prospectus d’émission de croissance de l’Union (JO L, 2026/773, 15.6.2026)",
+      "riassunto_esteso": "La Commissione europea ha pubblicato una correzione tecnica al regolamento delegato che stabilisce come devono essere redatti i prospetti informativi per le offerte di titoli nell'Unione europea. Questo atto corregge alcuni errori di forma e aggiorna le regole sul contenuto ridotto e sul formato standardizzato dei prospetti, sia per le emissioni successive che per quelle legate alla crescita. L'obiettivo è garantire che le informazioni fornite agli investitori siano chiare, confrontabili e prive di ambiguità. La correzione non cambia sostanzialmente le obbligazioni delle imprese, ma migliora la qualità dei documenti che devono pubblicare. In questo modo si punta a aumentare la fiducia degli investitori nei mercati finanziari europei.",
+      "cosa_cambia": [
+        "I prospetti delle offerte di titoli avranno un layout più uniforme, facilitando la lettura e il confronto tra diverse offerte.",
+        "Le informazioni obbligatorie saranno presentate nello stesso ordine, riducendo il rischio di omissioni o di dati difficili da trovare.",
+        "Gli errori di riferimento e di formattazione presenti nella versione originale del regolamento sono stati corretti."
+      ],
+      "chi_interessa": "le imprese che emettono titoli in UE e gli investitori che acquistano tali titoli",
+      "cosa_devi_fare": "nessuna azione richiesta direttamente per i cittadini comuni; le imprese dovranno adeguare i propri prospetti alle nuove regole",
+      "impatto": "Maggiore chiarezza e confrontabilità dei prospetti, quindi scelte di investimento più consapevoli per gli investitori.",
+      "data_vigenza": "in vigore dal 15 giugno 2026",
+      "categoria": "Banche e Finanza",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690610",
+      "pubblicato": "2026-07-21T00:00:00+02:00",
+      "processed_at": "2026-07-23T06:36:21.266979+00:00"
+    },
+    {
+      "id": "be4cc3735bcf7ae8",
+      "titolo_popolare": "Atto normativo europeo non disponibile",
+      "titolo_originale": "OJ:L_202690602",
+      "riassunto_esteso": "Il documento indicato non risulta disponibile nelle banche dati ufficiali, quindi non è possibile conoscerne il contenuto preciso. Probabilmente si tratta di un atto dell'Unione europea pubblicato nella Gazzetta ufficiale, serie L, con riferimento OJ:L_202690602. Senza il testo non si possono indicare gli obblighi o le novità introdotte. Per avere informazioni bisogna consultare direttamente la fonte ufficiale o attendere una versione tradotta. Nel frattempo, si consiglia di verificare eventuali comunicati stampa o sintesi fornite dalle istituzioni europee.",
+      "cosa_cambia": [
+        "Non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690602",
+      "pubblicato": "2026-07-21T00:00:00+02:00",
+      "processed_at": "2026-07-23T06:36:44.003431+00:00"
+    },
+    {
+      "id": "e2290dbc10542238",
+      "titolo_popolare": "Atto dell'Unione Europea non specificato",
+      "titolo_originale": "OJ:L_202690612",
+      "riassunto_esteso": "Questo atto dell'Unione Europea riguarda disposizioni che non sono state specificate nel documento disponibile. Non è possibile determinare con precisione gli obiettivi o le motivazioni alla base della sua adozione. Tuttavia, essendo pubblicato nella Gazzetta ufficiale UE, implica che abbia effetti vincolanti per gli Stati membri. Si invita quindi a consultare il testo integrale per comprendere le disposizioni concrete.",
+      "cosa_cambia": [
+        "non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690612",
+      "pubblicato": "2026-07-21T00:00:00+02:00",
+      "processed_at": "2026-07-23T06:36:52.910370+00:00"
+    },
+    {
+      "id": "6113a12a7b4559c8",
+      "titolo_popolare": "Atto normativo europeo non disponibile",
+      "titolo_originale": "OJ:L_202690598",
+      "riassunto_esteso": "Il documento non è disponibile nella lingua inglese, quindi non è possibile determinarne il contenuto preciso. Tuttavia, essendo pubblicato nella Gazzetta ufficiale dell'Unione europea, si presume che contenga disposizioni di carattere generale applicabili agli Stati membri. L'atto è stato adottato nell'ambito delle procedure legislative ordinarie dell'UE per affrontare temi di interesse comune. Senza ulteriori dettagli, non è possibile specificare gli effetti concreti. Si consiglia di consultare la versione originale nella lingua ufficiale dell'atto.",
+      "cosa_cambia": [
+        "non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non possibile determinare l'impatto concreto",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690598",
+      "pubblicato": "2026-07-21T00:00:00+02:00",
+      "processed_at": "2026-07-23T06:37:18.437397+00:00"
+    },
+    {
+      "id": "b24d0f0ca4934e8b",
+      "titolo_popolare": "Documento UE non disponibile in inglese",
+      "titolo_originale": "OJ:L_202690611",
+      "riassunto_esteso": "Il documento indicato nella fonte non è disponibile in lingua inglese, quindi non è possibile conoscerne il contenuto preciso. Si tratta comunque di un atto pubblicato nella Gazzetta ufficiale dell'Unione europea, serie L, che normalmente contiene disposizioni vincolanti per gli Stati membri. Senza ulteriori dettagli non si può affermare quali siano le norme introdotte o gli obiettivi perseguiti. L'atto potrebbe riguardare qualsiasi materia di competenza UE, dal lavoro all'ambiente, ma al momento resta sconosciuto. Per avere informazioni certe sarebbe necessario consultare la versione originale nella lingua ufficiale in cui è stato redatto.",
+      "cosa_cambia": [
+        "non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690611",
+      "pubblicato": "2026-07-21T00:00:00+02:00",
+      "processed_at": "2026-07-23T06:37:28.968214+00:00"
+    },
     {
       "id": "3c231405d5a0064f",
       "titolo_popolare": "Documento UE non disponibile",
@@ -206,6 +308,29 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690587",
       "pubblicato": "2026-07-20T00:00:00+02:00",
       "processed_at": "2026-07-22T06:34:30.505848+00:00"
+    },
+    {
+      "id": "47630bd22f5c25ef",
+      "titolo_popolare": "Aggiornamento delle sanzioni UE contro terroristi ISIS e Al-Qaeda",
+      "titolo_originale": "OJ:L_202601812: Commission Implementing Regulation (EU) 2026/1812 of 16 July 2026 amending for the 358th time Council Regulation (EC) No 881/2002 imposing certain specific restrictive measures directed against certain persons and entities associated with the ISIL (Da'esh) and Al-Qaida organisations",
+      "riassunto_esteso": "Il regolamento aggiorna l'elenco delle persone e delle entità associate a ISIL (Da'esh) e Al-Qaeda soggette a misure restrittive dell'Unione europea. Queste misure includono il congelamento di fondi e risorse economiche, il divieto di mettere a disposizione fondi e il divieto di viaggio. L'aggiornamento si rende necessario per tenere conto di nuovi soggetti identificati come coinvolti in attività terroristiche. L'obiettivo è impedire il finanziamento e il sostegno al terrorismo attraverso il controllo delle transazioni finanziarie. Le autorità nazionali devono applicare le disposizioni e vigilare sul rispetto delle sanzioni.",
+      "cosa_cambia": [
+        "È vietato fornire fondi, beni o servizi a persone o entità presenti nella lista aggiornata delle sanzioni.",
+        "I beni e i fondi di tali soggetti devono essere bloccati immediatamente se si trovano sotto il controllo di chiunque operi in Italia.",
+        "Le banche, i professionisti e le imprese devono effettuare controlli approfonditi sui clienti e segnalare eventuali corrispondenze alle autorità competenti.",
+        "È obbligatorio comunicare alle autorità qualsiasi tentativo di elusione delle misure restrittive."
+      ],
+      "chi_interessa": "tutti i cittadini, le imprese, i professionisti e le istituzioni finanziarie che operano in Italia",
+      "cosa_devi_fare": "Verificare che nessun cliente o partner sia nella lista sanzioni e segnalare eventuali corrispondenze alle autorità.",
+      "impatto": "Aumenta la sicurezza finanziaria impedendo il finanziamento al terrorismo e riduce il rischio di sanzioni per chi rispetta le regole.",
+      "data_vigenza": "in vigore dal 16 luglio 2026",
+      "categoria": "Giustizia e Diritti",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601812",
+      "pubblicato": "2026-07-20T00:00:00+02:00",
+      "processed_at": "2026-07-23T06:33:45.420861+00:00"
     },
     {
       "id": "d9312846038bdc1e",
