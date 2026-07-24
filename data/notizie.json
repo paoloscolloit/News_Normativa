@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-23T06:38:49.117747+00:00",
-  "total": 554,
+  "last_updated": "2026-07-24T06:33:31.191068+00:00",
+  "total": 558,
   "items": [
     {
       "id": "b4b4cefaf3d4a542",
@@ -331,6 +331,26 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601812",
       "pubblicato": "2026-07-20T00:00:00+02:00",
       "processed_at": "2026-07-23T06:33:45.420861+00:00"
+    },
+    {
+      "id": "df180b36a845f954",
+      "titolo_popolare": "La posizione dell'UE in WTO su AGOA e investimenti",
+      "titolo_originale": "OJ:L_202601774: Council Decision (EU) 2026/1774 of 13 July 2026 on the position to be taken on behalf of the European Union within the General Council of the World Trade Organization on the request of the United States fora WTO waiver to extend the AGOA programme and on the incorporation of the Agreement on Investment Facilitation for Development into Annex 4 to the WTO Agreement",
+      "riassunto_esteso": "Il Consiglio ha adottato una decisione che stabilisce la posizione che l'Unione Europea dovrà assumere nel Consiglio generale dell'Organizzazione Mondiale del Commercio riguardo alla richiesta degli Stati Uniti di ottenere una deroga WTO per prolungare il programma AGOA, che favorisce gli scambi con alcuni paesi africani. Inoltre, la decisione fissa la posizione dell'UE sull'inclusione dell'Accordo sulla facilitazione degli investimenti per lo sviluppo nell'allegato 4 dell'accordo WTO. Questo atto serve a coordinare la voce europea nei negoziati commerciali internazionali, mirando a sostenere lo sviluppo in Africa e a promuovere regole più chiare sugli investimenti. Non introduce obblighi diretti per cittadini o imprese, ma influisce sul contesto delle regole commerciali globali.",
+      "cosa_cambia": [
+        "Nessun cambiamento diretto per i cittadini"
+      ],
+      "chi_interessa": "nessun gruppo specifico di cittadini",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "Influenza indiretta sulle regole commerciali internazionali, che può avere effetti sui prezzi e sulla disponibilità di alcuni prodotti importati. Contribuisce a definire la linea dell'UE in ambito WTO, con possibili riflessi a lungo termine sull'economia.",
+      "data_vigenza": "dal 13 luglio 2026",
+      "categoria": "Imprese e Mercato",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601774",
+      "pubblicato": "2026-07-20T00:00:00+02:00",
+      "processed_at": "2026-07-24T06:22:20.642997+00:00"
     },
     {
       "id": "d9312846038bdc1e",
@@ -926,6 +946,49 @@
       "processed_at": "2026-07-20T06:40:58.378100+00:00"
     },
     {
+      "id": "4e67e250c63fdc7c",
+      "titolo_popolare": "Controllo su aiuti statali islandesi a Farice",
+      "titolo_originale": "OJ:L_202601693: EFTA Surveillance Authority Decision No 019/26/COL of 4 February 2026 Alleged State aid granted to Farice (Iceland) [2026/1693]",
+      "riassunto_esteso": "L'Autorità di vigilanza EFTA ha esaminato se l'Islanda abbia concesso aiuti di Stato illegittimi all'impresa Farice, che gestisce cavi sottomarini per le telecomunicazioni. La decisione serve a verificare che tali aiuti non falsino la concorrenza nel mercato unico europeo dello Spazio economico europeo. Se gli aiuti fossero ritenuti incompatibili, l'autorità potrebbe imporre misure correttive o il recupero degli aiuti. L'obiettivo è garantire condizioni di parità per tutte le imprese operanti nel settore delle telecomunicazioni nell'area EEA. La decisione contribuisce a mantenere un mercato equo e trasparente per i servizi di comunicazione.",
+      "cosa_cambia": [
+        "Nessun cambiamento diretto per i cittadini comuni"
+      ],
+      "chi_interessa": "imprese del settore delle telecomunicazioni e le autorità di vigilanza sugli aiuti di Stato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "L'effetto principale riguarda le imprese del settore e la vigilanza sulla concorrenza; per i cittadini comuni l'impatto è trascurabile.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Imprese e Mercato",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601693",
+      "pubblicato": "2026-07-16T00:00:00+02:00",
+      "processed_at": "2026-07-24T06:17:48.585591+00:00"
+    },
+    {
+      "id": "920719589aa8aa5d",
+      "titolo_popolare": "Nuove misure contro la malattia della pelle nodosa in Italia",
+      "titolo_originale": "OJ:L_202601765: Commission Implementing Decision (EU) 2026/1765 of 14 July 2026 amending the Annexes to Implementing Decision (EU) 2025/1582 concerning certain emergency measures relating to infection with lumpy skin disease virus in Italy (notified under document C(2026) 5039)",
+      "riassunto_esteso": "La decisione della Commissione europea aggiorna le misure di emergenza già previste per contrastare l'infezione da virus della pelle nodosa negli animali in Italia. Vengono modificati gli allegati che definiscono le zone soggette a restrizioni, gli obblighi di segnalazione e le azioni di controllo. L'obiettivo è contenere la diffusione della malattia, proteggere il patrimonio zootecnico e evitare perdite economiche per gli allevatori. Le modifiche tengono conto dell'evoluzione della situazione epidemiologica osservata nei mesi precedenti. Il provvedimento è stato adottato con procedura d'urgenza per garantire una risposta rapida ed efficace.",
+      "cosa_cambia": [
+        "Obbligo di segnalare immediatamente ogni caso sospetto di pelle nodosa alle autorità veterinarie competenti",
+        "Limitazioni agli spostamenti di bovini e bufali dalle zone dichiarate focolaio verso altre aree",
+        "Possibile introduzione di vaccinazioni obbligatorie o di rafforzamento nei territori a rischio",
+        "Aumento dei controlli e dei test diagnostici negli allevamenti e nei mercati del bestiame"
+      ],
+      "chi_interessa": "gli allevatori di bovini e bufali e i veterinari che operano in Italia",
+      "cosa_devi_fare": "segnalare sospetti casi, rispettare le restrizioni di movimento e collaborare con le campagne di vaccinazione o test previste",
+      "impatto": "riduce il rischio di diffusione della malattia, proteggendo la salute degli animali e limitando perdite economiche per gli allevatori",
+      "data_vigenza": "in vigore dal 14 luglio 2026",
+      "categoria": "Agricoltura e Alimentare",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601765",
+      "pubblicato": "2026-07-16T00:00:00+02:00",
+      "processed_at": "2026-07-24T06:19:12.725079+00:00"
+    },
+    {
       "id": "66b11f213ea14dd4",
       "titolo_popolare": "Missione UE di partenariato in Armenia avviata",
       "titolo_originale": "OJ:L_202601711: Council Decision (CFSP) 2026/1711 of 13 July 2026 launching the European Union Partnership Mission in Armenia (EUPM Armenia) and amending Decision (CFSP) 2026/894",
@@ -1234,6 +1297,26 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601718",
       "pubblicato": "2026-07-14T00:00:00+02:00",
       "processed_at": "2026-07-22T06:20:31.552262+00:00"
+    },
+    {
+      "id": "0a97edd042bf6352",
+      "titolo_popolare": "Aiuto militare UE alla Moldavia",
+      "titolo_originale": "OJ:L_202601721: Council Decision (CFSP) 2026/1721 of 13 July 2026 on an assistance measure under the European Peace Facility to support the Armed Forces of the Republic of Moldova with military equipment designed to deliver lethal force",
+      "riassunto_esteso": "L'Unione Europea ha deciso di fornire attrezzature militari letali alle forze armate della Repubblica di Moldova tramite lo European Peace Facility. Questo sostegno rientra nella politica di sicurezza e difesa comune dell'UE e mira a rafforzare la capacità di difesa del paese partner. La decisione è stata adottata dal Consiglio dell'UE il 13 luglio 2026 e diventa efficace subito dopo la pubblicazione in Gazzetta Ufficiale dell'UE. Non implica alcun obbligo o cambiamento diretto per i cittadini italiani. L'atto è puramente di natura internazionale e non riguarda la legislazione interna italiana.",
+      "cosa_cambia": [
+        "nessuna modifica diretta per i cittadini italiani"
+      ],
+      "chi_interessa": "nessun cittadino italiano direttamente coinvolto",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "L'atto non produce effetti concreti sui cittadini italiani; riguarda solo il sostegno militare alle forze armate della Moldavia.",
+      "data_vigenza": "in vigore dal 13 luglio 2026",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601721",
+      "pubblicato": "2026-07-14T00:00:00+02:00",
+      "processed_at": "2026-07-24T06:17:37.176915+00:00"
     },
     {
       "id": "4b50844a1e3f1a7c",
