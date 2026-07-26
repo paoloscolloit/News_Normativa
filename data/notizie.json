@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-25T06:23:18.375471+00:00",
-  "total": 562,
+  "last_updated": "2026-07-26T06:40:50.125515+00:00",
+  "total": 568,
   "items": [
     {
       "id": "b4b4cefaf3d4a542",
@@ -144,6 +144,114 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601809",
       "pubblicato": "2026-07-21T00:00:00+02:00",
       "processed_at": "2026-07-25T06:19:39.667660+00:00"
+    },
+    {
+      "id": "1ac74b4f455a90b6",
+      "titolo_popolare": "...",
+      "titolo_originale": "OJ:L_202601755: Commission Implementing Regulation (EU) 2026/1755 of 20 July 2026 on detailed arrangements for the conduct of certain proceedings by the Commission pursuant to Regulation (EU) 2024/1689 of the European Parliament and of the Council",
+      "riassunto_esteso": "...",
+      "cosa_cambia": [
+        "...",
+        "...",
+        "...",
+        "..."
+      ],
+      "chi_interessa": "...",
+      "cosa_devi_fare": "...",
+      "impatto": "...",
+      "data_vigenza": "...",
+      "categoria": "Altro",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601755",
+      "pubblicato": "2026-07-21T00:00:00+02:00",
+      "processed_at": "2026-07-26T06:35:37.477743+00:00"
+    },
+    {
+      "id": "b554b370aada0e96",
+      "titolo_popolare": "Nuove regole per l'uso del galattoligosaccaride negli alimenti",
+      "titolo_originale": "OJ:L_202601749: Commission Implementing Regulation (EU) 2026/1749 of 20 July 2026 amending Implementing Regulation (EU) 2017/2470 as regards the conditions of use of the novel food galacto-oligosaccharide",
+      "riassunto_esteso": "La Commissione europea ha aggiornato le condizioni di utilizzo del galattoligosaccaride, un ingrediente considerato nuovo alimento, modificando il regolamento di esecuzione 2017/2470. L'atto stabilisce limiti massimi di concentrazione per diverse categorie di prodotti alimentari e definisce le informazioni che devono comparire in etichetta. Queste modifiche sono state introdotte per garantire la sicurezza dei consumatori e favorire l'innovazione nel settore degli alimenti funzionali. Il provvedimento si basa sulle valutazioni scientifiche dell'EFSA, che hanno confermato la sicurezza dell'ingrediente entro i nuovi limiti. Entrerà in applicazione poco dopo la sua pubblicazione nella Gazzetta Ufficiale dell'Unione Europea.",
+      "cosa_cambia": [
+        "Vengono fissati limiti massimi di galattoligosaccaride consentiti in yogurt, bevande e barrette energetiche",
+        "Le etichette dei prodotti devono indicare chiaramente la presenza di questo nuovo alimento",
+        "Le imprese devono aggiornare le proprie formulazioni per rispettare i nuovi limiti entro il periodo di adeguamento"
+      ],
+      "chi_interessa": "produttori e importatori di alimenti che contengono galattoligosaccaride",
+      "cosa_devi_fare": "verificare che i propri prodotti rispettino i nuovi limiti e aggiornare le etichette entro i termini previsti",
+      "impatto": "Maggiore trasparenza e sicurezza per i consumatori, nonché possibilità di introdurre nuovi prodotti con benefici prebiotici sul mercato.",
+      "data_vigenza": "in vigore dal 20 luglio 2026",
+      "categoria": "Agricoltura e Alimentare",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601749",
+      "pubblicato": "2026-07-21T00:00:00+02:00",
+      "processed_at": "2026-07-26T06:37:01.793994+00:00"
+    },
+    {
+      "id": "c0ce3aa2ae8869d8",
+      "titolo_popolare": "Atto UE non disponibile in lingua inglese",
+      "titolo_originale": "OJ:L_202690604",
+      "riassunto_esteso": "Il documento indicato nella fonte EUR-Lex risulta assente nella versione inglese, quindi non è possibile conoscere il suo contenuto preciso. Probabilmente si tratta di un atto normativo recente dell'Unione Europea che riguarda un settore non specificato. Senza ulteriori dettagli non si possono descrivere gli obblighi o le novità introdotte. L'assenza di informazioni potrebbe dipendere da un errore di catalogazione o da una pubblicazione ancora in corso di elaborazione.",
+      "cosa_cambia": [
+        "non specificato",
+        "non specificato",
+        "non specificato",
+        "non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta finché non saranno disponibili ulteriori informazioni",
+      "impatto": "non possibile valutare l'impatto concreto senza conoscere il contenuto dell'atto",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690604",
+      "pubblicato": "2026-07-21T00:00:00+02:00",
+      "processed_at": "2026-07-26T06:37:08.804082+00:00"
+    },
+    {
+      "id": "12cee55f828527c1",
+      "titolo_popolare": "Accordo UE-Libano sulla cooperazione giudiziaria penale",
+      "titolo_originale": "OJ:L_202601773: Information concerning the entry into force of the Agreement between the European Union and the Lebanese Republic on the cooperation between the European Union Agency for Criminal Justice Cooperation (Eurojust) and the authorities of the Lebanese Republic competent for judicial cooperation in criminal matters [2026/1773]",
+      "riassunto_esteso": "L'accordo stabilisce le modalità di cooperazione tra l'agenzia europea Eurojust e le autorità libanesi competenti in materia di cooperazione giudiziaria in ambito penale. Prevede lo scambio di informazioni, l'assistenza reciproca nelle indagini e la possibilità di azioni investigative congiunte contro reati transnazionali come terrorismo e criminalità organizzata. È stato adottato per rafforzare la sicurezza sia nell'Unione Europea che in Libano, migliorando la capacità di perseguire crimini che superano i confini nazionali. L'entrata in forza rende operativo l'accordo, permettendo alle parti di iniziare a collaborare secondo le disposizioni previste. Non introduce nuovi obblighi diretti per i cittadini comuni.",
+      "cosa_cambia": [
+        "Nessun cambiamento diretto per i cittadini comuni"
+      ],
+      "chi_interessa": "autorità giudiziarie e forze dell'ordine dell'Unione Europea e del Libano",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "Migliora la cooperazione nella lotta contro il crimine transnazionale, aumentando la sicurezza collettiva di entrambi i territori. Questo contribuisce a prevenire e perseguire reati come terrorismo e traffico di droga.",
+      "data_vigenza": "non specificato",
+      "categoria": "Giustizia e Diritti",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601773",
+      "pubblicato": "2026-07-21T00:00:00+02:00",
+      "processed_at": "2026-07-26T06:39:46.382736+00:00"
+    },
+    {
+      "id": "01a9472c5afc14b2",
+      "titolo_popolare": "Correzione tecnica alle norme ferroviarie europee",
+      "titolo_originale": "OJ:L_202690607:            Berichtigung der Richtlinie (EU) 2016/797 des Europäischen Parlaments und des Rates vom 11. Mai 2016 über die Interoperabilität des Eisenbahnsystems in der Europäischen Union (Neufassung) (ABl. L 138 vom 26.5.2016)",
+      "riassunto_esteso": "L'atto è una corrigenda, cioè una correzione di errori materiali presenti nella direttiva europea sull'interoperabilità del sistema ferroviario. Non introduce nuove regole né modifica sostanzialmente il contenuto della direttiva originale. Serve soltanto a sistemare refusi, riferimenti incrociati o formule che erano state pubblicate in modo errato. Poiché si tratta di un intervento puramente formale, non ha effetti pratici sui cittadini o sulle imprese. La correzione è stata pubblicata nella Gazzetta Ufficiale dell'Unione Europea ed entra in vigore immediatamente.",
+      "cosa_cambia": [
+        "nessuna modifica sostanziale per i cittadini"
+      ],
+      "chi_interessa": "nessun gruppo specifico di cittadini",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "L'atto corregge solo errori di redazione senza effetti pratici sulla vita quotidiana o sulle attività economiche.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Trasporti",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690607",
+      "pubblicato": "2026-07-21T00:00:00+02:00",
+      "processed_at": "2026-07-26T06:40:10.072173+00:00"
     },
     {
       "id": "3c231405d5a0064f",
@@ -414,6 +522,28 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601775",
       "pubblicato": "2026-07-20T00:00:00+02:00",
       "processed_at": "2026-07-25T06:13:58.218309+00:00"
+    },
+    {
+      "id": "d05cc4588937f31d",
+      "titolo_popolare": "Registrazione dell'iniziativa per il reddito di base universale",
+      "titolo_originale": "OJ:L_202601798: Commission Implementing Decision (EU) 2026/1798 of 7 July 2026 on the request for registration of the European citizens’ initiative entitled Introduction of Unconditional Basic Income (UBI) throughout the EU, pursuant to Regulation (EU) 2019/788 of the European Parliament and of the Council (notified under document C(2026) 4721)",
+      "riassunto_esteso": "La Commissione europea ha deciso di registrare l'iniziativa dei cittadini intitolata \"Introduzione di un Reddito di Base Universale in tutta l'UE\". Questo atto permette agli organizzatori di avviare formalmente la raccolta di firme necessarie per portare la proposta all'attenzione delle istituzioni europee. Se l'iniziativa otterrà almeno un milione di firme in almeno sette Stati membri, la Commissione dovrà esaminare la richiesta e decidere se avviare un'azione legislativa. La decisione è stata presa il 7 luglio 2026 e segue le norme del regolamento sulle iniziative dei cittadini. L'obiettivo è dare ai cittadini uno strumento diretto per influire sull'agenda politica dell'Unione.",
+      "cosa_cambia": [
+        "Gli organizzatori possono ora iniziare a raccogliere le firme online e offline secondo le regole UE.",
+        "I cittadini europei hanno la possibilità di firmare l'iniziativa sulla piattaforma ufficiale dedicata.",
+        "La Commissione è obbligata a valutare la proposta se si raggiunge la soglia di un milione di firme in sette paesi."
+      ],
+      "chi_interessa": "organizzatori dell'iniziativa e cittadini europei che vogliono sostenerla",
+      "cosa_devi_fare": "Se sostieni l'iniziativa, puoi firmarla online sulla piattaforma ufficiale; gli organizzatori devono raccogliere le firme secondo le regole UE.",
+      "impatto": "Permette ai cittadini di proporre formalmente un reddito di base universale a livello UE, aprendo la strada a un eventuale dibattito legislativo.",
+      "data_vigenza": "dal 7 luglio 2026",
+      "categoria": "Iter Legislativo",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601798",
+      "pubblicato": "2026-07-20T00:00:00+02:00",
+      "processed_at": "2026-07-26T06:31:13.935376+00:00"
     },
     {
       "id": "d9312846038bdc1e",
