@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-07-26T06:40:50.125515+00:00",
-  "total": 568,
+  "last_updated": "2026-07-27T07:15:21.981988+00:00",
+  "total": 572,
   "items": [
+    {
+      "id": "dc01cfcaec9ec04c",
+      "titolo_popolare": "Documento UE non disponibile in lingua inglese",
+      "titolo_originale": "OJ:L_202690620",
+      "riassunto_esteso": "Il documento indicato non è disponibile nella versione inglese della Gazzetta UE, quindi non è possibile conoscerne il contenuto preciso. Probabilmente si tratta di un atto amministrativo o di una decisione di carattere tecnico. Senza ulteriori informazioni non si possono descrivere gli effetti specifici sui cittadini. Si consiglia di consultare la versione originale in lingua francese o tedesca per ottenere maggiori dettagli. In attesa di una traduzione ufficiale, l'atto resta di difficile interpretazione per il pubblico generale.",
+      "cosa_cambia": [
+        "Non è possibile determinare cambiamenti concreti per i cittadini poiché il contenuto dell'atto non è disponibile."
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "verificare eventuali comunicazioni ufficiali o consultare la versione originale dell'atto",
+      "impatto": "Non è possibile valutare l'impatto concreto senza conoscere il contenuto dell'atto; di conseguenza non si possono prevedere effetti su bollette, lavoro o altri ambiti.",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690620",
+      "pubblicato": "2026-07-22T00:00:00+02:00",
+      "processed_at": "2026-07-27T07:12:51.442898+00:00"
+    },
+    {
+      "id": "45c1bfd36cf10726",
+      "titolo_popolare": "Documento UE non disponibile in lingua italiana",
+      "titolo_originale": "OJ:L_202690619",
+      "riassunto_esteso": "Il documento indicato è un atto pubblicato nella Gazzetta Ufficiale dell'Unione Europea, serie L, con riferimento OJ:L_202690619. Purtroppo il testo non è disponibile in inglese e, di conseguenza, non è possibile conoscerne il contenuto dettagliato. Si tratta probabilmente di un atto normativo di routine, come un regolamento, una direttiva o una decisione, adottato per attuare disposizioni già previste dal diritto dell'Unione. Senza ulteriori informazioni non è possibile specificare gli obiettivi precisi che hanno portato alla sua adozione.",
+      "cosa_cambia": [
+        "non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690619",
+      "pubblicato": "2026-07-22T00:00:00+02:00",
+      "processed_at": "2026-07-27T07:14:38.907329+00:00"
+    },
     {
       "id": "b4b4cefaf3d4a542",
       "titolo_popolare": "Correzione al prospetto UE per offerte di titoli",
@@ -252,6 +292,29 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690607",
       "pubblicato": "2026-07-21T00:00:00+02:00",
       "processed_at": "2026-07-26T06:40:10.072173+00:00"
+    },
+    {
+      "id": "c4772c1334bbf5bf",
+      "titolo_popolare": "Sostegno extra per agricoltori contro il caro fertilizzanti",
+      "titolo_originale": "OJ:L_202601768: Regulation (EU) 2026/1768 of the European Parliament and of the Council of 14 July 2026 amending Regulation (EU) 2021/2115 as regards a specific type of intervention to provide exceptional temporary support under the European Agricultural Fund for Rural Development (EAFRD) and the possibility to adapt direct payments allocations for calendar year 2027 and Regulation (EU) 2021/2116 as regards more flexible rules on payments of advances in response to the increased fertiliser prices due to the Middle East crisis",
+      "riassunto_esteso": "Il regolamento UE introduce un aiuto temporaneo per gli agricoltori che devono far fronte all'aumento dei prezzi dei fertilizzanti dovuto alla crisi in Medio Oriente. Prevede inoltre maggiore flessibilità nell'erogazione degli anticipi dei pagamenti diretti della politica agricola comune, permettendo agli Stati membri di adattare meglio le risorse alle esigenze locali. Infine, consente di modificare l'allocazione dei pagamenti diretti per l'anno 2027, in modo da rispondere più rapidamente alle variazioni di mercato. Queste misure mirano a sostenere il reddito delle aziende agricole e a garantire la continuità della produzione in un periodo di instabilità dei costi di produzione. Il provvedimento è stato adottato per limitare gli effetti negativi della crisi sui settori rurali e mantenere la stabilità del mercato alimentare europeo.",
+      "cosa_cambia": [
+        "Possibilità di ricevere un aiuto temporaneo eccezionale per affrontare l'aumento dei prezzi dei fertilizzanti.",
+        "Maggiore flessibilità nel chiedere e ottenere gli anticipi dei pagamenti diretti della PAC.",
+        "Facoltà di modificare l'allocazione dei pagamenti diretti per il calendario 2027.",
+        "Procedure amministrative semplificate per accedere ai nuovi sostegni."
+      ],
+      "chi_interessa": "agricoltori, imprese agricole e beneficiari dei pagamenti diretti della PAC",
+      "cosa_devi_fare": "Verificare i requisiti nazionali e presentare eventuali domande di sostegno entro le scadenze stabilite dallo Stato membro.",
+      "impatto": "Gli agricoltori potranno contare su liquidità aggiuntiva per affrontare i costi più alti dei fertilizzanti, riducendo il rischio di riduzione della produzione. Questo contribuisce a mantenere stabili i prezzi dei prodotti alimentari e a sostenere il reddito rurale.",
+      "data_vigenza": "in vigore dal 15 luglio 2026",
+      "categoria": "Agricoltura e Alimentare",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601768",
+      "pubblicato": "2026-07-21T00:00:00+02:00",
+      "processed_at": "2026-07-27T07:03:26.762544+00:00"
     },
     {
       "id": "3c231405d5a0064f",
@@ -544,6 +607,29 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601798",
       "pubblicato": "2026-07-20T00:00:00+02:00",
       "processed_at": "2026-07-26T06:31:13.935376+00:00"
+    },
+    {
+      "id": "83705d33d958f54f",
+      "titolo_popolare": "Misure d'emergenza contro l'influenza aviaria",
+      "titolo_originale": "OJ:L_202601796: Commission Implementing Decision (EU) 2026/1796 of 16 July 2026 amending the Annex to Implementing Decision (EU) 2023/2447 concerning emergency measures in relation to outbreaks of highly pathogenic avian influenza in certain Member States (notified under document C(2026) 5126)",
+      "riassunto_esteso": "La decisione della Commissione europea aggiorna l'elenco degli Stati membri in cui sono attive misure di emergenza per fronteggiare focolai di influenza aviaria altamente patogena. Queste misure includono restrizioni al movimento di uccelli, obblighi di sorveglianza e, se necessario, abbattimenti controllati degli animali infetti. L'obiettivo è contenere la diffusione del virus per proteggere sia la salute animale che quella pubblica, evitando perdite economiche nel settore avicolo. L'atto si basa sulle precedenti disposizioni già esistenti e le adegua alla situazione epidemiologica aggiornata al luglio 2026.",
+      "cosa_cambia": [
+        "Divieto di spostamento di pollame e uova dalle zone dichiarate focolaio senza autorizzazione",
+        "Obbligo per gli allevatori di segnalare immediatamente qualsiasi sospetto di malattia alle autorità veterinarie",
+        "Possibilità di eseguire abbattimenti preventivi di capi infetti o esposti, con indennizzo previsto",
+        "Aumento dei controlli e dei test diagnostici negli allevamenti delle aree a rischio"
+      ],
+      "chi_interessa": "allevatori di pollame, produttori di uova e altri operatori del settore avicolo negli Stati membri interessati",
+      "cosa_devi_fare": "segnalare focolai sospetti, rispettare le restrizioni di movimento e collaborare agli eventuali abbattimenti autorizzati",
+      "impatto": "riduce il rischio di diffusione del virus, tutelando la salute degli animali e limitando le perdite economiche per il settore avicolo",
+      "data_vigenza": "in vigore dal 16 luglio 2026",
+      "categoria": "Agricoltura e Alimentare",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601796",
+      "pubblicato": "2026-07-20T00:00:00+02:00",
+      "processed_at": "2026-07-27T07:00:44.102191+00:00"
     },
     {
       "id": "d9312846038bdc1e",
