@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-28T06:32:06.622905+00:00",
-  "total": 554,
+  "last_updated": "2026-07-29T06:40:11.125150+00:00",
+  "total": 555,
   "items": [
     {
       "id": "dc01cfcaec9ec04c",
@@ -84,6 +84,52 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601429",
       "pubblicato": "2026-07-22T00:00:00+02:00",
       "processed_at": "2026-07-28T06:30:16.133033+00:00"
+    },
+    {
+      "id": "408fbf1f77b26833",
+      "titolo_popolare": "Accordo UE-Libano per ricerca e innovazione mediterranea",
+      "titolo_originale": "OJ:L_202601414: Council Decision (EU) 2026/1414 of 21 April 2026 on the conclusion of the Agreement between the European Union and the Republic of Lebanon, in the form of an Exchange of Letters, amending and supplementing the Agreement for scientific and technological cooperation between the European Union and the Republic of Lebanon, setting out the terms and conditions for the participation of the Republic of Lebanon in the Partnership for Research and Innovation in the Mediterranean Area (PRIMA)",
+      "riassunto_esteso": "Il Consiglio dell'Unione europea ha approvato l'accordo che permette al Libano di partecipare pienamente alla Partnership for Research and Innovation in the Mediterranean Area (PRIMA). L'intesa modifica e integra il precedente accordo di cooperazione scientifica e tecnologica tra UE e Libano, definendo le condizioni per la collaborazione in progetti di ricerca e innovazione. L'obiettivo è rafforzare la cooperazione euro-mediterranea su temi come acqua, agricoltura e energie rinnovabili, condividendo conoscenze e finanziamenti. Con questa decisione, i ricercatori libanesi possono accedere ai bandi PRIMA e lavorare insieme a colleghi europei su sfide comuni della regione.",
+      "cosa_cambia": [
+        "I ricercatori e le istituzioni libanesi possono presentare progetti nei bandi PRIMA finanziati dall'UE",
+        "Le università e le imprese innovative dell'UE ottengono nuovi partner libanesi per progetti congiunti",
+        "Si prevede un aumento dei finanziamenti congiunti per ricerca su acqua, agricoltura sostenibile ed energie pulite",
+        "Vengono stabilite regole chiare sulla proprietà intellettuale e sulla condivisione dei risultati tra le parti"
+      ],
+      "chi_interessa": "ricercatori, università e imprese innovative dell'UE e del Libano",
+      "cosa_devi_fare": "nessuna azione richiesta per i cittadini; i ricercatori interessati devono verificare i bandi PRIMA disponibili",
+      "impatto": "Maggiori opportunità di finanziamento e collaborazione scientifica tra Europa e Libano, favorendo innovazione e sviluppo sostenibile nella regione mediterranea.",
+      "data_vigenza": "in vigore dal 21 aprile 2026",
+      "categoria": "Istruzione e Ricerca",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601414",
+      "pubblicato": "2026-07-22T00:00:00+02:00",
+      "processed_at": "2026-07-29T06:36:12.094915+00:00"
+    },
+    {
+      "id": "255faeeb898d2c24",
+      "titolo_popolare": "Aggiornamento delle norme tecniche per alcuni prodotti",
+      "titolo_originale": "OJ:L_202601731: Commission Implementing Regulation (EU) 2026/1731 of 15 July 2026 amending Implementing Regulations (EU) 2024/2977, (EU) 2024/2979, (EU) 2024/2980 and (EU) 2024/2982 as regards applicable standards and specifications",
+      "riassunto_esteso": "La Commissione europea ha modificato alcuni regolamenti di attuazione del 2024 per adeguare le norme tecniche e le specifiche applicabili a determinati prodotti. L'obiettivo è allineare i requisiti di sicurezza, prestazione e interoperabilità con gli sviluppi tecnologici più recenti. Le modifiche riguardano principalmente i criteri di prova, le marcature e la documentazione di conformità che i fabbricanti devono rispettare. In questo modo si vuole garantire che i prodotti immessi sul mercato siano più sicuri e compatibili tra loro, riducendo gli ostacoli agli scambi nell'UE.",
+      "cosa_cambia": [
+        "Le prove di conformità richieste per i prodotti sono state aggiornate con nuovi metodi e limiti",
+        "Le specifiche tecniche da indicare nella documentazione sono state riviste per riflettere gli ultimi standard",
+        "Le modalità di marcatura e di etichettatura dei prodotti sono state modificate per migliorare la tracciabilità",
+        "È richiesto un aggiornamento delle dichiarazioni di conformità entro un periodo definito dalla norma"
+      ],
+      "chi_interessa": "produttori, importatori e distributori dei prodotti interessati dalle norme tecniche aggiornate",
+      "cosa_devi_fare": "verificare che i propri prodotti rispettino le nuove norme tecniche e aggiornare la documentazione di conformità entro i termini previsti",
+      "impatto": "maggiore sicurezza e uniformità sul mercato, con minori rischi per i consumatori e meno ostacoli al commercio interno",
+      "data_vigenza": "in vigore dal 15 luglio 2026",
+      "categoria": "Imprese e Mercato",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601731",
+      "pubblicato": "2026-07-22T00:00:00+02:00",
+      "processed_at": "2026-07-29T06:38:18.551091+00:00"
     },
     {
       "id": "b4b4cefaf3d4a542",
@@ -12007,28 +12053,6 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R0392",
       "pubblicato": "2026-06-01T00:00:00+02:00",
       "processed_at": "2026-06-01T09:11:47.592836+00:00"
-    },
-    {
-      "id": "0105d70930834f21",
-      "titolo_popolare": "Nuove linee guida europee per la vigilanza finanziaria",
-      "titolo_originale": "Elenco degli Orientamenti e delle Raccomandazioni delle Autorità europee di vigilanza (European Supervisory Authorities)",
-      "riassunto_esteso": "Il documento elenca gli orientamenti e le raccomandazioni emessi dalle Autorità europee di vigilanza, come l'ESMA, l'EBA e l'EIOPA, per armonizzare la supervisione dei mercati finanziari, delle banche e delle assicurazioni nell'Unione Europea. È stato pubblicato dalla Banca d'Italia per informare gli operatori italiani sugli standard europei da seguire. L'obiettivo è garantire una maggiore coerenza, trasparenza e stabilità del sistema finanziario, riducendo i rischi sistemici. Le autorità nazionali dovranno adeguare le proprie pratiche di controllo a questi riferimenti. Il provvedimento non introduce nuove leggi, ma funge da guida operativa per le istituzioni finanziarie.",
-      "cosa_cambia": [
-        "Le banche, le assicurazioni e gli intermediari devono adeguare le proprie procedure alle linee guida europee.",
-        "La Banca d'Italia utilizzerà questi orientamenti per valutare la conformità degli operatori italiani.",
-        "Le autorità di vigilanza nazionali dovranno allineare i controlli con le raccomandazioni europee."
-      ],
-      "chi_interessa": "tutte le banche, le compagnie assicurative, gli intermediari finanziari e le autorità di vigilanza italiane",
-      "cosa_devi_fare": "verificare che le proprie politiche interne siano in linea con le raccomandazioni elencate e, se necessario, aggiornare i processi.",
-      "impatto": "Migliore coerenza e trasparenza nella gestione dei rischi finanziari, con potenziali benefici per la stabilità del sistema e la tutela dei clienti.",
-      "data_vigenza": "in vigore da subito",
-      "categoria": "Digitale e Privacy",
-      "importanza": 2,
-      "fonte": "Banca d'Italia — Vigilanza",
-      "paese": "IT",
-      "url": "https://www.bancaditalia.it/compiti/vigilanza/normativa/orientamenti-vigilanza/elenco-esa/index.html?com.dotmarketing.htmlpage.language=102",
-      "pubblicato": "2026-05-29T16:00:00+00:00",
-      "processed_at": "2026-05-31T15:50:46.912887+00:00"
     }
   ]
 }
