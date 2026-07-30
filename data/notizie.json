@@ -1,7 +1,29 @@
 {
-  "last_updated": "2026-07-29T06:40:11.125150+00:00",
-  "total": 555,
+  "last_updated": "2026-07-30T06:28:18.360792+00:00",
+  "total": 561,
   "items": [
+    {
+      "id": "9162022795fe09e2",
+      "titolo_popolare": "Aggiornamento delle norme tecniche per prodotti nell'SEE",
+      "titolo_originale": "OJ:L_202601483: Decision of the EEA Joint Committee No 128/2026 of 30 April 2026 amending Annex II (Technical regulations, standards, testing and certification) to the EEA Agreement [2026/1483]",
+      "riassunto_esteso": "La decisione del Comitato congiunto SEE aggiorna l'Allegato II dell'accordo SEE, che contiene le norme tecniche, gli standard, le prove e le certificazioni dei prodotti. L'adeguamento serve a mantenere l'allineamento tra la normativa dell'Unione europea e quella degli Stati SEE, garantendo che i prodotti circolanti nello spazio rispettino gli stessi requisiti di sicurezza e qualità. In pratica, vengono introdotte modifiche alle specifiche tecniche e alle procedure di valutazione della conformità. Questo permette di semplificare gli scambi commerciali e di aumentare la fiducia dei consumatori nei prodotti acquistati.",
+      "cosa_cambia": [
+        "I prodotti venduti nello SEE devono rispettare le nuove norme tecniche aggiornate.",
+        "Le procedure di prova e certificazione sono state armonizzate tra i paesi SEE.",
+        "La documentazione di conformità richiesta per l'immissione in commercio è stata semplificata."
+      ],
+      "chi_interessa": "imprese che producono, importano o distribuiscono prodotti nello Spazio Economico Europeo",
+      "cosa_devi_fare": "Verificare che i propri prodotti siano conformi alle nuove norme e aggiornare la relativa documentazione di certificazione.",
+      "impatto": "Maggiore sicurezza dei prodotti e minori ostacoli al commercio tra i paesi SEE, con benefici sia per i consumatori che per le imprese.",
+      "data_vigenza": "dal 30 aprile 2026",
+      "categoria": "Imprese e Mercato",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601483",
+      "pubblicato": "2026-07-23T00:00:00+02:00",
+      "processed_at": "2026-07-30T06:28:18.354645+00:00"
+    },
     {
       "id": "dc01cfcaec9ec04c",
       "titolo_popolare": "Documento UE non disponibile in lingua inglese",
@@ -130,6 +152,95 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601731",
       "pubblicato": "2026-07-22T00:00:00+02:00",
       "processed_at": "2026-07-29T06:38:18.551091+00:00"
+    },
+    {
+      "id": "fd7eec3e67876828",
+      "titolo_popolare": "Correzioni ai certificati per importare prodotti animali in UE",
+      "titolo_originale": "OJ:L_202690608: Corrigendum to Commission Implementing Regulation (EU) 2024/399 of 29 January 2024 amending Annex III to Implementing Regulation (EU) 2020/2235 and Annex II to Implementing Regulation (EU) 2021/403 as regards model certificates for the entry into the Union of consignments of certain products of animal origin and certain categories of animals (OJ L, 2024/399, 12.2.2024)",
+      "riassunto_esteso": "Il documento è un corrigendum che corregge errori presenti in un precedente regolamento europeo riguardante i modelli di certificato necessari per l'ingresso nell'Unione di determinati prodotti di origine animale e di alcune categorie di animali vivi. Questi certificati attestano che le merci rispettano le norme sanitarie e di benessere animale richieste dalla legge UE. Correggendo i refusi e le imprecisioni, si vuole evitare fraintendimenti nei controlli doganali e veterinari alle frontiere. L'obiettivo è garantire che le importazioni siano sicure e che gli operatori possano presentare documentazione conforme senza rischiare ritardi o rifiuti.",
+      "cosa_cambia": [
+        "I modelli di certificato da allegare alle spedizioni di prodotti animali sono stati aggiornati con le correzioni indicate",
+        "Le autorità doganali e veterinarie dovranno utilizzare i nuovi modelli per verificare la conformità delle merci",
+        "Gli importatori dovranno sostituire i vecchi modelli con quelli corretti nelle loro pratiche di dichiarazione",
+        "Non cambiano i requisiti sostanziali di salute o benessere animale, solo la forma dei documenti"
+      ],
+      "chi_interessa": "importatori di prodotti di origine animale e animali vivi, operatori doganali e servizi veterinari degli Stati membri",
+      "cosa_devi_fare": "Gli operatori devono utilizzare i nuovi modelli di certificato corretti nelle loro dichiarazioni doganali",
+      "impatto": "Le correzioni riducono il rischio di rifiuti o ritardi alle frontiere dovuti a errori documentali, migliorando la fluidità e la sicurezza degli scambi",
+      "data_vigenza": "in vigore dalla pubblicazione nella Gazzetta Ufficiale dell'Unione Europea",
+      "categoria": "Salute e Farmaci",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690608",
+      "pubblicato": "2026-07-22T00:00:00+02:00",
+      "processed_at": "2026-07-30T06:22:44.554026+00:00"
+    },
+    {
+      "id": "7528de84dc5a2d75",
+      "titolo_popolare": "Aggiornamento degli standard tecnici UE",
+      "titolo_originale": "OJ:L_202601730: Commission Implementing Regulation (EU) 2026/1730 of 15 July 2026 amending Implementing Regulation (EU) 2025/848 as regards applicable standards and specifications",
+      "riassunto_esteso": "La Commissione europea ha modificato il regolamento di esecuzione 2025/848, aggiornando le norme tecniche e le specifiche applicabili a determinati prodotti e servizi. L'intervento serve a tenere conto dei progressi tecnologici e a garantire che i requisiti di sicurezza, interoperabilità e prestazioni siano sempre adeguati. Le nuove disposizioni riguardano principalmente le imprese che devono adeguare i propri processi di progettazione e prova. Per i cittadini comuni non ci sono obblighi diretti, ma beneficiano di prodotti più sicuri e compatibili. Il regolamento entra in vigore il giorno della sua pubblicazione, ovvero il 15 luglio 2026.",
+      "cosa_cambia": [
+        "Aggiornamento dei requisiti tecnici che i prodotti devono rispettare per essere messi in commercio",
+        "Modifica delle specifiche di prova e delle procedure di valutazione della conformità",
+        "Introduzione di nuove norme di compatibilità tra dispositivi e sistemi",
+        "Adeguamento delle linee guida per la marcatura CE e la documentazione tecnica"
+      ],
+      "chi_interessa": "imprese produttrici e importatrici di prodotti soggetti agli standard aggiornati",
+      "cosa_devi_fare": "nessuna azione richiesta direttamente ai cittadini",
+      "impatto": "I cittadini vedranno prodotti più sicuri e meglio integrati, mentre le imprese dovranno adeguare i propri processi produttivi.",
+      "data_vigenza": "dal 15 luglio 2026",
+      "categoria": "Imprese e Mercato",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601730",
+      "pubblicato": "2026-07-22T00:00:00+02:00",
+      "processed_at": "2026-07-30T06:25:11.543662+00:00"
+    },
+    {
+      "id": "29fda85cf2cbe6e5",
+      "titolo_popolare": "Registrazione del marchio Mura/Murai come prodotto tipico",
+      "titolo_originale": "OJ:L_202601792: Commission Implementing Regulation (EU) 2026/1792 of 15 July 2026 on the registration of the geographical indication Mura / Murai (PDO) in the Union register of geographical indications pursuant to Regulation (EU) 2024/1143 of the European Parliament and of the Council",
+      "riassunto_esteso": "Il regolamento registra l'indicazione geografica Mura/Murai come Denominazione di Origine Protetta (PDO) nel registro europeo delle indicazioni geografiche. Questo atto è stato adottato per proteggere il nome del prodotto da usi impropri e garantire che solo i prodotti realmente realizzati nella zona geografica definita possano portare quel marchio. La registrazione offre ai produttori locali una tutela legale contro imitazioni e concorrenza sleale. Inoltre, aumenta la fiducia dei consumatori, che possono riconoscere facilmente l'origine e la qualità del prodotto. La misura rientra nella politica europea di valorizzazione delle produzioni tipiche e di sostegno alle economie rurali.",
+      "cosa_cambia": [
+        "I produttori di Mura/Murai nella zona designata possono ora utilizzare il logo PDO sulle loro confezioni.",
+        "I consumatori hanno una maggiore certezza sull'origine e sulle caratteristiche del prodotto che acquistano.",
+        "È vietato a chiunque altro usare il nome Mura/Murai in modo che possa ingannare sul luogo di produzione.",
+        "Le autorità di controllo possono verificare più facilmente il rispetto del disciplinare di produzione."
+      ],
+      "chi_interessa": "i produttori di Mura/Murai nella zona geografica definita, i trasformatori, i commercianti e i consumatori",
+      "cosa_devi_fare": "nessuna azione richiesta per i consumatori; i produttori devono rispettare il disciplinare PDO e chiedere l'uso del marchio",
+      "impatto": "Il prodotto ottiene una protezione legale che ne aumenta il valore di mercato e la riconoscibilità presso i consumatori. Questo sostiene i redditi dei produttori locali e promuove la qualità alimentare nell'UE.",
+      "data_vigenza": "in vigore dal 15 luglio 2026",
+      "categoria": "Agricoltura e Alimentare",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601792",
+      "pubblicato": "2026-07-22T00:00:00+02:00",
+      "processed_at": "2026-07-30T06:27:19.797753+00:00"
+    },
+    {
+      "id": "93fe77f6db52b1fc",
+      "titolo_popolare": "Proroga della missione UE in Repubblica Centrafricana",
+      "titolo_originale": "OJ:L_202601833: Political and Security Committee Decision (CFSP) 2026/1833 of 14 July 2026 extending the mandate of the Head of Mission of the European Union CSDP Advisory Mission in the Central African Republic (EUAM RCA) (EUAM RCA/1/2026)",
+      "riassunto_esteso": "Il Consiglio europeo ha deciso di estendere il mandato del capo della missione di consulenza dell'UE in Repubblica Centrafricana, che opera per supportare la pace e la sicurezza nel paese. Questa proroga permette alla missione di continuare il suo lavoro di formazione e consulenza alle autorità locali, contribuendo alla stabilità regionale. L'atto è stato adottato per rispondere al perdurare di esigenze di sostegno internazionale nella regione. Non introduce nuovi obblighi o diritti per i cittadini degli Stati membri, ma mantiene un impegno politico e operativo dell'UE. La decisione è presa nell'ambito della politica estera e di sicurezza comune dell'Unione.",
+      "cosa_cambia": [
+        "nessun cambiamento diretto per i cittadini italiani"
+      ],
+      "chi_interessa": "nessun cittadino italiano direttamente interessato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "L'atto non ha effetti concreti sulla vita quotidiana dei cittadini italiani; serve a mantenere la presenza diplomatica e di supporto dell'UE in Repubblica Centrafricana.",
+      "data_vigenza": "in vigore dal 14 luglio 2026",
+      "categoria": "Giustizia e Diritti",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601833",
+      "pubblicato": "2026-07-22T00:00:00+02:00",
+      "processed_at": "2026-07-30T06:28:03.801035+00:00"
     },
     {
       "id": "b4b4cefaf3d4a542",
@@ -426,6 +537,28 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601797",
       "pubblicato": "2026-07-21T00:00:00+02:00",
       "processed_at": "2026-07-28T06:20:56.804382+00:00"
+    },
+    {
+      "id": "daaf227a0e483b03",
+      "titolo_popolare": "Correzione di errori nella direttiva sulla sicurezza ferroviaria",
+      "titolo_originale": "OJ:L_202690605:            Berichtigung der Richtlinie (EU) 2016/798 des Europäischen Parlaments und des Rates vom 11. Mai 2016 über Eisenbahnsicherheit (Neufassung) (ABl. L 138 vom 26.5.2016)",
+      "riassunto_esteso": "L'atto è un corrigendum, cioè una correzione, della direttiva europea sulla sicurezza ferroviaria adottata nel 2016. Non introduce nuove regole né modifica sostanzialmente le disposizioni esistenti, ma si limita a sistemare refusi, errori di formulazione e incoerenze presenti nel testo originale. L'obiettivo è rendere la direttiva più chiara e priva di errori tecnici, facilitandone l'applicazione da parte delle autorità e delle imprese del settore. Per i cittadini comuni non ci sono cambiamenti pratici da osservare.",
+      "cosa_cambia": [
+        "Nessuna modifica sostanziale delle regole di sicurezza ferroviaria per cittadini o imprese.",
+        "Solo correzione di refusi e errori di formulazione nel testo della direttiva.",
+        "Non vengono introdotti nuovi obblighi, scadenze o requisiti aggiuntivi."
+      ],
+      "chi_interessa": "principalmente le imprese ferroviarie e le autorità di sicurezza nazionali; per i cittadini nessun effetto diretto",
+      "cosa_devi_fare": "nessuna azione richiesta da parte dei cittadini",
+      "impatto": "L'atto non cambia nulla nella pratica quotidiana; serve solo a rendere il testo normativo più corretto e chiaro.",
+      "data_vigenza": "in vigore da subito dopo la pubblicazione nella Gazzetta Ufficiale dell'Unione Europea",
+      "categoria": "Trasporti",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690605",
+      "pubblicato": "2026-07-21T00:00:00+02:00",
+      "processed_at": "2026-07-30T06:18:18.060746+00:00"
     },
     {
       "id": "3c231405d5a0064f",

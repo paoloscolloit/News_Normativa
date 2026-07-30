@@ -1,197 +1,5 @@
 [
   {
-    "id": "e74a55973e1e1d48",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32024R2076R(09)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32024R2076R(09)",
-    "pubblicato": "2026-06-19T00:00:00+02:00",
-    "summary_raw": "The corrigendum does not concern the English version.",
-    "fetched_at": "2026-06-19T08:56:34.793835+00:00",
-    "processed": true
-  },
-  {
-    "id": "047ff590e73441f4",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32024D0847R(02): Corrigendum to Council Decision (CFSP) 2024/847 of 12 March 2024 amending Decision 2014/145/CFSP concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine (OJ L, 2024/847, 13.3.2024)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32024D0847R(02)",
-    "pubblicato": "2026-06-19T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-06-19T08:56:34.793936+00:00",
-    "processed": true
-  },
-  {
-    "id": "0a8a240dfb37df2d",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32024R0849R(02): Corrigendum to Council Implementing Regulation (EU) 2024/849 of 12 March 2024 implementing Regulation (EU) No 269/2014 concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine (OJ L, 2024/849, 13.3.2024)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32024R0849R(02)",
-    "pubblicato": "2026-06-19T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-06-19T08:56:34.794033+00:00",
-    "processed": true
-  },
-  {
-    "id": "96f65127335517d1",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026D1084R(01): Corrigendum to Council Decision (CFSP) 2026/1084 of 12 May 2026 amending Decision (CFSP) 2021/1143 on a European Union Military Assistance Mission in Mozambique (EUMAM Mozambique) (OJ L, 2026/1084, 13.5.2026)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1084R(01)",
-    "pubblicato": "2026-06-19T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-06-19T08:56:34.794131+00:00",
-    "processed": true
-  },
-  {
-    "id": "34e9a15af9293125",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026R0695R(02): Corrigendum to Council Implementing Regulation (EU) 2026/695 of 14 March 2026 implementing Regulation (EU) No 269/2014 concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine (OJ L, 2026/695, 14.3.2026)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R0695R(02)",
-    "pubblicato": "2026-06-19T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-06-19T08:56:34.794227+00:00",
-    "processed": true
-  },
-  {
-    "id": "f5a7774b9a268884",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32018R1974R(07)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32018R1974R(07)",
-    "pubblicato": "2026-06-22T00:00:00+02:00",
-    "summary_raw": "The corrigendum does not concern the English version.",
-    "fetched_at": "2026-06-22T09:36:49.033720+00:00",
-    "processed": true
-  },
-  {
-    "id": "1e5e2f12f26b55e8",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32011R1178R(24)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32011R1178R(24)",
-    "pubblicato": "2026-06-22T00:00:00+02:00",
-    "summary_raw": "The corrigendum does not concern the English version.",
-    "fetched_at": "2026-06-22T09:36:49.033872+00:00",
-    "processed": true
-  },
-  {
-    "id": "12edb950d6de81d5",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026R1391: Commission Implementing Regulation (EU) 2026/1391 of 16 June 2026 on the approval of an amendment to the product specification of the traditional speciality guaranteed Moules de bouchot",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1391",
-    "pubblicato": "2026-06-22T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-06-22T09:36:49.034011+00:00",
-    "processed": true
-  },
-  {
-    "id": "af40bb27b8d065d4",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026D1231R(01): Corrigendum to Commission Implementing Decision (EU) 2026/1231 of 11 June 2026 amending Implementing Decision (EU) 2021/1182 as regards harmonised standards for biological evaluation of medical devices, symbols to be used with information to be supplied by the manufacturer, medical electrical equipment, transfusion equipment for medical use, ophthalmic optics, non-active surgical implants, washer-disinfectors, prosthetics and sharps injury protection (OJ L, 2026/1231, 17.6.2026)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1231R(01)",
-    "pubblicato": "2026-06-22T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-06-22T09:36:49.034141+00:00",
-    "processed": true
-  },
-  {
-    "id": "366eef4c6521210f",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026D1400: Council Decision (EU) 2026/1400 of 16 June 2026 appointing a member and an alternate member, proposed by the Republic of Austria, of the Committee of the Regions",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1400",
-    "pubblicato": "2026-06-22T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-06-22T09:36:49.034270+00:00",
-    "processed": true
-  },
-  {
-    "id": "5fb10da9f9bfea63",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32014R0245R(05)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32014R0245R(05)",
-    "pubblicato": "2026-06-22T00:00:00+02:00",
-    "summary_raw": "The corrigendum does not concern the English version.",
-    "fetched_at": "2026-06-22T09:36:49.034418+00:00",
-    "processed": true
-  },
-  {
-    "id": "67c5024bcc160570",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32020R2193R(06)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32020R2193R(06)",
-    "pubblicato": "2026-06-22T00:00:00+02:00",
-    "summary_raw": "The corrigendum does not concern the English version.",
-    "fetched_at": "2026-06-22T09:36:49.034536+00:00",
-    "processed": true
-  },
-  {
-    "id": "93678820ca89b90c",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32018R1119R(05)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32018R1119R(05)",
-    "pubblicato": "2026-06-22T00:00:00+02:00",
-    "summary_raw": "The corrigendum does not concern the English version.",
-    "fetched_at": "2026-06-22T09:36:49.034675+00:00",
-    "processed": true
-  },
-  {
-    "id": "b79bc672f5308d13",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32012R0290R(13)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32012R0290R(13)",
-    "pubblicato": "2026-06-22T00:00:00+02:00",
-    "summary_raw": "The corrigendum does not concern the English version.",
-    "fetched_at": "2026-06-22T09:36:49.034790+00:00",
-    "processed": true
-  },
-  {
-    "id": "773b09560bc5a195",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026R1395: Regulation (EU) 2026/1395 of the European Parliament and of the Council of 17 June 2026 on applying a generalised scheme of tariff preferences and repealing Regulation (EU) No 978/2012",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1395",
-    "pubblicato": "2026-06-22T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-06-22T09:36:49.034895+00:00",
-    "processed": true
-  },
-  {
-    "id": "23cd61d4c58a623c",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026R0131R(01)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R0131R(01)",
-    "pubblicato": "2026-06-22T00:00:00+02:00",
-    "summary_raw": "The corrigendum does not concern the English version.",
-    "fetched_at": "2026-06-22T09:36:49.034996+00:00",
-    "processed": true
-  },
-  {
     "id": "7570add26ca712ee",
     "source_id": "eurlex_oj_l",
     "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
@@ -3933,7 +3741,7 @@
     "pubblicato": "2026-07-21T00:00:00+02:00",
     "summary_raw": "This document does not exist in English.",
     "fetched_at": "2026-07-21T06:20:21.066874+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "b4b4cefaf3d4a542",
@@ -4197,7 +4005,7 @@
     "pubblicato": "2026-07-22T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-22T06:19:26.179521+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "dc01cfcaec9ec04c",
@@ -4329,7 +4137,7 @@
     "pubblicato": "2026-07-22T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-22T06:19:26.180904+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "255faeeb898d2c24",
@@ -4389,7 +4197,7 @@
     "pubblicato": "2026-07-22T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-22T06:19:26.181390+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "1cdf2a39e4960a49",
@@ -4413,7 +4221,7 @@
     "pubblicato": "2026-07-22T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-22T06:19:26.181616+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "9162022795fe09e2",
@@ -4425,7 +4233,7 @@
     "pubblicato": "2026-07-23T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-23T06:21:48.836972+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "2a8dfa62623e146e",
@@ -5997,6 +5805,198 @@
     "pubblicato": "2026-07-29T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-29T06:22:09.449402+00:00",
+    "processed": false
+  },
+  {
+    "id": "96bc4f9a94f83764",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202600447: Commission Delegated Regulation (EU) 2026/447 of 27 February 2026 amending Regulation (EU) No 528/2012 of the European Parliament and of the Council as regards the restriction of the use for the active substance carbon dioxide in Annex I, Category 6, thereto",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202600447",
+    "pubblicato": "2026-07-30T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-30T06:15:19.239991+00:00",
+    "processed": false
+  },
+  {
+    "id": "34fcfc76fa073044",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202690638",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690638",
+    "pubblicato": "2026-07-30T00:00:00+02:00",
+    "summary_raw": "This document does not exist in English.",
+    "fetched_at": "2026-07-30T06:15:19.240126+00:00",
+    "processed": false
+  },
+  {
+    "id": "3f73d19278df5754",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202690642: Corrigendum to Council Decision (CFSP) 2026/1713 of 13 July 2026 amending Decision (CFSP) 2019/797 concerning restrictive measures against cyber-attacks threatening the Union or its Member States (OJ L, 2026/1713, 13.7.2026)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690642",
+    "pubblicato": "2026-07-30T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-30T06:15:19.240223+00:00",
+    "processed": false
+  },
+  {
+    "id": "eb16a7d526e39cbc",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202690631",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690631",
+    "pubblicato": "2026-07-30T00:00:00+02:00",
+    "summary_raw": "This document does not exist in English.",
+    "fetched_at": "2026-07-30T06:15:19.240310+00:00",
+    "processed": false
+  },
+  {
+    "id": "65fd56c7f2322c31",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601825: Commission Regulation (EU) 2026/1825 of 29 July 2026 amending Regulation (EU) 2023/915 as regards maximum levels of 3-monochloropropanediol (3-MCPD), 3-MCPD fatty acid esters and glycidyl fatty acid esters in certain foods",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601825",
+    "pubblicato": "2026-07-30T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-30T06:15:19.240392+00:00",
+    "processed": false
+  },
+  {
+    "id": "cbd0333ac88678ee",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202600904: Commission Delegated Regulation (EU) 2026/904 of 24 April 2026 supplementing Regulation (EU) 2024/3005 of the European Parliament and of the Council with regard to rules of procedure on fines and periodic penalty payments imposed to ESG rating providers by the European Securities and Markets Authority",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202600904",
+    "pubblicato": "2026-07-30T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-30T06:15:19.240470+00:00",
+    "processed": false
+  },
+  {
+    "id": "bf86861dfb189cf7",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601865: Commission Implementing Regulation (EU) 2026/1865 of 29 July 2026 concerning the authorisation of thyme essential oil from Thymus vulgaris L. and/or Thymus zygis L. as a feed additive for all animal species",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601865",
+    "pubblicato": "2026-07-30T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-30T06:15:19.240550+00:00",
+    "processed": false
+  },
+  {
+    "id": "b62df038f63f8621",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601879: Council Implementing Decision (EU) 2026/1879 of 24 July 2026 on the participation of the United Kingdom of Great Britain and Northern Ireland in the assistance to support Ukraine’s defence industrial capacities pursuant to Article 13(11) of Regulation (EU) 2026/467",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601879",
+    "pubblicato": "2026-07-30T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-30T06:15:19.240630+00:00",
+    "processed": false
+  },
+  {
+    "id": "c5f4e6289a710a1a",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202690640: Corrigendum to Council Implementing Regulation (EU) 2026/1714 of 13 July 2026 implementing Regulation (EU) 2019/796 concerning restrictive measures against cyber-attacks threatening the Union or its Member States (OJ L, 2026/1714, 13.7.2026)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690640",
+    "pubblicato": "2026-07-30T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-30T06:15:19.240709+00:00",
+    "processed": false
+  },
+  {
+    "id": "597670d126c3c1a2",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601852: Commission Decision (EU) 2026/1852 of 28 July 2026 approving, on behalf of the European Union, the modification of Annex XVIII to the Association Agreement between the European Union and its Member States, on the one hand, and Central America, on the other (notified under document C(2026) 5236)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601852",
+    "pubblicato": "2026-07-30T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-30T06:15:19.240781+00:00",
+    "processed": false
+  },
+  {
+    "id": "5b3980e6cdd455dc",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202600910: Commission Delegated Regulation (EU) 2026/910 of 24 April 2026 supplementing Regulation (EU) 2024/3005 of the European Parliament and of the Council with regard to fees charged by the European Securities and Markets Authority to ESG rating providers",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202600910",
+    "pubblicato": "2026-07-30T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-30T06:15:19.240850+00:00",
+    "processed": false
+  },
+  {
+    "id": "edaaccfcff68ef82",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601859: Commission Implementing Regulation (EU) 2026/1859 of 29 July 2026 concerning the renewal of the authorisation of a preparation of taurine as a feed additive for Canidae, Felidae, Mustelidae, carnivorous finfish and other aquatic carnivorous species and repealing Implementing Regulation (EU) 2015/722",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601859",
+    "pubblicato": "2026-07-30T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-30T06:15:19.240920+00:00",
+    "processed": false
+  },
+  {
+    "id": "fd279dcbdbfe1964",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601864: Commission Implementing Regulation (EU) 2026/1864 of 29 July 2026 specifying the technical items of the data set, establishing the technical formats for transmission of information and specifying the arrangements and content of the quality reports on the organisation of a sample survey in the use of information and communication technologies domain for reference year 2027 pursuant to Regulation (EU) 2019/1700 of the European Parliament and of the Council",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601864",
+    "pubblicato": "2026-07-30T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-30T06:15:19.240988+00:00",
+    "processed": false
+  },
+  {
+    "id": "0449b8422534e442",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601890: Commission Regulation (EU) 2026/1890 of 29 July 2026 amending Regulation (EU) 2023/915 as regards maximum levels of the sum of furan, 2-methylfuran and 3-methylfuran in processed cereal-based food for infants and young children and in baby food",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601890",
+    "pubblicato": "2026-07-30T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-30T06:15:19.241056+00:00",
+    "processed": false
+  },
+  {
+    "id": "c8d01712884fd3db",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601860: Commission Implementing Regulation (EU) 2026/1860 of 29 July 2026 concerning the authorisation of a preparation of narasin (Monteban G100) as a feed additive for chickens for fattening (holder of authorisation: Elanco GmbH) and repealing Regulation (EC) No 1464/2004",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601860",
+    "pubblicato": "2026-07-30T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-30T06:15:19.241141+00:00",
+    "processed": false
+  },
+  {
+    "id": "3488ad918e0ab3c8",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601886: Political and Security Committee Decision (CFSP) 2026/1886 of 16 July 2026 on the appointment of the head of the military command and support cell of the European Union Security and Defence Initiative in support of West African countries of the Gulf of Guinea, and repealing Decision (CFSP) 2026/58 (EUSDI/1/2026)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601886",
+    "pubblicato": "2026-07-30T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-07-30T06:15:19.241212+00:00",
     "processed": false
   }
 ]
