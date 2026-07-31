@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-30T06:28:18.360792+00:00",
-  "total": 561,
+  "last_updated": "2026-07-31T06:56:01.427309+00:00",
+  "total": 560,
   "items": [
     {
       "id": "9162022795fe09e2",
@@ -23,6 +23,51 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601483",
       "pubblicato": "2026-07-23T00:00:00+02:00",
       "processed_at": "2026-07-30T06:28:18.354645+00:00"
+    },
+    {
+      "id": "64f555baf3ead1cc",
+      "titolo_popolare": "Aggiornamento delle norme tecniche per prodotti nello Spazio Economico Europeo",
+      "titolo_originale": "OJ:L_202601501: Decision of the EEA Joint Committee No 133/2026 of 30 April 2026 amending Annex II (Technical regulations, standards, testing and certification) to the EEA Agreement [2026/1501]",
+      "riassunto_esteso": "La decisione del Comitato congiunto SEE del 30 aprile 2026 modifica l'Allegato II dell'accordo SEE, che contiene le regole tecniche, le norme, i metodi di prova e le procedure di certificazione per i prodotti. L'aggiornamento recepisce le ultime evoluzioni della normativa europea in materia di sicurezza e qualità dei beni, allo scopo di mantenere l'allineamento tra l'Unione europea e i paesi SEE. In pratica, vengono introdotte nuove specifiche tecniche e vengono revisionati alcuni standard esistenti per riflettere i progressi tecnologici e le esigenze di tutela dei consumatori. Questo atto serve a garantire che i prodotti circolanti nello SEE rispettino requisiti uniformi e aggiornati, riducendo le barriere tecniche al commercio.",
+      "cosa_cambia": [
+        "Le regole tecniche per molti prodotti di consumo vengono aggiornate, quindi i nuovi articoli devono rispettare requisiti più recenti.",
+        "Le procedure di prova e certificazione vengono semplificate in alcuni casi, rendendo più facile dimostrare la conformità dei prodotti.",
+        "Alcuni standard obsoleti vengono sostituiti da nuove norme che tengono conto di innovazioni tecnologiche e di sostenibilità."
+      ],
+      "chi_interessa": "produttori, importatori e rivenditori di prodotti nello SEE, nonché i consumatori che acquistano tali beni",
+      "cosa_devi_fare": "Le imprese devono verificare che i loro prodotti rispettino le nuove norme tecniche e, se necessario, aggiornare la documentazione di conformità.",
+      "impatto": "I consumatori beneficiano di prodotti più sicuri e di qualità migliore, mentre le imprese possono accedere più facilmente al mercato SEE grazie a regole armonizzate.",
+      "data_vigenza": "in vigore dal 30 aprile 2026",
+      "categoria": "Imprese e Mercato",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601501",
+      "pubblicato": "2026-07-23T00:00:00+02:00",
+      "processed_at": "2026-07-31T06:54:59.498391+00:00"
+    },
+    {
+      "id": "100a8f7c6d77c568",
+      "titolo_popolare": "Aggiornamento delle regole UE sui servizi finanziari nello Spazio Economico Europeo",
+      "titolo_originale": "OJ:L_202601490: Decision of the EEA Joint Committee No 143/2026 of 30 April 2026 amending Annex IX (Financial services) to the EEA Agreement [2026/1490]",
+      "riassunto_esteso": "La decisione del Comitato congiunto SEE del 30 aprile 2026 modifica l'allegato IX dell'accordo SEE, che riguarda i servizi finanziari, per allinearlo alle ultime normative europee in materia di banche, assicurazioni e servizi di investimento. L'obiettivo è garantire che i paesi dello SEE applichino le stesse regole dell'UE, migliorando la protezione dei consumatori e la stabilità del mercato finanziario. Le modifiche riguardano requisiti di trasparenza, norme sui prodotti di investimento e requisiti di capitale per gli intermediari. Questo aggiornamento si inserisce nel processo continuo di armonizzazione tra UE e SEE. Non introduce nuovi obblighi diretti per i cittadini, ma influisce sui prodotti e servizi che essi utilizzano.",
+      "cosa_cambia": [
+        "Maggiore trasparenza sui costi e sui rischi dei prodotti di investimento offerti ai consumatori",
+        "Adeguamento dei requisiti di capitale per banche e imprese di investimento allo standard UE più recente",
+        "Allineamento delle norme sulle attività di assicurazione transfrontaliera nello SEE",
+        "Aggiornamento delle regole di segnalazione e vigilanza per i fornitori di servizi di pagamento"
+      ],
+      "chi_interessa": "consumatori di servizi finanziari (conti, investimenti, assicurazioni) e imprese che operano nel settore finanziario nello SEE",
+      "cosa_devi_fare": "nessuna azione richiesta direttamente; è utile verificare eventuali variazioni nei contratti o nelle informazioni fornite dalle proprie banche o assicurazioni",
+      "impatto": "I beneficiari potranno contare su informazioni più chiare e su una maggiore solidità delle istituzioni finanziarie, aumentando la fiducia nel mercato. Le imprese dovranno adeguare i propri processi, ma otterranno un quadro normativo più uniforme nello SEE.",
+      "data_vigenza": "in vigore dal 30 aprile 2026 (data di adozione della decisione)",
+      "categoria": "Banche e Finanza",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601490",
+      "pubblicato": "2026-07-23T00:00:00+02:00",
+      "processed_at": "2026-07-31T06:56:01.420701+00:00"
     },
     {
       "id": "dc01cfcaec9ec04c",
@@ -559,6 +604,27 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690605",
       "pubblicato": "2026-07-21T00:00:00+02:00",
       "processed_at": "2026-07-30T06:18:18.060746+00:00"
+    },
+    {
+      "id": "36d88bbcb689f5bd",
+      "titolo_popolare": "Correzione tecnica alle regole di transizione UE",
+      "titolo_originale": "OJ:L_202601751: Commission Implementing Regulation (EU) 2026/1751 of 20 July 2026 correcting Implementing Regulation (EU) 2026/154 as regards transitional measures",
+      "riassunto_esteso": "La Commissione europea ha pubblicato un atto che corregge una precedente disposizione di attuazione riguardante le misure transitorie. Questo intervento serve a chiarire e aggiustare le tempistiche e le condizioni durante il periodo di passaggio dalle vecchie alle nuove norme. L'obiettivo è evitare vuoti o sovrapposizioni che potrebbero creare incertezza per chi deve applicare la legge. La correzione non introduce nuovi obblighi, ma rende più chiaro cosa è richiesto nel frattempo. In questo modo si vuole garantire una transizione più fluida e prevedibile per tutti gli interessati.",
+      "cosa_cambia": [
+        "Adeguamento delle scadenze transitorie per le imprese interessate",
+        "Chiarimento su quali norme si applicano durante il periodo transitorio"
+      ],
+      "chi_interessa": "imprese e professionisti che devono rispettare la normativa originale",
+      "cosa_devi_fare": "nessuna azione richiesta per i cittadini comuni",
+      "impatto": "Garantisce continuità nell'applicazione delle regole, evitando incertezze giuridiche durante il periodo transitorio. L'effetto è soprattutto di maggiore prevedibilità per le imprese coinvolte.",
+      "data_vigenza": "in vigore dal 20 luglio 2026",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601751",
+      "pubblicato": "2026-07-21T00:00:00+02:00",
+      "processed_at": "2026-07-31T06:43:59.958402+00:00"
     },
     {
       "id": "3c231405d5a0064f",
@@ -12097,95 +12163,6 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1170R(01)",
       "pubblicato": "2026-06-02T00:00:00+02:00",
       "processed_at": "2026-06-02T08:24:09.194328+00:00"
-    },
-    {
-      "id": "f24d3a958bcb8220",
-      "titolo_popolare": "Correzione alle regole di reazione al fuoco per i prodotti",
-      "titolo_originale": "CELEX:32026R0331R(02): Corrigendum to Commission Delegated Regulation (EU) 2026/331 of 13 February 2026 supplementing Regulation (EU) 2024/3110 of the European Parliament and of the Council by determining classes of performance in relation to the essential characteristic reaction to fire (OJ L, 2026/331, 21.4.2026)",
-      "riassunto_esteso": "Il Regolamento delegato UE 2026/331, che integra la normativa europea sulla reazione al fuoco dei prodotti, è stato corretto con un corrigendum. La correzione serve a sistemare errori di trascrizione e a chiarire le classi di prestazione previste per la caratteristica essenziale “reaction to fire”. L’obiettivo è garantire che i produttori e i venditori rispettino criteri uniformi di sicurezza antincendio in tutta l’Unione. La modifica non introduce nuove regole, ma rende operative le disposizioni già previste, evitando interpretazioni divergenti. È stata pubblicata nella Gazzetta UE il 21 aprile 2026.",
-      "cosa_cambia": [
-        "Viene corretto il testo del Regolamento delegato 2026/331 per eliminare errori di battitura.",
-        "Le classi di prestazione per la reazione al fuoco sono ora chiaramente definite.",
-        "Nessun nuovo obbligo, ma le regole esistenti diventano più facili da applicare."
-      ],
-      "chi_interessa": "produttori, importatori e distributori di prodotti soggetti a requisiti di reazione al fuoco",
-      "cosa_devi_fare": "Verificare che la documentazione di prodotto rispetti le classi di prestazione indicate nella versione corretta del regolamento.",
-      "impatto": "Migliora la certezza giuridica per le imprese e rafforza la sicurezza dei prodotti contro il fuoco.",
-      "data_vigenza": "dal 21 aprile 2026",
-      "categoria": "Ambiente e Energia",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R0331R(02)",
-      "pubblicato": "2026-06-01T00:00:00+02:00",
-      "processed_at": "2026-06-01T09:10:33.744924+00:00"
-    },
-    {
-      "id": "97bb8fcf9850b35e",
-      "titolo_popolare": "Correzione alle regole di salvaguardia per prodotti agricoli UE-Mercosur",
-      "titolo_originale": "CELEX:32026R0687R(01):            Rectificatif au règlement (UE) 2026/687 du Parlement européen et du Conseil du 11 mars 2026 portant mise en œuvre des clauses de sauvegarde bilatérales prévue par l’accord de partenariat UE-Mercosur et l’accord intérimaire UE-Mercosur sur le commerce pour les produits agricoles (JO L, 2026/687, 19.3.2026)",
-      "riassunto_esteso": "Il regolamento UE 2026/687, che applica le clausole di salvaguardia previste dagli accordi UE‑Mercosur per il commercio agricolo, è stato modificato con un rettificativo. La correzione serve a sistemare errori tecnici o di forma presenti nella versione originale, senza cambiare le disposizioni sostanziali. L’obiettivo è garantire che le misure di salvaguardia – limiti temporanei alle importazioni in caso di crisi di mercato – siano applicate correttamente. La modifica non riguarda la versione inglese del testo, ma solo le versioni in altre lingue. È stata adottata per evitare interpretazioni sbagliate e assicurare una corretta attuazione dell’accordo commerciale con i paesi del Mercosur.",
-      "cosa_cambia": [
-        "Vengono corretti errori di forma o di trascrizione nel testo del regolamento originale.",
-        "Le disposizioni di salvaguardia rimangono invariate, ma ora sono più chiare.",
-        "Nessun nuovo obbligo per imprese o consumatori.",
-        "Nessun cambiamento per la versione inglese."
-      ],
-      "chi_interessa": "tutte le imprese agricole e gli operatori commerciali coinvolti nelle importazioni UE‑Mercosur",
-      "cosa_devi_fare": "Nessuna azione richiesta; basta seguire le regole già in vigore.",
-      "impatto": "Migliora la chiarezza normativa, evitando dubbi sull’applicazione delle salvaguardie agricole.",
-      "data_vigenza": "in vigore da subito",
-      "categoria": "Altro",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R0687R(01)",
-      "pubblicato": "2026-06-01T00:00:00+02:00",
-      "processed_at": "2026-06-01T09:10:53.636113+00:00"
-    },
-    {
-      "id": "abe1bb7280d6a308",
-      "titolo_popolare": "Nuove tariffe e prezzi di riferimento per la melassa",
-      "titolo_originale": "CELEX:32026R1187: Commission Implementing Regulation (EU) 2026/1187 of 26 May 2026 fixing the representative prices, import duties and additional import duties applicable to molasses in the sugar sector from 1 June 2026",
-      "riassunto_esteso": "Il regolamento UE 2026/1187 stabilisce i prezzi di riferimento, i dazi doganali ordinari e quelli aggiuntivi per la melassa destinata al settore zuccheriero, a partire dal 1° giugno 2026. È stato adottato per garantire una concorrenza leale e adeguare le misure di protezione del mercato interno alle condizioni internazionali. I prezzi di riferimento serviranno a calcolare eventuali sussidi o misure di sostegno. I dazi vengono fissati per evitare importazioni a prezzi troppo bassi che potrebbero danneggiare i produttori europei. La norma si applica a tutti gli operatori che importano melassa nell'Unione Europea.",
-      "cosa_cambia": [
-        "Entrano in vigore nuovi prezzi di riferimento per la melassa a partire dal 1 giugno 2026",
-        "Vengono fissati nuovi dazi doganali ordinari per la melassa importata",
-        "Sono introdotti dazi aggiuntivi per alcune provenienze o condizioni di mercato"
-      ],
-      "chi_interessa": "importatori di melassa, produttori di zucchero, aziende agroalimentari che usano melassa",
-      "cosa_devi_fare": "verificare i nuovi prezzi e dazi e adeguare i propri calcoli di costo per le importazioni",
-      "impatto": "Possibili aumenti dei costi di importazione della melassa, con effetti sui prezzi di produzione dello zucchero in UE.",
-      "data_vigenza": "dal 1 giugno 2026",
-      "categoria": "Agricoltura e Alimentare",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1187",
-      "pubblicato": "2026-06-01T00:00:00+02:00",
-      "processed_at": "2026-06-01T09:11:17.812956+00:00"
-    },
-    {
-      "id": "3f0c9971d527b88c",
-      "titolo_popolare": "Nuove regole sul tetto delle emissioni e trasparenza",
-      "titolo_originale": "CELEX:32026R0392: Commission Delegated Regulation (EU) 2026/392 of 20 February 2026 amending the regulatory technical standards laid down in Delegated Regulation (EU) 2017/577 as regards the volume cap and the provision of information for the purposes of transparency and other calculations",
-      "riassunto_esteso": "Il Regolamento delegato UE 2026/392 modifica le norme tecniche già stabilite nel 2017 per l'EU ETS, introducendo un nuovo limite massimo di emissioni (volume cap) e rafforzando gli obblighi di comunicazione delle informazioni necessarie al calcolo della trasparenza. È stato adottato per garantire che il mercato del carbonio rimanga efficace nel ridurre le emissioni e per migliorare la fiducia degli operatori e del pubblico nei dati pubblicati. Le modifiche prevedono una revisione periodica del tetto e l'obbligo per gli operatori di fornire dati più dettagliati e tempestivi. L'obiettivo è allineare il sistema alle più recenti ambizioni climatiche dell'UE e a una migliore gestione del mercato delle quote di emissione.",
-      "cosa_cambia": [
-        "Il tetto massimo di emissioni consentite nel mercato EU ETS viene ridotto secondo nuovi parametri.",
-        "Gli operatori devono inviare informazioni più dettagliate e con scadenze più strette per i calcoli di trasparenza.",
-        "Le autorità di controllo avranno nuovi strumenti per verificare la correttezza dei dati dichiarati."
-      ],
-      "chi_interessa": "tutti gli operatori soggetti al sistema EU ETS, inclusi impianti industriali, centrali elettriche e compagnie aeree europee",
-      "cosa_devi_fare": "Aggiornare i sistemi di rendicontazione e inviare i dati richiesti entro le nuove scadenze stabilite.",
-      "impatto": "Riduzione delle emissioni consentite e maggiore affidabilità dei dati, favorendo un mercato del carbonio più credibile e efficace.",
-      "data_vigenza": "dal 1 gennaio 2027",
-      "categoria": "Ambiente e Energia",
-      "importanza": 3,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R0392",
-      "pubblicato": "2026-06-01T00:00:00+02:00",
-      "processed_at": "2026-06-01T09:11:47.592836+00:00"
     }
   ]
 }
