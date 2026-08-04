@@ -1,101 +1,5 @@
 [
   {
-    "id": "d91d6b20f2222118",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601294: Decision of the EEA Joint Committee No 91/2026 of 20 March 2026 amending Annex IX (Financial services) to the EEA Agreement [2026/1294]",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601294",
-    "pubblicato": "2026-06-25T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-06-25T07:31:39.097885+00:00",
-    "processed": true
-  },
-  {
-    "id": "c72c19e399154cfc",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601379: Commission Implementing Decision (EU) 2026/1379 of 23 June 2026 terminating the anti-dumping procedure concerning imports of certain polyethylene terephthalate (PET) originating in Vietnam",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601379",
-    "pubblicato": "2026-06-25T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-06-25T07:31:39.097929+00:00",
-    "processed": true
-  },
-  {
-    "id": "8e61f7ee4d12e5fa",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601264: Decision of the EEA Joint Committee No 70/2026 of 20 March 2026 amending Annex II (Technical regulations, standards, testing and certification) to the EEA Agreement [2026/1264]",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601264",
-    "pubblicato": "2026-06-25T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-06-25T07:31:39.097971+00:00",
-    "processed": true
-  },
-  {
-    "id": "2af1c37c2f168ac3",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601298: Decision of the EEA Joint Committee No 69/2026 of 20 March 2026 amending Annex II (Technical regulations, standards, testing and certification) to the EEA Agreement [2026/1298]",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601298",
-    "pubblicato": "2026-06-25T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-06-25T07:31:39.098012+00:00",
-    "processed": true
-  },
-  {
-    "id": "82b1199d36e93b19",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601320: Decision of the EEA Joint Committee No 76/2026 of 20 March 2026 amending Annex II (Technical regulations, standards, testing and certification) to the EEA Agreement [2026/1320]",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601320",
-    "pubblicato": "2026-06-25T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-06-25T07:31:39.098055+00:00",
-    "processed": true
-  },
-  {
-    "id": "4c10cd2e84e9716c",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601297: Decision of the EEA Joint Committee No 82/2026 of 20 March 2026 amending Annex II (Technical regulations, standards, testing and certification) to the EEA Agreement [2026/1297]",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601297",
-    "pubblicato": "2026-06-25T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-06-25T07:31:39.098097+00:00",
-    "processed": true
-  },
-  {
-    "id": "dd6b2ce1d79b8ec0",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601293: Decision of the EEA Joint Committee No 90/2026 of 20 March 2026 amending Annex IX (Financial services) to the EEA Agreement [2026/1293]",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601293",
-    "pubblicato": "2026-06-25T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-06-25T07:31:39.098152+00:00",
-    "processed": true
-  },
-  {
-    "id": "7a626e3842b910b8",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601254: Decision of the EEA Joint Committee No 61/2026 of 20 March 2026 amending Annex I (Veterinary and phytosanitary matters) to the EEA Agreement [2026/1254]",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601254",
-    "pubblicato": "2026-06-25T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-06-25T07:31:39.098198+00:00",
-    "processed": true
-  },
-  {
     "id": "0c2c0438da118d6f",
     "source_id": "eurlex_oj_l",
     "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
@@ -3765,7 +3669,7 @@
     "pubblicato": "2026-07-22T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-22T06:19:26.181294+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "29fda85cf2cbe6e5",
@@ -4005,7 +3909,7 @@
     "pubblicato": "2026-07-23T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-23T06:21:48.838613+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "cba92638f02b2368",
@@ -5997,6 +5901,102 @@
     "pubblicato": "2026-08-03T00:00:00+02:00",
     "summary_raw": "This document does not exist in English.",
     "fetched_at": "2026-08-03T06:49:37.464036+00:00",
+    "processed": false
+  },
+  {
+    "id": "bdf30334165fadc6",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202690654:            Berichtigung der Verordnung (EU) 2025/40 des Europäischen Parlaments und des Rates vom 19. Dezember 2024 über Verpackungen und Verpackungsabfälle, zur Änderung der Verordnung (EU) 2019/1020 und der Richtlinie (EU) 2019/904 sowie zur Aufhebung der Richtlinie 94/62/EG (ABl. L, 2025/40, 22.1.2025)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690654",
+    "pubblicato": "2026-08-04T00:00:00+02:00",
+    "summary_raw": "This document does not exist in English.",
+    "fetched_at": "2026-08-04T06:18:09.233206+00:00",
+    "processed": false
+  },
+  {
+    "id": "42ce4906147abc79",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202690660",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690660",
+    "pubblicato": "2026-08-04T00:00:00+02:00",
+    "summary_raw": "This document does not exist in English.",
+    "fetched_at": "2026-08-04T06:18:09.233338+00:00",
+    "processed": false
+  },
+  {
+    "id": "a41b2b6e657de77d",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601901: Commission Implementing Regulation (EU) 2026/1901 of 28 July 2026 on the registration of the geographical indication Pernil Cerretà (PGI) in the Union register of geographical indications pursuant to Regulation (EU) 2024/1143 of the European Parliament and of the Council",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601901",
+    "pubblicato": "2026-08-04T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-08-04T06:18:09.233454+00:00",
+    "processed": false
+  },
+  {
+    "id": "2a8e6438bab57846",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202690653: Corrigendum to Commission Implementing Regulation (EU) 2019/1747 of 15 October 2019 amending Regulation (EU) No 1178/2011 as regards requirements for certain flight crew licences and certificates, rules on training organisations and competent authorities (OJ L 268, 22.10.2019)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690653",
+    "pubblicato": "2026-08-04T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-08-04T06:18:09.233561+00:00",
+    "processed": false
+  },
+  {
+    "id": "0c34f9660b0edae6",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202690655",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690655",
+    "pubblicato": "2026-08-04T00:00:00+02:00",
+    "summary_raw": "This document does not exist in English.",
+    "fetched_at": "2026-08-04T06:18:09.233667+00:00",
+    "processed": false
+  },
+  {
+    "id": "ce0b4ded504a3270",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601911: Council Decision (EU) 2026/1911 of 13 July 2026 on the position to be taken on behalf of the European Union within the Joint Veterinary Committee set up by the Agreement between the European Community and the Swiss Confederation on trade in agricultural products with regard to Decision No 1/2026 concerning amendments to Appendices 1, 2, 3, 5, 6 and 10 of Annex 11 to the Agreement",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601911",
+    "pubblicato": "2026-08-04T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-08-04T06:18:09.233772+00:00",
+    "processed": false
+  },
+  {
+    "id": "8729710ef11e00d3",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202600863: Commission Delegated Regulation (EU) 2026/863 of 20 April 2026 correcting certain language versions of Regulation (EC) No 1234/2008 concerning the examination of variations to the terms of marketing authorisations for medicinal products for human use",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202600863",
+    "pubblicato": "2026-08-04T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-08-04T06:18:09.233875+00:00",
+    "processed": false
+  },
+  {
+    "id": "6dc48c0f5f168cd8",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601899: Commission Implementing Regulation (EU) 2026/1899 of 28 July 2026 on the registration of the geographical indication Jabłka krajeńskie (PGI) in the Union register of geographical indications pursuant to Regulation (EU) 2024/1143 of the European Parliament and of the Council",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601899",
+    "pubblicato": "2026-08-04T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-08-04T06:18:09.233979+00:00",
     "processed": false
   }
 ]
