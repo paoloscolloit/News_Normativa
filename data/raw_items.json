@@ -1,173 +1,5 @@
 [
   {
-    "id": "0c2c0438da118d6f",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202690510",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690510",
-    "pubblicato": "2026-06-25T00:00:00+02:00",
-    "summary_raw": "This document does not exist in English.",
-    "fetched_at": "2026-06-25T07:31:39.098243+00:00",
-    "processed": true
-  },
-  {
-    "id": "d7b54d0b58c8cc81",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601263: Decision of the EEA Joint Committee No 71/2026 of 20 March 2026 amending Annex II (Technical regulations, standards, testing and certification) to the EEA Agreement [2026/1263]",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601263",
-    "pubblicato": "2026-06-25T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-06-25T07:31:39.098285+00:00",
-    "processed": true
-  },
-  {
-    "id": "80fd18cc4a30d494",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601321: Decision of the EEA Joint Committee No 73/2026 of 20 March 2026 amending Annex II (Technical regulations, standards, testing and certification) to the EEA Agreement [2026/1321]",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601321",
-    "pubblicato": "2026-06-25T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-06-25T07:31:39.098328+00:00",
-    "processed": true
-  },
-  {
-    "id": "f2127954f1e749b3",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601308: Decision of the EEA Joint Committee No 80/2026 of 20 March 2026 amending Annex II (Technical regulations, standards, testing and certification) to the EEA Agreement [2026/1308]",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601308",
-    "pubblicato": "2026-06-25T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-06-25T07:31:39.098370+00:00",
-    "processed": true
-  },
-  {
-    "id": "83fea2db4237ec88",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601324: Decision of the EEA Joint Committee No 75/2026 of 20 March 2026 amending Annex II (Technical regulations, standards, testing and certification) to the EEA Agreement [2026/1324]",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601324",
-    "pubblicato": "2026-06-25T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-06-25T07:31:39.098414+00:00",
-    "processed": true
-  },
-  {
-    "id": "311acda28872e478",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601285: Decision of the EEA Joint Committee No 85/2026 of 20 March 2026 amending Annex II (Technical regulations, standards, testing and certification) to the EEA Agreement [2026/1285]",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601285",
-    "pubblicato": "2026-06-25T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-06-25T07:31:39.098456+00:00",
-    "processed": true
-  },
-  {
-    "id": "a778210d163a845d",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601284: Decision of the EEA Joint Committee No 83/2026 of 20 March 2026 amending Annex II (Technical regulations, standards, testing and certification) to the EEA Agreement [2026/1284]",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601284",
-    "pubblicato": "2026-06-25T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-06-25T07:31:39.098498+00:00",
-    "processed": true
-  },
-  {
-    "id": "63cc3150c114466c",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601262: Decision of the EEA Joint Committee No 65/2026 of 20 March 2026 amending Annex II (Technical regulations, standards, testing and certification) to the EEA Agreement [2026/1262]",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601262",
-    "pubblicato": "2026-06-25T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-06-25T07:31:39.098540+00:00",
-    "processed": true
-  },
-  {
-    "id": "d186821c764ca2c8",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601270: Decision of the EEA Joint Committee No 95/2026 of 20 March 2026 amending Annex IX (Financial services) to the EEA Agreement [2026/1270]",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601270",
-    "pubblicato": "2026-06-25T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-06-25T07:31:39.098582+00:00",
-    "processed": true
-  },
-  {
-    "id": "fd1c20406e29258c",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601287: Decision of the EEA Joint Committee No 89/2026 of 20 March 2026 amending Annex IX (Financial services) to the EEA Agreement [2026/1287]",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601287",
-    "pubblicato": "2026-06-25T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-06-25T07:31:39.098626+00:00",
-    "processed": true
-  },
-  {
-    "id": "b8ffb970b0db6fb4",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601300: Decision of the EEA Joint Committee No 108/2026 of 20 March 2026 amending Annex XXI (Statistics) to the EEA Agreement [2026/1300]",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601300",
-    "pubblicato": "2026-06-25T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-06-25T07:31:39.098669+00:00",
-    "processed": true
-  },
-  {
-    "id": "8137598996574167",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601299: Decision of the EEA Joint Committee No 107/2026 of 20 March 2026 amending Annex XXI (Statistics) to the EEA Agreement [2026/1299]",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601299",
-    "pubblicato": "2026-06-25T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-06-25T07:31:39.098712+00:00",
-    "processed": true
-  },
-  {
-    "id": "b82a5fb63fa2c8f8",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601230: Decision of the EEA Joint Committee No 88/2026 of 20 March 2026 amending Annex IX (Financial services) to the EEA Agreement [2026/1230]",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601230",
-    "pubblicato": "2026-06-25T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-06-25T07:31:39.098754+00:00",
-    "processed": true
-  },
-  {
-    "id": "369a1f1e4ddb5035",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601269: Decision of the EEA Joint Committee No 97/2026 of 20 March 2026 amending Annex IX (Financial services) to the EEA Agreement [2026/1269]",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601269",
-    "pubblicato": "2026-06-25T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-06-25T07:31:39.098796+00:00",
-    "processed": true
-  },
-  {
     "id": "1b6344945cdbee68",
     "source_id": "eurlex_oj_l",
     "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
@@ -3729,7 +3561,7 @@
     "pubblicato": "2026-07-23T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-23T06:21:48.837107+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "0e7897e4b40ef04e",
@@ -3837,7 +3669,7 @@
     "pubblicato": "2026-07-23T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-23T06:21:48.838046+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "2c31efb69a9f069d",
@@ -3897,7 +3729,7 @@
     "pubblicato": "2026-07-23T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-23T06:21:48.838520+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "d0c04604c0637aa0",
@@ -3933,7 +3765,7 @@
     "pubblicato": "2026-07-23T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-23T06:21:48.838799+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "ed055642ada0ebf9",
@@ -5997,6 +5829,174 @@
     "pubblicato": "2026-08-04T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-08-04T06:18:09.233979+00:00",
+    "processed": false
+  },
+  {
+    "id": "7c6e2f8f7ef47fed",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601909: Commission Implementing Decision (EU) 2026/1909 of 12 June 2026 laying down rules for the application of Directive (EU) 2016/797 of the European Parliament and of the Council as regards a request from the Netherlands not to apply the table of priority of trackside supported levels set out in Commission Implementing Regulation (EU) 2023/1695 (notified under document C(2026) 3923)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601909",
+    "pubblicato": "2026-08-05T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-08-05T06:16:39.258736+00:00",
+    "processed": false
+  },
+  {
+    "id": "2487ef881f9eb378",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601544: Council Decision (EU) 2026/1544 of 17 November 2025 on the conclusion, on behalf of the Union, of the Protocol on the implementation of the Sustainable Fisheries Partnership Agreement between the European Union and the Government of the Cook Islands (2025-2032)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601544",
+    "pubblicato": "2026-08-05T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-08-05T06:16:39.258848+00:00",
+    "processed": false
+  },
+  {
+    "id": "5004906eac1644a0",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601907: Commission Implementing Decision (EU) 2026/1907 of 29 July 2026 specifying the values relating to the performance of manufacturers and pools of manufacturers of new passenger cars and new light commercial vehicles for the calendar year 2024 pursuant to Regulation (EU) 2019/631 of the European Parliament and of the Council (notified under document C(2026) 5285)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601907",
+    "pubblicato": "2026-08-05T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-08-05T06:16:39.258937+00:00",
+    "processed": false
+  },
+  {
+    "id": "1939f56131b6e38b",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601921: Commission Implementing Decision (EU) 2026/1921 of 22 July 2026 on the request for registration, pursuant to Regulation (EU) 2019/788 of the European Parliament and of the Council, of the European citizens’ initiative entitled Stop Killing The Internet: No Digital ID &amp;amp; No Age Verification (notified under document C(2026) 5137)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601921",
+    "pubblicato": "2026-08-05T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-08-05T06:16:39.259027+00:00",
+    "processed": false
+  },
+  {
+    "id": "8d7fd77456657ab1",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202690661",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690661",
+    "pubblicato": "2026-08-05T00:00:00+02:00",
+    "summary_raw": "This document does not exist in English.",
+    "fetched_at": "2026-08-05T06:16:39.259112+00:00",
+    "processed": false
+  },
+  {
+    "id": "9b06fe8ed23565c8",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601930: Commission Implementing Regulation (EU) 2026/1930 of 4 August 2026 on the implementation of bilateral safeguard measures on imports of steel products covered by Regulation (EU) 2026/1384 of the European Parliament and of the Council and originating in certain countries with which the Union has concluded free trade agreements",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601930",
+    "pubblicato": "2026-08-05T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-08-05T06:16:39.259191+00:00",
+    "processed": false
+  },
+  {
+    "id": "c30439e98380b4a3",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601922: Commission Implementing Decision (EU) 2026/1922 of 22 July 2026 on the request for registration, pursuant to Regulation (EU) 2019/788 of the European Parliament and of the Council, of the European citizens’ initiative entitled Save Europe Act (notified under document C(2026) 5115)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601922",
+    "pubblicato": "2026-08-05T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-08-05T06:16:39.259269+00:00",
+    "processed": false
+  },
+  {
+    "id": "1bac26ec228b215c",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601924: Commission Decision (EU) 2026/1924 of 27 July 2026 on the compatibility with Union law of measures to be taken by Poland pursuant to Article 14(1) of Directive 2010/13/EU of the European Parliament and of the Council",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601924",
+    "pubblicato": "2026-08-05T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-08-05T06:16:39.259351+00:00",
+    "processed": false
+  },
+  {
+    "id": "88187b92552cefa3",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601920: Commission Implementing Regulation (EU) 2026/1920 of 31 July 2026 on the approval of a Union amendment to the product specification of the protected designation of origin Romagna pursuant to of Regulation (EU) 2024/1143 of the European Parliament and of the Council",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601920",
+    "pubblicato": "2026-08-05T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-08-05T06:16:39.259425+00:00",
+    "processed": false
+  },
+  {
+    "id": "31e51c7de3ad4ed2",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202690662: Corrigendum to Regulation (EU) 2019/5 of the European Parliament and of the Council of 11 December 2018 amending Regulation (EC) No 726/2004 laying down Community procedures for the authorisation and supervision of medicinal products for human and veterinary use and establishing a European Medicines Agency, Regulation (EC) No 1901/2006 on medicinal products for paediatric use and Directive 2001/83/EC on the Community code relating to medicinal products for human use (OJ L 4, 7.1.2019)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690662",
+    "pubblicato": "2026-08-05T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-08-05T06:16:39.259496+00:00",
+    "processed": false
+  },
+  {
+    "id": "2cba7e827a7eebaf",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202690651",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690651",
+    "pubblicato": "2026-08-05T00:00:00+02:00",
+    "summary_raw": "This document does not exist in English.",
+    "fetched_at": "2026-08-05T06:16:39.259568+00:00",
+    "processed": false
+  },
+  {
+    "id": "9283b8d06f4c3daa",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202690663",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690663",
+    "pubblicato": "2026-08-05T00:00:00+02:00",
+    "summary_raw": "This document does not exist in English.",
+    "fetched_at": "2026-08-05T06:16:39.259657+00:00",
+    "processed": false
+  },
+  {
+    "id": "3d53f6bf680b956a",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202690656",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690656",
+    "pubblicato": "2026-08-05T00:00:00+02:00",
+    "summary_raw": "This document does not exist in English.",
+    "fetched_at": "2026-08-05T06:16:39.259729+00:00",
+    "processed": false
+  },
+  {
+    "id": "f92e6751fd651a8d",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202690664",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690664",
+    "pubblicato": "2026-08-05T00:00:00+02:00",
+    "summary_raw": "This document does not exist in English.",
+    "fetched_at": "2026-08-05T06:16:39.259800+00:00",
     "processed": false
   }
 ]

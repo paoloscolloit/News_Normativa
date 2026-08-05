@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-04T06:35:57.624971+00:00",
-  "total": 523,
+  "last_updated": "2026-08-05T06:37:39.728466+00:00",
+  "total": 527,
   "items": [
     {
       "id": "9162022795fe09e2",
@@ -201,6 +201,95 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601524",
       "pubblicato": "2026-07-23T00:00:00+02:00",
       "processed_at": "2026-08-04T06:35:23.540467+00:00"
+    },
+    {
+      "id": "2a8dfa62623e146e",
+      "titolo_popolare": "Aggiornamento delle regole UE su internet e TV",
+      "titolo_originale": "OJ:L_202601517: Decision of the EEA Joint Committee No 147/2026 of 30 April 2026 amending Annex XI (Electronic communication, audiovisual services and information society) to the EEA Agreement [2026/1517]",
+      "riassunto_esteso": "La decisione del Comitato congiunto SEE del 30 aprile 2026 modifica l'allegato XI dell'accordo SEE, che riguarda le comunicazioni elettroniche, i servizi audiovisivi e la società dell'informazione. L'adeguamento serve a recepire nell'area SEE le ultime norme europee su neutralità della rete, protezione dei consumatori online e trasparenza delle piattaforme di condivisione video. In pratica, vengono introdotti requisiti più chiari per gli operatori di telecomunicazioni e per le piattaforme che offrono contenuti audiovisivi, allo scopo di garantire servizi più sicuri e equi per gli utenti. Il provvedimento rientra nel percorso di allineamento continuo tra l'UE e i paesi SEE (Islanda, Liechtenstein e Norvegia) sulle questioni digitali.",
+      "cosa_cambia": [
+        "Gli operatori di telefonia e internet dovranno rispettare regole più severe sulla neutralità della rete, evitando di bloccare o rallentare specifici contenuti.",
+        "Le piattaforme di video sharing e streaming dovranno fornire informazioni più chiare su come gestiscono i contenuti illegali e sui diritti degli utenti.",
+        "I consumatori avranno diritto a un rimborso più facile e a procedure di reclamo semplificate in caso di disservizi delle linee internet o dei servizi TV online.",
+        "Le autorità di vigilanza dei paesi SEE potranno effettuare controlli più frequenti e applicare sanzioni più uniformi rispetto alle violazioni delle nuove norme."
+      ],
+      "chi_interessa": "tutti gli utenti di servizi di comunicazione elettronica e di piattaforme audiovisive nei paesi dello Spazio economico europeo",
+      "cosa_devi_fare": "nessuna azione richiesta direttamente dagli utenti; le modifiche riguardano principalmente gli operatori e le piattaforme",
+      "impatto": "Si prevede una maggiore protezione della privacy online e una connessione internet più neutra, il che conta perché migliora la fiducia nei servizi digitali e riduce pratiche discriminatorie.",
+      "data_vigenza": "dal 30 aprile 2026",
+      "categoria": "Digitale e Privacy",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601517",
+      "pubblicato": "2026-07-23T00:00:00+02:00",
+      "processed_at": "2026-08-05T06:29:02.157130+00:00"
+    },
+    {
+      "id": "9a8e15c16ae79f25",
+      "titolo_popolare": "Aggiornamento delle regole tecniche per prodotti nell'Area Economica Europea",
+      "titolo_originale": "OJ:L_202601497: Decision of the EEA Joint Committee No 124/2026 of 30 April 2026 amending Annex II (Technical regulations, standards, testing and certification) to the EEA Agreement [2026/1497]",
+      "riassunto_esteso": "La decisione del Comitato congiunto SEE del 30 aprile 2026 modifica l'Allegato II dell'accordo SEE, che contiene le norme tecniche, gli standard, le procedure di prova e di certificazione per i prodotti circolanti nello spazio economico europeo. L'aggiornamento serve a tenere conto dei progressi tecnologici e delle nuove esigenze di sicurezza, ambiente e interoperabilità, garantendo che le regole siano coerenti tra gli Stati membri SEE e l'Unione europea. In pratica, si tratta di recepire nell'accordo SEE le ultime versioni di direttive e regolamenti UE su temi come la sicurezza dei giocattoli, le emissioni dei veicoli o la marcatura CE. Questo permette alle imprese di continuare a vendere i loro prodotti nello SEE senza dover affrontare doppi test o certificazioni diverse. Il risultato è un mercato più uniforme e una maggiore fiducia dei consumatori nella sicurezza e qualità dei beni acquistati.",
+      "cosa_cambia": [
+        "Le norme tecniche di riferimento per molti prodotti vengono aggiornate alle ultime versioni UE, quindi i requisiti di sicurezza possono diventare leggermente più severi o più chiari.",
+        "Le procedure di prova e certificazione sono allineate, riducendo la necessità di effettuare test separati per i mercati SEE e UE.",
+        "I fabbricanti devono verificare che i loro prodotti rispettino le nuove versioni degli standard citati nell'Allegato II prima di poterli mettere in commercio nello SEE."
+      ],
+      "chi_interessa": "imprese che producono o importano prodotti soggetti a marcatura CE o altre certificazioni SEE, e consumatori che acquistano tali prodotti",
+      "cosa_devi_fare": "Le imprese dovrebbero controllare gli aggiornamenti degli standard applicabili e, se necessario, adeguare i processi di prova o la documentazione di conformità.",
+      "impatto": "Maggiore uniformità delle regole facilita gli scambi SEE-UE e riduce i costi di duplicazione dei test, mentre i consumatori beneficiano di prodotti più sicuri e affidabili.",
+      "data_vigenza": "in vigore dal 30 aprile 2026",
+      "categoria": "Imprese e Mercato",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601497",
+      "pubblicato": "2026-07-23T00:00:00+02:00",
+      "processed_at": "2026-08-05T06:30:55.895808+00:00"
+    },
+    {
+      "id": "7f70e23c2b2e2495",
+      "titolo_popolare": "Aggiornamento delle regole statistiche UE-EEE",
+      "titolo_originale": "OJ:L_202601532: Decision of the EEA Joint Committee No 155/2026 of 30 April 2026 amending Annex XXI (Statistics) to the EEA Agreement [2026/1532]",
+      "riassunto_esteso": "La decisione del Comitato congiunto SEE aggiorna l'Allegato XXI dell'accordo SEE, che riguarda le statistiche. Introduce nuove definizioni, metodologie e un formato comune per lo scambio di dati tra gli Stati membri SEE e l'UE. L'obiettivo è garantire che le informazioni statistiche siano confrontabili e di alta qualità, sostenendo così politiche basate su evidenze. Non impone obblighi diretti ai cittadini, ma migliora la base informativa disponibile a governi e ricercatori.",
+      "cosa_cambia": [
+        "Gli uffici statistici devono adottare le nuove definizioni e metodologie concordate.",
+        "Viene introdotto un formato comune per lo scambio di dati tra gli Stati SEE.",
+        "Si prevede un rafforzamento dei controlli sulla qualità delle informazioni pubblicate."
+      ],
+      "chi_interessa": "gli uffici statistici nazionali e chi utilizza dati ufficiali SEE",
+      "cosa_devi_fare": "nessuna azione richiesta per i cittadini",
+      "impatto": "migliore comparabilità dei dati statistici tra UE e SEE, utile per politiche pubbliche e ricerca",
+      "data_vigenza": "dal 30 aprile 2026",
+      "categoria": "Digitale e Privacy",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601532",
+      "pubblicato": "2026-07-23T00:00:00+02:00",
+      "processed_at": "2026-08-05T06:33:56.033911+00:00"
+    },
+    {
+      "id": "df8fb323aaebc3c2",
+      "titolo_popolare": "Aggiornamento delle norme tecniche per prodotti nel SEE",
+      "titolo_originale": "OJ:L_202601499: Decision of the EEA Joint Committee No 123/2026 of 30 April 2026 amending Annex II (Technical regulations, standards, testing and certification) to the EEA Agreement [2026/1499]",
+      "riassunto_esteso": "La decisione del Comitato congiunto SEE del 30 aprile 2026 modifica l'Allegato II dell'accordo SEE, riguardante le norme tecniche, gli standard, le prove e la certificazione dei prodotti. L'aggiornamento recepisce le ultime evoluzioni della normativa europea in materia di sicurezza e conformità, allo scopo di garantire che i prodotti circolanti nello Spazio Economico Europeo rispettino requisiti più recenti. Questo atto non introduce nuovi obblighi diretti per i consumatori, ma stabilisce requisiti aggiornati che le imprese devono rispettare per poter vendere i propri prodotti nel SEE. La modifica mira a mantenere alto il livello di tutela della salute e della sicurezza dei cittadini, evitando la diffusione di articoli non conformi. In pratica, le autorità di controllo potranno applicare le nuove norme nei loro controlli doganali e di mercato.",
+      "cosa_cambia": [
+        "I prodotti devono essere testati e certificati secondo le nuove norme tecniche aggiornate",
+        "Le etichette e la documentazione di accompagnamento possono riferirsi agli standard revisionati",
+        "Le autorità di controllo SEE possono effettuare verifiche più frequenti sulla conformità dei prodotti"
+      ],
+      "chi_interessa": "produttori, importatori e distributori di merci nello Spazio Economico Europeo",
+      "cosa_devi_fare": "Le imprese devono adeguare i propri processi di prova e certificazione alle nuove norme; nessun adempimento diretto richiesto ai consumatori",
+      "impatto": "Maggiore sicurezza dei prodotti sul mercato e riduzione del rischio di articoli non conformi, a vantaggio di tutti i consumatori.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Imprese e Mercato",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601499",
+      "pubblicato": "2026-07-23T00:00:00+02:00",
+      "processed_at": "2026-08-05T06:35:08.076418+00:00"
     },
     {
       "id": "dc01cfcaec9ec04c",
