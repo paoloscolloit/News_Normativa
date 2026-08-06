@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-05T06:37:39.728466+00:00",
-  "total": 527,
+  "last_updated": "2026-08-06T06:48:31.702815+00:00",
+  "total": 530,
   "items": [
     {
       "id": "9162022795fe09e2",
@@ -290,6 +290,75 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601499",
       "pubblicato": "2026-07-23T00:00:00+02:00",
       "processed_at": "2026-08-05T06:35:08.076418+00:00"
+    },
+    {
+      "id": "ee1623ed39d283ff",
+      "titolo_popolare": "Aggiornamento delle regole finanziarie nello Spazio Economico Europeo",
+      "titolo_originale": "OJ:L_202601491: Decision of the EEA Joint Committee No 142/2026 of 30 April 2026 amending Annex IX (Financial services) to the EEA Agreement [2026/1491]",
+      "riassunto_esteso": "La decisione del Comitato Congiunto SEE del 30 aprile 2026 modifica l'Annex IX dell'accordo SEE, che riguarda i servizi finanziari. Essa incorpora nell'accordo le ultime norme dell'Unione Europea in materia di banche, assicurazioni e servizi di investimento, affinché Islanda, Liechtenstein e Norvegia applichino gli stessi standard dei paesi membri UE. L'obiettivo è mantenere un mercato unico funzionante e garantire una protezione adeguata dei consumatori nei tre paesi SEE. Con questo aggiornamento, le autorità di vigilanza ricevono poteri di controllo allineati a quelli dell'UE e le imprese finanziarie devono adeguare i propri requisiti di trasparenza e di condotta.",
+      "cosa_cambia": [
+        "Le banche e le assicurazioni operanti in Islanda, Liechtenstein e Norvegia devono applicare le stesse norme UE su trasparenza e protezione dei clienti.",
+        "Gli investitori possono accedere a prodotti finanziari transfrontalieri con requisiti di informativa più uniformi tra i paesi SEE e l'UE.",
+        "Le autorità di vigilanza dei tre paesi ricevono poteri di controllo armonizzati con quelli dell'UE per vigilare sul rispetto delle nuove regole.",
+        "Non sono previsti cambiamenti diretti per i consumatori quotidiani oltre quelli già in vigore nei servizi finanziari."
+      ],
+      "chi_interessa": "i cittadini dei paesi SEE che utilizzano servizi bancari, assicurativi o di investimento e le imprese finanziarie che operano in Islanda, Liechtenstein e Norvegia",
+      "cosa_devi_fare": "nessuna azione richiesta direttamente dai cittadini; le istituzioni finanziarie si adegueranno automaticamente alle nuove regole",
+      "impatto": "Maggiore uniformità e trasparenza nei servizi finanziari, quindi più fiducia e sicurezza per chi usa banche, assicurazioni o investimenti nei paesi SEE.",
+      "data_vigenza": "in vigore dal 30 aprile 2026",
+      "categoria": "Banche e Finanza",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601491",
+      "pubblicato": "2026-07-23T00:00:00+02:00",
+      "processed_at": "2026-08-06T06:40:02.027481+00:00"
+    },
+    {
+      "id": "ed055642ada0ebf9",
+      "titolo_popolare": "Aggiornamento delle regole per il vino Tokaj",
+      "titolo_originale": "OJ:L_202690621: Corrigendum to Commission Implementing Regulation (EU) 2026/1556 of 2 July 2026 on the approval of a Union amendment to the product specification of the protected designation of origin Tokaj / Tokaji pursuant to of Regulation (EU) 2024/1143 of the European Parliament and of the Council (OJ L, 2026/1556, 6.7.2026)",
+      "riassunto_esteso": "...",
+      "cosa_cambia": [
+        "...",
+        "...",
+        "...",
+        "..."
+      ],
+      "chi_interessa": "...",
+      "cosa_devi_fare": "...",
+      "impatto": "...",
+      "data_vigenza": "...",
+      "categoria": "Altro",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690621",
+      "pubblicato": "2026-07-23T00:00:00+02:00",
+      "processed_at": "2026-08-06T06:45:41.460020+00:00"
+    },
+    {
+      "id": "c54bef3af655112c",
+      "titolo_popolare": "Aggiornamento delle regole sui trasporti nello Spazio Economico Europeo",
+      "titolo_originale": "OJ:L_202601530: Decision of the EEA Joint Committee No 153/2026 of 30 April 2026 amending Annex XIII (Transport) to the EEA Agreement [2026/1530]",
+      "riassunto_esteso": "La decisione del Comitato congiunto SEE del 30 aprile 2026 modifica l'Allegato XIII dell'accordo SEE, che riguarda il settore dei trasporti. L'aggiornamento recepisce le ultime norme europee su sicurezza stradale, emissioni veicolari e diritti dei passeggeri, allo scopo di mantenere l'allineamento tra l'Unione europea e i paesi dello SEE. In pratica, introduce requisiti più stringenti per i controlli tecnici dei veicoli e per la formazione degli autisti professionali. Inoltre, prevede nuove disposizioni sui servizi di trasporto pubblico transfrontaliero, facilitando la cooperazione tra gli Stati membri. L'obiettivo è migliorare la sicurezza, ridurre l'inquinamento e garantire pari condizioni di concorrenza per le imprese di trasporto.",
+      "cosa_cambia": [
+        "I veicoli devono sottoporsi a controlli tecnici più frequenti e con standard più severi per circolare nello SEE.",
+        "Gli autisti di mezzi pesanti devono seguire corsi di aggiornamento sulla guida sicura e sulle nuove norme ambientali.",
+        "Le imprese di trasporto pubblico devono rispettare nuovi criteri di accesso ai servizi transfrontalieri, semplificando le procedure di autorizzazione.",
+        "Vengono introdotti limiti più bassi sulle emissioni di CO2 per i veicoli nuovi immatricolati nei paesi dello SEE."
+      ],
+      "chi_interessa": "tutti i cittadini che viaggiano o utilizzano servizi di trasporto nei paesi dello Spazio Economico Europeo, nonché le imprese di trasporto",
+      "cosa_devi_fare": "Verificare che il proprio veicolo sia conforme ai nuovi controlli tecnici e, se sei autista professionale, partecipare ai corsi di aggiornamento richiesti.",
+      "impatto": "Le nuove regole aumentano la sicurezza sulle strade e riducono l'inquinamento, migliorando la qualità dell'aria nelle città dello SEE. Per le imprese, comportano adeguamenti operativi ma anche opportunità di mercato grazie a norme più uniformi.",
+      "data_vigenza": "in vigore dal 30 aprile 2026",
+      "categoria": "Trasporti",
+      "importanza": 3,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601530",
+      "pubblicato": "2026-07-23T00:00:00+02:00",
+      "processed_at": "2026-08-06T06:48:02.774559+00:00"
     },
     {
       "id": "dc01cfcaec9ec04c",
