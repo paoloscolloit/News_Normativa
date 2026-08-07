@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-06T06:48:31.702815+00:00",
-  "total": 530,
+  "last_updated": "2026-08-07T05:46:26.783851+00:00",
+  "total": 525,
   "items": [
     {
       "id": "9162022795fe09e2",
@@ -359,6 +359,29 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601530",
       "pubblicato": "2026-07-23T00:00:00+02:00",
       "processed_at": "2026-08-06T06:48:02.774559+00:00"
+    },
+    {
+      "id": "2c31efb69a9f069d",
+      "titolo_popolare": "...",
+      "titolo_originale": "OJ:L_202601516: Decision of the EEA Joint Committee No 146/2026 of 30 April 2026 amending Annex XI (Electronic communication, audiovisual services and information society) to the EEA Agreement [2026/1516]",
+      "riassunto_esteso": "...",
+      "cosa_cambia": [
+        "...",
+        "...",
+        "...",
+        "..."
+      ],
+      "chi_interessa": "...",
+      "cosa_devi_fare": "...",
+      "impatto": "...",
+      "data_vigenza": "...",
+      "categoria": "Altro",
+      "importanza": 3,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601516",
+      "pubblicato": "2026-07-23T00:00:00+02:00",
+      "processed_at": "2026-08-07T05:40:27.991142+00:00"
     },
     {
       "id": "dc01cfcaec9ec04c",
@@ -1001,6 +1024,52 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601751",
       "pubblicato": "2026-07-21T00:00:00+02:00",
       "processed_at": "2026-07-31T06:43:59.958402+00:00"
+    },
+    {
+      "id": "6aed0afc1f2a8ec7",
+      "titolo_popolare": "Aggiornamento delle regole sul mangime con luteina per polli",
+      "titolo_originale": "OJ:L_202601712: Commission Implementing Regulation (EU) 2026/1712 of 20 July 2026 amending and correcting Implementing Regulation (EU) 2020/1097 as regards the terms of the authorisation of lutein-rich and lutein/zeaxanthin extracts from Tagetes erecta as feed additives for poultry (except turkeys) for fattening and laying and for minor poultry species for fattening and laying and amending Implementing Regulation (EU) 2025/1928 as regards the terms of the authorisation of lutein-rich extract of Tagetes erecta L. for turkeys for fattening",
+      "riassunto_esteso": "La Commissione europea ha modificato le norme che autorizzano l'uso di estratti ricchi di luteina e luteina/zeaxantina ottenuti dal fiore di Tagetes erecta come additivo nei mangimi per pollame. Le modifiche riguardano i polli da carne e le galline ovaiole, escluse le tacchine, nonché le specie di pollame minori. Vengono inoltre aggiornate le condizioni di autorizzazione per l'estratto di luteina utilizzato nei mangimi delle tacchine. L'obiettivo è allineare le disposizioni alle ultime valutazioni di sicurezza e garantire un uso corretto di questi pigmenti nei mangimi. Le nuove disposizioni si applicano a partire dalla data di pubblicazione del regolamento.",
+      "cosa_cambia": [
+        "Sono stati rivisti i limiti massimi di concentrazione della luteina nei mangimi per polli da carne e galline ovaiole.",
+        "Le specie di pollame minori (quaglie, fagiani, ecc.) sono ora esplicitamente incluse nell'autorizzazione.",
+        "Per le tacchine da carne sono stati modificati i termini di autorizzazione dell'estratto di luteina.",
+        "Vengono chiariti i requisiti di purezza e le specifiche tecniche dell'estratto da utilizzare nei mangimi."
+      ],
+      "chi_interessa": "allevatori di pollame (polli, galline, tacchine e specie minori) e produttori di mangimi per pollame",
+      "cosa_devi_fare": "nessuna azione richiesta per i cittadini comuni; gli allevatori devono verificare che i mangimi rispettino i nuovi limiti",
+      "impatto": "Gli allevatori potranno continuare a utilizzare la luteina per migliorare il colore del tuorlo e della pelle, nel rispetto di limiti aggiornati che tutelano la salute degli animali e dei consumatori.",
+      "data_vigenza": "dal 20 luglio 2026",
+      "categoria": "Agricoltura e Alimentare",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601712",
+      "pubblicato": "2026-07-21T00:00:00+02:00",
+      "processed_at": "2026-08-07T05:29:59.626658+00:00"
+    },
+    {
+      "id": "cda7f3f135f9f3b9",
+      "titolo_popolare": "Nuove regole UE per importare pollame dagli USA",
+      "titolo_originale": "OJ:L_202601820: Commission Implementing Regulation (EU) 2026/1820 of 20 July 2026 amending Annexes V and XIV to Implementing Regulation (EU) 2021/404 as regards the entries for the United States in the lists of third countries, territories, or zones thereof authorised for the entry into the Union of consignments of poultry and germinal products of poultry, and of fresh meat of poultry and game birds",
+      "riassunto_esteso": "La Commissione europea ha aggiornato le liste degli Stati Uniti autorizzati a esportare pollame, prodotti germinali di pollame e carne fresca di pollame e uccelli da caccia nell'Unione. La modifica riguarda gli allegati V e XIV del regolamento di esecuzione (UE) 2021/404, aggiungendo o rimovendo alcune zone statunitensi in base ai controlli sanitari. L'obiettivo è garantire che solo le zone che soddisfano gli standard di sicurezza alimentare e sanitaria possano inviare questi prodotti nell'UE. In questo modo si vuole proteggere la salute dei consumatori e mantenere elevati standard di qualità per le carni avicole importate.",
+      "cosa_cambia": [
+        "Gli importatori devono verificare che il pollame provenga da zone USA ora incluse nella lista autorizzata",
+        "Se una zona statunitense viene rimossa, i prodotti di quella zona non possono più entrare nell'UE senza nuove autorizzazioni",
+        "È richiesta la presentazione di certificati sanitari aggiornati per ogni spedizione",
+        "Le autorità doganali controlleranno più attentamente la corrispondenza tra la zona di origine e l'elenco autorizzato"
+      ],
+      "chi_interessa": "importatori di pollame, prodotti germinali e carni avicole dagli Stati Uniti",
+      "cosa_devi_fare": "Controllare che i prodotti provengano da zone USA autorizzate e allegare il certificato sanitario richiesto",
+      "impatto": "Maggiore trasparenza sulle regole di importazione, con possibili variazioni nella disponibilità di pollame statunitense sul mercato europeo.",
+      "data_vigenza": "in vigore dal 20 luglio 2026",
+      "categoria": "Agricoltura e Alimentare",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601820",
+      "pubblicato": "2026-07-21T00:00:00+02:00",
+      "processed_at": "2026-08-07T05:30:26.852121+00:00"
     },
     {
       "id": "3c231405d5a0064f",
@@ -11343,182 +11412,6 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690441",
       "pubblicato": "2026-06-09T00:00:00+02:00",
       "processed_at": "2026-06-09T07:41:46.981586+00:00"
-    },
-    {
-      "id": "c9167ef5a48aaa46",
-      "titolo_popolare": "Regolamento delegato UE sulla classificazione delle filiere sostenibili",
-      "titolo_originale": "OJ:L_202690457",
-      "riassunto_esteso": "Il regolamento stabilisce i criteri per identificare quali attività economiche possono essere considerate sostenibili dal punto di vista ambientale. Lo scopo è orientare gli investimenti verso attività che contribuiscono agli obiettivi ambientali dell'UE, come la riduzione delle emissioni di gas serra e la transizione verso un'economia circolare. Le imprese dovranno rispettare determinati criteri per poter definire la propria attività come sostenibile.",
-      "cosa_cambia": [
-        "Le imprese devono rispettare criteri specifici per essere considerate sostenibili",
-        "Gli investitori potranno orientare i loro capitali verso attività veramente ecosostenibili",
-        "Maggiore trasparenza sulle filiere di approvvigionamento delle imprese"
-      ],
-      "chi_interessa": "imprese che operano in settori come energia, trasporti, edilizia, silvicoltura, agricoltura, attività manifatturiere",
-      "cosa_devi_fare": "verificare se l'attività svolta rispetta i criteri di sostenibilità ambientale previsti dal regolamento",
-      "impatto": "promuove investimenti in attività sostenibili e accelera la transizione verso un'economia a basse emissioni di carbonio",
-      "data_vigenza": "da definire con atti delegati",
-      "categoria": "Ambiente e Energia",
-      "importanza": 3,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690457",
-      "pubblicato": "2026-06-08T00:00:00+02:00",
-      "processed_at": "2026-06-08T08:47:50.049303+00:00"
-    },
-    {
-      "id": "a592b9d8a4d1c03e",
-      "titolo_popolare": "Nuova tassa di 3 euro sulle vendite online di prodotti importati sotto i 150 euro",
-      "titolo_originale": "OJ:L_202601200: Commission Implementing Regulation (EU) 2026/1200 of 5 June 2026 amending Implementing Regulation (EU) 2015/2447 as regards the rules on the implementation of the temporary EUR 3 customs duty on distance sales of imported goods in a consignment with an intrinsic value not exceeding EUR 150",
-      "riassunto_esteso": "La Commissione Europea ha introdotto un regolamento che prevede l'applicazione di un dazio doganale temporaneo di 3 euro sulle vendite a distanza di beni importati, quando il valore intrinseco della spedizione non supera i 150 euro. Questa misura è stata adottata per semplificare le procedure doganali e garantire una concorrenza equa tra venditori nazionali e internazionali.",
-      "cosa_cambia": [
-        "Viene introdotta una tassa di 3 euro sulle vendite online di prodotti importati di valore non superiore a 150 euro",
-        "Le procedure doganali per questi pacchi saranno semplificate"
-      ],
-      "chi_interessa": "Tutti i consumatori che acquistano prodotti importati online di valore non superiore a 150 euro",
-      "cosa_devi_fare": "Nessuna azione richiesta ai consumatori, la tassa verrà applicata automaticamente sugli acquisti che rientrano nei parametri",
-      "impatto": "I prezzi dei prodotti importati acquistati online potrebbero lievitare leggermente a causa della nuova tassa. Le imprese dovranno adeguare i propri sistemi per applicare correttamente la tassa.",
-      "data_vigenza": "Da definire con decreto attuativo",
-      "categoria": "Imprese e Mercato",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601200",
-      "pubblicato": "2026-06-08T00:00:00+02:00",
-      "processed_at": "2026-06-08T08:50:54.561234+00:00"
-    },
-    {
-      "id": "961f80575f7f2328",
-      "titolo_popolare": "Misure di emergenza per l'influenza aviaria in alcuni Stati membri",
-      "titolo_originale": "OJ:L_202601239: Commission Implementing Decision (EU) 2026/1239 of 4 June 2026 amending the Annex to Implementing Decision (EU) 2023/2447 concerning emergency measures in relation to outbreaks of highly pathogenic avian influenza in certain Member States (notified under document C(2026) 3930)",
-      "riassunto_esteso": "La Commissione europea ha adottato una decisione che modifica le misure di emergenza per contenere i focolai di influenza aviaria ad alta patogenicità in alcuni Stati membri. La decisione aggiorna l'elenco delle zone soggette a restrizioni e i relativi provvedimenti per limitare la diffusione del virus.",
-      "cosa_cambia": [
-        "Aggiornamento delle zone soggette a restrizioni per l'influenza aviaria",
-        "Applicazione di misure di biosicurezza più stringenti nelle zone interessate",
-        "Divieto di spostamento di volatili e prodotti avicoli dalle zone colpite"
-      ],
-      "chi_interessa": "Allevatori avicoli e operatori del settore nelle zone colpite",
-      "cosa_devi_fare": "Rispettare le misure di biosicurezza e le restrizioni imposte nella propria zona",
-      "impatto": "Limita la diffusione dell'influenza aviaria e protegge la salute degli animali e delle persone",
-      "data_vigenza": "In vigore da subito",
-      "categoria": "Agricoltura e Alimentare",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601239",
-      "pubblicato": "2026-06-08T00:00:00+02:00",
-      "processed_at": "2026-06-08T08:53:26.529379+00:00"
-    },
-    {
-      "id": "83705f7f43f6e29e",
-      "titolo_popolare": "Correzioni al regolamento sulle sanzioni contro chi minaccia l'Ucraina",
-      "titolo_originale": "OJ:L_202690460: Corrigendum to Council Implementing Regulation (EU) 2026/1055 of 11 May 2026 implementing Regulation (EU) No 269/2014 concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine (OJ L, 2026/1055, 11.5.2026)",
-      "riassunto_esteso": "Questo atto apporta alcune correzioni formali al regolamento che impone sanzioni a persone e enti che minacciano la sovranità e l'integrità territoriale dell'Ucraina. Le modifiche sono di natura tecnica e non cambiano la sostanza delle misure restrittive previste.",
-      "cosa_cambia": [
-        "Vengono corretti alcuni errori formali e refusi nel testo del regolamento",
-        "Le sanzioni verso chi minaccia l'Ucraina restano invariate"
-      ],
-      "chi_interessa": "Persone e organizzazioni soggette alle sanzioni per azioni contro l'Ucraina",
-      "cosa_devi_fare": "Nessuna azione richiesta, si tratta di correzioni formali",
-      "impatto": "Nessun impatto pratico, le sanzioni restano le stesse",
-      "data_vigenza": "In vigore da subito",
-      "categoria": "Giustizia e Diritti",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690460",
-      "pubblicato": "2026-06-08T00:00:00+02:00",
-      "processed_at": "2026-06-08T08:56:47.337308+00:00"
-    },
-    {
-      "id": "c9fa6168379cb352",
-      "titolo_popolare": "Nuove regole UE su etichettatura energetica elettrodomestici",
-      "titolo_originale": "OJ:L_202690431",
-      "riassunto_esteso": "Il regolamento introduce nuove regole per l'etichettatura energetica di frigoriferi, lavatrici, lavastoviglie e altri elettrodomestici. Le etichette energetiche saranno più semplici e chiare per i consumatori, con una scala da A a G. I produttori dovranno fornire informazioni più dettagliate sul consumo energetico. L'obiettivo è promuovere l'efficienza energetica e ridurre le emissioni di CO2.",
-      "cosa_cambia": [
-        "Etichette energetiche più semplici e chiare per elettrodomestici",
-        "Scala di classi energetiche da A a G",
-        "Maggiori informazioni sul consumo energetico fornite dai produttori"
-      ],
-      "chi_interessa": "Tutti i consumatori che acquistano elettrodomestici",
-      "cosa_devi_fare": "Nessuna azione richiesta ai consumatori",
-      "impatto": "Permette di risparmiare energia e ridurre le bollette elettriche scegliendo apparecchi più efficienti",
-      "data_vigenza": "In vigore dal 1° marzo 2021",
-      "categoria": "Ambiente e Energia",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690431",
-      "pubblicato": "2026-06-08T00:00:00+02:00",
-      "processed_at": "2026-06-08T08:58:49.797967+00:00"
-    },
-    {
-      "id": "015d6ad92c9c987f",
-      "titolo_popolare": "Normativa europea non specificata",
-      "titolo_originale": "OJ:L_202690453",
-      "riassunto_esteso": "Il documento citato non contiene informazioni disponibili in lingua inglese né dettagli sul contenuto. Perciò non è possibile descrivere cosa stabilisce né le motivazioni della sua adozione. Senza il testo, non si conoscono le disposizioni né gli ambiti di applicazione. In assenza di dati, non si può spiegare l'impatto né le misure richieste. Si consiglia di cercare il testo originale in lingua italiana o in un'altra lingua ufficiale dell'UE per avere chiarimenti.",
-      "cosa_cambia": [
-        "non specificato",
-        "non specificato",
-        "non specificato",
-        "non specificato"
-      ],
-      "chi_interessa": "non specificato",
-      "cosa_devi_fare": "Nessuna azione possibile finché non si ottiene il testo completo.",
-      "impatto": "non specificato",
-      "data_vigenza": "non specificato",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690453",
-      "pubblicato": "2026-06-08T00:00:00+02:00",
-      "processed_at": "2026-06-09T07:37:03.056795+00:00"
-    },
-    {
-      "id": "e5e3863751d9cc34",
-      "titolo_popolare": "Correzione alle sanzioni UE contro la Russia per l'Ucraina",
-      "titolo_originale": "OJ:L_202690461: Corrigendum to Council Decision (CFSP) 2026/1072 of 11 May 2026 amending Decision 2014/145/CFSP concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine (OJ L, 2026/1072, 11.5.2026)",
-      "riassunto_esteso": "Il Consiglio dell'Unione Europea ha pubblicato un corrigendum, cioè una correzione, al provvedimento del 11 maggio 2026 che modificava le sanzioni già in vigore dal 2014 contro chi minaccia l'integrità territoriale dell'Ucraina. La correzione serve a sistemare errori di forma o di trascrizione presenti nel testo originale, senza introdurre nuove misure né modificare quelle già decise. È stata adottata per garantire che il documento sia legalmente preciso e facilmente applicabile dagli Stati membri. La correzione non cambia le restrizioni già imposte, ma ne assicura la corretta interpretazione. In pratica, si tratta di un aggiornamento tecnico del testo normativo.",
-      "cosa_cambia": [
-        "Correzione di errori di battitura o di formattazione nel testo della decisione sulle sanzioni",
-        "Nessuna nuova misura restrittiva introdotta",
-        "Nessun cambiamento per i soggetti già soggetti a sanzioni"
-      ],
-      "chi_interessa": "tutte le autorità nazionali, imprese e cittadini coinvolti nell'applicazione delle sanzioni UE contro la Russia",
-      "cosa_devi_fare": "Nessuna azione richiesta; basta tenere conto della versione corretta del provvedimento.",
-      "impatto": "Garantisce che le sanzioni siano applicate correttamente, evitando errori di interpretazione.",
-      "data_vigenza": "in vigore da subito",
-      "categoria": "Altro",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690461",
-      "pubblicato": "2026-06-08T00:00:00+02:00",
-      "processed_at": "2026-06-09T07:37:18.259959+00:00"
-    },
-    {
-      "id": "221c9d87ce493d32",
-      "titolo_popolare": "Correzione alle regole sui residui di pesticidi negli alimenti",
-      "titolo_originale": "OJ:L_202690432:            Rectificatif au règlement d’exécution (UE) 2026/765 de la Commission du 1er avril 2026 relatif aux méthodes d’échantillonnage et d’analyse ainsi qu’à l’interprétation des résultats pour le contrôle officiel des résidus de pesticides sur et dans les denrées alimentaires et les aliments pour animaux d’origine végétale et animale, et abrogeant la directive 2002/63/CE (JO L, 2026/765, 7.4.2026)",
-      "riassunto_esteso": "Il regolamento d'esecuzione UE 2026/765, che stabilisce come campionare, analizzare e interpretare i residui di pesticidi negli alimenti e nei mangimi, è stato rettificato per correggere errori tecnici e chiarire alcune procedure. La modifica mira a garantire che i controlli ufficiali siano più precisi e uniformi in tutti gli Stati membri, evitando discrepanze nei risultati. È stata anche confermata l'abrogazione della vecchia direttiva 2002/63/CE, ormai superata. Con queste correzioni, le autorità di controllo potranno applicare metodi più affidabili e coerenti. L'obiettivo è tutelare la salute dei consumatori e degli animali, assicurando che i prodotti in vendita rispettino i limiti di sicurezza.",
-      "cosa_cambia": [
-        "I metodi di campionamento e analisi dei pesticidi sono stati precisati per evitare interpretazioni divergenti.",
-        "Le soglie di tolleranza e i criteri di valutazione dei risultati sono stati aggiornati secondo le correzioni.",
-        "Le autorità di controllo devono adottare le nuove linee guida entro il prossimo anno.",
-        "La direttiva 2002/63/CE rimane abolita, senza ulteriori effetti."
-      ],
-      "chi_interessa": "tutti i produttori, importatori e distributori di alimenti e mangimi, nonché le autorità di controllo alimentare",
-      "cosa_devi_fare": "Adeguare i propri protocolli di analisi ai nuovi metodi indicati nel regolamento rettificato.",
-      "impatto": "Maggior affidabilità dei controlli sui pesticidi, con conseguente maggiore sicurezza per consumatori e animali.",
-      "data_vigenza": "in vigore da subito, con obbligo di applicazione entro 12 mesi",
-      "categoria": "Salute e Farmaci",
-      "importanza": 3,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690432",
-      "pubblicato": "2026-06-08T00:00:00+02:00",
-      "processed_at": "2026-06-09T07:37:42.593460+00:00"
     }
   ]
 }
