@@ -3045,7 +3045,7 @@
     "pubblicato": "2026-07-21T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-21T06:20:21.068505+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "65e623335b97b989",
@@ -3705,7 +3705,7 @@
     "pubblicato": "2026-07-23T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-23T06:21:48.839987+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "0b4d5ed23e22732b",
