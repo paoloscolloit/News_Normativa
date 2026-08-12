@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-11T05:44:02.721522+00:00",
-  "total": 456,
+  "last_updated": "2026-08-12T06:17:43.335559+00:00",
+  "total": 458,
   "items": [
     {
       "id": "9162022795fe09e2",
@@ -473,6 +473,29 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601525",
       "pubblicato": "2026-07-23T00:00:00+02:00",
       "processed_at": "2026-08-10T05:40:31.223762+00:00"
+    },
+    {
+      "id": "cba92638f02b2368",
+      "titolo_popolare": "Aggiornamento delle regole tecniche per prodotti nello Spazio Economico Europeo",
+      "titolo_originale": "OJ:L_202601505: Decision of the EEA Joint Committee No 120/2026 of 30 April 2026 amending Annex II (Technical regulations, standards, testing and certification) to the EEA Agreement [2026/1505]",
+      "riassunto_esteso": "La decisione del Comitato Congiunto SEE modifica l'Allegato II dell'accordo SEE, che contiene le norme tecniche, gli standard, le procedure di prova e di certificazione per i prodotti. L'aggiornamento recepisce le ultime evoluzioni della normativa europea in materia di sicurezza e qualità, garantendo che le stesse regole si applichino anche in Islanda, Liechtenstein e Norvegia. Questo serve a evitare divergenze tra i mercati e a facilitare la libera circolazione delle merci nell'area SEE. In pratica, i produttori devono adeguarsi a nuove specifiche tecniche o a metodi di prova aggiornati per poter vendere i loro prodotti nei paesi SEE. Il provvedimento entra in forza subito dopo la sua pubblicazione nella Gazzetta ufficiale dell'UE.",
+      "cosa_cambia": [
+        "Nuovi standard tecnici che i prodotti devono rispettare per essere venduti nello SEE",
+        "Procedure di prova e certificazione aggiornate, eventualmente più stringenti",
+        "Possibile necessità di modificare la documentazione tecnica dei prodotti",
+        "Allineamento più stretto con le norme dell'Unione Europea per evitare double testing"
+      ],
+      "chi_interessa": "produttori, importatori e distributori di merci nello Spazio Economico Europeo",
+      "cosa_devi_fare": "Verificare che i propri prodotti rispettino gli nuovi standard e, se necessario, aggiornare la certificazione",
+      "impatto": "Maggiore sicurezza e qualità dei prodotti disponibili sul mercato SEE e minori ostacoli al commercio tra i paesi membri. Per i consumatori significa maggiore fiducia nei beni acquistati.",
+      "data_vigenza": "in vigore da subito (30 aprile 2026)",
+      "categoria": "Imprese e Mercato",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601505",
+      "pubblicato": "2026-07-23T00:00:00+02:00",
+      "processed_at": "2026-08-12T05:56:11.015110+00:00"
     },
     {
       "id": "dc01cfcaec9ec04c",
@@ -2292,6 +2315,29 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601746",
       "pubblicato": "2026-07-16T00:00:00+02:00",
       "processed_at": "2026-07-25T06:09:07.975424+00:00"
+    },
+    {
+      "id": "f586b635cc8c4ccc",
+      "titolo_popolare": "Regole UE su quando rinviare la comunicazione di informazioni riservate",
+      "titolo_originale": "OJ:L_202600789: Commission Delegated Regulation (EU) 2026/789 of 8 April 2026 supplementing Regulation (EU) No 596/2014 of the European Parliament and of the Council as regards disclosure of inside information in protracted processes and delay of disclosure",
+      "riassunto_esteso": "La regolamentazione delegata integra il regolamento sull'abuso di mercato specificando in quali casi le società quotate possono ritardare la pubblicazione di informazioni privilegiate, ad esempio durante trattative prolungate. Stabilisce i requisiti che devono essere soddisfatti per poter usufruire di questo rinvio, come la necessità di non fuorviare il mercato e di proteggere gli interessi legittimi della società. Dopo il periodo di ritardo, l'informazione deve essere divulgata tempestivamente e le società devono tenere traccia delle motivazioni del rinvio. La norma mira a bilanciare la necessità di trasparenza per gli investitori con la flessibilità operativa delle imprese in situazioni complesse.",
+      "cosa_cambia": [
+        "Le società quotate possono ritardare la comunicazione di informazioni privilegiate se ricorrono condizioni specifiche previste dalla norma.",
+        "Devono dimostrare che il ritardo non fuorvia il mercato e che è necessario per proteggere i propri interessi legittimi.",
+        "Dopo il periodo di ritardo, l'informazione deve essere pubblicata senza indugio e le società devono conservare la documentazione che giustifica il rinvio.",
+        "In caso di uso improprio del rinvio, le autorità di vigilanza possono applicare sanzioni amministrative."
+      ],
+      "chi_interessa": "le società quotate nei mercati regolamentati dell'UE e i loro amministratori",
+      "cosa_devi_fare": "verificare se ricorrono le condizioni per il rinvio e, se sì, comunicare l'informazione entro il termine previsto, tenendo traccia delle motivazioni",
+      "impatto": "Le aziende ottengono maggiore flessibilità nella gestione di informazioni sensibili durante trattative lunghe, mentre gli investitori continuano a ricevere comunicazioni tempestive e trasparenti.",
+      "data_vigenza": "in vigore dal 28 aprile 2026",
+      "categoria": "Banche e Finanza",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202600789",
+      "pubblicato": "2026-07-16T00:00:00+02:00",
+      "processed_at": "2026-08-12T05:25:23.131178+00:00"
     },
     {
       "id": "66b11f213ea14dd4",
