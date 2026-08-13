@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-12T06:17:43.335559+00:00",
-  "total": 458,
+  "last_updated": "2026-08-13T06:11:00.954572+00:00",
+  "total": 462,
   "items": [
     {
       "id": "9162022795fe09e2",
@@ -498,6 +498,75 @@
       "processed_at": "2026-08-12T05:56:11.015110+00:00"
     },
     {
+      "id": "0a1b979561ac23fe",
+      "titolo_popolare": "Aggiornamento delle regole tecniche per prodotti nell'Area Economica Europea",
+      "titolo_originale": "OJ:L_202601486: Decision of the EEA Joint Committee No 131/2026 of 30 April 2026 amending Annex II (Technical regulations, standards, testing and certification) to the EEA Agreement [2026/1486]",
+      "riassunto_esteso": "La decisione del Comitato congiunto SEE del 30 aprile 2026 modifica l'Allegato II dell'accordo SEE, che contiene le norme tecniche, gli standard, le procedure di prova e di certificazione per i prodotti circolanti nell'Area Economica Europea. L'aggiornamento recepisce nuove direttive europee sulla sicurezza e sull'ecocompatibilità, allo scopo di uniformare i requisiti tra gli Stati membri SEE e facilitare il commercio. In pratica, vengono introdotti requisiti più stringenti per alcuni settori, come i dispositivi elettronici e i materiali da costruzione, mentre vengono semplificate alcune procedure di certificazione per ridurre gli oneri amministrativi. Il risultato è una maggiore protezione dei consumatori e condizioni di parità per le imprese che operano nel mercato unico.",
+      "cosa_cambia": [
+        "I prodotti elettronici dovranno rispettare nuovi limiti di emissione elettromagnetica prima di essere venduti.",
+        "Le procedure di certificazione per i materiali da costruzione diventano più snelle, con meno documenti richiesti.",
+        "Gli organismi di controllo dovranno applicare gli stessi standard in tutti gli Stati SEE, evitando differenze nazionali.",
+        "I consumatori potranno verificare più facilmente la conformità dei prodotti grazie a marcature unificate."
+      ],
+      "chi_interessa": "tutti i consumatori e le imprese che immettono prodotti sul mercato SEE",
+      "cosa_devi_fare": "verificare che i prodotti rispettino le nuove norme e aggiornare la documentazione di conformità se necessario",
+      "impatto": "Maggiore sicurezza dei prodotti e minori ostacoli al commercio, con benefici sia per la salute dei cittadini che per la competitività delle imprese.",
+      "data_vigenza": "in vigore dal 30 aprile 2026",
+      "categoria": "Imprese e Mercato",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601486",
+      "pubblicato": "2026-07-23T00:00:00+02:00",
+      "processed_at": "2026-08-13T05:55:30.507919+00:00"
+    },
+    {
+      "id": "437f2660cd39e5df",
+      "titolo_popolare": "Aggiornamento delle regole sulla salute di animali e piante",
+      "titolo_originale": "OJ:L_202601496: Decision of the EEA Joint Committee No 117/2026 of 30 April 2026 amending Annex I (Veterinary and phytosanitary matters) to the EEA Agreement [2026/1496]",
+      "riassunto_esteso": "La decisione del Comitato congiunto SEE del 30 aprile 2026 modifica l'allegato I dell'accordo SEE, che riguarda le questioni veterinarie e fitosanitarie. In pratica, allinea le norme dei paesi SEE (Norvegia, Islanda e Liechtenstein) con quelle dell'Unione europea in materia di salute degli animali, delle piante e della sicurezza degli alimenti. L'aggiornamento recepisce le ultime direttive UE sulle malattie animali, sui controlli alle frontiere e sull'uso di prodotti fitosanitari. Lo scopo è garantire che gli scambi di animali, vegetali e prodotti alimentari tra SEE e UE continuino in condizioni di sicurezza e senza ostacoli ingiustificati.",
+      "cosa_cambia": [
+        "Nuovi requisiti di certificazione per l'importazione di animali vivi e dei loro prodotti.",
+        "Standard aggiornati per i controlli fitosanitari sulle piante e sui prodotti vegetali alle frontiere.",
+        "Procedure semplificate per la riconoscenza delle zone libere da determinate malattie animali.",
+        "Obbligo di utilizzare i nuovi limiti massimi di residui di pesticidi concordati a livello UE."
+      ],
+      "chi_interessa": "agricoltori, allevatori, imprese che importano/esportano animali, piante o prodotti alimentari, e i consumatori finali",
+      "cosa_devi_fare": "Verificare che i propri prodotti rispettino i nuovi standard e, se necessario, aggiornare la documentazione di accompagnamento.",
+      "impatto": "Maggiore sicurezza degli alimenti e riduzione del rischio di introdurre malattie animali o vegetali nei paesi SEE. Questo facilita gli scambi commerciali e protegge la salute pubblica e l'ambiente.",
+      "data_vigenza": "in vigore da subito dopo la pubblicazione nella Gazzetta UE (30 aprile 2026)",
+      "categoria": "Agricoltura e Alimentare",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601496",
+      "pubblicato": "2026-07-23T00:00:00+02:00",
+      "processed_at": "2026-08-13T06:01:12.930404+00:00"
+    },
+    {
+      "id": "4218c0cc4797c1dd",
+      "titolo_popolare": "Aggiornamento delle regole di trasporto nello Spazio Economico Europeo",
+      "titolo_originale": "OJ:L_202601518: Decision of the EEA Joint Committee No 151/2026 of 30 April 2026 amending Annex XIII (Transport) to the EEA Agreement [2026/1518]",
+      "riassunto_esteso": "La decisione del Comitato Congiunto SEE del 30 aprile 2026 modifica l'allegato XIII dell'accordo SEE, che riguarda il settore dei trasporti. L'aggiornamento recepisce le ultime norme europee su sicurezza dei veicoli, emissioni e procedure di controllo tecnico, allo scopo di allineare le regole dei paesi SEE a quelle dell'Unione Europea. Questo permette una maggiore armonizzazione delle norme transfrontaliere, facilitando il movimento di merci e persone tra i paesi membri. L'obiettivo è migliorare la sicurezza stradale, ridurre l'inquinamento e semplificare le formalità doganali per i trasportatori.",
+      "cosa_cambia": [
+        "Nuovi requisiti di sicurezza tecnica per veicoli pesanti e leggeri che circolano nello SEE",
+        "Standard di emissione più severi per i motori diesel e benzina, allineati alle norme Euro 6/VI",
+        "Procedure di revisione periodica armonizzate tra tutti i paesi SEE",
+        "Semplificazione della documentazione necessaria per i trasporti internazionali di merci"
+      ],
+      "chi_interessa": "trasportatori, autisti, imprese di logistica e cittadini che viaggiano o spediscono merci nello SEE",
+      "cosa_devi_fare": "nessuna azione richiesta direttamente dai cittadini; le imprese devono adeguare i veicoli e la documentazione entro i termini stabiliti dagli stati membri",
+      "impatto": "Maggiore sicurezza sulle strade e minor impatto ambientale dei trasporti, oltre a minori ritardi e costi per le operazioni transfrontaliere",
+      "data_vigenza": "in vigore dal 30 aprile 2026",
+      "categoria": "Trasporti",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601518",
+      "pubblicato": "2026-07-23T00:00:00+02:00",
+      "processed_at": "2026-08-13T06:09:11.688577+00:00"
+    },
+    {
       "id": "dc01cfcaec9ec04c",
       "titolo_popolare": "Documento UE non disponibile in lingua inglese",
       "titolo_originale": "OJ:L_202690620",
@@ -799,6 +868,26 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601735",
       "pubblicato": "2026-07-22T00:00:00+02:00",
       "processed_at": "2026-08-04T06:29:40.855453+00:00"
+    },
+    {
+      "id": "4b13a113f3be60e9",
+      "titolo_popolare": "Correzione tecnica alle regole sulle sostanze chimiche",
+      "titolo_originale": "OJ:L_202690615:            Rectificatif au règlement (UE) 2024/1328 de la Commission du 16 mai 2024 modifiant l’annexe XVII du règlement (CE) no 1907/2006 du Parlement européen et du Conseil concernant l’enregistrement, l’évaluation et l’autorisation des substances chimiques, ainsi que les restrictions applicables à ces substances (REACH), en ce qui concerne l’octaméthylcyclotétrasiloxane (D4), le décaméthylcyclopentasiloxane (D5) et le dodécaméthylcyclohexasiloxane (D6) (JO L, 2024/1328, 17.5.2024)",
+      "riassunto_esteso": "L'atto è una correzione tecnica (corrigendum) al regolamento UE che modifica l'allegato XVII del regolamento REACH riguardo a tre sostanze siliconiche (D4, D5, D6). La correzione serve a sistemare un errore di redazione presente nel testo originale pubblicato a maggio 2024. Non introduce nuove sostanze, né cambia i limiti o le restrizioni già previste. Il suo scopo è esclusivamente garantire che il testo normativo sia corretto e coerente. Non ha effetti pratici diretti sui cittadini o sulle imprese.",
+      "cosa_cambia": [
+        "nessuna modifica diretta per i cittadini"
+      ],
+      "chi_interessa": "nessun gruppo specifico di cittadini",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "nessun effetto pratico sulle persone; serve solo a correggere un refuso nel testo della norma.",
+      "data_vigenza": "in vigore dal 17 maggio 2024",
+      "categoria": "Ambiente e Energia",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690615",
+      "pubblicato": "2026-07-22T00:00:00+02:00",
+      "processed_at": "2026-08-13T05:42:09.495861+00:00"
     },
     {
       "id": "b4b4cefaf3d4a542",
