@@ -1,29 +1,5 @@
 [
   {
-    "id": "ce398af5d33f2504",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026L1472: Directive (EU) 2026/1472 of the European Parliament and of the Council of 17 June 2026 amending Directive 2012/29/EU establishing minimum standards on the rights, support and protection of victims of crime, and replacing Council Framework Decision 2001/220/JHA",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026L1472",
-    "pubblicato": "2026-06-30T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-06-30T07:42:23.700702+00:00",
-    "processed": true
-  },
-  {
-    "id": "5ea9c18cce2143e6",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32025R2143R(01)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32025R2143R(01)",
-    "pubblicato": "2026-06-30T00:00:00+02:00",
-    "summary_raw": "The corrigendum does not concern the English version.",
-    "fetched_at": "2026-06-30T07:42:23.700850+00:00",
-    "processed": true
-  },
-  {
     "id": "785608cbddf77c89",
     "source_id": "eurlex_oj_l",
     "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
@@ -2841,7 +2817,7 @@
     "pubblicato": "2026-07-22T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-22T06:19:26.181196+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "8664177b23bb359f",
@@ -5997,6 +5973,30 @@
     "pubblicato": "2026-08-12T05:21:44.194959+00:00",
     "summary_raw": "",
     "fetched_at": "2026-08-12T05:21:44.194966+00:00",
+    "processed": false
+  },
+  {
+    "id": "30b50eb74e9b81cd",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601195: Commission Delegated Regulation (EU) 2026/1195 of 5 June 2026 supplementing Regulation (EU) 2016/2031 of the European Parliament and of the Council as regards the procedure to conduct the listing of high-risk plants, plant products or other objects",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601195",
+    "pubblicato": "2026-08-14T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-08-14T05:24:51.752208+00:00",
+    "processed": false
+  },
+  {
+    "id": "6092756b38d45cc4",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601942: Decision (EU) 2026/1942 of the European Central Bank of 30 July 2026 on the processing of personal data in the context of the prudential supervision of credit institutions (ECB/2026/18)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601942",
+    "pubblicato": "2026-08-14T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-08-14T05:24:51.752355+00:00",
     "processed": false
   }
 ]
