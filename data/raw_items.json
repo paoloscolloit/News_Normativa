@@ -1,41 +1,5 @@
 [
   {
-    "id": "785608cbddf77c89",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202690529",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690529",
-    "pubblicato": "2026-06-30T00:00:00+02:00",
-    "summary_raw": "This document does not exist in English.",
-    "fetched_at": "2026-06-30T07:42:23.700987+00:00",
-    "processed": true
-  },
-  {
-    "id": "82c6ba259f3337a5",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026R1463: Council Regulation (EU) 2026/1463 of 25 June 2026 amending Regulation (EU) 2021/2278 suspending the Common Customs Tariff duties referred to in Article 56(2), point (c), of Regulation (EU) No 952/2013 of the European Parliament and of the Council on certain agricultural and industrial products",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1463",
-    "pubblicato": "2026-06-30T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-06-30T07:42:23.701105+00:00",
-    "processed": true
-  },
-  {
-    "id": "7cf52bb2fa74694d",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026R1455: Regulation (EU) 2026/1455 of the European Parliament and of the Council of 25 June 2026 on the adjustment of customs duties on imports of certain goods originating in the United States of America and opening of tariff quotas for imports of certain goods originating in the United States of America",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1455",
-    "pubblicato": "2026-06-30T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-06-30T07:42:23.701230+00:00",
-    "processed": true
-  },
-  {
     "id": "92175d15f82ec747",
     "source_id": "eurlex_oj_l",
     "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
@@ -2769,7 +2733,7 @@
     "pubblicato": "2026-07-22T00:00:00+02:00",
     "summary_raw": "This document does not exist in English.",
     "fetched_at": "2026-07-22T06:19:26.180803+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "7528de84dc5a2d75",
@@ -3345,7 +3309,7 @@
     "pubblicato": "2026-07-23T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-23T06:21:48.840838+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "09490e8267ee39c5",
@@ -5997,6 +5961,42 @@
     "pubblicato": "2026-08-14T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-08-14T05:24:51.752355+00:00",
+    "processed": false
+  },
+  {
+    "id": "d6ec86846f0b92ca",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601000: Commission Delegated Regulation (EU) 2026/1000 of 5 May 2026 supplementing Regulation (EU) No 648/2012 of the European Parliament and of the Council by specifying the method for the determination of fees charged by the European Banking Authority for the validation of the pro forma models referred to in Article 11(3), fourth subparagraph, of that Regulation, and specifying the modalities of the payment of those fees",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601000",
+    "pubblicato": "2026-08-17T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-08-17T04:29:54.509080+00:00",
+    "processed": false
+  },
+  {
+    "id": "4574116eec3d166a",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601695: UN Regulation No 100 – Uniform provisions concerning the approval of vehicles with regard to specific requirements for the electric power train [2026/1695]",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601695",
+    "pubblicato": "2026-08-17T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-08-17T04:29:54.509188+00:00",
+    "processed": false
+  },
+  {
+    "id": "05d489d2c58524ad",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601761: Commission Delegated Regulation (EU) 2026/1761 of 12 June 2026 amending Regulation (EU) 2018/975 of the European Parliament and of the Council as regards the time limits for the submission of the annual scientific report and total annual catch reporting, line weighting standards in Annex I, vessel data requirements in Annex V, observer data requirements in Annex X, and port data requirements in Annexes XI and XII",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601761",
+    "pubblicato": "2026-08-17T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-08-17T04:29:54.509289+00:00",
     "processed": false
   }
 ]
