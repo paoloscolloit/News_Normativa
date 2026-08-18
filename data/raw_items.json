@@ -1,53 +1,5 @@
 [
   {
-    "id": "92175d15f82ec747",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026D1466: Council Decision (CFSP) 2026/1466 of 29 June 2026 amending Decision 2013/354/CFSP on the European Union Police Mission for the Palestinian Territories (EUPOL COPPS)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1466",
-    "pubblicato": "2026-06-30T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-06-30T07:42:23.701342+00:00",
-    "processed": true
-  },
-  {
-    "id": "9022b60d79748fbc",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026R1461: Regulation (EU) 2026/1461 of the European Parliament and of the Council of 25 June 2026 on the non-application of customs duties on imports of certain goods",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1461",
-    "pubblicato": "2026-06-30T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-06-30T07:42:23.701462+00:00",
-    "processed": true
-  },
-  {
-    "id": "2fd8ad2c1d447ce1",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026R1465: Council Regulation (EU) 2026/1465 of 25 June 2026 amending Regulation (EU) 2021/2283 opening and providing for the management of autonomous tariff quotas of the Union for certain agricultural and industrial products",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1465",
-    "pubblicato": "2026-06-30T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-06-30T07:42:23.701631+00:00",
-    "processed": true
-  },
-  {
-    "id": "ef41040bd17c0a66",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026D1439: Council Decision (EU) 2026/1439 of 25 June 2026 authorising the opening of negotiations for protocols between the Union and Iceland, the Kingdom of Norway, the Swiss Confederation and the Principality of Liechtenstein supplementing their respective agreements and protocol concerning the criteria and mechanisms for establishing the State responsible for examining a request for asylum lodged in those countries, to include rules to enable their participation in Parts II and IV of Regulation (EU) 2024/1351 of the European Parliament and of the Council and in Chapters II and III of Regulation (EU) 2024/1359 of the European Parliament and of the Council",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1439",
-    "pubblicato": "2026-06-30T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-06-30T07:42:23.701742+00:00",
-    "processed": true
-  },
-  {
     "id": "6b896a518cdc6e29",
     "source_id": "eurlex_oj_l",
     "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
@@ -5997,6 +5949,54 @@
     "pubblicato": "2026-08-17T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-08-17T04:29:54.509289+00:00",
+    "processed": false
+  },
+  {
+    "id": "688590ae69628d7c",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202690704",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690704",
+    "pubblicato": "2026-08-18T00:00:00+02:00",
+    "summary_raw": "This document does not exist in English.",
+    "fetched_at": "2026-08-18T04:22:53.297378+00:00",
+    "processed": false
+  },
+  {
+    "id": "b892e52b7d534c41",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601949: Commission Implementing Decision (EU) 2026/1949 of 13 August 2026 amending the Annexes to Implementing Decision (EU) 2025/1582 concerning certain emergency measures relating to infection with lumpy skin disease virus in Italy (notified under document C(2026) 5847)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601949",
+    "pubblicato": "2026-08-18T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-08-18T04:22:53.297452+00:00",
+    "processed": false
+  },
+  {
+    "id": "f799b6278676b5c0",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202690698",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690698",
+    "pubblicato": "2026-08-18T00:00:00+02:00",
+    "summary_raw": "This document does not exist in English.",
+    "fetched_at": "2026-08-18T04:22:53.297512+00:00",
+    "processed": false
+  },
+  {
+    "id": "2a5bdd7707384daa",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202690699",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690699",
+    "pubblicato": "2026-08-18T00:00:00+02:00",
+    "summary_raw": "This document does not exist in English.",
+    "fetched_at": "2026-08-18T04:22:53.297569+00:00",
     "processed": false
   }
 ]
