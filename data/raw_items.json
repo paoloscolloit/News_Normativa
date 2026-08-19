@@ -1,77 +1,5 @@
 [
   {
-    "id": "6b896a518cdc6e29",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026D1440: Council Implementing Decision (EU) 2026/1440 of 25 June 2026 authorising Germany to apply a reduced rate of taxation to electricity directly supplied to vessels berthed in ports, in accordance with Article 19 of Directive 2003/96/EC",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1440",
-    "pubblicato": "2026-06-30T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-06-30T07:42:23.701849+00:00",
-    "processed": true
-  },
-  {
-    "id": "0a7946e4f0cb89f7",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026D1407: Commission Decision (EU) 2026/1407 of 26 June 2026 on relief from import duties and VAT exemption on importation granted for goods to be distributed or made available free of charge to persons fleeing Russia's military aggression against Ukraine and to persons in need in Ukraine (notified under document C(2026) 4366)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1407",
-    "pubblicato": "2026-06-30T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-06-30T07:42:23.701952+00:00",
-    "processed": true
-  },
-  {
-    "id": "3df1427a6ddd8147",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026R1422: Commission Implementing Regulation (EU) 2026/1422 of 25 June 2026 amending Implementing Regulation (EU) 2015/2447 as regards the procedural rules concerning the proof of non-preferential origin",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1422",
-    "pubblicato": "2026-06-30T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-06-30T07:42:23.702053+00:00",
-    "processed": true
-  },
-  {
-    "id": "478abd2829a2ab67",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32015R0340R(12)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32015R0340R(12)",
-    "pubblicato": "2026-06-30T00:00:00+02:00",
-    "summary_raw": "The corrigendum does not concern the English version.",
-    "fetched_at": "2026-06-30T07:42:23.702153+00:00",
-    "processed": true
-  },
-  {
-    "id": "7eb6a61ed6277053",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026D1454: Council Implementing Decision (EU) 2026/1454 of 25 June 2026 on the suspension of certain provisions of Regulation (EC) No 810/2009 of the European Parliament and of the Council in respect of Somalia",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1454",
-    "pubblicato": "2026-06-30T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-06-30T07:42:23.702251+00:00",
-    "processed": true
-  },
-  {
-    "id": "c8f05323b79c70a6",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32025R2605R(01)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32025R2605R(01)",
-    "pubblicato": "2026-06-30T00:00:00+02:00",
-    "summary_raw": "The corrigendum does not concern the English version.",
-    "fetched_at": "2026-06-30T07:42:23.702350+00:00",
-    "processed": true
-  },
-  {
     "id": "fceaaf7f18f2a8ab",
     "source_id": "eurlex_oj_l",
     "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
@@ -3285,7 +3213,7 @@
     "pubblicato": "2026-07-23T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-23T06:21:48.841062+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "c3b5aff764a829e2",
@@ -3381,7 +3309,7 @@
     "pubblicato": "2026-07-23T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-23T06:21:48.841814+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "5cc4673572d57ad7",
@@ -3393,7 +3321,7 @@
     "pubblicato": "2026-07-23T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-23T06:21:48.841925+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "4494099ea1e694e2",
@@ -5997,6 +5925,78 @@
     "pubblicato": "2026-08-18T00:00:00+02:00",
     "summary_raw": "This document does not exist in English.",
     "fetched_at": "2026-08-18T04:22:53.297569+00:00",
+    "processed": false
+  },
+  {
+    "id": "73c80f55c5e5e10d",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202690702",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690702",
+    "pubblicato": "2026-08-19T00:00:00+02:00",
+    "summary_raw": "This document does not exist in English.",
+    "fetched_at": "2026-08-19T04:24:12.091972+00:00",
+    "processed": false
+  },
+  {
+    "id": "f70884462267b424",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202600971: Commission Delegated Regulation (EU) 2026/971 of 4 May 2026 supplementing Directive 2004/109/EC of the European Parliament and of the Council with regard to regulatory technical standards on access to regulated information at Union level and repealing Commission Delegated Regulation (EU) 2016/1437",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202600971",
+    "pubblicato": "2026-08-19T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-08-19T04:24:12.092097+00:00",
+    "processed": false
+  },
+  {
+    "id": "3c6e0c4a114463a5",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601947: Council Decision (CFSP) 2026/1947 of 21 April 2026 on the signing and conclusion of the Agreement between the European Union and the Republic of Djibouti on the status of the European Union-led forces in the Republic of Djibouti in the framework of the European Union maritime security operation to safeguard freedom of navigation in relation to the Red Sea crisis (EUNAVFOR ASPIDES)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601947",
+    "pubblicato": "2026-08-19T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-08-19T04:24:12.092232+00:00",
+    "processed": false
+  },
+  {
+    "id": "42d599697e2ec1d9",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601946: TRANSLATION Agreement between the European Union and the Republic of Djibouti on the status of the European Union-led forces in the Republic of Djibouti in the framework of the European Union maritime security operation to safeguard freedom of navigation in relation to the Red Sea crisis (EUNAVFOR ASPIDES)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601946",
+    "pubblicato": "2026-08-19T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-08-19T04:24:12.092341+00:00",
+    "processed": false
+  },
+  {
+    "id": "05f4c915635be9af",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202690705",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690705",
+    "pubblicato": "2026-08-19T00:00:00+02:00",
+    "summary_raw": "This document does not exist in English.",
+    "fetched_at": "2026-08-19T04:24:12.092446+00:00",
+    "processed": false
+  },
+  {
+    "id": "c15cc7ef57ffcf3e",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202601952: Notice concerning the date of entry into force of the Agreement in the form of an exchange of letters between the European Union and the People’s Republic of China pursuant to Article XXVIII of the General Agreement on Tariffs and Trade (GATT) 1994 relating to the modification of concessions on all the tariff rate quotas included in the EU Schedule CLXXV as a consequence of the United Kingdom’s withdrawal from the European Union [2026/1952]",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601952",
+    "pubblicato": "2026-08-19T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-08-19T04:24:12.092558+00:00",
     "processed": false
   }
 ]

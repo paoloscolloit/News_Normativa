@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-18T04:34:21.063132+00:00",
-  "total": 387,
+  "last_updated": "2026-08-19T04:35:34.006331+00:00",
+  "total": 390,
   "items": [
     {
       "id": "9162022795fe09e2",
@@ -702,6 +702,75 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601485",
       "pubblicato": "2026-07-23T00:00:00+02:00",
       "processed_at": "2026-08-17T04:43:25.156277+00:00"
+    },
+    {
+      "id": "363458236129a779",
+      "titolo_popolare": "Aggiornamento delle regole di trasporto nello SEE",
+      "titolo_originale": "OJ:L_202601531: Decision of the EEA Joint Committee No 150/2026 of 30 April 2026 amending Annex XIII (Transport) to the EEA Agreement [2026/1531]",
+      "riassunto_esteso": "La decisione del Comitato congiunto SEE del 30 aprile 2026 modifica l'allegato XIII dell'accordo SEE, che riguarda il settore dei trasporti. L'adeguamento serve a tenere le norme dei paesi SEE allineate con quelle dell'Unione europea, soprattutto per quanto riguarda sicurezza stradale, emissioni dei veicoli e qualifiche dei conducenti. In questo modo si vuole garantire condizioni di concorrenza leale e maggiore sicurezza sulle strade che collegano i paesi SEE. L'atto non introduce nuovi obblighi diretti per i cittadini, ma aggiorna le regole che le imprese di trasporto devono rispettare.",
+      "cosa_cambia": [
+        "Nuovi limiti di emissione per i veicoli pesanti che operano in trasporto internazionale SEE",
+        "Aggiornamento delle norme sul tempo di guida e di riposo dei conducenti di autobus e camion",
+        "Introduzione di requisiti tecnici più severi per i sistemi di frenata e di stabilità dei veicoli",
+        "Allineamento delle procedure di controllo tecnico dei veicoli agli standard UE più recenti"
+      ],
+      "chi_interessa": "imprese di trasporto merci e passeggeri, autotrasportatori e gestori di flotte che operano nello SEE",
+      "cosa_devi_fare": "verificare che i propri veicoli rispettino i nuovi limiti e aggiornare la documentazione di conformità entro sei mesi",
+      "impatto": "Le imprese dovranno eventualmente investire in veicoli più puliti o in adeguamenti tecnici, ma guadagneranno in accesso uniforme al mercato SEE e in maggiore sicurezza stradale. Per i cittadini si traduce in strade più sicure e minore inquinamento atmosferico.",
+      "data_vigenza": "in vigore dal 30 aprile 2026",
+      "categoria": "Trasporti",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601531",
+      "pubblicato": "2026-07-23T00:00:00+02:00",
+      "processed_at": "2026-08-19T04:32:12.417388+00:00"
+    },
+    {
+      "id": "9dff62e76889aca1",
+      "titolo_popolare": "Aggiornamento delle regole finanziarie nello Spazio Economico Europeo",
+      "titolo_originale": "OJ:L_202601513: Decision of the EEA Joint Committee No 140/2026 of 30 April 2026 amending Annex IX (Financial services) to the EEA Agreement [2026/1513]",
+      "riassunto_esteso": "La decisione del Comitato Congiunto SEE del 30 aprile 2026 modifica l'Annexo IX dell'Accordo SEE, che riguarda i servizi finanziari. Questo aggiornamento recepisce le ultime norme dell'Unione europea in materia di banche, assicurazioni e servizi di investimento, estendendole anche a Islanda, Liechtenstein e Norvegia. L'obiettivo è garantire che le regole finanziarie siano uniformi in tutto lo Spazio Economico Europeo, migliorando la protezione dei consumatori e la concorrenza leale. In pratica, le istituzioni finanziarie dei paesi SEE dovranno adeguarsi agli stessi requisiti di trasparenza, capitale e gestione dei rischi previsti dall'UE.",
+      "cosa_cambia": [
+        "Le banche e le assicurazioni dei paesi SEE devono applicare gli stessi standard di capitale e trasparenza previsti dall'UE",
+        "I fornitori di servizi di investimento devono rispettare nuove regole sulla consulenza e sulla gestione dei conflitti di interesse",
+        "Viene introdotto un sistema unico di segnalazione delle operazioni sospette per il riciclaggio di denaro",
+        "I consumatori SEE ottengono maggiori informazioni sui costi e sui rischi dei prodotti finanziari offerti"
+      ],
+      "chi_interessa": "banche, assicurazioni, società di investimento e consumatori dei paesi dello Spazio Economico Europeo",
+      "cosa_devi_fare": "Verificare che i prodotti finanziari che utilizzi rispettino le nuove informazioni sui costi e sui rischi; nessuna azione diretta richiesta ai cittadini",
+      "impatto": "Maggiore trasparenza e sicurezza nei prodotti finanziari, con possibili costi più chiari e una migliore protezione contro pratiche scorrette. Questo aumenta la fiducia nel mercato finanziario SEE.",
+      "data_vigenza": "in vigore da subito (30 aprile 2026)",
+      "categoria": "Banche e Finanza",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601513",
+      "pubblicato": "2026-07-23T00:00:00+02:00",
+      "processed_at": "2026-08-19T04:34:46.112266+00:00"
+    },
+    {
+      "id": "5cc4673572d57ad7",
+      "titolo_popolare": "Aggiornamento delle regole di trasporto nello SEE",
+      "titolo_originale": "OJ:L_202601523: Decision of the EEA Joint Committee No 148/2026 of 30 April 2026 amending Annex XIII (Transport) to the EEA Agreement [2026/1523]",
+      "riassunto_esteso": "La decisione del Comitato congiunto SEE modifica l'allegato XIII dell'accordo SEE, che riguarda il settore dei trasporti. L'adeguamento serve a portare le norme islandesi, norvegesi e liechtensteinesi in linea con le recenti evoluzioni della legislazione UE in materia di trasporti, sicurezza e ambiente. In pratica, vengono introdotti nuovi requisiti per veicoli e infrastrutture, semplificate alcune procedure autorizzative e rafforzati gli obblighi di monitoraggio delle emissioni. Il provvedimento vuole garantire condizioni di concorrenza leale e maggiore sicurezza per chi viaggia o trasporta merci nello spazio SEE.",
+      "cosa_cambia": [
+        "Nuovi standard di sicurezza obbligatori per veicoli pesanti e autobus",
+        "Procedure più semplici per ottenere autorizzazioni di trasporto transfrontaliero",
+        "Obbligo di riportare digitalmente i dati sulle emissioni dei veicoli",
+        "Aggiornamento delle regole sui tempi di guida e riposo per autisti"
+      ],
+      "chi_interessa": "tutti gli utenti del trasporto stradale, ferroviario, marittimo e aereo nello SEE, compresi autisti, imprese di trasporto e passeggeri",
+      "cosa_devi_fare": "verificare che i propri veicoli e documenti rispettino i nuovi requisiti e aggiornare le procedure interne se necessario",
+      "impatto": "Maggiore sicurezza sulle strade e riduzione dell'inquinamento, oltre a minori oneri burocratici per le imprese che operano oltre frontiera.",
+      "data_vigenza": "in vigore dal 30 aprile 2026",
+      "categoria": "Trasporti",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601523",
+      "pubblicato": "2026-07-23T00:00:00+02:00",
+      "processed_at": "2026-08-19T04:34:55.222945+00:00"
     },
     {
       "id": "dc01cfcaec9ec04c",
