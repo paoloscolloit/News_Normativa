@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-19T04:35:34.006331+00:00",
-  "total": 390,
+  "last_updated": "2026-08-20T04:36:32.317757+00:00",
+  "total": 393,
   "items": [
     {
       "id": "9162022795fe09e2",
@@ -771,6 +771,75 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601523",
       "pubblicato": "2026-07-23T00:00:00+02:00",
       "processed_at": "2026-08-19T04:34:55.222945+00:00"
+    },
+    {
+      "id": "82e4c0a5eba4ce58",
+      "titolo_popolare": "Aggiornamento delle regole UE su cibo e prodotti",
+      "titolo_originale": "OJ:L_202601493: Decision of the EEA Joint Committee No 115/2026 of 30 April 2026 amending Annex I (Veterinary and phytosanitary matters) and Annex II (Technical regulations, standards, testing and certification) to the EEA Agreement [2026/1493]",
+      "riassunto_esteso": "La decisione del Comitato congiunto SEE del 30 aprile 2026 modifica due allegati dell'accordo SEE, quelli riguardanti le questioni veterinarie e fitosanitarie e le norme tecniche, i metodi di prova e la certificazione. L'obiettivo è allineare le regole dei paesi SEE agli ultimi standard europei in materia di sicurezza alimentare, salute degli animali e delle piante e requisiti tecnici per i prodotti. In pratica, si introducono nuovi controlli e requisiti per le importazioni ed esportazioni di alimenti, mangimi, prodotti agricoli e beni industriali. Questo aggiornamento serve a garantire un livello uniforme di tutela della salute pubblica e dell'ambiente nel mercato SEE.",
+      "cosa_cambia": [
+        "I controlli alle frontiere su carni, latte, frutta e verdura diventano più dettagliati per verificare la presenza di malattie o contaminanti.",
+        "Le imprese che esportano prodotti alimentari devono dimostrare la conformità a nuovi standard di igiene e tracciabilità.",
+        "Per alcuni prodotti industriali, come giocattoli o dispositivi elettronici, vengono richiesti nuovi certificati di prova prima della vendita nel SEE.",
+        "Gli agricoltori ricevono linee guida aggiornate sull'uso di pesticidi e farmaci veterinari per ridurre i rischi per salute e ambiente."
+      ],
+      "chi_interessa": "tutti i consumatori, le imprese alimentari e agricole, nonché i produttori di beni industriali che operano nel mercato SEE",
+      "cosa_devi_fare": "Verificare che i propri prodotti rispettino i nuovi requisiti e, se necessario, aggiornare la documentazione di conformità prima di commerciare nel SEE.",
+      "impatto": "Maggiore sicurezza sui prodotti che acquistiamo e consumiamo, con meno rischi di contaminazioni o malattie trasmesse dagli alimenti. Le imprese dovranno affrontare qualche adempimento in più, ma guadagneranno fiducia nei mercati SEE.",
+      "data_vigenza": "in vigore dal 30 aprile 2026",
+      "categoria": "Salute e Farmaci",
+      "importanza": 3,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601493",
+      "pubblicato": "2026-07-23T00:00:00+02:00",
+      "processed_at": "2026-08-20T04:29:46.877983+00:00"
+    },
+    {
+      "id": "c3b5aff764a829e2",
+      "titolo_popolare": "Aggiornamento delle regole UE su animali, piante e prodotti",
+      "titolo_originale": "OJ:L_202601474: Decision of the EEA Joint Committee No 113/2026 of 30 April 2026 amending Annex I (Veterinary and phytosanitary matters) and Annex II (Technical regulations, standards, testing and certification) to the EEA Agreement [2026/1474]",
+      "riassunto_esteso": "La decisione del Comitato congiunto SEE del 30 aprile 2026 modifica gli allegati I e II dell'accordo SEE, aggiornando le norme veterinarie e fitosanitarie nonché le disposizioni tecniche su regolamenti, standard, prove e certificazione. L'obiettivo è allineare le regole dei paesi SEE agli ultimi sviluppi dell'Unione europea in materia di sicurezza alimentare, salute degli animali e delle piante e requisiti tecnici per i prodotti. In pratica, si introducono nuovi requisiti per il commercio di animali vivi, prodotti alimentari e merci industriali, garantendo controlli più uniformi tra gli Stati membri SEE. Questo aggiornamento serve a evitare barriere commerciali ingiustificate e a mantenere elevati livelli di protezione per consumatori e ambiente.",
+      "cosa_cambia": [
+        "Gli allevatori devono rispettare nuovi standard veterinari per l'esportazione di animali vivi verso Islanda, Liechtenstein e Norvegia.",
+        "Le imprese che esportano prodotti alimentari devono adeguare le etichette e i certificati fitosanitari alle nuove regole SEE.",
+        "I produttori di beni industriali devono ottenere certificazioni di conformità aggiornate secondo le norme tecniche riviste.",
+        "Le autorità doganali applicheranno controlli più armonizzati sulle merci che attraversano le frontiere SEE."
+      ],
+      "chi_interessa": "imprese che commerciano animali, prodotti alimentari e merci industriali con i paesi SEE, nonché gli allevatori e i consumatori finali",
+      "cosa_devi_fare": "Verificare che i propri prodotti siano conformi alle nuove norme e, se necessario, aggiornare documentazione e certificazioni prima delle prossime spedizioni.",
+      "impatto": "Le modifiche rendono più semplice e sicuro commerciare con Islanda, Liechtenstein e Norvegia, riducendo rischi di rifiuti alle frontiere e aumentando la fiducia dei consumatori nella sicurezza dei prodotti.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Imprese e Mercato",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601474",
+      "pubblicato": "2026-07-23T00:00:00+02:00",
+      "processed_at": "2026-08-20T04:32:48.646278+00:00"
+    },
+    {
+      "id": "4494099ea1e694e2",
+      "titolo_popolare": "Aggiornamento delle regole europee sulle statistiche",
+      "titolo_originale": "OJ:L_202601533: Decision of the EEA Joint Committee No 156/2026 of 30 April 2026 amending Annex XXI (Statistics) to the EEA Agreement [2026/1533]",
+      "riassunto_esteso": "La decisione del Comitato congiunto SEE del 30 aprile 2026 modifica l'allegato XXI dell'accordo SEE, che riguarda la cooperazione statistica tra gli Stati SEE e l'Unione europea. L'aggiornamento allinea le norme statistiche SEE agli standard europei più recenti, migliorando la comparabilità e la qualità dei dati raccolti nei vari paesi. Questo serve a garantire che le informazioni ufficiali su economia, società e ambiente siano affidabili e utilizzabili per politiche pubbliche e ricerca. La modifica è stata adottata per tenere conto di nuove esigenze informative e di evoluzioni metodologiche nel campo della statistica.",
+      "cosa_cambia": [
+        "Le rilevazioni statistiche nazionali potrebbero adottare nuove definizioni e classificazioni europee",
+        "I tempi e le modalità di pubblicazione dei dati ufficiali potrebbero essere standardizzati",
+        "Gli enti responsabili delle statistiche dovranno seguire procedure aggiornate per la raccolta e il trattamento dei dati",
+        "Potrebbe essere richiesto un maggiore scambio di informazioni tra gli uffici statistici dei paesi SEE"
+      ],
+      "chi_interessa": "tutti i cittadini e le imprese che partecipano a rilevazioni statistiche o utilizzano dati ufficiali",
+      "cosa_devi_fare": "nessuna azione richiesta direttamente dai cittadini",
+      "impatto": "Le statistiche ufficiali diventano più confrontabili e affidabili, facilitando decisioni politiche migliori e analisi più accurate. Questo contribuisce a trasparenza e efficacia delle politiche pubbliche a beneficio di tutti.",
+      "data_vigenza": "in vigore dal 30 aprile 2026",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601533",
+      "pubblicato": "2026-07-23T00:00:00+02:00",
+      "processed_at": "2026-08-20T04:35:32.247888+00:00"
     },
     {
       "id": "dc01cfcaec9ec04c",

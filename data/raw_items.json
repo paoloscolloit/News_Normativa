@@ -1,29 +1,5 @@
 [
   {
-    "id": "fceaaf7f18f2a8ab",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026D1430: Council Decision (EU) 2026/1430 of 22 June 2026 on the position to be taken on behalf of the European Union within the ninth session of the ad hoc Committee on Legal Affairs and International Cooperation of the Intergovernmental Organisation for International Carriage by Rail (OTIF) concerning the proposed amendments to the Rules of Procedure of the ad hoc Committee",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1430",
-    "pubblicato": "2026-06-30T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-06-30T07:42:23.702446+00:00",
-    "processed": true
-  },
-  {
-    "id": "e2787c731366213a",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026D1382: Commission Implementing Decision (EU) 2026/1382 of 22 June 2026 determining, pursuant to Regulation (EU) 2024/573 of the European Parliament and of the Council, reference values for the period from 1 January 2027 to 31 December 2029 for each producer or importer which has lawfully placed hydrofluorocarbons on the Union market from 1 January 2022 to 31 December 2024 (notified under document C(2026) 3000)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1382",
-    "pubblicato": "2026-06-30T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-06-30T07:42:23.702566+00:00",
-    "processed": true
-  },
-  {
     "id": "cf307df603a65e2b",
     "source_id": "eurlex_oj_l",
     "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
@@ -2985,7 +2961,7 @@
     "pubblicato": "2026-07-23T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-23T06:21:48.839215+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "287c8c3cd8b6f50f",
@@ -3225,7 +3201,7 @@
     "pubblicato": "2026-07-23T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-23T06:21:48.841160+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "a1718e3b8b740e02",
@@ -3333,7 +3309,7 @@
     "pubblicato": "2026-07-23T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-23T06:21:48.842027+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "3ade5a0368cf1711",
@@ -5997,6 +5973,30 @@
     "pubblicato": "2026-08-19T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-08-19T04:24:12.092558+00:00",
+    "processed": false
+  },
+  {
+    "id": "a77e9dd8bf262dba",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202690706",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690706",
+    "pubblicato": "2026-08-20T00:00:00+02:00",
+    "summary_raw": "This document does not exist in English.",
+    "fetched_at": "2026-08-20T04:24:36.559177+00:00",
+    "processed": false
+  },
+  {
+    "id": "fd194511b04bd4de",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "OJ:L_202690703",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690703",
+    "pubblicato": "2026-08-20T00:00:00+02:00",
+    "summary_raw": "This document does not exist in English.",
+    "fetched_at": "2026-08-20T04:24:36.559255+00:00",
     "processed": false
   }
 ]
