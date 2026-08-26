@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-25T04:41:08.612498+00:00",
-  "total": 299,
+  "last_updated": "2026-08-26T04:43:50.592436+00:00",
+  "total": 300,
   "items": [
     {
       "id": "3ade5a0368cf1711",
@@ -1933,6 +1933,29 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601776",
       "pubblicato": "2026-07-21T00:00:00+02:00",
       "processed_at": "2026-08-24T04:34:59.084970+00:00"
+    },
+    {
+      "id": "dc8324a54406dec6",
+      "titolo_popolare": "Autorizzazione nuovo additivo mangime per animali",
+      "titolo_originale": "OJ:L_202601756: Commission Implementing Regulation (EU) 2026/1756 of 20 July 2026 concerning the authorisation of L-valine produced from Corynebacterium glutamicum KCCM 80366, in the form of an inactivated fermentation product, as a feed additive for all animal species",
+      "riassunto_esteso": "La Commissione europea ha autorizzato l'uso dell'L-valina, prodotta mediante fermentazione di Corynebacterium glutamicum, come additivo nei mangimi per tutte le specie animali. Questa decisione permette agli operatori del settore mangimi di includere questa sostanza nelle formulazioni alimentari per migliorare la nutrizione degli animali. L'autorizzazione è stata adottata dopo una valutazione di sicurezza che ha confermato l'assenza di rischi per la salute degli animali, dei consumatori e dell'ambiente. Con questa misura l'UE vuole garantire la disponibilità di additivi sicuri ed efficaci, sostenendo la competitività del settore zootecnico. Il provvedimento entra in vigore subito dopo la sua pubblicazione nella Gazzetta ufficiale dell'Unione europea.",
+      "cosa_cambia": [
+        "I produttori di mangimi possono ora inserire l'L-valina nei loro prodotti per tutte le specie animali",
+        "Gli allevatori hanno a disposizione un nuovo strumento per migliorare l'efficienza nutrizionale del bestiame",
+        "I consumatori potrebbero beneficiare di una maggiore qualità e sicurezza dei prodotti animali",
+        "Le autorità nazionali dovranno verificare il rispetto delle condizioni specifiche dell'autorizzazione"
+      ],
+      "chi_interessa": "produttori di mangimi, allevatori di animali e operatori del settore zootecnico",
+      "cosa_devi_fare": "nessuna azione richiesta per i cittadini; gli operatori del mangime devono rispettare le condizioni dell'autorizzazione",
+      "impatto": "Miglioramento della nutrizione animale e possibile riduzione dei costi dei mangimi, con effetti positivi sulla sicurezza alimentare e sulla sostenibilità dell'allevamento",
+      "data_vigenza": "dal 20 luglio 2026",
+      "categoria": "Agricoltura e Alimentare",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601756",
+      "pubblicato": "2026-07-21T00:00:00+02:00",
+      "processed_at": "2026-08-26T04:30:43.978175+00:00"
     },
     {
       "id": "3c231405d5a0064f",
