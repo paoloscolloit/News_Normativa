@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-26T04:43:50.592436+00:00",
-  "total": 300,
+  "last_updated": "2026-08-27T15:10:12.683008+00:00",
+  "total": 303,
   "items": [
     {
       "id": "3ade5a0368cf1711",
@@ -67,6 +67,48 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601744",
       "pubblicato": "2026-07-24T00:00:00+02:00",
       "processed_at": "2026-08-25T04:39:20.011359+00:00"
+    },
+    {
+      "id": "31a164605228afb4",
+      "titolo_popolare": "Modifiche alle regole interne dell'agenzia chimica UE",
+      "titolo_originale": "OJ:L_202601782: Commission Implementing Regulation (EU) 2026/1782 of 23 July 2026 amending Regulation (EC) No 771/2008 laying down the rules of organisation and procedure of the Board of Appeal of the European Chemicals Agency",
+      "riassunto_esteso": "La Commissione europea ha adottato un regolamento che modifica le norme interne del Board of Appeal dell'Agenzia europea delle sostanze chimiche (ECHA). Le modifiche riguardano l'organizzazione e il funzionamento di questo organo di ricorso, con l'obiettivo di rendere le procedure più efficienti e trasparenti. Il cambiamento è stato introdotto per adeguare le regole alle esigenze operative attuali dell'agenzia e garantire un migliore trattamento dei ricorsi presentati dalle parti interessate. Non introduce nuovi obblighi per cittadini o imprese, ma si limita a migliorare il funzionamento interno dell'istituzione. In pratica, il provvedimento serve a ottimizzare il lavoro degli esperti che valutano le controversie in ambito chimico.",
+      "cosa_cambia": [
+        "Nessun cambiamento diretto per i cittadini o le imprese"
+      ],
+      "chi_interessa": "Gli esperti e i funzionari dell'ECHA e i professionisti del settore chimico che presentano ricorsi",
+      "cosa_devi_fare": "Nessuna azione richiesta",
+      "impatto": "L'atto non produce effetti concreti sui cittadini; serve a migliorare l'efficienza interna dell'agenzia.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601782",
+      "pubblicato": "2026-07-24T00:00:00+02:00",
+      "processed_at": "2026-08-27T15:01:22.636365+00:00"
+    },
+    {
+      "id": "4f4488fc06704808",
+      "titolo_popolare": "Autorizzazione nuovo mangime per tacchini",
+      "titolo_originale": "OJ:L_202601772: Commission Implementing Regulation (EU) 2026/1772 of 23 July 2026 concerning the authorisation of a preparation of alpha-galactosidase produced with Aspergillus tubingensis ATCC SD 6740 and endo-1,4-beta-xylanase produced with Trichoderma orientale CBS 139997 as a feed additive for turkeys for fattening and turkeys reared for reproduction (holder of authorisation: Industrial Técnica Pecuaria, S.A.)",
+      "riassunto_esteso": "La Commissione europea ha autorizzato l'uso di un preparato enzimatico composto da alfa-galattosidasi e xilanasi come additivo nei mangimi per tacchini da ingrasso e da riproduzione. Questi enzimi aiutano a migliorare la digestione dei nutrienti presenti nel mangime, aumentando l'efficienza dell'alimentazione. L'autorizzazione è stata concessa dopo una valutazione di sicurezza che ha confermato l'assenza di rischi per la salute degli animali e per i consumatori. Il provvedimento si applica a partire dalla data di pubblicazione nella Gazzetta ufficiale dell'Unione europea. In questo modo si vuole sostenere la produttività degli allevamenti di tacchini mantenendo alti standard di sicurezza.",
+      "cosa_cambia": [
+        "I mangimi per tacchini possono ora contenere enzimi che migliorano la digestione dei nutrienti.",
+        "Gli allevatori potrebbero ottenere un migliore aumento di peso con la stessa quantità di mangime.",
+        "Non sono richieste modifiche alle etichette dei mangimi già in commercio oltre all'indicazione dell'additivo autorizzato."
+      ],
+      "chi_interessa": "allevatori di tacchini e produttori di mangimi per pollame",
+      "cosa_devi_fare": "nessuna azione richiesta per i cittadini comuni",
+      "impatto": "Migliora l'efficienza alimentare dei tacchini, riducendo potenzialmente i costi di produzione e l'impatto ambientale dell'allevamento.",
+      "data_vigenza": "in vigore dal 23 luglio 2026",
+      "categoria": "Agricoltura e Alimentare",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601772",
+      "pubblicato": "2026-07-24T00:00:00+02:00",
+      "processed_at": "2026-08-27T15:09:37.408287+00:00"
     },
     {
       "id": "9162022795fe09e2",
@@ -1088,6 +1130,26 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601498",
       "pubblicato": "2026-07-23T00:00:00+02:00",
       "processed_at": "2026-08-25T04:32:12.546272+00:00"
+    },
+    {
+      "id": "068cb38dca4d821f",
+      "titolo_popolare": "Nuove regole per l'esecuzione degli ordini delle banche",
+      "titolo_originale": "OJ:L_202600825: Commission Delegated Regulation (EU) 2026/825 of 14 April 2026 supplementing Directive 2014/65/EU of the European Parliament and of the Council with regard to regulatory technical standards specifying the criteria to be taken into account in establishing and assessing the effectiveness of order execution policies of investment firms and repealing Commission Delegated Regulations (EU) 2017/575 and (EU) 2017/576",
+      "riassunto_esteso": "La Commissione europea ha aggiornato gli standard tecnici che le imprese di investimento devono seguire quando eseguono gli ordini dei clienti, nell'ambito della direttiva MiFID II. Queste nuove regole sostituiscono quelle del 2017 e definiscono meglio i criteri per valutare l'efficacia delle politiche di esecuzione degli ordini. L'obiettivo è garantire che le banche offrano il miglior risultato possibile ai clienti, aumentando trasparenza e concorrenza nei mercati finanziari. Il provvedimento riguarda principalmente gli operatori del settore, non i cittadini comuni direttamente.",
+      "cosa_cambia": [
+        "Nessun cambiamento diretto per i cittadini comuni"
+      ],
+      "chi_interessa": "le imprese di investimento (banche e società di intermediazione mobiliare)",
+      "cosa_devi_fare": "nessuna azione richiesta per i cittadini",
+      "impatto": "L'effetto è soprattutto sulle banche, che dovranno migliorare la qualità dell'esecuzione degli ordini; per i cittadini comuni l'impatto è indiretto e limitato.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Banche e Finanza",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202600825",
+      "pubblicato": "2026-07-23T00:00:00+02:00",
+      "processed_at": "2026-08-27T14:58:30.084978+00:00"
     },
     {
       "id": "dc01cfcaec9ec04c",
