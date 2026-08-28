@@ -1,53 +1,5 @@
 [
   {
-    "id": "cf307df603a65e2b",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026D1426: Commission Implementing Decision (EU) 2026/1426 of 25 June 2026 amending the Annex to Implementing Decision (EU) 2023/2447 concerning emergency measures in relation to outbreaks of highly pathogenic avian influenza in certain Member States (notified under document C(2026) 4549)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1426",
-    "pubblicato": "2026-06-30T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-06-30T07:42:23.702669+00:00",
-    "processed": true
-  },
-  {
-    "id": "2925352d2a46a8d3",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026D1467: Council Decision (CFSP) 2026/1467 of 29 June 2026 amending Joint Action 2005/889/CFSP on establishing a European Union Border Assistance Mission for the Rafah Crossing Point (EU BAM Rafah)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1467",
-    "pubblicato": "2026-06-30T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-06-30T07:42:23.702766+00:00",
-    "processed": true
-  },
-  {
-    "id": "a6cacbb55439be18",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026D1416: Commission Implementing Decision (EU) 2026/1416 of 30 June 2026 setting up the European Digital Infrastructure Consortium for Cybersecurity Skills Coalition (CSC-EDIC)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1416",
-    "pubblicato": "2026-07-01T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-07-01T08:00:34.242481+00:00",
-    "processed": true
-  },
-  {
-    "id": "262a1cfc15061733",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026R1164R(02)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1164R(02)",
-    "pubblicato": "2026-07-01T00:00:00+02:00",
-    "summary_raw": "The corrigendum does not concern the English version.",
-    "fetched_at": "2026-07-01T08:00:34.242569+00:00",
-    "processed": true
-  },
-  {
     "id": "0f5ea09008c75ef2",
     "source_id": "eurlex_oj_l",
     "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
@@ -5997,6 +5949,54 @@
     "pubblicato": "2026-08-20T00:00:00+02:00",
     "summary_raw": "This document does not exist in English.",
     "fetched_at": "2026-08-20T04:24:36.559255+00:00",
+    "processed": false
+  },
+  {
+    "id": "9db567da2463ae61",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:42026X1534: UN Regulation No. 129 - Uniform provisions concerning the approval of Enhanced Child Restraint Systems used on board of motor vehicles [2026/1534]",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:42026X1534",
+    "pubblicato": "2026-08-28T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-08-28T15:44:13.084719+00:00",
+    "processed": false
+  },
+  {
+    "id": "98348005f55d776a",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R1310: Commission Delegated Regulation (EU) 2026/1310 of 11 June 2026 supplementing Regulation (EU) 2024/3110 of the European Parliament and of the Council by establishing the applicable assessment and verification systems for product families and categories",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1310",
+    "pubblicato": "2026-08-28T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-08-28T15:44:13.084853+00:00",
+    "processed": false
+  },
+  {
+    "id": "7889439d37992f2c",
+    "source_id": "inps_circolari",
+    "fonte": "INPS — Circolari",
+    "paese": "IT",
+    "titolo_originale": "Circolare numero 90 del 28-08-2026",
+    "url": "https://www.inps.it/it/it/inps-comunica/atti/circolari-messaggi-e-normativa/dettaglio.circolari-e-messaggi.2026.08.circolare-numero-90-del-28-08-2026_15358.html",
+    "pubblicato": "2026-08-28T00:00:00",
+    "summary_raw": "Convenzione fra l’INPS e l’Organizzazione sindacale NURSIND (NURSIND) per la riscossione dei contributi sindacali sulle prestazioni pensionistiche ai sensi della legge 11 agosto 1972, n. 485. Istruzioni operative e contabili. Variazioni al piano dei conti",
+    "fetched_at": "2026-08-28T15:44:13.981132+00:00",
+    "processed": false
+  },
+  {
+    "id": "743517127f47045c",
+    "source_id": "agenzia_entrate",
+    "fonte": "Agenzia delle Entrate",
+    "paese": "IT",
+    "titolo_originale": "Disposizioni attuative dell’articolo 54-bis.1 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, riguardante la liquidazione dell’imposta sul valore aggiunto nel caso di dichiarazioni omesse (provvedimento)",
+    "url": "https://www.agenziaentrate.gov.it/portale/documents/20143/10266323/Provvedimento+liquidazione+IVA+omessa+art.+54-bis.1+dPR+633-72_28.08.26/ea907e5f-f713-c173-ac41-ac7f5bc3f15f",
+    "pubblicato": "2026-08-28T00:00:00+00:00",
+    "summary_raw": "",
+    "fetched_at": "2026-08-28T15:44:14.524188+00:00",
     "processed": false
   }
 ]
