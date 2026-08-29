@@ -1,197 +1,5 @@
 [
   {
-    "id": "0f5ea09008c75ef2",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026R1022: Commission Delegated Regulation (EU) 2026/1022 of 30 June 2026 amending Delegated Regulation (EU) 2015/2446 as regards definitions, customs declarations and data elements related to the temporary EUR 3 customs duty on distance sales of imported goods in a consignment with an intrinsic value not exceeding EUR 150",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1022",
-    "pubblicato": "2026-07-01T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-07-01T08:00:34.242645+00:00",
-    "processed": true
-  },
-  {
-    "id": "3a5ed5676f588ba2",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32022L2464R(09)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32022L2464R(09)",
-    "pubblicato": "2026-07-01T00:00:00+02:00",
-    "summary_raw": "The corrigendum does not concern the English version.",
-    "fetched_at": "2026-07-01T08:00:34.242710+00:00",
-    "processed": true
-  },
-  {
-    "id": "24768ec22bbeb82c",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026O1473: Guideline (EU) 2026/1473 of the European Central Bank of 4 May 2026 amending Guideline (EU) 2022/912 on a new-generation Trans-European Automated Real-time Gross Settlement Express Transfer system (TARGET) (ECB/2022/8) (ECB/2026/11)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026O1473",
-    "pubblicato": "2026-07-01T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-07-01T08:00:34.242770+00:00",
-    "processed": true
-  },
-  {
-    "id": "42f5b92bb1d2c63a",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026D1459: Council Implementing Decision (EU) 2026/1459 of 25 June 2026 on the determination of the date from which personal data relating to dactyloscopic data may be supplied by Member States to Switzerland and Liechtenstein",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1459",
-    "pubblicato": "2026-07-01T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-07-01T08:00:34.242829+00:00",
-    "processed": true
-  },
-  {
-    "id": "53301d911833c755",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026D0077R(01)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D0077R(01)",
-    "pubblicato": "2026-07-01T00:00:00+02:00",
-    "summary_raw": "The corrigendum does not concern the English version.",
-    "fetched_at": "2026-07-01T08:00:34.242891+00:00",
-    "processed": true
-  },
-  {
-    "id": "ba54b67641b8ab0f",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32008L0008R(08)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32008L0008R(08)",
-    "pubblicato": "2026-07-01T00:00:00+02:00",
-    "summary_raw": "The corrigendum does not concern the English version.",
-    "fetched_at": "2026-07-01T08:00:34.242967+00:00",
-    "processed": true
-  },
-  {
-    "id": "f081f0f65992677f",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026D1460: Council Decision (EU) 2026/1460 of 25 June 2026 on the position to be adopted on behalf of the European Union within the EEA Joint Committee concerning an amendment to Protocol 31 to the EEA Agreement on cooperation in specific fields outside the four freedoms (Govsatcom and Secure Connectivity) (Text with EEA relevance)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1460",
-    "pubblicato": "2026-07-01T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-07-01T08:00:34.243028+00:00",
-    "processed": true
-  },
-  {
-    "id": "22f666c861460e1d",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026R1421: Commission Implementing Regulation (EU) 2026/1421 of 30 June 2026 amending Implementing Regulation (EU) No 540/2011 as regards the extension of the approval periods of the active substances bensulfuron, benzovindiflupyr, chlorotoluron, clethodim, cycloxydim, cymoxanil, dazomet, deltamethrin, diclofop, fenazaquin, fluopicolide, hymexazol, lambda-cyhalothrin, MCPA, MCPB, metaldehyde, metsulfuron-methyl, paclobutrazol and tebuconazole",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1421",
-    "pubblicato": "2026-07-01T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-07-01T08:00:34.243086+00:00",
-    "processed": true
-  },
-  {
-    "id": "ed0dcf99e61b0064",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026R0450: Commission Delegated Regulation (EU) 2026/450 of 27 February 2026 amending Regulation (EU) 2019/1241 as regards the establishment of measures to ensure compliance with existing mitigation measures to reduce incidental catches of the resident population of the Baltic Proper harbour porpoise (Phocoena phocoena) in the Baltic Sea",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R0450",
-    "pubblicato": "2026-07-01T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-07-01T08:00:34.243140+00:00",
-    "processed": true
-  },
-  {
-    "id": "f54647af7ce8dfbb",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026O0689R(02)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026O0689R(02)",
-    "pubblicato": "2026-07-01T00:00:00+02:00",
-    "summary_raw": "The corrigendum does not concern the English version.",
-    "fetched_at": "2026-07-01T08:00:34.243196+00:00",
-    "processed": true
-  },
-  {
-    "id": "9105049780a4a368",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026D0564R(01)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D0564R(01)",
-    "pubblicato": "2026-07-01T00:00:00+02:00",
-    "summary_raw": "The corrigendum does not concern the English version.",
-    "fetched_at": "2026-07-01T08:00:34.243255+00:00",
-    "processed": true
-  },
-  {
-    "id": "4da9843e845d6d4c",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32006L0112R(23)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32006L0112R(23)",
-    "pubblicato": "2026-07-01T00:00:00+02:00",
-    "summary_raw": "The corrigendum does not concern the English version.",
-    "fetched_at": "2026-07-01T08:00:34.243316+00:00",
-    "processed": true
-  },
-  {
-    "id": "d0b5a1e174d3ade4",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601520: Decision (EU) 2026/1520 of the European Central Bank of 23 June 2026 granting authorisation to sign agreements with customers of TARGET-ECB (ECB/2026/14)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601520",
-    "pubblicato": "2026-07-02T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-07-02T06:58:27.988754+00:00",
-    "processed": true
-  },
-  {
-    "id": "893195217e24216c",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32017R0392R(02):            Berichtigung der Delegierten Verordnung (EU) 2017/392 der Kommission vom 11. November 2016 zur Ergänzung der Verordnung (EU) Nr. 909/2014 des Europäischen Parlaments und des Rates durch technische Regulierungsstandards für die Zulassung von und für aufsichtliche und operationelle Anforderungen an Zentralverwahrer (ABl. L 65 vom 10.3.2017)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32017R0392R(02)",
-    "pubblicato": "2026-07-02T00:00:00+02:00",
-    "summary_raw": "The corrigendum does not concern the English version.",
-    "fetched_at": "2026-07-02T06:58:27.988869+00:00",
-    "processed": true
-  },
-  {
-    "id": "9c46ad226236eb02",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202690543:            Berichtigung des Beschlusses (GASP) 2021/698 des Rates vom 30. April 2021 über die Sicherheitssysteme und -dienste, die im Rahmen des Weltraumprogramms der Union eingerichtet, betrieben und genutzt werden und die Sicherheit der Union berühren können, sowie zur Aufhebung des Beschlusses 2014/496/GASP (ABl. L 170 vom 12.5.2021)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690543",
-    "pubblicato": "2026-07-02T00:00:00+02:00",
-    "summary_raw": "This document does not exist in English.",
-    "fetched_at": "2026-07-02T06:58:27.988961+00:00",
-    "processed": true
-  },
-  {
-    "id": "c8d3a2f637fb9953",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32016R1199R(10)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32016R1199R(10)",
-    "pubblicato": "2026-07-02T00:00:00+02:00",
-    "summary_raw": "The corrigendum does not concern the English version.",
-    "fetched_at": "2026-07-02T06:58:27.989044+00:00",
-    "processed": true
-  },
-  {
     "id": "3ee07eb1cd0b8ee5",
     "source_id": "eurlex_oj_l",
     "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
@@ -2361,7 +2169,7 @@
     "pubblicato": "2026-07-21T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-21T06:20:21.068598+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "12cee55f828527c1",
@@ -3225,7 +3033,7 @@
     "pubblicato": "2026-07-23T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-23T06:21:48.841721+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "9dff62e76889aca1",
@@ -3357,7 +3165,7 @@
     "pubblicato": "2026-07-24T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-24T06:16:37.065037+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "c1371383ff5a3458",
@@ -3453,7 +3261,7 @@
     "pubblicato": "2026-07-24T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-24T06:16:37.065865+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "1e3db38a0081c088",
@@ -3489,7 +3297,7 @@
     "pubblicato": "2026-07-24T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-24T06:16:37.066160+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "d2502954172a6884",
@@ -3525,7 +3333,7 @@
     "pubblicato": "2026-07-27T00:00:00+02:00",
     "summary_raw": "This document does not exist in English.",
     "fetched_at": "2026-07-27T06:53:12.785140+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "fa1ee1b9acebbbce",
@@ -5997,6 +5805,198 @@
     "pubblicato": "2026-08-28T00:00:00+00:00",
     "summary_raw": "",
     "fetched_at": "2026-08-28T15:44:14.524188+00:00",
+    "processed": false
+  },
+  {
+    "id": "3ea997abe8a3502d",
+    "source_id": "gu_serie_generale",
+    "fonte": "Gazzetta Ufficiale",
+    "paese": "IT",
+    "titolo_originale": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 luglio 2026",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/08/29/26A04297/SG",
+    "pubblicato": "2026-08-29T10:03:12+00:00",
+    "summary_raw": "Proroga dell'affidamento della gestione del consiglio comunale di Aprilia. (26A04297)",
+    "fetched_at": "2026-08-29T10:31:12.999186+00:00",
+    "processed": false
+  },
+  {
+    "id": "3f3ed33bd129731c",
+    "source_id": "gu_serie_generale",
+    "fonte": "Gazzetta Ufficiale",
+    "paese": "IT",
+    "titolo_originale": "MINISTERO DELLA DIFESA - DECRETO 4 agosto 2026",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/08/29/26A04449/SG",
+    "pubblicato": "2026-08-29T10:03:14+00:00",
+    "summary_raw": "Aggiornamento annuale delle paghe nette giornaliere spettanti, a decorrere dal 1° luglio 2026, agli allievi delle Scuole militari. (26A04449)",
+    "fetched_at": "2026-08-29T10:31:12.999336+00:00",
+    "processed": false
+  },
+  {
+    "id": "70d5154ddaa97636",
+    "source_id": "gu_serie_generale",
+    "fonte": "Gazzetta Ufficiale",
+    "paese": "IT",
+    "titolo_originale": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - DECRETO 28 luglio 2026",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/08/29/26A04448/SG",
+    "pubblicato": "2026-08-29T10:03:13+00:00",
+    "summary_raw": "Programmazione fondi per bandi Brevetti+, Marchi+ e Disegni+. (26A04448)",
+    "fetched_at": "2026-08-29T10:31:12.999499+00:00",
+    "processed": false
+  },
+  {
+    "id": "22f60092af45ba67",
+    "source_id": "gu_serie_generale",
+    "fonte": "Gazzetta Ufficiale",
+    "paese": "IT",
+    "titolo_originale": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - DECRETO 30 luglio 2026",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/08/29/26A04199/SG",
+    "pubblicato": "2026-08-29T10:03:09+00:00",
+    "summary_raw": "Sostituzione del commissario liquidatore della «Consorzio provinciale produttori latte Ferrara - Lattestense - Societa' cooperativa agricola in liquidazione», in Ferrara. (26A04199)",
+    "fetched_at": "2026-08-29T10:31:12.999624+00:00",
+    "processed": false
+  },
+  {
+    "id": "f6036c1e077dc2d4",
+    "source_id": "gu_serie_generale",
+    "fonte": "Gazzetta Ufficiale",
+    "paese": "IT",
+    "titolo_originale": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - DECRETO 30 luglio 2026",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/08/29/26A04200/SG",
+    "pubblicato": "2026-08-29T10:03:10+00:00",
+    "summary_raw": "Liquidazione coatta amministrativa della «Consorzio CESA - Societa' cooperativa sociale in liquidazione», in L'Aquila e nomina del commissario liquidatore. (26A04200)",
+    "fetched_at": "2026-08-29T10:31:12.999739+00:00",
+    "processed": false
+  },
+  {
+    "id": "1de602ca53f9314d",
+    "source_id": "gu_serie_generale",
+    "fonte": "Gazzetta Ufficiale",
+    "paese": "IT",
+    "titolo_originale": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - DECRETO 30 luglio 2026",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/08/29/26A04201/SG",
+    "pubblicato": "2026-08-29T10:03:10+00:00",
+    "summary_raw": "Liquidazione coatta amministrativa della «Toscana Care cooperativa sociale a responsabilita' limitata - ONLUS», in Lucca e nomina del commissario liquidatore. (26A04201)",
+    "fetched_at": "2026-08-29T10:31:12.999852+00:00",
+    "processed": false
+  },
+  {
+    "id": "73e6cc1620e6418d",
+    "source_id": "gu_serie_generale",
+    "fonte": "Gazzetta Ufficiale",
+    "paese": "IT",
+    "titolo_originale": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - DECRETO 30 luglio 2026",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/08/29/26A04202/SG",
+    "pubblicato": "2026-08-29T10:03:11+00:00",
+    "summary_raw": "Liquidazione coatta amministrativa della «Twin Service societa' cooperativa», in Milano e nomina del commissario liquidatore. (26A04202)",
+    "fetched_at": "2026-08-29T10:31:12.999963+00:00",
+    "processed": false
+  },
+  {
+    "id": "5889da19422c5a6c",
+    "source_id": "gu_serie_generale",
+    "fonte": "Gazzetta Ufficiale",
+    "paese": "IT",
+    "titolo_originale": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - DECRETO 30 luglio 2026",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/08/29/26A04203/SG",
+    "pubblicato": "2026-08-29T10:03:11+00:00",
+    "summary_raw": "Liquidazione coatta amministrativa della «Societa' cooperativa Up in liquidazione», in Paullo e nomina del commissario liquidatore. (26A04203)",
+    "fetched_at": "2026-08-29T10:31:13.000103+00:00",
+    "processed": false
+  },
+  {
+    "id": "65c8eb8af174ffa4",
+    "source_id": "gu_serie_generale",
+    "fonte": "Gazzetta Ufficiale",
+    "paese": "IT",
+    "titolo_originale": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - DECRETO 30 luglio 2026",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/08/29/26A04204/SG",
+    "pubblicato": "2026-08-29T10:03:11+00:00",
+    "summary_raw": "Liquidazione coatta amministrativa della «Cantiere navale Polesano societa' cooperativa» in sigla «C.N.P.S.C.», in Porto Viro e nomina del commissario liquidatore. (26A04204)",
+    "fetched_at": "2026-08-29T10:31:13.000213+00:00",
+    "processed": false
+  },
+  {
+    "id": "c646cf9283f198f5",
+    "source_id": "gu_serie_generale",
+    "fonte": "Gazzetta Ufficiale",
+    "paese": "IT",
+    "titolo_originale": "COMITATO INTERMINISTERIALE PER LA PROGRAMMAZIONE ECONOMICA E LO SVILUPPO SOSTENIBILE - DELIBERA 10 giugno 2026",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/08/29/26A04298/SG",
+    "pubblicato": "2026-08-29T10:03:12+00:00",
+    "summary_raw": "Sisma Abruzzo - Intervento di restauro sulla chiesa di «S. Maria del Carmine» in Pescina (AQ). Assegnazione risorse. (Delibera n. 24/2026). (26A04298)",
+    "fetched_at": "2026-08-29T10:31:13.000318+00:00",
+    "processed": false
+  },
+  {
+    "id": "0e09e56a1dd1f9a2",
+    "source_id": "gu_serie_generale",
+    "fonte": "Gazzetta Ufficiale",
+    "paese": "IT",
+    "titolo_originale": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/08/29/26A04452/SG",
+    "pubblicato": "2026-08-29T10:03:14+00:00",
+    "summary_raw": "Autorizzazione all'importazione parallela del medicinale per uso umano «Emla» (26A04452)",
+    "fetched_at": "2026-08-29T10:31:13.000446+00:00",
+    "processed": false
+  },
+  {
+    "id": "36e1ad4f842848d2",
+    "source_id": "gu_serie_generale",
+    "fonte": "Gazzetta Ufficiale",
+    "paese": "IT",
+    "titolo_originale": "AUTORITA' DI BACINO DISTRETTUALE DELLE ALPI ORIENTALI - COMUNICATO",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/08/29/26A04299/SG",
+    "pubblicato": "2026-08-29T10:03:12+00:00",
+    "summary_raw": "Aggiornamento della pericolosita' idraulica nel Comune di Forni di Sopra (26A04299)",
+    "fetched_at": "2026-08-29T10:31:13.000553+00:00",
+    "processed": false
+  },
+  {
+    "id": "721c24e5040b5673",
+    "source_id": "gu_serie_generale",
+    "fonte": "Gazzetta Ufficiale",
+    "paese": "IT",
+    "titolo_originale": "MINISTERO DEGLI AFFARI ESTERI E DELLA COOPERAZIONE INTERNAZIONALE - COMUNICATO",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/08/29/26A04322/SG",
+    "pubblicato": "2026-08-29T10:03:13+00:00",
+    "summary_raw": "Rilascio di exequatur (26A04322)",
+    "fetched_at": "2026-08-29T10:31:13.000649+00:00",
+    "processed": false
+  },
+  {
+    "id": "e2e5db12bc1ea042",
+    "source_id": "gu_serie_generale",
+    "fonte": "Gazzetta Ufficiale",
+    "paese": "IT",
+    "titolo_originale": "MINISTERO DEGLI AFFARI ESTERI E DELLA COOPERAZIONE INTERNAZIONALE - COMUNICATO",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/08/29/26A04323/SG",
+    "pubblicato": "2026-08-29T10:03:13+00:00",
+    "summary_raw": "Rilascio di exequatur (26A04323)",
+    "fetched_at": "2026-08-29T10:31:13.000745+00:00",
+    "processed": false
+  },
+  {
+    "id": "921ce26d5f9c9172",
+    "source_id": "gu_serie_generale",
+    "fonte": "Gazzetta Ufficiale",
+    "paese": "IT",
+    "titolo_originale": "MINISTERO DEGLI AFFARI ESTERI E DELLA COOPERAZIONE INTERNAZIONALE - COMUNICATO",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/08/29/26A04447/SG",
+    "pubblicato": "2026-08-29T10:03:13+00:00",
+    "summary_raw": "Rilascio di exequatur (26A04447)",
+    "fetched_at": "2026-08-29T10:31:13.000838+00:00",
+    "processed": false
+  },
+  {
+    "id": "2f419536e53f130b",
+    "source_id": "gu_serie_generale",
+    "fonte": "Gazzetta Ufficiale",
+    "paese": "IT",
+    "titolo_originale": "MINISTERO DELL'UNIVERSITA' E DELLA RICERCA - COMUNICATO",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/08/29/26A04549/SG",
+    "pubblicato": "2026-08-29T10:03:15+00:00",
+    "summary_raw": "Avviso relativo all'emanazione del decreto 30 gennaio 2026, recante modifiche al decreto 14 novembre 2025, di istituzione dell'elenco degli enti certificatori della lingua italiana come seconda lingua (L2) e definizione delle procedure di accreditamento, verifica e monitoraggio. (26A04549)",
+    "fetched_at": "2026-08-29T10:31:13.000938+00:00",
     "processed": false
   }
 ]
