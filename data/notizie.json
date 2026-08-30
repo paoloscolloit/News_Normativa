@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-29T10:46:27.974614+00:00",
-  "total": 275,
+  "last_updated": "2026-08-30T09:50:33.381174+00:00",
+  "total": 264,
   "items": [
     {
       "id": "6c1a9cda8059a376",
@@ -21,6 +21,28 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690625",
       "pubblicato": "2026-07-27T00:00:00+02:00",
       "processed_at": "2026-08-29T10:45:55.568798+00:00"
+    },
+    {
+      "id": "652967ba6c57e2f2",
+      "titolo_popolare": "Registrazione dell'iniziativa cittadina 'All On Board'",
+      "titolo_originale": "OJ:L_202601870: Commission Implementing Decision (EU) 2026/1870 of 17 July 2026 on the request for registration, pursuant to Regulation (EU) 2019/788 of the European Parliament and of the Council, of the European citizens’ initiative entitled All On Board – For your right to citizenship without borders (notified under document C(2026) 4639)",
+      "riassunto_esteso": "La decisione della Commissione europea registra l'iniziativa dei cittadini intitolata 'All On Board – For your right to citizenship without borders'. Con questa registrazione, l'iniziativa può iniziare la fase di raccolta firme in tutti gli Stati membri. Se raggiungerà almeno un milione di firme provenienti da almeno sette paesi diversi, la Commissione sarà obbligata a esaminare la richiesta e decidere se proporre un atto legislativo. L'atto serve a dare seguito al diritto di iniziativa dei cittadini previsto dai trattati UE.",
+      "cosa_cambia": [
+        "I cittadini dell'UE possono ora firmare l'iniziativa 'All On Board' quando sarà aperta la raccolta firme.",
+        "L'iniziativa potrà procedere alla fase di raccolta firme necessaria per raggiungere il milione di firme richiesto.",
+        "Se l'obiettivo sarà raggiunto, la Commissione dovrà valutare la proposta di una cittadinanza europea senza frontiere."
+      ],
+      "chi_interessa": "tutti i cittadini dell'Unione Europea",
+      "cosa_devi_fare": "nessuna azione richiesta; chi desidera può firmare l'iniziativa quando sarà aperta la raccolta firme.",
+      "impatto": "Permette di avviare una raccolta firme su un tema di cittadinanza europea, aumentando la partecipazione democratica e la visibilità della proposta.",
+      "data_vigenza": "in vigore dal 17 luglio 2026",
+      "categoria": "Giustizia e Diritti",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601870",
+      "pubblicato": "2026-07-27T00:00:00+02:00",
+      "processed_at": "2026-08-30T09:48:42.606671+00:00"
     },
     {
       "id": "3ade5a0368cf1711",
@@ -195,6 +217,28 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601785",
       "pubblicato": "2026-07-24T00:00:00+02:00",
       "processed_at": "2026-08-29T10:44:38.376230+00:00"
+    },
+    {
+      "id": "97ef2fcefffef285",
+      "titolo_popolare": "Autorizzato il timo di basilico come additivo per mangimi",
+      "titolo_originale": "OJ:L_202601786: Commission Implementing Regulation (EU) 2026/1786 of 23 July 2026 concerning the authorisation of basil tincture from Ocimum basilicum L. as a feed additive for all animal species",
+      "riassunto_esteso": "La Commissione europea ha autorizzato l'uso della tintura di basilico estratta da Ocimum basilicum L. come additivo nei mangimi per tutte le specie animali. Questa decisione segue una valutazione di sicurezza che ha dimostrato che il prodotto non presenta rischi per la salute degli animali, dei consumatori o dell'ambiente. L'autorizzazione permette agli operatori del settore mangimi di includere questo estratto naturale nelle loro formulazioni, ampliando le opzioni disponibili oltre agli additivi sintetici. L'obiettivo è promuovere l'uso di ingredienti più naturali e sostenibili nell'alimentazione animale. La misura entra in vigore subito dopo la sua pubblicazione nella Gazzetta Ufficiale dell'Unione Europea.",
+      "cosa_cambia": [
+        "Gli allevatori possono ora utilizzare la tintura di basilico nei mangimi dei loro animali",
+        "I produttori di mangimi hanno a disposizione un nuovo additivo naturale da inserire nelle loro ricette",
+        "Viene ampliata la gamma di additivi autorizzati, riducendo la dipendenza da sostanze sintetiche"
+      ],
+      "chi_interessa": "allevatori di bestiame e produttori di mangimi",
+      "cosa_devi_fare": "nessuna azione richiesta per i consumatori; gli operatori del settore possono iniziare a usarlo rispettando le condizioni",
+      "impatto": "Maggiore disponibilità di additivi naturali nei mangimi, con possibili benefici per la salute degli animali e per la sostenibilità della produzione animale.",
+      "data_vigenza": "in vigore dal giorno successivo alla pubblicazione nella Gazzetta Ufficiale dell'UE",
+      "categoria": "Agricoltura e Alimentare",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601786",
+      "pubblicato": "2026-07-24T00:00:00+02:00",
+      "processed_at": "2026-08-30T09:43:33.774551+00:00"
     },
     {
       "id": "9162022795fe09e2",
@@ -1259,6 +1303,29 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601717",
       "pubblicato": "2026-07-23T00:00:00+02:00",
       "processed_at": "2026-08-29T10:37:12.092429+00:00"
+    },
+    {
+      "id": "3b206d2c614b4abd",
+      "titolo_popolare": "Aggiornamento delle regole su animali e piante per il commercio",
+      "titolo_originale": "OJ:L_202601502: Decision of the EEA Joint Committee No 119/2026 of 30 April 2026 amending Annex I (Veterinary and phytosanitary matters) to the EEA Agreement [2026/1502]",
+      "riassunto_esteso": "La decisione del Comitato congiunto SEE del 30 aprile 2026 modifica l'allegato I dell'accordo SEE, che riguarda le questioni veterinarie e fitosanitarie. L'aggiornamento introduce nuovi requisiti per il controllo di animali, piante e prodotti alimentari che attraversano le frontiere tra gli Stati SEE e l'Unione europea. Lo scopo è allineare le norme SEE agli ultimi sviluppi della normativa UE in materia di sicurezza alimentare e salute delle piante e degli animali. In questo modo si vuole prevenire l'ingresso di malattie e parassiti pericolosi, garantendo un livello elevato di protezione per consumatori e ambiente.",
+      "cosa_cambia": [
+        "Gli importatori di animali vivi dovranno presentare certificati veterinari più dettagliati rispetto al passato.",
+        "Le imprese che esportano piante o prodotti vegetali dovranno rispettare nuove norme fitosanitarie di controllo alle frontiere.",
+        "I controlli doganali sulle carni e sui prodotti lattiero-caseari potranno diventare più rigorosi, con possibili ritardi nelle spedizioni.",
+        "I consumatori potranno beneficiare di una maggiore sicurezza sui prodotti alimentari importati, grazie a standard più elevati."
+      ],
+      "chi_interessa": "imprese di import/export di animali, piante e prodotti alimentari, nonché i consumatori finali",
+      "cosa_devi_fare": "Verificare che i propri certificati veterinari e fitosanitari siano aggiornati secondo le nuove richieste prima di effettuare spedizioni SEE.",
+      "impatto": "Le imprese dovranno affrontare eventuali costi aggiuntivi per adeguarsi alle nuove procedure, mentre i consumatori godranno di una maggiore tutela contro rischi sanitari legati agli scambi internazionali.",
+      "data_vigenza": "in vigore dal 30 aprile 2026",
+      "categoria": "Agricoltura e Alimentare",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601502",
+      "pubblicato": "2026-07-23T00:00:00+02:00",
+      "processed_at": "2026-08-30T09:36:43.812585+00:00"
     },
     {
       "id": "dc01cfcaec9ec04c",
@@ -5655,302 +5722,6 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601428",
       "pubblicato": "2026-07-02T00:00:00+02:00",
       "processed_at": "2026-07-04T06:40:06.402251+00:00"
-    },
-    {
-      "id": "262a1cfc15061733",
-      "titolo_popolare": "Correzione di errori nelle versioni non inglesi di un regolamento UE",
-      "titolo_originale": "CELEX:32026R1164R(02)",
-      "riassunto_esteso": "Questo atto è un corrigendum, cioè una correzione, di un regolamento europeo pubblicato nel 2026. La correzione riguarda solo le versioni linguistiche diverse dall'inglese, fixing errori di traduzione o di stampa. Non modifica il contenuto sostanziale della norma, quindi non introduce nuovi obblighi o diritti. È stato adottato per garantire che tutti i testi ufficiali nelle lingue dell'UE siano coerenti e privi di refusi. Per i cittadini italiani non cambia nulla nella pratica quotidiana.",
-      "cosa_cambia": [
-        "nessuna modifica sostanziale per i cittadini"
-      ],
-      "chi_interessa": "nessun gruppo specifico di cittadini",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "nessun impatto pratico; serve solo a correggere errori di traduzione nelle versioni linguistiche del regolamento",
-      "data_vigenza": "in vigore da subito",
-      "categoria": "Iter Legislativo",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1164R(02)",
-      "pubblicato": "2026-07-01T00:00:00+02:00",
-      "processed_at": "2026-07-01T08:08:39.128100+00:00"
-    },
-    {
-      "id": "3a5ed5676f588ba2",
-      "titolo_popolare": "Correzione tecnica di un atto UE, nessuna modifica sostanziale",
-      "titolo_originale": "CELEX:32022L2464R(09)",
-      "riassunto_esteso": "Il documento è un corrigendum, cioè una correzione di errori materiali presenti nelle versioni non inglesi di un atto dell'Unione Europea. Non introduce nuove disposizioni né modifica il contenuto sostanziale della norma originale. Lo scopo è semplicemente allineare i testi delle varie lingue ufficiali, eliminando refusi o incoerenze di traduzione. In questo modo si garantisce maggiore certezza giuridica e uniformità nell'applicazione della norma negli Stati membri. Poiché la correzione riguarda solo la forma linguistica, non ci sono effetti pratici per i cittadini o le imprese.",
-      "cosa_cambia": [
-        "nessuna modifica sostanziale per i cittadini"
-      ],
-      "chi_interessa": "nessun cittadino in particolare",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "nessun impatto pratico; serve solo a correggere errori di lingua nei testi ufficiali.",
-      "data_vigenza": "in vigore da subito",
-      "categoria": "Iter Legislativo",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32022L2464R(09)",
-      "pubblicato": "2026-07-01T00:00:00+02:00",
-      "processed_at": "2026-07-01T08:09:47.787584+00:00"
-    },
-    {
-      "id": "ba54b67641b8ab0f",
-      "titolo_popolare": "Correzione di un atto dell'Unione Europea",
-      "titolo_originale": "CELEX:32008L0008R(08)",
-      "riassunto_esteso": "Questo atto è un corrigendum, cioè una correzione tecnica, di un precedente atto dell'Unione Europea. La correzione si limita alle versioni linguistiche diverse dall'inglese, risolvendo eventuali errori di traduzione o di forma. Non introduce nuove disposizioni né modifica il contenuto sostanziale dell'atto originale. L'obiettivo è garantire che tutti i testi ufficiali nelle varie lingue siano coerenti e privi di refusi. In questo modo si evita confusione nell'applicazione della norma nei diversi Stati membri.",
-      "cosa_cambia": [
-        "nessuna modifica diretta per i cittadini"
-      ],
-      "chi_interessa": "nessun gruppo specifico di cittadini",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "nessun impatto concreto sui cittadini, poiché l'atto si limita a correzioni di forma senza cambiare diritti o obblighi. Quindi non comporta cambiamenti nella vita quotidiana.",
-      "data_vigenza": "non specificato",
-      "categoria": "Iter Legislativo",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32008L0008R(08)",
-      "pubblicato": "2026-07-01T00:00:00+02:00",
-      "processed_at": "2026-07-01T08:12:46.323897+00:00"
-    },
-    {
-      "id": "f54647af7ce8dfbb",
-      "titolo_popolare": "Correzione tecnica al regolamento UE",
-      "titolo_originale": "CELEX:32026O0689R(02)",
-      "riassunto_esteso": "Il documento è un corrigendum che corregge errori di traduzione nelle versioni linguistiche del regolamento europeo, senza modificare il contenuto sostanziale della norma. Non riguarda la versione inglese, quindi le correzioni si applicano alle altre lingue ufficiali dell'Unione. L'adozione di questo atto serve a garantire che tutti i testi ufficiali siano coerenti e privi di refusi, evitando possibili interpretazioni divergenti. Non introduce nuovi obblighi o diritti per i cittadini o le imprese. È una misura puramente tecnica di miglioramento della qualità legislativa.",
-      "cosa_cambia": [
-        "nessuna modifica sostanziale per i cittadini"
-      ],
-      "chi_interessa": "nessun gruppo specifico",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "nessun impatto concreto sulle persone; serve solo a correggere i testi di legge nelle varie lingue ufficiali.",
-      "data_vigenza": "in vigore da subito",
-      "categoria": "Iter Legislativo",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026O0689R(02)",
-      "pubblicato": "2026-07-01T00:00:00+02:00",
-      "processed_at": "2026-07-01T08:15:51.282654+00:00"
-    },
-    {
-      "id": "9105049780a4a368",
-      "titolo_popolare": "Correzione di un atto UE senza effetti pratici",
-      "titolo_originale": "CELEX:32026D0564R(01)",
-      "riassunto_esteso": "Il documento è un corrigendum, cioè una correzione di errori materiali presenti in alcune versioni linguistiche di un atto dell'Unione Europea. La correzione non riguarda la versione inglese, quindi si limita a lingue come francese, tedesco, spagnolo o altre. L'obiettivo è allineare i testi ufficiali nelle varie lingue, garantendo che siano identici dal punto di vista sostanziale. Non introduce nuove disposizioni né modifica quelli già esistenti. Per i cittadini italiani non comporta alcun cambiamento concreto.",
-      "cosa_cambia": [
-        "Nessun cambiamento concreto per i cittadini"
-      ],
-      "chi_interessa": "nessun gruppo specifico di cittadini",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "nessun impatto concreto sui cittadini; serve solo a correggere testi in alcune lingue ufficiali dell'UE.",
-      "data_vigenza": "non specificato",
-      "categoria": "Iter Legislativo",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D0564R(01)",
-      "pubblicato": "2026-07-01T00:00:00+02:00",
-      "processed_at": "2026-07-01T08:16:26.541576+00:00"
-    },
-    {
-      "id": "a6cacbb55439be18",
-      "titolo_popolare": "Nuovo consorzio europeo per migliorare le competenze in cybersecurity",
-      "titolo_originale": "CELEX:32026D1416: Commission Implementing Decision (EU) 2026/1416 of 30 June 2026 setting up the European Digital Infrastructure Consortium for Cybersecurity Skills Coalition (CSC-EDIC)",
-      "riassunto_esteso": "La decisione istituisce il European Digital Infrastructure Consortium for Cybersecurity Skills Coalition (CSC-EDIC), un consorzio volto a rafforzare le competenze in materia di cybersecurity a livello europeo. Attraverso la condivisione di buone pratiche, la realizzazione di programmi di formazione comuni e la promozione di certificazioni riconosciute, il consorzio mira a colmare il divario di competenze nel settore. L'iniziativa nasce dalla crescente minaccia di attacchi informatici e dalla necessità di disporre di una forza lavoro qualificata per proteggere le infrastrutture digitali dell'UE. Il consorzio coinvolgerà autorità nazionali, imprese e istituzioni educative per sviluppare standard e percorsi di apprendimento accessibili. In questo modo si punta a migliorare la resilienza complessiva del continente contro le cyber‑minacce.",
-      "cosa_cambia": [
-        "Maggiori opportunità di formazione gratuita o a costo ridotto in cybersecurity per cittadini e lavoratori",
-        "Migliore protezione dei servizi online pubblici grazie a standard di sicurezza condivisi a livello europeo",
-        "Possibilità di ottenere certificazioni riconosciute in tutti gli Stati membri dell'UE",
-        "Accesso a risorse e materiali didattici aggiornati sulle ultime minacce e difese informatiche"
-      ],
-      "chi_interessa": "tutti i cittadini e le imprese che utilizzano servizi digitali",
-      "cosa_devi_fare": "Nessuna azione richiesta direttamente; eventuali corsi o certificazioni saranno comunicati dagli enti nazionali",
-      "impatto": "Miglioramento della sicurezza online e aumento delle competenze nel settore, contribuendo a ridurre il rischio di attacchi informatici. Questo si traduce in maggiore fiducia nei servizi digitali e minori danni economici per cittadini e imprese.",
-      "data_vigenza": "in vigore dal 30 giugno 2026",
-      "categoria": "Digitale e Privacy",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1416",
-      "pubblicato": "2026-07-01T00:00:00+02:00",
-      "processed_at": "2026-07-02T07:08:27.256053+00:00"
-    },
-    {
-      "id": "53301d911833c755",
-      "titolo_popolare": "Correzione di un atto europeo",
-      "titolo_originale": "CELEX:32026D0077R(01)",
-      "riassunto_esteso": "Il documento è un corrigendum, cioè una correzione di errori materiali presenti in alcune versioni linguistiche di un atto dell'Unione Europea. Non riguarda la versione inglese, ma si occupa di allineare le altre lingue al testo originale. L'obiettivo è garantire che tutti i testi ufficiali siano identici e privi di refusi, evitando possibili confusioni nell'interpretazione delle norme. Questa correzione non introduce nuovi diritti o obblighi, ma migliora la qualità della documentazione giuridica. In pratica, serve a mantenere l'uniformità e la chiarezza della normativa europea nei diversi Stati membri.",
-      "cosa_cambia": [
-        "Nessuna modifica sostanziale dei diritti o degli obblighi per i cittadini",
-        "I testi ufficiali nelle lingue diverse dall'inglese sono stati corretti e allineati alla versione originale"
-      ],
-      "chi_interessa": "chi consulta gli atti ufficiali dell'UE in lingue diverse dall'inglese",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "Garantisce che i testi siano corretti e uniformi, riducendo il rischio di interpretazioni errate delle norme. Questo contribuisce a maggiore certezza giuridica per cittadini e imprese.",
-      "data_vigenza": "in vigore da subito",
-      "categoria": "Iter Legislativo",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D0077R(01)",
-      "pubblicato": "2026-07-01T00:00:00+02:00",
-      "processed_at": "2026-07-02T07:13:08.750702+00:00"
-    },
-    {
-      "id": "0f5ea09008c75ef2",
-      "titolo_popolare": "Nuove regole per la tassa di 3 € sulle vendite a distanza",
-      "titolo_originale": "CELEX:32026R1022: Commission Delegated Regulation (EU) 2026/1022 of 30 June 2026 amending Delegated Regulation (EU) 2015/2446 as regards definitions, customs declarations and data elements related to the temporary EUR 3 customs duty on distance sales of imported goods in a consignment with an intrinsic value not exceeding EUR 150",
-      "riassunto_esteso": "Il Regolamento delegato UE 2026/1022 modifica il precedente regolamento del 2015 per precisare le definizioni, le dichiarazioni doganali e gli elementi di dato relativi alla tassa temporanea di 3 euro sui pacchi importati con valore intrinseco non superiore a 150 euro. La modifica è nata per rendere più chiaro cosa si intende per valore intrinseco e per uniformare le informazioni che gli operatori devono fornire alla dogana. In pratica, chi vende online a clienti dell’UE deve indicare nuovi codici e descrizioni nei moduli di importazione, così da facilitare il controllo e l’applicazione della tassa. L’obiettivo è semplificare le procedure e garantire che la tassa sia applicata correttamente solo ai pacchi entro il limite di valore previsto.",
-      "cosa_cambia": [
-        "Viene definita con precisione la nozione di “valore intrinseco” dei pacchi fino a 150 euro",
-        "Le dichiarazioni doganali devono includere nuovi campi obbligatori per identificare la merce e il valore",
-        "I sistemi informatici delle imprese devono aggiornare i codici di tariffa per la tassa di 3 euro"
-      ],
-      "chi_interessa": "tutti i venditori online che spediscono merci dall’estero verso l’UE e i loro spedizionieri",
-      "cosa_devi_fare": "Aggiornare i moduli doganali e i software di spedizione con i nuovi codici e le nuove definizioni entro il prossimo mese.",
-      "impatto": "Le dogane potranno verificare più facilmente la corretta applicazione della tassa di 3 euro, evitando errori e ritardi nelle consegne.",
-      "data_vigenza": "dal 1 luglio 2026",
-      "categoria": "Imprese e Mercato",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1022",
-      "pubblicato": "2026-07-01T00:00:00+02:00",
-      "processed_at": "2026-07-03T06:56:13.782755+00:00"
-    },
-    {
-      "id": "24768ec22bbeb82c",
-      "titolo_popolare": "Nuove regole per il sistema di pagamenti TARGET",
-      "titolo_originale": "CELEX:32026O1473: Guideline (EU) 2026/1473 of the European Central Bank of 4 May 2026 amending Guideline (EU) 2022/912 on a new-generation Trans-European Automated Real-time Gross Settlement Express Transfer system (TARGET) (ECB/2022/8) (ECB/2026/11)",
-      "riassunto_esteso": "La Banca Centrale Europea ha aggiornato le linee guida che disciplinano il sistema di pagamenti transfrontalieri TARGET, introdotto nel 2022. L’obiettivo è rendere il sistema più veloce, sicuro e compatibile con le nuove tecnologie digitali, garantendo una migliore gestione dei flussi di denaro tra le banche europee. Le modifiche includono requisiti più stringenti per la resilienza operativa, l’adozione di standard di messaggistica più moderni e nuove regole per la trasparenza dei costi. Questa revisione è stata adottata per sostenere la crescita del mercato unico e per rispondere alle richieste di efficienza del settore finanziario.",
-      "cosa_cambia": [
-        "Le banche devono adeguare i propri sistemi al nuovo standard di messaggistica previsto dal TARGET aggiornato.",
-        "Vengono introdotti requisiti più severi di continuità operativa e sicurezza informatica.",
-        "I costi di utilizzo del sistema devono essere comunicati in modo più chiaro ai clienti."
-      ],
-      "chi_interessa": "tutte le banche e gli istituti di pagamento che operano nell'area SEPA",
-      "cosa_devi_fare": "Aggiornare i sistemi informatici e le procedure interne entro il 31 dicembre 2026 per rispettare le nuove linee guida.",
-      "impatto": "Pagamenti più rapidi e sicuri tra paesi europei, con maggiore trasparenza sui costi per le imprese e i consumatori.",
-      "data_vigenza": "dal 1 gennaio 2027",
-      "categoria": "Altro",
-      "importanza": 3,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026O1473",
-      "pubblicato": "2026-07-01T00:00:00+02:00",
-      "processed_at": "2026-07-03T06:56:33.990068+00:00"
-    },
-    {
-      "id": "42f5b92bb1d2c63a",
-      "titolo_popolare": "Quando l'UE può inviare dati delle impronte a Svizzera e Liechtenstein",
-      "titolo_originale": "CELEX:32026D1459: Council Implementing Decision (EU) 2026/1459 of 25 June 2026 on the determination of the date from which personal data relating to dactyloscopic data may be supplied by Member States to Switzerland and Liechtenstein",
-      "riassunto_esteso": "Il Consiglio europeo ha deciso, con una decisione di attuazione, la data a partire dalla quale gli Stati membri potranno trasferire dati personali relativi alle impronte digitali verso la Svizzera e il Liechtenstein. Questa misura nasce per garantire che lo scambio di informazioni biometriche avvenga nel rispetto delle norme sulla protezione dei dati, dopo che è stata verificata la conformità dei due paesi alle regole UE. La decisione fissa un termine preciso, così da dare certezza sia alle autorità che ai cittadini. In pratica, dal giorno stabilito i paesi dell'UE potranno condividere questi dati per finalità di sicurezza e di identificazione, senza dover attendere ulteriori autorizzazioni. L'obiettivo è facilitare la cooperazione transfrontaliera mantenendo alti standard di privacy.",
-      "cosa_cambia": [
-        "Dal giorno indicato gli Stati membri potranno inviare dati di impronte digitali a Svizzera e Liechtenstein.",
-        "Le autorità di polizia e di frontiera potranno scambiare queste informazioni più rapidamente.",
-        "I cittadini vedranno garantito che il trasferimento avvenga secondo le regole UE sulla privacy."
-      ],
-      "chi_interessa": "autorità di polizia, dogane, agenzie di sicurezza di tutti gli Stati membri, e i cittadini le cui impronte sono raccolte",
-      "cosa_devi_fare": "Nessuna azione richiesta ai cittadini; le autorità devono rispettare la data stabilita per lo scambio.",
-      "impatto": "Facilita la cooperazione in materia di sicurezza e identificazione transfrontaliera, mantenendo la tutela dei dati personali.",
-      "data_vigenza": "dal 1 ottobre 2026",
-      "categoria": "Digitale e Privacy",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1459",
-      "pubblicato": "2026-07-01T00:00:00+02:00",
-      "processed_at": "2026-07-03T06:57:07.627429+00:00"
-    },
-    {
-      "id": "f081f0f65992677f",
-      "titolo_popolare": "Nuove regole UE per Govsatcom e connessioni sicure",
-      "titolo_originale": "CELEX:32026D1460: Council Decision (EU) 2026/1460 of 25 June 2026 on the position to be adopted on behalf of the European Union within the EEA Joint Committee concerning an amendment to Protocol 31 to the EEA Agreement on cooperation in specific fields outside the four freedoms (Govsatcom and Secure Connectivity) (Text with EEA relevance)",
-      "riassunto_esteso": "Il Consiglio UE ha deciso la posizione da assumere nel Comitato congiunto SEE per modificare il Protocollo 31 dell'Accordo SEE. La modifica introduce norme specifiche per la cooperazione tra gli Stati membri in settori al di fuori delle quattro libertà, in particolare per le comunicazioni satellitari governative (Govsatcom) e per le reti di connettività sicura. L'obiettivo è garantire una maggiore sicurezza, interoperabilità e coordinamento tra i paesi partecipanti, rispondendo alle crescenti minacce cibernetiche e alle esigenze di comunicazione critica. La decisione è stata adottata per rafforzare la resilienza delle infrastrutture digitali europee e per armonizzare gli standard tecnici tra i paesi SEE.",
-      "cosa_cambia": [
-        "Le autorità pubbliche dovranno adottare standard comuni per le comunicazioni satellitari governative.",
-        "Le imprese di telecomunicazioni dovranno garantire connessioni sicure secondo le nuove linee guida UE.",
-        "Verrà istituito un meccanismo di scambio di informazioni tra gli Stati membri per le minacce cibernetiche legate a Govsatcom."
-      ],
-      "chi_interessa": "autorità pubbliche, operatori di telecomunicazioni, fornitori di servizi di connettività critica e cittadini che usano servizi governativi digitali",
-      "cosa_devi_fare": "Adeguare le proprie infrastrutture e protocolli alle nuove linee guida UE entro i termini stabiliti.",
-      "impatto": "Migliora la sicurezza delle comunicazioni governative e delle reti critiche, riducendo il rischio di attacchi informatici.",
-      "data_vigenza": "in vigore da subito, con attuazione entro 12 mesi dalla pubblicazione",
-      "categoria": "Digitale e Privacy",
-      "importanza": 3,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1460",
-      "pubblicato": "2026-07-01T00:00:00+02:00",
-      "processed_at": "2026-07-03T06:57:35.258093+00:00"
-    },
-    {
-      "id": "22f666c861460e1d",
-      "titolo_popolare": "Estensione dei termini di autorizzazione per 20 pesticidi",
-      "titolo_originale": "CELEX:32026R1421: Commission Implementing Regulation (EU) 2026/1421 of 30 June 2026 amending Implementing Regulation (EU) No 540/2011 as regards the extension of the approval periods of the active substances bensulfuron, benzovindiflupyr, chlorotoluron, clethodim, cycloxydim, cymoxanil, dazomet, deltamethrin, diclofop, fenazaquin, fluopicolide, hymexazol, lambda-cyhalothrin, MCPA, MCPB, metaldehyde, metsulfuron-methyl, paclobutrazol and tebuconazole",
-      "riassunto_esteso": "Il regolamento UE 2026/1421 modifica il precedente regolamento d'attuazione n. 540/2011 per prolungare la durata delle autorizzazioni di uso di venti sostanze attive impiegate nei pesticidi. La decisione nasce dalla necessità di garantire continuità nella disponibilità di prodotti agricoli già valutati, evitando interruzioni per gli agricoltori. Le autorità hanno verificato che i rischi per la salute umana e per l'ambiente rimangono accettabili, così da poter confermare le autorizzazioni senza richiedere nuove valutazioni complete. L’estensione è temporanea e soggetta a future revisioni. L’obiettivo è sostenere la produzione agricola europea mantenendo al contempo gli standard di sicurezza.",
-      "cosa_cambia": [
-        "Le autorizzazioni per i 20 pesticidi elencati sono prorogate per un periodo più lungo.",
-        "Gli agricoltori potranno continuare a usare questi prodotti senza dover attendere nuove autorizzazioni.",
-        "Le aziende produttrici non dovranno presentare nuove domande di rinnovo immediatamente."
-      ],
-      "chi_interessa": "agricoltori, produttori di pesticidi, distributori di prodotti fitosanitari",
-      "cosa_devi_fare": "Nessuna azione immediata richiesta; continuare a usare i prodotti già autorizzati.",
-      "impatto": "Garantisce la continuità dell’offerta di pesticidi senza interruzioni, evitando possibili ritardi nella coltivazione.",
-      "data_vigenza": "dal 30 giugno 2026",
-      "categoria": "Ambiente e Energia",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1421",
-      "pubblicato": "2026-07-01T00:00:00+02:00",
-      "processed_at": "2026-07-03T06:58:07.372247+00:00"
-    },
-    {
-      "id": "ed0dcf99e61b0064",
-      "titolo_popolare": "Nuove regole per proteggere il porpoise del Baltico",
-      "titolo_originale": "CELEX:32026R0450: Commission Delegated Regulation (EU) 2026/450 of 27 February 2026 amending Regulation (EU) 2019/1241 as regards the establishment of measures to ensure compliance with existing mitigation measures to reduce incidental catches of the resident population of the Baltic Proper harbour porpoise (Phocoena phocoena) in the Baltic Sea",
-      "riassunto_esteso": "Il Regolamento delegato UE 2026/450 modifica la normativa del 2019 che già prevedeva misure per limitare le catture accidentali del delfino di fiume del Baltico. Sono state introdotte disposizioni più stringenti per garantire che le misure di mitigazione esistenti vengano effettivamente rispettate, con controlli più frequenti e sanzioni più severe. L’obiettivo è salvaguardare la popolazione residente di questo mammifero marino, minacciata da reti da pesca e altre attività. La modifica nasce dalla necessità di invertire il trend di declino osservato negli ultimi anni. Si applica a tutti gli operatori di pesca che operano nelle acque del Mar Baltico, in particolare nelle zone dove il porpoise è più presente.",
-      "cosa_cambia": [
-        "Verranno effettuati controlli più frequenti a bordo e a terra per verificare il rispetto delle misure anti‑bycatch.",
-        "Le sanzioni per chi non rispetta le regole saranno aumentate.",
-        "Saranno obbligatorie nuove tecnologie di selettività (es. retine a maglia più fine) per le reti da posta e da trascinamento."
-      ],
-      "chi_interessa": "tutti gli operatori di pesca e le imprese di acquisto di prodotti ittici operanti nel Mar Baltico",
-      "cosa_devi_fare": "Adeguare le attrezzature di pesca alle nuove specifiche e tenere a disposizione la documentazione per i controlli.",
-      "impatto": "Riduzione delle morti accidentali di porpoise, contribuendo alla conservazione della specie; per i pescatori, maggiori costi di adeguamento e rischio di sanzioni.",
-      "data_vigenza": "dal 1 aprile 2026",
-      "categoria": "Ambiente e Energia",
-      "importanza": 3,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R0450",
-      "pubblicato": "2026-07-01T00:00:00+02:00",
-      "processed_at": "2026-07-03T06:58:34.119121+00:00"
-    },
-    {
-      "id": "4da9843e845d6d4c",
-      "titolo_popolare": "Correzione di un atto UE senza novità sostanziali",
-      "titolo_originale": "CELEX:32006L0112R(23)",
-      "riassunto_esteso": "Il documento è un corrigendum, cioè una correzione, relativo a una direttiva UE già esistente. Non introduce nuove regole né modifica i contenuti già in vigore, ma serve solo a rettificare errori di stampa o di traduzione. È stato pubblicato per garantire la coerenza e l'accuratezza del testo ufficiale. Non ha impatti pratici per i cittadini, ma assicura che la normativa citata sia corretta. La correzione non riguarda la versione inglese del testo.",
-      "cosa_cambia": [
-        "Nessuna modifica pratica per i cittadini o le imprese"
-      ],
-      "chi_interessa": "tutti gli utenti della normativa corretta",
-      "cosa_devi_fare": "Nessuna azione richiesta",
-      "impatto": "Nessun cambiamento concreto; serve solo a correggere errori formali del testo normativo.",
-      "data_vigenza": "in vigore da subito",
-      "categoria": "Iter Legislativo",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32006L0112R(23)",
-      "pubblicato": "2026-07-01T00:00:00+02:00",
-      "processed_at": "2026-07-05T06:59:45.190605+00:00"
     },
     {
       "id": "bb68323283680c7d",
