@@ -1,17 +1,5 @@
 [
   {
-    "id": "3ee07eb1cd0b8ee5",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601428: Commission Implementing Decision (EU) 2026/1428 of 1 July 2026 amending the Annex to Decision 2002/994/EC concerning certain protective measures with regard to the products of animal origin imported from China",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601428",
-    "pubblicato": "2026-07-02T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-07-02T06:58:27.989123+00:00",
-    "processed": true
-  },
-  {
     "id": "13862f896d130c8d",
     "source_id": "eurlex_oj_l",
     "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
@@ -2553,7 +2541,7 @@
     "pubblicato": "2026-07-23T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-23T06:21:48.837824+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "919c7aabe9511666",
@@ -3309,7 +3297,7 @@
     "pubblicato": "2026-07-24T00:00:00+02:00",
     "summary_raw": "This document does not exist in English.",
     "fetched_at": "2026-07-24T06:16:37.066259+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "702b5cdafb7b6070",
@@ -3321,7 +3309,7 @@
     "pubblicato": "2026-07-24T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-24T06:16:37.066359+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "6c1a9cda8059a376",
@@ -5997,6 +5985,18 @@
     "pubblicato": "2026-08-29T10:03:15+00:00",
     "summary_raw": "Avviso relativo all'emanazione del decreto 30 gennaio 2026, recante modifiche al decreto 14 novembre 2025, di istituzione dell'elenco degli enti certificatori della lingua italiana come seconda lingua (L2) e definizione delle procedure di accreditamento, verifica e monitoraggio. (26A04549)",
     "fetched_at": "2026-08-29T10:31:13.000938+00:00",
+    "processed": false
+  },
+  {
+    "id": "ab101bcda4280853",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R1963: Commission Implementing Regulation (EU) 2026/1963 of 28 August 2026 on determining the type of evidence to be provided by importers to prove the country of melt and pour",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1963",
+    "pubblicato": "2026-08-31T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-08-31T10:10:45.977155+00:00",
     "processed": false
   }
 ]

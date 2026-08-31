@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-30T09:50:33.381174+00:00",
-  "total": 264,
+  "last_updated": "2026-08-31T10:33:33.599310+00:00",
+  "total": 257,
   "items": [
     {
       "id": "6c1a9cda8059a376",
@@ -239,6 +239,49 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601786",
       "pubblicato": "2026-07-24T00:00:00+02:00",
       "processed_at": "2026-08-30T09:43:33.774551+00:00"
+    },
+    {
+      "id": "d2502954172a6884",
+      "titolo_popolare": "Correzione tecnica sulle regole fitosanitarie UE",
+      "titolo_originale": "OJ:L_202690626:            Berichtigung der Durchführungsverordnung (EU) 2019/2072 der Kommission vom 28. November 2019 zur Festlegung einheitlicher Bedingungen für die Durchführung der Verordnung (EU) 2016/2031 des Europäischen Parlaments und des Rates in Bezug auf Maßnahmen zum Schutz vor Pflanzenschädlingen und zur Aufhebung der Verordnung (EG) Nr. 690/2008 der Kommission sowie zur Änderung der Durchführungsverordnung (EU) 2018/2019 der Kommission (ABl. L 319 vom 10.12.2019)",
+      "riassunto_esteso": "Il documento è una correzione (corrigendum) di un regolamento di esecuzione dell'Unione europea che stabilisce le condizioni uniformi per l'applicazione delle norme sulla salute delle piante. La correzione serve a sistemare errori materiali, refusi o imprecisioni presenti nel testo originale, senza modificare il contenuto sostanziale delle regole. Non introduce nuovi obblighi o diritti per i cittadini, ma garantisce che le disposizioni siano applicate correttamente dagli Stati membri e dagli operatori del settore. L'atto è stato adottato per evitare confusione nell'applicazione della normativa fitosanitaria a livello europeo.",
+      "cosa_cambia": [
+        "Nessuna modifica pratica per i cittadini; la correzione riguarda solo aspetti tecnici della normativa UE."
+      ],
+      "chi_interessa": "nessun impatto diretto sui cittadini",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "Nessun impatto concreto sui cittadini; serve solo a correggere errori tecnici della normativa.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Agricoltura e Alimentare",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690626",
+      "pubblicato": "2026-07-24T00:00:00+02:00",
+      "processed_at": "2026-08-31T10:22:51.858737+00:00"
+    },
+    {
+      "id": "702b5cdafb7b6070",
+      "titolo_popolare": "Nuove regole per auto più riciclabili e sostenibili",
+      "titolo_originale": "OJ:L_202601738: Regulation (EU) 2026/1738 of the European Parliament and of the Council of 8 July 2026 on circularity requirements for vehicle design and on management of end-of-life vehicles, amending Regulations (EU) No 168/2013, (EU) 2018/858, (EU) 2019/1020 and (EU) 2023/1542 and repealing Directives 2000/53/EC and 2005/64/EC (Text with EEA relevance)",
+      "riassunto_esteso": "Il regolamento europeo stabilisce requisiti di progettazione per rendere i veicoli più facili da smontare e riciclare alla fine della loro vita. Impone ai produttori di prendere in carico i veicoli fuori uso e di raggiungere obiettivi minimi di recupero e riciclaggio dei materiali. Sostituisce le precedenti direttive sul rottamazione dei veicoli e introduce nuove norme sull'etichettatura della riciclabilità. L'obiettivo è ridurre i rifiuti automobilistici, promuovere l'economia circolare e diminuire l'impatto ambientale del settore dei trasporti.",
+      "cosa_cambia": [
+        "I produttori dovranno progettare auto più semplici da smontare e riciclare",
+        "Quando rottami un veicolo dovrai consegnarlo a centri autorizzati che ne garantiscono il trattamento corretto",
+        "Potrai trovare informazioni chiare sulla riciclabilità del veicolo già al momento dell'acquisto",
+        "Gli incentivi per la rottamazione potrebbero essere legati al rispetto dei nuovi standard di riciclo"
+      ],
+      "chi_interessa": "tutti i proprietari di veicoli a motore (auto, moto, furgoni) e chi li rottama",
+      "cosa_devi_fare": "consegnare il veicolo fuori uso a un centro di raccolta autorizzato quando decidi di rottamarlo",
+      "impatto": "Maggiore quantità di materiali recuperati e meno rifiuti in discarica, con possibili benefici ambientali e, a lungo termine, costi di smaltimento più contenuti per i cittadini.",
+      "data_vigenza": "entrata in vigore venti giorni dopo la pubblicazione nella Gazzetta Ufficiale UE (prevista per fine luglio 2026)",
+      "categoria": "Ambiente e Energia",
+      "importanza": 3,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601738",
+      "pubblicato": "2026-07-24T00:00:00+02:00",
+      "processed_at": "2026-08-31T10:25:16.566472+00:00"
     },
     {
       "id": "9162022795fe09e2",
@@ -1326,6 +1369,28 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601502",
       "pubblicato": "2026-07-23T00:00:00+02:00",
       "processed_at": "2026-08-30T09:36:43.812585+00:00"
+    },
+    {
+      "id": "bd8b890e9d24d527",
+      "titolo_popolare": "Nuove regole per l'import di animali e prodotti animali",
+      "titolo_originale": "OJ:L_202601052: Commission Delegated Regulation (EU) 2026/1052 of 12 May 2026 amending and correcting Delegated Regulation (EU) 2020/692 supplementing Regulation (EU) 2016/429 of the European Parliament and of the Council as regards rules for entry into the Union, and the movement and handling after entry of consignments of certain animals, germinal products and products of animal origin",
+      "riassunto_esteso": "Il regolamento delegato aggiorna le norme sull'ingresso nell'Unione europea di animali, prodotti animali e materiale genetico come spermi e embrioni, introducendo requisiti più chiari per i controlli sanitari e la documentazione necessaria. Le modifiche derivano dall'esperienza acquisita con il precedente atto del 2020 e mirano a evitare lacune che potevano compromettere la sicurezza sanitaria. In pratica, si stabiliscono nuovi standard per i certificati veterinari, i test obbligatori e le procedure di tracciabilità delle spedizioni. L'obiettivo è proteggere la salute degli animali e dei consumatori, garantendo che solo prodotti sicuri entrino nel mercato unico.",
+      "cosa_cambia": [
+        "È richiesto un certificato veterinario più dettagliato per ogni partita di animali o prodotti animali importati.",
+        "Alcuni prodotti di origine animale devono ora sottoporsi a test aggiuntivi prima di poter entrare nell'UE.",
+        "Le informazioni sulla provenienza e sul percorso delle spedizioni devono essere registrate in un sistema elettronico di tracciabilità."
+      ],
+      "chi_interessa": "importatori di animali, prodotti animali e materiale genetico, nonché allevatori e veterinari che operano con scambi intra-UE",
+      "cosa_devi_fare": "Verificare che i propri animali o prodotti rispettino i nuovi requisiti sanitari e presentare la documentazione aggiornata alla dogana all'ingresso.",
+      "impatto": "Le importazioni saranno più sicure per la salute pubblica e animale, anche se potrebbe richiedere un po' più di tempo e attenzione nella preparazione dei documenti.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Agricoltura e Alimentare",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601052",
+      "pubblicato": "2026-07-23T00:00:00+02:00",
+      "processed_at": "2026-08-31T10:14:24.976973+00:00"
     },
     {
       "id": "dc01cfcaec9ec04c",
@@ -5508,220 +5573,6 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601449",
       "pubblicato": "2026-07-03T00:00:00+02:00",
       "processed_at": "2026-07-12T06:24:55.141577+00:00"
-    },
-    {
-      "id": "d0b5a1e174d3ade4",
-      "titolo_popolare": "ECB autorizza accordi con utenti del sistema TARGET",
-      "titolo_originale": "OJ:L_202601520: Decision (EU) 2026/1520 of the European Central Bank of 23 June 2026 granting authorisation to sign agreements with customers of TARGET-ECB (ECB/2026/14)",
-      "riassunto_esteso": "La BCE ha deciso di concedere l'autorizzazione a soggetti selezionati di stipulare accordi con i clienti che utilizzano il sistema di pagamento TARGET-ECB. Questo provvedimento mira a rendere più efficienti e sicuri i pagamenti transfrontalieri in euro nell'area della moneta unica. La decisione chiarisce chi può agire da intermediario nel sistema e quali condizioni devono essere rispettate per tali accordi. È stata adottata per sostenere il corretto funzionamento dell'infrastruttura di pagamento dell'eurozona. Per i cittadini comuni non ci sono effetti diretti, ma il miglioramento del sistema avvantaggia banche e prestatori di servizi di pagamento.",
-      "cosa_cambia": [
-        "Nessun cambiamento diretto per i cittadini"
-      ],
-      "chi_interessa": "banche e prestatori di servizi di pagamento che utilizzano TARGET-ECB",
-      "cosa_devi_fare": "nessuna azione richiesta per i cittadini",
-      "impatto": "L'atto migliora il funzionamento del sistema di pagamenti europeo, contribuendo a transazioni più sicure ed efficienti, senza effetti immediati sui cittadini.",
-      "data_vigenza": "in vigore dal 23 giugno 2026",
-      "categoria": "Banche e Finanza",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601520",
-      "pubblicato": "2026-07-02T00:00:00+02:00",
-      "processed_at": "2026-07-02T07:18:01.054597+00:00"
-    },
-    {
-      "id": "c8d3a2f637fb9953",
-      "titolo_popolare": "Aggiornamento minore di una norma europea",
-      "titolo_originale": "CELEX:32016R1199R(10)",
-      "riassunto_esteso": "Il corrigendum pubblicato nella Gazzetta UE corregge piccoli errori di traduzione presenti nelle versioni italiana, francese e tedesca del regolamento (UE) 2016/1199. Non riguarda la versione inglese, che rimane invariata. L'obiettivo è garantire che tutti i testi ufficiali nelle diverse lingue dell'Unione siano coerenti e privi di refusi. Si tratta di un intervento puramente tecnico, che non modifica alcun diritto o obbligo sostanziale per i cittadini o le imprese. L'atto è stato adottato per evitare incertezze interpretative dovute a discrepanze linguistiche. Non produce effetti pratici sulla vita quotidiana delle persone.",
-      "cosa_cambia": [
-        "nessuna modifica sostanziale dei diritti o degli obblighi per i cittadini",
-        "aggiornamento dei testi ufficiali in alcune lingue dell'UE"
-      ],
-      "chi_interessa": "nessun gruppo specifico di cittadini",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "nessun effetto pratico sui cittadini; serve solo a correggere i testi ufficiali in alcune lingue.",
-      "data_vigenza": "in vigore da subito",
-      "categoria": "Iter Legislativo",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32016R1199R(10)",
-      "pubblicato": "2026-07-02T00:00:00+02:00",
-      "processed_at": "2026-07-02T07:21:52.684534+00:00"
-    },
-    {
-      "id": "117dd4f28e3c4533",
-      "titolo_popolare": "Nomina di due nuovi procuratori europei",
-      "titolo_originale": "OJ:L_202601537: Council Decision (EU) 2026/1537 of 29 June 2026 appointing two European Prosecutors of the European Public Prosecutor’s Office",
-      "riassunto_esteso": "Il Consiglio dell'UE ha deciso di nominare due nuovi procuratori da assegnare all'Ufficio europeo del pubblico ministero (EPPO). Questa decisione serve a rafforzare la capacità dell'EPPO di indagare e perseguire reati che ledono il bilancio dell'Unione, come frodi, corruzione e finanziamento illecito. La nomina avviene dopo una procedura di selezione basata su meritocrazia e indipendenza. Con questi nuovi incarichi, l'EPPO potrà affrontare un carico di lavoro maggiore e migliorare l'efficacia delle sue azioni. L'atto è pubblicato nella Gazzetta ufficiale dell'Unione europea e entra in vigore subito dopo la sua adozione.",
-      "cosa_cambia": [
-        "nessun cambiamento diretto per i cittadini comuni"
-      ],
-      "chi_interessa": "nessun cittadino direttamente",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "Rafforza la lotta contro le frodi al bilancio UE, contribuendo a proteggere i fondi pubblici destinati a tutti i cittadini. L'effetto è soprattutto istituzionale, con un possibile beneficio indiretto per la collettività.",
-      "data_vigenza": "in vigore dal 29 giugno 2026",
-      "categoria": "Giustizia e Diritti",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601537",
-      "pubblicato": "2026-07-02T00:00:00+02:00",
-      "processed_at": "2026-07-02T07:23:30.772537+00:00"
-    },
-    {
-      "id": "485b07ef9b04488d",
-      "titolo_popolare": "Atto europeo non specificato",
-      "titolo_originale": "OJ:L_202690542",
-      "riassunto_esteso": "Non sono disponibili dettagli sul contenuto di questo atto. Pertanto non è possibile descrivere cosa stabilisce o le motivazioni della sua adozione. L'atto è stato pubblicato nella Gazzetta ufficiale dell'Unione europea. Ulteriori informazioni sarebbero necessarie per una spiegazione completa.",
-      "cosa_cambia": [
-        "non specificato"
-      ],
-      "chi_interessa": "non specificato",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "non specificato",
-      "data_vigenza": "non specificato",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690542",
-      "pubblicato": "2026-07-02T00:00:00+02:00",
-      "processed_at": "2026-07-02T07:25:44.858967+00:00"
-    },
-    {
-      "id": "893195217e24216c",
-      "titolo_popolare": "Correzione a norme tecniche per i depositari centrali",
-      "titolo_originale": "CELEX:32017R0392R(02):            Berichtigung der Delegierten Verordnung (EU) 2017/392 der Kommission vom 11. November 2016 zur Ergänzung der Verordnung (EU) Nr. 909/2014 des Europäischen Parlaments und des Rates durch technische Regulierungsstandards für die Zulassung von und für aufsichtliche und operationelle Anforderungen an Zentralverwahrer (ABl. L 65 vom 10.3.2017)",
-      "riassunto_esteso": "Il provvedimento è un corrigendum, cioè una correzione, della delegata regolamentazione UE n. 2017/392 del 11 novembre 2016. Tale regolamento stabiliva gli standard tecnici per l’autorizzazione e i requisiti di vigilanza e operativi dei depositari centrali di titoli, in attuazione della direttiva europea sui mercati dei capitali. La correzione non riguarda la versione inglese del testo e serve a rettificare errori di battitura o di formattazione presenti nella versione originale. Non introduce nuove regole né modifica i contenuti sostanziali. È stata adottata per garantire la coerenza e la chiarezza del documento normativo.",
-      "cosa_cambia": [
-        "Viene corretta la versione del regolamento UE 2017/392 senza alterare le disposizioni sostanziali",
-        "Nessun nuovo obbligo per i depositari centrali",
-        "Nessuna variazione per gli operatori di mercato"
-      ],
-      "chi_interessa": "depositari centrali di titoli, autorità di vigilanza e operatori dei mercati finanziari",
-      "cosa_devi_fare": "Nessuna azione richiesta, basta tenere conto della versione corretta del testo.",
-      "impatto": "Il provvedimento non cambia le regole operative, ma assicura che tutti facciano riferimento a un documento privo di errori.",
-      "data_vigenza": "in vigore da subito",
-      "categoria": "Altro",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32017R0392R(02)",
-      "pubblicato": "2026-07-02T00:00:00+02:00",
-      "processed_at": "2026-07-03T06:59:08.273415+00:00"
-    },
-    {
-      "id": "9c46ad226236eb02",
-      "titolo_popolare": "Correzione alle regole di sicurezza dei sistemi spaziali UE",
-      "titolo_originale": "OJ:L_202690543:            Berichtigung des Beschlusses (GASP) 2021/698 des Rates vom 30. April 2021 über die Sicherheitssysteme und -dienste, die im Rahmen des Weltraumprogramms der Union eingerichtet, betrieben und genutzt werden und die Sicherheit der Union berühren können, sowie zur Aufhebung des Beschlusses 2014/496/GASP (ABl. L 170 vom 12.5.2021)",
-      "riassunto_esteso": "Il Consiglio ha pubblicato una correzione al proprio provvedimento del 30 aprile 2021, che disciplina i sistemi e i servizi di sicurezza legati ai programmi spaziali dell'Unione. La modifica serve a sistemare errori formali e a chiarire alcuni riferimenti normativi, senza introdurre nuove regole sostanziali. Contestualmente, è stato annullato il precedente decisione 2014/496/GASP, ormai superata. L’obiettivo è garantire che la normativa sia coerente e pronta a sostenere la sicurezza delle attività spaziali dell’UE.",
-      "cosa_cambia": [
-        "Vengono corretti errori di forma e di riferimento nel provvedimento del 2021",
-        "Viene revocata la decisione 2014/496/GASP",
-        "Nessuna nuova obbligazione per i soggetti coinvolti"
-      ],
-      "chi_interessa": "operatori di sistemi e servizi spaziali, agenzie nazionali, fornitori di tecnologie per il settore spaziale",
-      "cosa_devi_fare": "Nessuna azione richiesta; la correzione si applica automaticamente.",
-      "impatto": "L’effetto è amministrativo: la normativa diventa più chiara ma non cambia le regole operative per le imprese.",
-      "data_vigenza": "in vigore da subito",
-      "categoria": "Digitale e Privacy",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690543",
-      "pubblicato": "2026-07-02T00:00:00+02:00",
-      "processed_at": "2026-07-03T06:59:25.594882+00:00"
-    },
-    {
-      "id": "13862f896d130c8d",
-      "titolo_popolare": "Nuove regole per i contratti con il sistema di pagamenti TARGET-ECB",
-      "titolo_originale": "OJ:L_202601538: Decision (EU) 2026/1538 of the European Central Bank of 23 June 2026 delegating the decision-making powers in matters related to agreements with customers of TARGET-ECB (ECB/2026/13)",
-      "riassunto_esteso": "La Banca Centrale Europea ha deciso di delegare ad altre autorità interne la capacità di prendere decisioni sui contratti che le banche e gli altri clienti hanno con il sistema di pagamenti TARGET-ECB. Questa delega serve a rendere più veloce e flessibile la gestione dei rapporti contrattuali, senza dover attendere l'approvazione diretta della BCE per ogni singola questione. In pratica, le autorità deleganti potranno definire termini, condizioni e modifiche dei contratti, sempre nel rispetto delle norme europee. La decisione è stata adottata per migliorare l’efficienza operativa del sistema di pagamenti transfrontalieri dell’Eurozona. L’obiettivo è garantire che le regole contrattuali siano aggiornate rapidamente in risposta alle esigenze del mercato e alle innovazioni tecnologiche.",
-      "cosa_cambia": [
-        "Le autorità interne della BCE possono ora approvare o modificare i contratti con i clienti di TARGET-ECB senza dover chiedere il via libera alla BCE per ogni caso",
-        "Le decisioni sui termini contrattuali saranno più rapide e adattabili alle esigenze del mercato",
-        "Le banche dovranno interfacciarsi con le nuove autorità deleganti per questioni contrattuali"
-      ],
-      "chi_interessa": "banche, istituti di pagamento e altri clienti del sistema TARGET-ECB",
-      "cosa_devi_fare": "Contattare l’autorità delegante indicata dalla BCE per gestire o aggiornare i propri contratti con TARGET-ECB.",
-      "impatto": "Velocizza le modifiche contrattuali e migliora l’adattamento del sistema di pagamenti alle nuove esigenze, riducendo i tempi di attesa.",
-      "data_vigenza": "dal 23 giugno 2026",
-      "categoria": "Digitale e Privacy",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601538",
-      "pubblicato": "2026-07-02T00:00:00+02:00",
-      "processed_at": "2026-07-03T07:00:01.731330+00:00"
-    },
-    {
-      "id": "9fb0b6430eb4ffff",
-      "titolo_popolare": "Avvio negoziati UE-India per Horizon Europe",
-      "titolo_originale": "OJ:L_202601527: Council Decision (EU) 2026/1527 of 26 June 2026 authorising the opening of negotiations for an agreement between the Union and the Republic of India on the participation of the Republic of India in Union programmes and the association of the Republic of India to Pillar II of Horizon Europe – the Framework Programme for Research and Innovation (2021-2027)",
-      "riassunto_esteso": "Il Consiglio europeo ha deciso di aprire i negoziati con l'India per definire un accordo che permetta al Paese di partecipare ai programmi dell'Unione europea e di associarsi al Pilastro II di Horizon Europe, il programma quadro per la ricerca e l'innovazione 2021-2027. L'obiettivo è favorire la collaborazione scientifica e tecnologica tra l'UE e l'India, sfruttando le rispettive competenze e risorse. La decisione nasce dalla volontà di rafforzare i legami di ricerca con un importante attore globale, creando opportunità di finanziamento congiunto e scambio di conoscenze. Il processo di negoziazione dovrà rispettare le norme UE sugli accordi internazionali e sarà finalizzato a un accordo quadro che disciplini i termini di partecipazione. Una volta concluso, l'India potrà accedere ai bandi di Horizon Europe come paese associato.",
-      "cosa_cambia": [
-        "L'India potrà partecipare ai progetti di Horizon Europe come paese associato.",
-        "Le istituzioni di ricerca italiane potranno collaborare più facilmente con controparti indiane.",
-        "Le imprese italiane avranno nuove opportunità di co‑finanziamento in progetti di ricerca europei.",
-        "Il quadro normativo UE dovrà includere disposizioni specifiche per l'India."
-      ],
-      "chi_interessa": "ricercatori, università, centri di ricerca, imprese innovative e start‑up italiane",
-      "cosa_devi_fare": "tenere d'occhio i bandi di Horizon Europe e preparare proposte di collaborazione con partner indiani.",
-      "impatto": "Più opportunità di finanziamento e partnership internazionali per la ricerca italiana, con potenziali benefici economici e tecnologici.",
-      "data_vigenza": "in vigore da subito, con negoziati avviati a partire dal 26 giugno 2026",
-      "categoria": "Altro",
-      "importanza": 3,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601527",
-      "pubblicato": "2026-07-02T00:00:00+02:00",
-      "processed_at": "2026-07-03T07:00:37.316186+00:00"
-    },
-    {
-      "id": "198716c78698d62f",
-      "titolo_popolare": "Nuova cooperazione UE-SEE in settori fuori le quattro libertà",
-      "titolo_originale": "OJ:L_202601511: Council Decision (EU) 2026/1511 of 25 June 2026 on the position to be adopted on behalf of the European Union within the EEA Joint Committee concerning an amendment to Protocol 31 to the EEA Agreement on cooperation in specific fields outside the four freedoms (EDIP Regulation) (Text with EEA relevance)",
-      "riassunto_esteso": "Il Consiglio europeo ha deciso la posizione dell'Unione da presentare al Comitato Congiunto SEE per modificare il Protocollo 31 dell'Accordo SEE. La modifica riguarda la cooperazione in ambiti specifici che non rientrano nelle quattro libertà fondamentali del mercato interno, come la difesa, la sicurezza e la politica estera. L'obiettivo è rendere più efficace il coordinamento tra UE e paesi SEE in questi settori, garantendo una risposta più rapida e armonizzata alle sfide comuni. La decisione nasce dalla necessità di aggiornare le regole di collaborazione per tenere conto dei recenti sviluppi geopolitici e tecnologici. Una volta adottata, la proposta diventerà la base per le negoziazioni tra le parti coinvolte.",
-      "cosa_cambia": [
-        "Verrà introdotto un nuovo quadro di cooperazione tra UE e paesi SEE in settori come difesa e sicurezza",
-        "Le autorità dei paesi SEE dovranno adeguare le proprie normative alle nuove disposizioni del protocollo",
-        "Saranno creati meccanismi di scambio di informazioni più rapidi tra UE e SEE"
-      ],
-      "chi_interessa": "governi e autorità pubbliche dei paesi dell'Area Economica Europea (Norvegia, Islanda, Liechtenstein) e le istituzioni dell'Unione Europea",
-      "cosa_devi_fare": "Nessuna azione diretta per i cittadini; le autorità competenti dovranno aggiornare le procedure interne.",
-      "impatto": "Migliora la capacità di risposta congiunta a minacce comuni, ma richiede adeguamenti normativi da parte dei paesi SEE.",
-      "data_vigenza": "in vigore da subito, previa ratifica dal Comitato Congiunto SEE",
-      "categoria": "Altro",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601511",
-      "pubblicato": "2026-07-02T00:00:00+02:00",
-      "processed_at": "2026-07-03T07:01:09.901248+00:00"
-    },
-    {
-      "id": "3ee07eb1cd0b8ee5",
-      "titolo_popolare": "Nuove regole per importare prodotti animali dalla Cina",
-      "titolo_originale": "OJ:L_202601428: Commission Implementing Decision (EU) 2026/1428 of 1 July 2026 amending the Annex to Decision 2002/994/EC concerning certain protective measures with regard to the products of animal origin imported from China",
-      "riassunto_esteso": "Il 1° luglio 2026 la Commissione europea ha modificato l’allegato della decisione 2002/994/CE, che stabilisce le misure di protezione per i prodotti di origine animale provenienti dalla Cina. L’obiettivo è rafforzare la sicurezza alimentare e prevenire il rischio di malattie animali, adeguando i controlli alle più recenti evidenze scientifiche. La modifica prevede controlli più stringenti, requisiti di certificazione aggiuntivi e procedure di tracciabilità più dettagliate. È stata adottata per rispondere a preoccupazioni sanitarie emerse negli ultimi anni e per uniformare le norme con quelle di altri paesi terzi. Le nuove disposizioni entreranno in vigore subito, ma la loro applicazione pratica sarà monitorata con verifiche periodiche.",
-      "cosa_cambia": [
-        "I prodotti animali importati dalla Cina devono ora superare test microbiologici più approfonditi.",
-        "È obbligatoria la certificazione di conformità rilasciata da autorità cinesi accreditate.",
-        "Le imprese devono garantire una tracciabilità completa dal luogo di produzione al punto di ingresso nell'UE."
-      ],
-      "chi_interessa": "importatori di carne, latticini, uova e altri prodotti animali provenienti dalla Cina, nonché le autorità di controllo alimentare",
-      "cosa_devi_fare": "Verificare che i fornitori cinesi abbiano le nuove certificazioni e adeguare i propri sistemi di tracciabilità.",
-      "impatto": "Maggiore sicurezza per i consumatori europei e possibili ritardi o costi aggiuntivi per gli importatori.",
-      "data_vigenza": "dal 1 luglio 2026",
-      "categoria": "Salute e Farmaci",
-      "importanza": 3,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601428",
-      "pubblicato": "2026-07-02T00:00:00+02:00",
-      "processed_at": "2026-07-04T06:40:06.402251+00:00"
     },
     {
       "id": "bb68323283680c7d",
