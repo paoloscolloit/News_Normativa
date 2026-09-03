@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-02T08:29:13.158186+00:00",
-  "total": 223,
+  "last_updated": "2026-09-03T08:44:26.539976+00:00",
+  "total": 227,
   "items": [
     {
       "id": "6c1a9cda8059a376",
@@ -66,6 +66,49 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601811",
       "pubblicato": "2026-07-27T00:00:00+02:00",
       "processed_at": "2026-09-02T08:23:57.268540+00:00"
+    },
+    {
+      "id": "0e5fb08963b0a51a",
+      "titolo_popolare": "Aggiornamento nome autorizzazione enzima per mangimi",
+      "titolo_originale": "OJ:L_202601802: Commission Implementing Regulation (EU) 2026/1802 of 24 July 2026 amending Implementing Regulation (EU) 2019/1324 as regards the name of the holder of the authorisation for endo-1,4-beta-xylanase produced by Bacillus subtilis LMG S-27588 as a feed additive",
+      "riassunto_esteso": "La Commissione europea ha modificato il regolamento di esecuzione che autorizza l'uso dell'enzima endo-1,4-beta-xylanase prodotto da Bacillus subtilis LMG S-27588 come additivo per mangimi. La modifica riguarda esclusivamente il nome del titolare dell'autorizzazione, che è stato aggiornato per riflettere una variazione societaria. Le condizioni di utilizzo, i limiti di impiego e le specifiche tecniche dell'additivo rimangono invariati. Questo adeguamento serve a mantenere il registro degli additivi accurato e trasparente. Non introduce nuovi obblighi per gli utilizzatori finali.",
+      "cosa_cambia": [
+        "Il nome del titolare dell'autorizzazione per l'enzima xylanase nei mangimi è stato aggiornato.",
+        "L'autorizzazione stessa e le condizioni d'uso dell'additivo rimangono invariate."
+      ],
+      "chi_interessa": "produttori di mangimi e additivi per animali e chi li utilizza nell'allevamento",
+      "cosa_devi_fare": "nessuna azione richiesta per i cittadini comuni",
+      "impatto": "La modifica garantisce che le etichette riportino il nome corretto del titolare, migliorando la tracciabilità senza cambiare l'uso dell'enzima. Per i cittadini comuni l'effetto è praticamente nullo.",
+      "data_vigenza": "in vigore dal 24 luglio 2026",
+      "categoria": "Agricoltura e Alimentare",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601802",
+      "pubblicato": "2026-07-27T00:00:00+02:00",
+      "processed_at": "2026-09-03T08:36:47.391310+00:00"
+    },
+    {
+      "id": "27e1d64f5e5759de",
+      "titolo_popolare": "Nuove regole per la dichiarazione delle emissioni",
+      "titolo_originale": "OJ:L_202601807: Commission Implementing Regulation (EU) 2026/1807 of 24 July 2026 amending Implementing Regulation (EU) 2022/2299 as regards new and modified reporting obligations",
+      "riassunto_esteso": "Il regolamento modifica le disposizioni esistenti sul monitoraggio, la comunicazione e la verifica delle emissioni di gas serra nell'ambito del sistema europeo di scambio di quote (ETS). Introduce nuovi obblighi di reporting per alcune categorie di impianti e adegua le frequenze e i contenuti delle dichiarazioni già richieste. L'obiettivo è migliorare la trasparenza e l'affidabilità dei dati sulle emissioni, facilitando il raggiungimento degli obiettivi climatici dell'UE. Le modifiche si applicano direttamente negli Stati membri senza bisogno di recepimento nazionale. In pratica, le imprese interessate dovranno aggiornare i propri sistemi di raccolta dati e presentare le nuove informazioni entro le scadenze stabilite.",
+      "cosa_cambia": [
+        "Obbligo di riportare anche le emissioni di protossido di azoto per alcuni impianti chimici",
+        "Aumento della frequenza di comunicazione da trimestrale a mensile per le grandi installazioni",
+        "Inclusione di nuovi parametri di verifica per le emissioni dell'aviazione"
+      ],
+      "chi_interessa": "Impianti industriali e compagnie aeree che partecipano al sistema europeo di scambio di quote di emissione (ETS)",
+      "cosa_devi_fare": "Adeguare i sistemi di monitoraggio e inviare le nuove dichiarazioni entro le scadenze previste dal regolamento",
+      "impatto": "Maggiore precisione nei dati sulle emissioni, che permette un controllo più efficace del rispetto degli obiettivi di riduzione e riduce il rischio di sanzioni per dichiarazioni incomplete o inaccurate.",
+      "data_vigenza": "in vigore dal 24 luglio 2026",
+      "categoria": "Ambiente e Energia",
+      "importanza": 3,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601807",
+      "pubblicato": "2026-07-27T00:00:00+02:00",
+      "processed_at": "2026-09-03T08:42:13.742307+00:00"
     },
     {
       "id": "3ade5a0368cf1711",
@@ -327,6 +370,48 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601747",
       "pubblicato": "2026-07-24T00:00:00+02:00",
       "processed_at": "2026-09-02T08:19:08.622532+00:00"
+    },
+    {
+      "id": "41dfaa4b07467933",
+      "titolo_popolare": "Aggiornamento delle regole del sistema di pagamenti TARGET",
+      "titolo_originale": "OJ:L_202601754: Decision (EU) 2026/1754 of the European Central Bank of 7 July 2026 amending Decision (EU) 2022/911 concerning the terms and conditions of TARGET-ECB and repealing Decision ECB/2007/7 (ECB/2022/22) (ECB/2026/16)",
+      "riassunto_esteso": "La Banca Centrale Europea ha modificato le condizioni tecniche e operative del sistema TARGET-ECB, che permette il trasferimento di denaro tra le banche dell'area euro. L'aggiornamento sostituisce le norme precedenti del 2007 e mira a rendere il sistema più efficiente, sicuro e adatto alle nuove tecnologie di pagamento. Le nuove disposizioni riguardano principalmente gli istituti di credito e i fornitori di servizi di pagamento, mentre i cittadini comuni non vedono cambiamenti diretti nelle loro operazioni quotidiane. L'obiettivo è garantire che i pagamenti elettronici e i bonifici continui a funzionare senza interruzioni e con standard elevati di affidabilità.",
+      "cosa_cambia": [
+        "Nessun cambiamento diretto per i cittadini comuni"
+      ],
+      "chi_interessa": "banche e fornitori di servizi di pagamento",
+      "cosa_devi_fare": "nessuna azione richiesta per i cittadini",
+      "impatto": "Il sistema di pagamenti tra banche diventa più efficiente e sicuro, contribuendo a mantenere affidabili bonifici e pagamenti elettronici nell'area euro.",
+      "data_vigenza": "dal 7 luglio 2026",
+      "categoria": "Banche e Finanza",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601754",
+      "pubblicato": "2026-07-24T00:00:00+02:00",
+      "processed_at": "2026-09-03T08:26:19.129697+00:00"
+    },
+    {
+      "id": "d13a3a96ef033bf0",
+      "titolo_popolare": "Nuove regole per importare prodotti biologici dall'estero",
+      "titolo_originale": "OJ:L_202601789: Commission Implementing Regulation (EU) 2026/1789 of 23 July 2026 amending Implementing Regulation (EU) 2021/2325 as regards the recognition of certain third countries, competent authorities and control bodies for the purpose of importing organic products into the Union",
+      "riassunto_esteso": "La modifica aggiorna l'elenco dei paesi terzi, delle autorità competenti e degli organismi di controllo riconosciuti dall'Unione per poter esportare prodotti biologici verso i suoi mercati. Questo permette di riconoscere nuovi paesi che rispettano gli standard europei sull'agricoltura biologica e di confermare quelli già riconosciuti. L'obiettivo è garantire che i prodotti biologici importati siano realmente conformi alle norme UE, mantenendo alta la fiducia dei consumatori. La decisione è stata presa per tenere conto delle evoluzioni nel settore biologico internazionale e semplificare le procedure di importazione.",
+      "cosa_cambia": [
+        "I consumatori possono trovare sugli scaffali una maggiore varietà di prodotti biologici provenienti da nuovi paesi riconosciuti",
+        "L'etichetta biologica sui prodotti importati offre una maggiore garanzia di conformità agli standard UE",
+        "Non sono previste modifiche dirette ai prezzi, ma una maggiore offerta potrebbe influenzare la concorrenza"
+      ],
+      "chi_interessa": "tutti i consumatori di prodotti biologici",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "Maggiore scelta e fiducia nei prodotti biologici importati, contribuendo a sostenere scelte di consumo più sostenibili.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Agricoltura e Alimentare",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601789",
+      "pubblicato": "2026-07-24T00:00:00+02:00",
+      "processed_at": "2026-09-03T08:27:01.027759+00:00"
     },
     {
       "id": "9162022795fe09e2",
