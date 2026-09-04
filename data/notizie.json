@@ -1,7 +1,50 @@
 {
-  "last_updated": "2026-09-03T08:44:26.539976+00:00",
-  "total": 227,
+  "last_updated": "2026-09-04T08:37:32.027941+00:00",
+  "total": 221,
   "items": [
+    {
+      "id": "3ccb35534a17f80a",
+      "titolo_popolare": "Misure d'emergenza contro la febbre aftosa in Grecia",
+      "titolo_originale": "OJ:L_202601839: Commission Implementing Decision (EU) 2026/1839 of 23 July 2026 amending Implementing Decision (EU) 2026/820 concerning certain emergency measures relating to foot and mouth disease in Greece (notified under document C(2026) 5381)",
+      "riassunto_esteso": "La decisione della Commissione europea aggiorna le misure già previste per affrontare un focolaio di febbre aftosa in Grecia. Introduce nuove restrizioni sul movimento di animali suscettibili e sui prodotti derivati, al fine di contenere la diffusione della malattia. Prevede anche intensificati controlli veterinari e obblighi di segnalazione per gli allevatori. L'obiettivo è proteggere la salute del bestiame greco e evitare ripercussioni economiche sul settore agricolo. Le modifiche entrano in vigore subito dopo la pubblicazione nella Gazzetta ufficiale dell'UE.",
+      "cosa_cambia": [
+        "Divieto di spostamento di bovini, ovini e suini fuori dalle zone delimitate senza autorizzazione",
+        "Obbligo di effettuare test diagnostici sugli animali prima di qualsiasi commercio",
+        "Sospensione temporanea di fiere e mercati del bestiame nelle aree interessate",
+        "Rafforzamento dei controlli alle frontiere interne greche su prodotti animali"
+      ],
+      "chi_interessa": "allevatori, commercianti e trasportatori di bestiame in Grecia",
+      "cosa_devi_fare": "rispettare le restrizioni su spostamenti e vendite di animali e sottoporre i capi a controlli veterinari richiesti",
+      "impatto": "limita la diffusione della febbre aftosa, tutelando la salute degli animali e riducendo le perdite economiche per il settore agricolo greco",
+      "data_vigenza": "in vigore dal 24 luglio 2026",
+      "categoria": "Agricoltura e Alimentare",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601839",
+      "pubblicato": "2026-07-28T00:00:00+02:00",
+      "processed_at": "2026-09-04T08:37:21.932877+00:00"
+    },
+    {
+      "id": "ef3587c7709552b6",
+      "titolo_popolare": "Nomina del rappresentante UE per il Sahel",
+      "titolo_originale": "OJ:L_202601876: Council Decision (CFSP) 2026/1876 of 23 July 2026 appointing the European Union Special Representative for the Sahel",
+      "riassunto_esteso": "L'Unione Europea ha deciso di nominare un rappresentante speciale per il Sahel, al fine di coordinare meglio le proprie azioni nella regione. Questa nomina nasce dalla necessità di affrontare le crisi di sicurezza, sviluppo e migrazione che interessano il Sahel. Il rappresentante avrà il compito di dialogare con governi locali, organizzazioni internazionali e le istituzioni UE per promuovere stabilità e cooperazione. L'obiettivo è rendere più efficace l'aiuto europeo e la diplomazia nella zona. Con questa decisione l'UE vuole rafforzare la propria presenza e capacità di risposta alle sfide regionali.",
+      "cosa_cambia": [
+        "Nessun cambiamento diretto nella vita quotidiana dei cittadini"
+      ],
+      "chi_interessa": "nessun cittadino specifico",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "Migliora la capacità dell'UE di agire in modo coordinato nel Sahel, contribuendo a sicurezza e sviluppo regionale, con possibili benefici indiretti per la gestione delle migrazioni e della lotta al terrorismo.",
+      "data_vigenza": "in vigore dal 23 luglio 2026",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601876",
+      "pubblicato": "2026-07-28T00:00:00+02:00",
+      "processed_at": "2026-09-04T08:37:32.023393+00:00"
+    },
     {
       "id": "6c1a9cda8059a376",
       "titolo_popolare": "Documento non disponibile per spiegazione",
@@ -1521,6 +1564,29 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601052",
       "pubblicato": "2026-07-23T00:00:00+02:00",
       "processed_at": "2026-08-31T10:14:24.976973+00:00"
+    },
+    {
+      "id": "84eea6ac620726f4",
+      "titolo_popolare": "Aggiornamento delle norme tecniche per prodotti nell'Area SEE",
+      "titolo_originale": "OJ:L_202601478: Decision of the EEA Joint Committee No 126/2026 of 30 April 2026 amending Annex II (Technical regulations, standards, testing and certification) to the EEA Agreement [2026/1478]",
+      "riassunto_esteso": "La decisione del Comitato Congiunto SEE del 30 aprile 2026 modifica l'Allegato II dell'Accordo SEE, che contiene le disposizioni sui regolamenti tecnici, le norme, le prove e la certificazione dei prodotti. L'aggiornamento recepisce nuove norme europee e internazionali per garantire che i prodotti circolanti nell'Area SEE rispettino standard di sicurezza, qualità e compatibilità ambientale più recenti. Questo intervento mira a ridurre gli ostacoli tecnici al commercio tra gli Stati SEE, facilitando l'accesso al mercato mantenendo alti livelli di tutela per consumatori e ambiente. Le modifiche riguardano principalmente le procedure di valutazione della conformità e i requisiti di prova che i fabbricanti devono seguire.",
+      "cosa_cambia": [
+        "I prodotti devono essere conformi a nuove norme di sicurezza e di prova aggiornate",
+        "Le procedure di certificazione possono essere semplificate o modificate secondo gli standard recenti",
+        "Gli importatori e i distributori devono verificare la conformità secondo gli aggiornati requisiti tecnici",
+        "Possibile riduzione di controlli doganali tecnici grazie all'armonizzazione delle norme"
+      ],
+      "chi_interessa": "le imprese che producono, importano o vendono prodotti nell'Area SEE",
+      "cosa_devi_fare": "le imprese devono verificare la conformità dei propri prodotti e aggiornare la documentazione entro i termini stabiliti",
+      "impatto": "maggiore sicurezza dei prodotti e minori ostacoli tecnici al commercio, con benefici sia per le imprese che per i consumatori",
+      "data_vigenza": "in vigore dal 30 aprile 2026",
+      "categoria": "Imprese e Mercato",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601478",
+      "pubblicato": "2026-07-23T00:00:00+02:00",
+      "processed_at": "2026-09-04T08:20:00.136742+00:00"
     },
     {
       "id": "dc01cfcaec9ec04c",
@@ -4730,202 +4796,6 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601548",
       "pubblicato": "2026-07-07T00:00:00+02:00",
       "processed_at": "2026-07-12T06:28:30.612253+00:00"
-    },
-    {
-      "id": "ca03c799c7995366",
-      "titolo_popolare": "Correzione di testi UE in altre lingue",
-      "titolo_originale": "CELEX:32019L1995R(03)",
-      "riassunto_esteso": "Il documento è un corrigendum, cioè una correzione di errori materiali, relativo a un atto dell'Unione europea pubblicato nel 2019. La correzione riguarda soltanto le versioni linguistiche diverse dall'inglese, lasciando invariato il testo originale in inglese. Non introduce nuove disposizioni né modifica sostanzialmente il contenuto dell'atto. Pertanto, per i cittadini e le imprese non ci sono effetti pratici diretti. Serve soltanto a garantire che tutti i testi ufficiali nelle varie lingue siano coerenti.",
-      "cosa_cambia": [
-        "nessuna modifica sostanziale per i cittadini"
-      ],
-      "chi_interessa": "nessun gruppo specifico di cittadini",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "nessun impatto pratico sulle persone; serve solo a correggere testi in altre lingue dell'UE.",
-      "data_vigenza": "non specificato",
-      "categoria": "Iter Legislativo",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32019L1995R(03)",
-      "pubblicato": "2026-07-06T00:00:00+02:00",
-      "processed_at": "2026-07-06T08:14:24.637969+00:00"
-    },
-    {
-      "id": "6141a6a55a959426",
-      "titolo_popolare": "Atto normativo UE non disponibile in inglese",
-      "titolo_originale": "OJ:L_202690550",
-      "riassunto_esteso": "Il documento indicato non è disponibile nella versione inglese, quindi non è possibile conoscerne il contenuto specifico. Probabilmente si tratta di un atto normativo dell'Unione Europea pubblicato nella Gazzetta Ufficiale. Senza il testo non si possono indicare gli obblighi introdotti né gli scopi del provvedimento. Per avere informazioni bisogna consultare la versione originale nella lingua ufficiale dell'atto. In att. In attesa di ulteriori dettagli, si consiglia di verificare eventuali comunicazioni nazionali di recepimento.",
-      "cosa_cambia": [
-        "non specificato"
-      ],
-      "chi_interessa": "non specificato",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "non specificato",
-      "data_vigenza": "non specificato",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690550",
-      "pubblicato": "2026-07-06T00:00:00+02:00",
-      "processed_at": "2026-07-06T08:16:26.526015+00:00"
-    },
-    {
-      "id": "1dd73d486568420b",
-      "titolo_popolare": "Nuove regole contro un parassita dannoso per le piante",
-      "titolo_originale": "CELEX:32026R1432: Commission Implementing Regulation (EU) 2026/1432 of 3 July 2026 on measures to prevent the establishment and the spread within the Union territory of Meloidogyne graminicola Golden &amp;amp; Birchfield and for the eradication and containment of that pest within certain demarcated areas and repealing Implementing Regulation (EU) 2022/1372",
-      "riassunto_esteso": "La regolamentazione prevede misure per evitare che il nematode Meloidogyne graminicola si insedi e si diffonda nel territorio dell'Unione europea. Vengono definite zone delimitate dove il parassita è già presente, obbligando le autorità a intervenire per eradicatorlo e contenerlo. Gli Stati membri devono intensificare i controlli sui prodotti vegetali e sui terreni, nonché segnalare tempestivamente qualsiasi focolaio. La norma abroga il precedente regolamento del 2022, aggiornando le procedure in base alle ultime conoscenze scientifiche.",
-      "cosa_cambia": [
-        "Gli agricoltori devono controllare regolarmente i propri campi e segnalare la presenza del nematode alle autorità fitosanitarie",
-        "È vietato spostare piante, terriccio o altri materiali potenzialmente infetti dalle zone delimitate senza autorizzazione",
-        "Le imprese vivaistiche devono adottare trattamenti specifici e tenere registri dei controlli effettuati",
-        "I laboratori ufficiali devono eseguire analisi più frequenti sui campioni sospetti"
-      ],
-      "chi_interessa": "agricoltori, vivaisti e operatori del commercio di piante e terreno",
-      "cosa_devi_fare": "nessuna azione richiesta per i cittadini comuni; gli agricoltori devono effettuare monitoraggi e segnalazioni secondo le nuove procedure",
-      "impatto": "Una migliore difesa delle colture riduce le perdite economiche per il settore agricolo e limita l'uso di pesticidi di emergenza. Questo contribuisce a mantenere la sicurezza alimentare e la sostenibilità delle produzioni vegetali.",
-      "data_vigenza": "in vigore dal 3 luglio 2026",
-      "categoria": "Agricoltura e Alimentare",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1432",
-      "pubblicato": "2026-07-06T00:00:00+02:00",
-      "processed_at": "2026-07-07T07:31:53.124178+00:00"
-    },
-    {
-      "id": "b476e57f43727ecb",
-      "titolo_popolare": "Aggiornamento tecnico delle norme transitorie UE",
-      "titolo_originale": "CELEX:32026R1471: Commission Implementing Regulation (EU) 2026/1471 of 3 July 2026 correcting Implementing Regulation (EU) 2026/103 as regards transitional measures",
-      "riassunto_esteso": "La Commissione europea ha pubblicato un regolamento che corregge un precedente atto sulle misure transitorie. Questo intervento serve a sistemare alcuni dettagli tecnici che potevano creare incertezze nell'applicazione delle norme. L'obiettivo è garantire che le disposizioni transitorie siano chiare e coerenti per tutti gli interessati. Si tratta di una modifica di carattere principalmente amministrativo, senza introdurre nuovi obblighi sostanziali. Il regolamento entra in vigore subito dopo la sua pubblicazione nella Gazzetta ufficiale dell'UE.",
-      "cosa_cambia": [
-        "nessun cambiamento diretto per i cittadini comuni",
-        "le imprese devono tenere conto di piccole correzioni procedurali nelle norme transitorie"
-      ],
-      "chi_interessa": "le imprese che applicano le norme transitorie dell'UE",
-      "cosa_devi_fare": "nessuna azione richiesta per i cittadini",
-      "impatto": "assicura l'applicazione corretta delle norme transitorie, riducendo rischi di confusione giuridica per le imprese",
-      "data_vigenza": "in vigore dal 3 luglio 2026",
-      "categoria": "Iter Legislativo",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1471",
-      "pubblicato": "2026-07-06T00:00:00+02:00",
-      "processed_at": "2026-07-08T06:23:56.227890+00:00"
-    },
-    {
-      "id": "980515341e237185",
-      "titolo_popolare": "Aggiornamento delle norme sul vino Tokaj",
-      "titolo_originale": "CELEX:32026R1556: Commission Implementing Regulation (EU) 2026/1556 of 2 July 2026 on the approval of a Union amendment to the product specification of the protected designation of origin Tokaj / Tokaji pursuant to of Regulation (EU) 2024/1143 of the European Parliament and of the Council",
-      "riassunto_esteso": "La Commissione europea ha approvato una modifica alle specifiche del prodotto per il vino Tokaj, riconosciuto come denominazione di origine protetta. L'atto adegua il disciplinare di produzione a nuove caratteristiche tecniche e qualitative richieste dal settore. L'obiettivo è garantire maggiore coerenza e trasparenza per i produttori e una migliore tutela per i consumatori. La modifica si basa sul regolamento quadro UE 2024/1143 sulle indicazioni geografiche. Viene così aggiornato il riferimento ufficiale usato nei controlli e nelle etichette.",
-      "cosa_cambia": [
-        "I produttori devono rispettare le nuove caratteristiche chimiche e sensoriali previste nello specifiche aggiornate",
-        "Le etichette delle bottiglie di Tokaj dovranno indicare il rispetto del nuovo disciplinare",
-        "Gli organismi di controllo applicheranno i nuovi criteri nelle verifiche di conformità",
-        "Eventuali modifiche ai processi di vinificazione dovranno essere documentate e comunicate alle autorità"
-      ],
-      "chi_interessa": "i produttori, gli imbottigliatori e gli esportatori di vino Tokaj in Ungheria e Slovacchia",
-      "cosa_devi_fare": "I produttori devono adeguare le proprie pratiche di produzione e le etichette entro i termini indicati dal regolamento",
-      "impatto": "Maggiore tutela dell'autenticità del vino Tokaj e maggiore fiducia dei consumatori nel prodotto acquistato",
-      "data_vigenza": "in vigore dal 2 luglio 2026",
-      "categoria": "Agricoltura e Alimentare",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1556",
-      "pubblicato": "2026-07-06T00:00:00+02:00",
-      "processed_at": "2026-07-09T07:28:42.830124+00:00"
-    },
-    {
-      "id": "1d379aac1bfa4701",
-      "titolo_popolare": "Autorizzazione al nuovo alimento a base di fungo Rhizomucor pusillus",
-      "titolo_originale": "CELEX:32026R1507: Commission Implementing Regulation (EU) 2026/1507 of 3 July 2026 authorising the placing on the market of Rhizomucor pusillus mycelium as a novel food and amending Implementing Regulation (EU) 2017/2470",
-      "riassunto_esteso": "Il regolamento UE 2026/1507 del 3 luglio 2026 autorizza la commercializzazione del micelio del fungo Rhizomucor pusillus come nuovo alimento. La decisione è stata presa dopo la valutazione della sicurezza da parte dell'EFSA, per garantire che il prodotto sia innocuo per i consumatori. Il provvedimento modifica anche il regolamento di attuazione del 2017/2470, aggiornando l'elenco dei nuovi alimenti autorizzati. L'obiettivo è ampliare le scelte alimentari e favorire l'innovazione nel settore alimentare, mantenendo alti standard di sicurezza. Con questa norma, le aziende potranno introdurre sul mercato prodotti a base di questo micelio, ad esempio integratori o ingredienti per alimenti trasformati.",
-      "cosa_cambia": [
-        "Le aziende alimentari possono ora vendere prodotti contenenti micelio di Rhizomucor pusillus in UE.",
-        "L'elenco dei nuovi alimenti autorizzati viene aggiornato includendo questo fungo.",
-        "I consumatori avranno a disposizione un nuovo ingrediente alimentare sul mercato."
-      ],
-      "chi_interessa": "produttori e distributori di alimenti, negozi alimentari, consumatori interessati a nuovi ingredienti",
-      "cosa_devi_fare": "Le aziende devono garantire che i prodotti rispettino le condizioni di sicurezza stabilite nel regolamento.",
-      "impatto": "Apre il mercato a un nuovo ingrediente alimentare, potenzialmente ampliando l'offerta di prodotti innovativi e salutari.",
-      "data_vigenza": "dal 3 luglio 2026",
-      "categoria": "Altro",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1507",
-      "pubblicato": "2026-07-06T00:00:00+02:00",
-      "processed_at": "2026-07-12T06:25:20.977528+00:00"
-    },
-    {
-      "id": "aca517d53b9ea595",
-      "titolo_popolare": "Nuove regole UE per le segnalazioni dei prezzi dei produttori di frutta e verdura",
-      "titolo_originale": "CELEX:32026R0912: Commission Delegated Regulation (EU) 2026/912 of 27 April 2026 amending Delegated Regulation (EU) 2017/891 as regards the Member States’ notifications concerning producer prices of fruit and vegetables on the internal market",
-      "riassunto_esteso": "Il Regolamento delegato UE 2026/912 modifica il precedente Regolamento 2017/891 per aggiornare le modalità con cui gli Stati membri comunicano i prezzi di produzione di frutta e verdura al mercato interno. L’obiettivo è rendere i dati più tempestivi, omogenei e confrontabili, così da migliorare la trasparenza del settore agroalimentare e supportare le politiche di mercato. La modifica introduce un nuovo schema di reportistica digitale e prevede una frequenza di invio più elevata, passando da una volta all'anno a due volte l'anno. È stata anche inserita la possibilità di includere informazioni aggiuntive sui costi di produzione. La norma è stata adottata per rispondere alle richieste della Commissione di avere dati più accurati per monitorare le fluttuazioni dei prezzi e garantire una concorrenza leale.",
-      "cosa_cambia": [
-        "Gli Stati membri devono inviare le segnalazioni dei prezzi dei produttori di frutta e verdura due volte l'anno anziché una sola volta.",
-        "Le segnalazioni devono essere effettuate tramite un nuovo formato digitale standardizzato.",
-        "È possibile includere dati sui costi di produzione per una visione più completa del mercato."
-      ],
-      "chi_interessa": "produttori agricoli, associazioni di categoria, autorità nazionali di statistica e tutti gli operatori del mercato agroalimentare",
-      "cosa_devi_fare": "Se sei un produttore o rappresenti un'associazione, verifica il nuovo modello digitale e prepara le due comunicazioni annuali entro le scadenze indicate.",
-      "impatto": "Dati più frequenti e uniformi migliorano la trasparenza dei prezzi, aiutando agricoltori e autorità a prendere decisioni più informate.",
-      "data_vigenza": "dal 1 gennaio 2027",
-      "categoria": "Agricoltura e Alimentare",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R0912",
-      "pubblicato": "2026-07-06T00:00:00+02:00",
-      "processed_at": "2026-07-12T06:26:01.762569+00:00"
-    },
-    {
-      "id": "59be4c8bdf8a2ce0",
-      "titolo_popolare": "Divieto e controlli su una nuova nematode delle colture",
-      "titolo_originale": "CELEX:32026R1433: Commission Implementing Regulation (EU) 2026/1433 of 3 July 2026 amending Annexes II, VII and VIII to Implementing Regulation (EU) 2019/2072 as regards measures to prevent the entry into, and the presence, establishment and spread within, the Union territory of Meloidogyne graminicola Golden &amp;amp; Birchfield",
-      "riassunto_esteso": "Il regolamento UE 2026/1433 aggiorna le norme per impedire l'ingresso, l'insediamento e la diffusione in Europa del nematode Meloidogyne graminicola, un parassita che attacca le colture di riso e altre piante. La misura è stata adottata perché la specie è stata identificata come minaccia per la sicurezza agricola e per evitare danni economici alle produzioni. Il provvedimento modifica gli allegati II, VII e VIII del regolamento 2019/2072, inserendo nuove restrizioni, requisiti di certificazione e controlli sanitari per le merci vegetali interessate. L'obiettivo è rafforzare la difesa fitosanitaria dell'Unione, riducendo il rischio di diffusione di questo organismo nocivo. La norma entra in vigore subito, ma la sua applicazione pratica dipenderà da eventuali decreti attuativi nazionali.",
-      "cosa_cambia": [
-        "Divieto di importare e commercializzare piante o prodotti vegetali contaminati da Meloidogyne graminicola",
-        "Obbligo di certificazione fitosanitaria per le esportazioni verso l'UE di materiale vegetale a rischio",
-        "Controlli più stringenti nei punti di ingresso (dogane, posti di frontiera) per rilevare il nematode"
-      ],
-      "chi_interessa": "produttori agricoli, importatori ed esportatori di piante e prodotti vegetali, autorità fitosanitarie",
-      "cosa_devi_fare": "Verificare la certificazione fitosanitaria dei prodotti vegetali e assicurarsi che non contengano il nematode prima di esportare o importare.",
-      "impatto": "Riduce il rischio di infestazioni da Meloidogyne graminicola, proteggendo le colture e limitando perdite economiche per gli agricoltori.",
-      "data_vigenza": "in vigore da subito",
-      "categoria": "Ambiente e Energia",
-      "importanza": 3,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1433",
-      "pubblicato": "2026-07-06T00:00:00+02:00",
-      "processed_at": "2026-07-12T06:26:30.622821+00:00"
-    },
-    {
-      "id": "38e0d8157281ef7b",
-      "titolo_popolare": "Nuove regole per la pesca nel Mediterraneo",
-      "titolo_originale": "CELEX:32026R0921: Commission Delegated Regulation (EU) 2026/921 of 29 April 2026 on the implementation of Union’s international obligations, as referred to in Article 15(2) of Regulation (EU) No 1380/2013 of the European Parliament and of the Council, under the General Fisheries Commission for the Mediterranean",
-      "riassunto_esteso": "Il Regolamento delegato UE 2026/921 traduce in norme nazionali gli impegni internazionali dell'Unione in materia di pesca mediterranea, come previsto dal Regolamento 1380/2013. Serve a garantire che le quote di cattura, le misure di conservazione e i controlli siano allineati con le decisioni della General Fisheries Commission for the Mediterranean (GFCM). L'obiettivo è proteggere le risorse ittiche, evitare la sovrasfruttamento e favorire una gestione sostenibile del mare. Il provvedimento fissa i livelli di cattura per le specie più vulnerabili, introduce obblighi di monitoraggio più stringenti e prevede sanzioni per chi non rispetta le regole. È stato adottato per adempiere agli accordi internazionali e per rispondere alle richieste di pescatori e ambientalisti di una gestione più trasparente.",
-      "cosa_cambia": [
-        "Le quote di cattura per alcune specie mediterranee sono state ridotte o adeguate.",
-        "I pescatori devono utilizzare sistemi di tracciamento elettronico per tutte le imbarcazioni di oltre 12 metri.",
-        "Le autorità di controllo hanno poteri rafforzati per effettuare ispezioni a bordo.",
-        "Le sanzioni per superamento quote o mancato rispetto delle misure di conservazione sono aumentate."
-      ],
-      "chi_interessa": "tutti i pescatori operanti nel Mediterraneo, le imprese di pesca e le autorità di controllo marittimo",
-      "cosa_devi_fare": "Adeguare le proprie attività alle nuove quote, installare i dispositivi di tracciamento richiesti e tenere registri di pesca aggiornati.",
-      "impatto": "Contribuirà a preservare le risorse ittiche e a garantire una pesca più sostenibile, ma comporta nuovi obblighi tecnici per i pescatori.",
-      "data_vigenza": "dal 1 gennaio 2027",
-      "categoria": "Ambiente e Energia",
-      "importanza": 3,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R0921",
-      "pubblicato": "2026-07-06T00:00:00+02:00",
-      "processed_at": "2026-07-12T06:27:19.357380+00:00"
     },
     {
       "id": "bb68323283680c7d",
