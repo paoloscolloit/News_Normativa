@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-04T08:37:32.027941+00:00",
-  "total": 221,
+  "last_updated": "2026-09-05T08:10:43.317053+00:00",
+  "total": 216,
   "items": [
     {
       "id": "3ccb35534a17f80a",
@@ -152,6 +152,26 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601807",
       "pubblicato": "2026-07-27T00:00:00+02:00",
       "processed_at": "2026-09-03T08:42:13.742307+00:00"
+    },
+    {
+      "id": "0c043221a953a3d0",
+      "titolo_popolare": "Aggiornamento missione UE di addestramento militare in Centrafrica",
+      "titolo_originale": "OJ:L_202601856: Council Decision (CFSP) 2026/1856 of 24 July 2026 amending Decision (CFSP) 2016/610 on a European Union CSDP Military Training Mission in the Central African Republic (EUTM RCA)",
+      "riassunto_esteso": "Il Consiglio dell'UE ha deciso di modificare la decisione che istituisce la missione di addestramento militare dell'Unione europea nella Repubblica Centrafricana (EUTM RCA). L'aggiornamento adegua il mandato, la durata e le risorse della missione alla situazione di sicurezza attuale nel paese. L'obiettivo è migliorare le capacità delle forze armate locali e contribuire alla stabilità e alla protezione dei civili. Questa iniziativa rientra nell'impegno continuo dell'UE per la cooperazione in materia di sicurezza e difesa in Africa. Non prevede effetti diretti sulla vita quotidiana dei cittadini europei.",
+      "cosa_cambia": [
+        "Nessun cambiamento diretto nella vita quotidiana dei cittadini"
+      ],
+      "chi_interessa": "nessun cittadino specifico",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "L'atto non ha effetti concreti sulla vita quotidiana delle persone, ma riflette l'impegno dell'UE per la sicurezza internazionale.",
+      "data_vigenza": "in vigore dal 24 luglio 2026",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601856",
+      "pubblicato": "2026-07-27T00:00:00+02:00",
+      "processed_at": "2026-09-05T08:09:07.171770+00:00"
     },
     {
       "id": "3ade5a0368cf1711",
@@ -455,6 +475,28 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601789",
       "pubblicato": "2026-07-24T00:00:00+02:00",
       "processed_at": "2026-09-03T08:27:01.027759+00:00"
+    },
+    {
+      "id": "75f967859d073e4b",
+      "titolo_popolare": "Regole aggiornate sulle emissioni auto Euro 6",
+      "titolo_originale": "OJ:L_202601791: Commission Regulation (EU) 2026/1791 of 23 July 2026 amending and correcting Regulation (EU) 2017/1151 as regards emission type-approval procedures for light passenger and commercial vehicles for end dates of Euro 6 vehicles and certain specific technical requirements",
+      "riassunto_esteso": "La Commissione europea ha modificato il regolamento sulle procedure di omologazione delle emissioni per veicoli leggeri, fissando nuove date limite per la vendita di auto conformi allo standard Euro 6. L'intervento punta a garantire che le auto immesse sul mercato rispettino limiti più severi di inquinanti, in linea con gli obiettivi di qualità dell'aria dell'UE. Vengono inoltre corretti alcuni requisiti tecnici specifici legati ai test di omologazione. Il cambiamento riguarda sia le auto passeggeri che i veicoli commerciali leggeri.",
+      "cosa_cambia": [
+        "Le nuove auto Euro 6 non potranno essere omologate dopo una certa data, spingendo verso standard più recenti.",
+        "I limiti di emissione di ossidi di azoto e particolato per le Euro 6 vengono resi più stringenti.",
+        "Le case automobilistiche dovranno aggiornare i protocolli di prova per rispettare i nuovi requisiti tecnici."
+      ],
+      "chi_interessa": "chi acquista o possiede auto nuove o usate leggere, e le imprese che producono o vendono tali veicoli",
+      "cosa_devi_fare": "Verificare che l'auto che intendi acquistare rispetti i nuovi limiti Euro 6; nessuna azione richiesta per veicoli già posseduti.",
+      "impatto": "Le auto in vendita saranno meno inquinanti, migliorando la qualità dell'aria nelle città; i consumatori potrebbero vedere prezzi leggermente più alti per i nuovi modelli.",
+      "data_vigenza": "in vigore dal 23 luglio 2026",
+      "categoria": "Ambiente e Energia",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601791",
+      "pubblicato": "2026-07-24T00:00:00+02:00",
+      "processed_at": "2026-09-05T07:56:40.058225+00:00"
     },
     {
       "id": "9162022795fe09e2",
@@ -4645,157 +4687,6 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601557",
       "pubblicato": "2026-07-08T00:00:00+02:00",
       "processed_at": "2026-07-10T07:33:30.446210+00:00"
-    },
-    {
-      "id": "8e9b75e187cc968d",
-      "titolo_popolare": "Documento UE non disponibile in lingua inglese",
-      "titolo_originale": "OJ:L_202690558",
-      "riassunto_esteso": "L'atto normativo non è disponibile nella versione inglese, quindi non è possibile conoscerne il contenuto preciso. Probabilmente riguarda una materia di competenza dell'Unione europea e potrebbe avere effetti su cittadini o imprese. In attesa della pubblicazione ufficiale, si consiglia di verificare eventuali comunicazioni nazionali. Senza ulteriori dettagli non è possibile descrivere più precisamente gli obiettivi o le motivazioni dell'atto.",
-      "cosa_cambia": [
-        "Non è possibile specificare cambiamenti concreti senza il testo dell'atto."
-      ],
-      "chi_interessa": "non specificato",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "Non è possibile valutare l'impatto concreto senza conoscere il contenuto dell'atto.",
-      "data_vigenza": "da definire con eventuale pubblicazione ufficiale",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690558",
-      "pubblicato": "2026-07-07T00:00:00+02:00",
-      "processed_at": "2026-07-07T07:34:09.013317+00:00"
-    },
-    {
-      "id": "41332d1a0d649fb4",
-      "titolo_popolare": "Documento normativo non disponibile",
-      "titolo_originale": "OJ:L_202690559",
-      "riassunto_esteso": "Il documento indicato non è reperibile nelle banche dati ufficiali, pertanto non è possibile conoscerne il contenuto. Probabilmente si tratta di un atto recente o di una bozza non ancora pubblicata. Senza il testo non si possono indicare gli effetti pratici né le motivazioni alla base della sua adozione. Si consiglia di verificare la fonte ufficiale o attendere la pubblicazione integrale.",
-      "cosa_cambia": [
-        "non specificato"
-      ],
-      "chi_interessa": "non specificato",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "non specificato",
-      "data_vigenza": "non specificato",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690559",
-      "pubblicato": "2026-07-07T00:00:00+02:00",
-      "processed_at": "2026-07-07T07:34:57.130892+00:00"
-    },
-    {
-      "id": "87592cdf77114736",
-      "titolo_popolare": "Sospensione dei dazi su alcuni prodotti statunitensi",
-      "titolo_originale": "OJ:L_202601549: Commission Implementing Regulation (EU) 2026/1549 of 6 July 2026 suspending commercial policy measures concerning certain products from the United States of America imposed by Implementing Regulation (EU) 2020/1646 following the adjudication of a trade dispute under the Dispute Settlement Understanding of the World Trade Organization",
-      "riassunto_esteso": "La Commissione europea ha deciso di sospendere le misure commerciali aggiuntive che erano state applicate a determinati prodotti provenienti dagli Stati Uniti. Queste misure, sotto forma di dazi aggiuntivi, erano state introdotte nel 2020 a seguito di una controversia commerciale risolta dall'Organizzazione Mondiale del Commercio. La sospensione segue la decisione dell'OMC che ha ritenuto le misure non conformi alle regole internazionali. Con questa azione l'UE vuole evitare l'escalation di una guerra commerciale e mantenere stabili i rapporti transatlantici. Il provvedimento è automatico e non richiede interventi da parte dei cittadini o delle imprese.",
-      "cosa_cambia": [
-        "I prezzi di alcuni prodotti statunitensi, come acciaio, alluminio e alcuni prodotti agricoli, potrebbero diminuire per via della riduzione dei dazi.",
-        "Le imprese europee che importano questi beni affronteranno costi doganali inferiori, migliorando la loro competitività.",
-        "Si riduce il rischio di nuove ritorsioni commerciali tra UE e USA, contribuendo a un clima di scambi più prevedibile.",
-        "Non sono previsti nuovi obblighi amministrativi per i consumatori o le aziende."
-      ],
-      "chi_interessa": "tutti i consumatori e le imprese che acquistano o importano prodotti dagli Stati Uniti",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "Possibile riduzione dei prezzi su alcuni beni statunitensi e minore tensione commerciale, con effetti positivi sul potere d'acquisto e sulla stabilità dei mercati.",
-      "data_vigenza": "in vigore dal 6 luglio 2026",
-      "categoria": "Imprese e Mercato",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601549",
-      "pubblicato": "2026-07-07T00:00:00+02:00",
-      "processed_at": "2026-07-07T07:35:16.917296+00:00"
-    },
-    {
-      "id": "b73903e5ea25474b",
-      "titolo_popolare": "Nuova tassa sulle gomme cinesi importate",
-      "titolo_originale": "OJ:L_202601540: Commission Implementing Regulation (EU) 2026/1540 of 6 July 2026 imposing a definitive anti-dumping duty on imports of new pneumatic tyres, of rubber, of a kind used on motor cars, buses or lorries with a load index not exceeding 121 (tyres) originating in the People’s Republic of China",
-      "riassunto_esteso": "La Commissione europea ha deciso di applicare un dazio antidumping definitivo sulle importazioni di pneumatici nuovi in gomma destinati a auto, autobus e camion leggeri proveniente dalla Cina. Il provvedimento mira a contrastare la pratica di vendita a prezzi sleali che, secondo l'indagine, danneggia i produttori europei di pneumatici. Il dazio sarà calcolato sulla base del margine di dumping riscontrato e si aggiungerà al normale dazio doganale. In pratica, le gomme cinesi potrebbero diventare più costose per chi le acquista nell'Unione europea. La misura entra in vigore subito dopo la pubblicazione nella Gazzetta ufficiale dell'UE.",
-      "cosa_cambia": [
-        "Le pneumatici cinesi potrebbero aumentare di prezzo nei negozi e nelle officine",
-        "Gli automobilisti potrebbero orientarsi verso marche europee o di altri paesi",
-        "Le imprese che importano gomme dalla Cina dovranno pagare il nuovo dazio"
-      ],
-      "chi_interessa": "automobilisti, officine meccaniche e chiunque acquisti pneumatici per auto, furgoni o camion leggeri",
-      "cosa_devi_fare": "nessuna azione richiesta, basta verificare l'eventuale aumento di prezzo al momento dell'acquisto",
-      "impatto": "Le gomme cinesi potrebbero diventare più care, spingendo verso prodotti UE o altri fornitori e proteggendo l'industria europea del settore. Questo può influire sul costo della manutenzione del veicolo.",
-      "data_vigenza": "in vigore da subito",
-      "categoria": "Imprese e Mercato",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601540",
-      "pubblicato": "2026-07-07T00:00:00+02:00",
-      "processed_at": "2026-07-08T06:24:09.181293+00:00"
-    },
-    {
-      "id": "750c867f768a5a72",
-      "titolo_popolare": "Correzione tecnica alle norme di sicurezza delle navi passeggeri Ro-Ro",
-      "titolo_originale": "OJ:L_202690560:            Berichtigung der Richtlinie 2005/12/EG der Kommission vom 18. Februar 2005 zur Änderung der Anhänge I und II der Richtlinie 2003/25/EG des Europäischen Parlaments und des Rates über besondere Stabilitätsanforderungen für Ro-Ro-Fahrgastschiffe (ABl. L 48 vom 19.2.2005)",
-      "riassunto_esteso": "L'atto è una correzione tecnica di una direttiva europea che stabilisce requisiti particolari di stabilità per le navi passeggeri Ro-Ro. La correzione serve a sistemare errori presenti negli allegati I e II della direttiva originale, garantendo che le regole siano applicate correttamente. È stata adottata per evitare che eventuali imprecisioni tecniche possano compromettere la sicurezza delle imbarcazioni. In pratica, non introduce nuovi obblighi, ma chiarisce quelli già esistenti. La modifica è destinata principalmente agli operatori del settore navale. Non comporta cambiamenti diretti per i cittadini comuni.",
-      "cosa_cambia": [
-        "nessun cambiamento diretto per i cittadini",
-        "chiarimento dei requisiti di stabilità per le navi passeggeri Ro-Ro"
-      ],
-      "chi_interessa": "operatori e gestori di navi passeggeri Ro-Ro",
-      "cosa_devi_fare": "nessuna azione richiesta per i cittadini",
-      "impatto": "migliora la sicurezza delle navi passeggeri Ro-Ro riducendo il rischio di incidenti legati alla stabilità. Questo contribuisce a una maggiore affidabilità del trasporto marittimo passeggeri.",
-      "data_vigenza": "in vigore da subito",
-      "categoria": "Trasporti",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690560",
-      "pubblicato": "2026-07-07T00:00:00+02:00",
-      "processed_at": "2026-07-08T06:24:47.248687+00:00"
-    },
-    {
-      "id": "2904b885fd3e17d3",
-      "titolo_popolare": "Aggiornamento norme per le banche su requisiti patrimoniali",
-      "titolo_originale": "OJ:L_202600807: Commission Delegated Regulation (EU) 2026/807 of 10 March 2026 amending the regulatory technical standards laid down in Delegated Regulation (EU) 2023/206 as regards the updating of references and the alignment of terminology following amendments to Regulation (EU) No 575/2013",
-      "riassunto_esteso": "Il Regolamento delegato UE 2026/807 del 10 marzo 2026 modifica le norme tecniche già stabilite nel Regolamento delegato 2023/206. L’obiettivo è aggiornare i riferimenti normativi e uniformare la terminologia in seguito alle modifiche apportate al Regolamento (UE) n. 575/2013, che disciplina i requisiti patrimoniali delle banche. In pratica, si adegua la documentazione tecnica alle nuove disposizioni europee per garantire coerenza e chiarezza. Questa revisione è necessaria per mantenere allineati i criteri di vigilanza bancaria con le ultime evoluzioni legislative. Il cambiamento riguarda tutti gli enti creditizi che operano nell’Unione Europea.",
-      "cosa_cambia": [
-        "Vengono aggiornati i riferimenti normativi nelle regole tecniche per le banche",
-        "La terminologia usata nei requisiti patrimoniali è uniformata con le nuove disposizioni del Regolamento 575/2013",
-        "Le banche dovranno adeguare la loro documentazione interna alle nuove indicazioni",
-        "Nessun altro cambiamento sostanziale indicato"
-      ],
-      "chi_interessa": "tutte le banche e gli istituti di credito operanti nell'Unione Europea",
-      "cosa_devi_fare": "Aggiornare i manuali e le procedure interne per riflettere i nuovi riferimenti e termini.",
-      "impatto": "Migliora la coerenza delle regole patrimoniali, facilitando la vigilanza e riducendo errori di interpretazione.",
-      "data_vigenza": "dal 1 aprile 2026",
-      "categoria": "Banche e Finanza",
-      "importanza": 3,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202600807",
-      "pubblicato": "2026-07-07T00:00:00+02:00",
-      "processed_at": "2026-07-12T06:27:58.308963+00:00"
-    },
-    {
-      "id": "6328f3c885dd0cc2",
-      "titolo_popolare": "Accordo di pesca UE‑São Tomé e Príncipe 2025‑2029",
-      "titolo_originale": "OJ:L_202601548: Council Decision (EU) 2026/1548 of 8 June 2026 on the conclusion, on behalf of the Union, of the Protocol on the implementation of the Fisheries Partnership Agreement between the Democratic Republic of São Tomé and Príncipe and the European Community (2025–2029)",
-      "riassunto_esteso": "Il Consiglio europeo ha deciso di firmare, a nome dell'Unione, il protocollo che mette in pratica l'Accordo di Partnership per la pesca tra l'UE e la Repubblica Democratica di São Tomé e Príncipe per il periodo 2025‑2029. L'obiettivo è garantire a pescatori europei l'accesso alle acque di São Tomé e Príncipe in cambio di contributi finanziari, trasferimento di tecnologie e sostegno allo sviluppo della pesca locale. L'accordo è stato adottato per rafforzare la cooperazione sostenibile nel settore marittimo, tutelare le risorse ittiche e promuovere lo sviluppo economico del partner africano. Prevede quote di cattura, misure di controllo e monitoraggio, e programmi di formazione per i pescatori locali. È parte della più ampia strategia UE di gestione responsabile delle risorse marine e di aiuto allo sviluppo nei paesi ACP.",
-      "cosa_cambia": [
-        "I pescatori europei potranno accedere alle zone di pesca di São Tomé e Príncipe secondo le quote stabilite.",
-        "São Tomé e Príncipe riceverà finanziamenti e supporto tecnico per migliorare la gestione delle proprie risorse marine.",
-        "Verranno introdotti sistemi di monitoraggio con osservatori a bordo per garantire la sostenibilità delle attività di pesca."
-      ],
-      "chi_interessa": "pescatori e imprese di pesca dell'UE, autorità marittime italiane, e le autorità di São Tomé e Príncipe",
-      "cosa_devi_fare": "Le imprese di pesca devono richiedere le autorizzazioni entro i termini stabiliti dal protocollo e rispettare le quote e le norme di controllo.",
-      "impatto": "Aumento delle opportunità di pesca per le flotte UE e sostegno allo sviluppo della pesca sostenibile a São Tomé e Príncipe.",
-      "data_vigenza": "in vigore dal 1 luglio 2026",
-      "categoria": "Ambiente e Energia",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601548",
-      "pubblicato": "2026-07-07T00:00:00+02:00",
-      "processed_at": "2026-07-12T06:28:30.612253+00:00"
     },
     {
       "id": "bb68323283680c7d",
