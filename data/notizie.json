@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-06T08:29:10.873315+00:00",
-  "total": 219,
+  "last_updated": "2026-09-07T08:56:30.357160+00:00",
+  "total": 214,
   "items": [
     {
       "id": "3ccb35534a17f80a",
@@ -44,6 +44,26 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601876",
       "pubblicato": "2026-07-28T00:00:00+02:00",
       "processed_at": "2026-09-04T08:37:32.023393+00:00"
+    },
+    {
+      "id": "48d943bd86eabe5b",
+      "titolo_popolare": "Atto UE non disponibile in lingua italiana",
+      "titolo_originale": "OJ:L_202690630",
+      "riassunto_esteso": "Il documento indicato non è reperibile nella banca dati ufficiale dell'Unione europea. Pertanto non è possibile conoscere il suo contenuto né gli obiettivi che si proponeva di raggiungere. Senza il testo non si possono descrivere le disposizioni che contiene né le motivazioni alla base della sua adozione. Per avere informazioni sarebbe necessario consultare la fonte originale o richiedere una copia presso le istituzioni europee.",
+      "cosa_cambia": [
+        "Non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690630",
+      "pubblicato": "2026-07-28T00:00:00+02:00",
+      "processed_at": "2026-09-07T08:54:54.069293+00:00"
     },
     {
       "id": "6c1a9cda8059a376",
@@ -605,6 +625,29 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601791",
       "pubblicato": "2026-07-24T00:00:00+02:00",
       "processed_at": "2026-09-05T07:56:40.058225+00:00"
+    },
+    {
+      "id": "c1371383ff5a3458",
+      "titolo_popolare": "Nuove misure contro la peste dei piccoli ruminanti in Croazia",
+      "titolo_originale": "OJ:L_202601827: Commission Implementing Decision (EU) 2026/1827 of 23 July 2026 amending Implementing Decision (EU) 2026/1706 concerning certain emergency measures relating to infection with peste des petits ruminants virus in Croatia (notified under document C(2026) 5340)",
+      "riassunto_esteso": "La Commissione europea ha aggiornato le misure di emergenza per affrontare l focolaio di peste dei piccoli ruminanti virus in Croazia. Il provvedimento introduce controlli più stretti sugli spostamenti di pecore e capre, obblighi di segnalazione immediata di casi sospetti e test veterinari obbligatori. In caso di conferma dell'infezione, gli animali possono essere abbattuti con relativo indennizzo per gli allevatori. L'obiettivo è contenere la malattia e impedirne la diffusione ad altri Stati membri.",
+      "cosa_cambia": [
+        "Obbligo di segnalare immediatamente qualsiasi segno di malattia agli servizi veterinari competenti.",
+        "Limitazioni allo spostamento di pecore e capre fuori dalle zone interessate senza autorizzazione.",
+        "Test veterinari obbligatori per gli animali prima di qualsiasi movimento o commercio.",
+        "Possibilità di abbattimento degli animali infetti con indennizzo previsto per gli allevatori."
+      ],
+      "chi_interessa": "gli allevatori di pecore e capre in Croazia",
+      "cosa_devi_fare": "segnalare subito qualsiasi segno di malattia agli servizi veterinari e rispettare le restrizioni agli spostamenti.",
+      "impatto": "Maggior controllo della malattia e riduzione del rischio di diffusione ad altri paesi, proteggendo il settore ovino-caprino.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Agricoltura e Alimentare",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601827",
+      "pubblicato": "2026-07-24T00:00:00+02:00",
+      "processed_at": "2026-09-07T08:44:09.558389+00:00"
     },
     {
       "id": "9162022795fe09e2",
@@ -4600,160 +4643,6 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:22026X01699",
       "pubblicato": "2026-07-10T00:00:00+02:00",
       "processed_at": "2026-07-12T06:35:03.423059+00:00"
-    },
-    {
-      "id": "49d82ed27b4dbd6c",
-      "titolo_popolare": "Aggiornamento delle sanzioni UE contro la Russia",
-      "titolo_originale": "CELEX:32026R1362R(01): Corrigendum to Council Implementing Regulation (EU) 2026/1362 of 15 June 2026 implementing Regulation (EU) 2024/1485 concerning restrictive measures in view of the situation in Russia (OJ L, 2026/1362, 15.6.2026)",
-      "riassunto_esteso": "Il documento è un corrigendum, cioè una correzione di errori materiali presenti nel regolamento che applica le sanzioni contro la Russia. Queste sanzioni erano state introdotte per rispondere alla situazione in Ucraina e riguardano restrizioni economiche e finanziarie. Il corrigendum non cambia il contenuto sostanziale delle misure, ma corregge refusi, riferimenti errati o errori di formulazione nel testo ufficiale. L'obiettivo è garantire che il regolamento sia chiaro e privo di ambiguità per chi lo deve applicare. Non introduce nuovi obblighi o diritti per i cittadini.",
-      "cosa_cambia": [
-        "nessuna modifica sostanziale per i cittadini"
-      ],
-      "chi_interessa": "nessun cittadino direttamente interessato",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "nessun impatto concreto sulle persone; serve solo a correggere errori tecnici del testo normativo.",
-      "data_vigenza": "in vigore da subito",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1362R(01)",
-      "pubblicato": "2026-07-09T00:00:00+02:00",
-      "processed_at": "2026-07-09T07:34:31.351990+00:00"
-    },
-    {
-      "id": "7d7e6157610ac9b0",
-      "titolo_popolare": "Aggiornamento delle sanzioni UE contro la Russia",
-      "titolo_originale": "CELEX:32026D1363R(01): Corrigendum to Council Decision (CFSP) 2026/1363 of 15 June 2026 amending Decision (CFSP) 2024/1484 concerning restrictive measures in view of the situation in Russia (OJ L, 2026/1363, 15.6.2026)",
-      "riassunto_esteso": "Il corrigendum corregge alcuni errori materiali presenti nella decisione del Consiglio che aveva introdotto nuove misure restrittive nei confronti della Russia. Queste correzioni riguardano principalmente l'elenco di persone e enti soggetti a sanzioni, le date di efficacia di alcune disposizioni e alcuni riferimenti normativi. L'obiettivo è garantire che le sanzioni siano applicate in modo corretto e uniforme da tutti gli Stati membri. Il testo non introduce nuove misure, ma rende più chiaro e preciso quello che già era stato deciso.",
-      "cosa_cambia": [
-        "Elenco aggiornato di persone e enti soggetti a congelamento dei beni e divieto di viaggio",
-        "Chiarimento sulle deroghe consentite per l'esportazione di prodotti agricoli e alimentari",
-        "Correzione di riferimenti agli articoli della decisione originale che erano stati indicati in modo errato",
-        "Specifica delle procedure da seguire per la revoca o la modifica delle sanzioni in caso di cambiamenti della situazione"
-      ],
-      "chi_interessa": "Chi ha rapporti economici, finanziari o commerciali con soggetti russi sottoposti a sanzioni UE",
-      "cosa_devi_fare": "Verificare che le proprie transazioni non coinvolgano persone o enti sanzionati e, in caso di dubbio, consultare le autorità competenti",
-      "impatto": "Maggiore chiarezza sulle sanzioni riduce il rischio di violazioni involontarie e protegge da eventuali sanzioni amministrative o penali.",
-      "data_vigenza": "dal 15 giugno 2026",
-      "categoria": "Giustizia e Diritti",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1363R(01)",
-      "pubblicato": "2026-07-09T00:00:00+02:00",
-      "processed_at": "2026-07-09T07:35:47.716257+00:00"
-    },
-    {
-      "id": "9bd0903d890f3be7",
-      "titolo_popolare": "Nuovi limiti per pesticidi negli alimenti",
-      "titolo_originale": "CELEX:32026R1546: Commission Regulation (EU) 2026/1546 of 8 July 2026 amending Annexes II, III and V to Regulation (EC) No 396/2005 of the European Parliament and of the Council as regards maximum residue levels for benomyl, carbendazim and thiophanate-methyl in or on certain products",
-      "riassunto_esteso": "La regolamentazione aggiorna i livelli massimi di residui consentiti per tre fungicidi (benomil, carbendazim e tiophanato-metile) in alcuni prodotti alimentari. Questi limiti sono stati rivisti sulla base delle ultime valutazioni scientifiche sulla sicurezza dei consumatori. L'obiettivo è garantire che gli alimenti venduti nell'UE contengano quantità di questi pesticidi ritenute sicure per la salute. La modifica si applica a frutta, verdura e cereali specificamente elencati negli allegati II, III e V del regolamento base. In questo modo si allinea la normativa UE agli standard internazionali e si riduce l'esposizione potenziale a sostanze chimiche.",
-      "cosa_cambia": [
-        "I livelli ammessi di benomil, carbendazim e tiophanato-metile in alcuni alimenti sono stati ridotti o aumentati secondo le nuove valutazioni.",
-        "Gli agricoltori devono rispettare i nuovi limiti quando utilizzano questi fungicidi sulle colture autorizzate.",
-        "I controlli ufficiali sui residui nei prodotti alimentari saranno effettuati con i nuovi valori di riferimento."
-      ],
-      "chi_interessa": "agricoltori, produttori e trasformatori di alimenti, nonché i consumatori finali",
-      "cosa_devi_fare": "Verificare che i prodotti rispettino i nuovi limiti; nessuna azione richiesta direttamente ai consumatori.",
-      "impatto": "Gli alimenti sul mercato avranno residui di pesticidi più controllati, aumentando la fiducia nella sicurezza alimentare. Questo protegge la salute pubblica e favorisce il commercio leale nell'UE.",
-      "data_vigenza": "in vigore dal 8 luglio 2026",
-      "categoria": "Agricoltura e Alimentare",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1546",
-      "pubblicato": "2026-07-09T00:00:00+02:00",
-      "processed_at": "2026-07-10T07:37:52.983018+00:00"
-    },
-    {
-      "id": "db091c9dcfcfcc06",
-      "titolo_popolare": "Correzione alle quote di pesca 2026-2028",
-      "titolo_originale": "CELEX:32026R1547R(01): Corrigendum to Council Regulation (EU) 2026/1547 of 1 July 2026 amending Regulation (EU) 2026/249 fixing for 2026, 2027 and 2028 the fishing opportunities for certain fish stocks, applicable in Union waters and, for Union fishing vessels, in certain non-Union waters, and amending Regulation (EU) 2025/2454 fixing the fishing opportunities for certain fish stocks and groups of fish stocks applicable in the Baltic Sea for 2026 (OJ L, 2026/1547, 3.7.2026)",
-      "riassunto_esteso": "Il Consiglio UE ha pubblicato un corrigendum, cioè una correzione, al regolamento che stabiliva le quote di pesca per gli anni 2026, 2027 e 2028. L’obiettivo è rettificare errori tecnici o di trascrizione presenti nella versione originale, garantendo che le quote per le varie specie ittiche siano corrette sia nelle acque dell’Unione sia, per le imbarcazioni comunitarie, in alcune acque extra‑UE. La correzione riguarda anche le quote specifiche per il Mar Baltico, già fissate dal regolamento del 2025. In pratica, il provvedimento assicura che i pescatori e le autorità di gestione della pesca operino con dati precisi e aggiornati.",
-      "cosa_cambia": [
-        "Le quote di pesca per alcune specie sono state corrette per gli anni 2026‑2028.",
-        "Le quote per il Mar Baltico nel 2026 sono state aggiornate.",
-        "Le correzioni si applicano sia alle acque UE sia a quelle extra‑UE dove operano imbarcazioni comunitarie."
-      ],
-      "chi_interessa": "tutti i pescatori, le imprese di pesca e le autorità di gestione delle risorse marine",
-      "cosa_devi_fare": "Verificare le nuove quote nei propri piani di pesca e adeguare le attività di conseguenza.",
-      "impatto": "Le quote corrette evitano sanzioni per eccessi di pesca e garantiscono una gestione più sostenibile delle risorse ittiche.",
-      "data_vigenza": "in vigore da subito",
-      "categoria": "Ambiente e Energia",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1547R(01)",
-      "pubblicato": "2026-07-09T00:00:00+02:00",
-      "processed_at": "2026-07-12T06:29:06.700909+00:00"
-    },
-    {
-      "id": "6378f574158b44e9",
-      "titolo_popolare": "Nomina di un rappresentante cipriota al Comitato delle Regioni",
-      "titolo_originale": "CELEX:32026D1555: Council Decision (EU) 2026/1555 of 29 June 2026 appointing an alternate member, proposed by the Republic of Cyprus, of the Committee of the Regions",
-      "riassunto_esteso": "Il Consiglio dell'Unione Europea ha deciso di nominare, su proposta della Repubblica di Cipro, un membro supplente per il Comitato delle Regioni, l'organo consultivo che rappresenta le autorità locali e regionali dell'UE. La decisione è stata presa il 29 giugno 2026 e serve a garantire la corretta rappresentanza di Cipro nelle discussioni su politiche regionali, coesione territoriale e sviluppo locale. Il supplente potrà intervenire quando il membro principale non è disponibile, assicurando continuità nelle attività del Comitato. Questa nomina rientra nelle consuete procedure di rotazione e bilanciamento delle rappresentanze tra gli Stati membri. L'obiettivo è rafforzare la partecipazione delle regioni cipriote alle decisioni europee su temi come fondi strutturali, urbanistica e ambiente.",
-      "cosa_cambia": [
-        "Cipro avrà un nuovo rappresentante supplente nel Comitato delle Regioni.",
-        "Il supplente potrà partecipare alle riunioni quando il membro principale è assente.",
-        "Le autorità locali cipriote avranno una voce in più nelle decisioni UE su politiche regionali."
-      ],
-      "chi_interessa": "le autorità regionali e locali di Cipro, i cittadini ciprioti interessati alle politiche europee regionali",
-      "cosa_devi_fare": "Nessuna azione richiesta ai cittadini; la nomina è gestita dalle istituzioni.",
-      "impatto": "Migliora la rappresentanza di Cipro nelle politiche regionali UE, potenzialmente influenzando meglio i fondi e i progetti locali.",
-      "data_vigenza": "dal 29 giugno 2026",
-      "categoria": "Altro",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1555",
-      "pubblicato": "2026-07-09T00:00:00+02:00",
-      "processed_at": "2026-07-12T06:29:40.010583+00:00"
-    },
-    {
-      "id": "1c1140e24731bdae",
-      "titolo_popolare": "Nomina dei rappresentanti danesi al Comitato delle Regioni",
-      "titolo_originale": "CELEX:32026D1558: Council Decision (EU) 2026/1558 of 29 June 2026 appointing seven members and eight alternate members, proposed by the Kingdom of Denmark, of the Committee of the Regions",
-      "riassunto_esteso": "Il Consiglio dell'Unione Europea ha deciso di conferire al Regno di Danimarca la possibilità di nominare sette membri e otto supplenti al Comitato delle Regioni, l'organo consultivo che rappresenta le autorità locali e regionali dell'UE. La decisione, adottata il 29 giugno 2026, segue le regole di ripartizione dei posti tra gli Stati membri e serve a garantire una rappresentanza equilibrata delle diverse realtà territoriali. L'obiettivo è rafforzare il ruolo del Comitato nelle politiche europee, assicurando che le istanze delle regioni danesi siano ascoltate. La nomina avviene su proposta del governo danese e sarà valida per il mandato previsto del Comitato.",
-      "cosa_cambia": [
-        "Il Danimarca può ora inviare sette rappresentanti al Comitato delle Regioni",
-        "Vengono nominati anche otto supplenti che sostituiranno i membri assenti",
-        "I rappresentanti danesi parteciperanno alle deliberazioni e alle opinioni del Comitato",
-        "Nessun cambiamento diretto per i cittadini, ma una voce più forte per le regioni danesi a livello UE"
-      ],
-      "chi_interessa": "le autorità regionali e locali della Danimarca, i politici danesi e i cittadini interessati alle decisioni UE che riguardano le regioni",
-      "cosa_devi_fare": "Nessuna azione richiesta ai cittadini; i rappresentanti saranno scelti dal governo danese.",
-      "impatto": "Migliora la capacità delle regioni danesi di influenzare le politiche UE, potenzialmente favorendo decisioni più vicine alle esigenze locali.",
-      "data_vigenza": "dal 29 giugno 2026",
-      "categoria": "Appalti Pubblici",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1558",
-      "pubblicato": "2026-07-09T00:00:00+02:00",
-      "processed_at": "2026-07-12T06:30:03.881058+00:00"
-    },
-    {
-      "id": "8948d4a4998eac71",
-      "titolo_popolare": "Accordo nucleare UE-UK per Gibilterra",
-      "titolo_originale": "CELEX:32026D1691: Commission Decision (Euratom) 2026/1691 of 8 July 2026 on the conclusion, by the European Commission, on behalf of the European Atomic Energy Community, and provisional application of the Agreement in respect of Gibraltar between the European Union and the European Atomic Energy Community, of the one part, and the United Kingdom of Great Britain and Northern Ireland, of the other part",
-      "riassunto_esteso": "Il 8 luglio 2026 la Commissione Europea, per conto dell'Euratom, ha deciso di concludere e applicare provvisoriamente un accordo tra l'Unione Europea e il Regno Unito riguardante la cooperazione nucleare a Gibilterra. L’accordo mira a garantire la continuità delle attività nucleari, la sicurezza e la gestione dei rifiuti in quella zona, evitando interruzioni dopo la Brexit. È stato adottato per assicurare che le normative di sicurezza nucleare rimangano armonizzate e per facilitare scambi scientifici e tecnici. La decisione è provvisoria, in attesa di ratifica completa da parte dei soggetti coinvolti. L’obiettivo è mantenere elevati standard di protezione e favorire la ricerca congiunta.",
-      "cosa_cambia": [
-        "Le attività nucleari a Gibilterra seguiranno le norme UE/Euratom anche dopo la Brexit.",
-        "Le autorità britanniche dovranno collaborare con l'UE per la sicurezza e la gestione dei rifiuti nucleari.",
-        "Le imprese e i centri di ricerca potranno continuare a scambiare dati e tecnologie nucleari senza interruzioni."
-      ],
-      "chi_interessa": "operatori nucleari, ricercatori, autorità di sicurezza e gestione rifiuti a Gibilterra e nel Regno Unito",
-      "cosa_devi_fare": "Nessuna azione immediata richiesta; monitorare eventuali comunicazioni per la ratifica definitiva.",
-      "impatto": "Garantisce continuità e sicurezza delle attività nucleari a Gibilterra, evitando vuoti normativi post‑Brexit.",
-      "data_vigenza": "dal 8 luglio 2026 (applicazione provvisoria)",
-      "categoria": "Ambiente e Energia",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1691",
-      "pubblicato": "2026-07-09T00:00:00+02:00",
-      "processed_at": "2026-07-12T06:30:39.462800+00:00"
     },
     {
       "id": "bb68323283680c7d",
