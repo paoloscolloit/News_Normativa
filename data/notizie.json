@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-07T08:56:30.357160+00:00",
-  "total": 214,
+  "last_updated": "2026-09-08T08:44:24.075601+00:00",
+  "total": 209,
   "items": [
     {
       "id": "3ccb35534a17f80a",
@@ -300,6 +300,26 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601806",
       "pubblicato": "2026-07-27T00:00:00+02:00",
       "processed_at": "2026-09-06T08:27:39.840779+00:00"
+    },
+    {
+      "id": "320bd9ec4cfa6c20",
+      "titolo_popolare": "Aggiornamento della missione UE in Repubblica Centrafricana",
+      "titolo_originale": "OJ:L_202601858: Council Decision (CFSP) 2026/1858 of 24 July 2026 amending Decision (CFSP) 2019/2110 on the European Union CSDP Advisory Mission in the Central African Republic (EUAM RCA)",
+      "riassunto_esteso": "La decisione aggiorna il mandato della missione di consulenza dell'Unione europea in Repubblica Centrafricana, estendendone la durata e adeguando i compiti alle nuove esigenze di sicurezza. È stata adottata per rispondere all'evoluzione della situazione sul terreno e per rafforzare il contributo dell'UE al processo di pace e alla riforma del settore della sicurezza. L'atto introduce un maggiore focus sulla formazione della polizia locale e delle istituzioni giudiziarie, migliorando il coordinamento con altri attori internazionali. Non impone nuovi obblighi direttamente a cittadini o imprese degli Stati membri. La modifica riguarda principalmente le istituzioni UE e gli Stati che partecipano alla missione.",
+      "cosa_cambia": [
+        "Nessun cambiamento diretto per i cittadini italiani o le imprese"
+      ],
+      "chi_interessa": "Istituzioni UE e Stati membri coinvolti nella missione in Repubblica Centrafricana",
+      "cosa_devi_fare": "Nessuna azione richiesta ai cittadini",
+      "impatto": "L'atto rafforza il ruolo dell'UE nella stabilizzazione della Repubblica Centrafricana, senza effetti diretti sulla vita quotidiana dei cittadini.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601858",
+      "pubblicato": "2026-07-27T00:00:00+02:00",
+      "processed_at": "2026-09-08T08:36:12.961586+00:00"
     },
     {
       "id": "3ade5a0368cf1711",
@@ -648,6 +668,29 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601827",
       "pubblicato": "2026-07-24T00:00:00+02:00",
       "processed_at": "2026-09-07T08:44:09.558389+00:00"
+    },
+    {
+      "id": "b50a2da334e91939",
+      "titolo_popolare": "Fattore di correzione per le quote gratuite di CO₂ 2026‑2030",
+      "titolo_originale": "OJ:L_202601862: Commission Implementing Decision (EU) 2026/1862 of 23 July 2026 determining the uniform cross-sectoral correction factor for the adjustment of free allocations of emission allowances for the period 2026 to 2030 (notified under document C(2026) 5379)",
+      "riassunto_esteso": "La decisione stabilisce un fattore unico di correzione che verrà applicato per aggiustare le quote gratuite di emissione di CO₂ assegnate alle industrie nell'ambito del sistema europeo di scambio di quote (ETS) per il periodo 2026‑2030. Questo fattore serve a tenere conto delle variazioni della produzione e a evitare che le imprese trasferiscano la loro attività fuori dall'UE per evitare i costi del carbonio. La Commissione lo adotta ogni anno per garantire che le assegnazioni gratuite rimangano allineate agli obiettivi di riduzione delle emissioni. In pratica, il fattore può aumentare o diminuire le quantità di quote gratuite a seconda dell'andamento settoriale. L'obiettivo è mantenere la competitività delle industrie europee mentre si procede verso la neutralità climatica.",
+      "cosa_cambia": [
+        "Le industrie potrebbero ricevere un numero leggermente diverso di quote gratuite di CO₂ rispetto agli anni precedenti.",
+        "Questo può influire sui costi di produzione e, di conseguenza, sui prezzi di alcuni beni e servizi.",
+        "Le imprese sono incentivate a ridurre le proprie emissioni per non dover acquistare quote aggiuntive sul mercato.",
+        "Il meccanismo contribuisce a raggiungere gli obiettivi di riduzione delle emissioni dell'UE per il periodo 2026‑2030."
+      ],
+      "chi_interessa": "le imprese industriali che partecipano al sistema europeo di scambio di quote di emissione (ETS)",
+      "cosa_devi_fare": "nessuna azione richiesta direttamente dai cittadini",
+      "impatto": "Può modificare leggermente i costi di produzione di alcuni prodotti, influenzando i prezzi al consumo, mentre promuove la riduzione delle emissioni industriali.",
+      "data_vigenza": "dal 1 gennaio 2026",
+      "categoria": "Ambiente e Energia",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601862",
+      "pubblicato": "2026-07-24T00:00:00+02:00",
+      "processed_at": "2026-09-08T08:27:40.704212+00:00"
     },
     {
       "id": "9162022795fe09e2",
@@ -4489,160 +4532,6 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601727",
       "pubblicato": "2026-07-13T00:00:00+02:00",
       "processed_at": "2026-07-13T06:52:41.258265+00:00"
-    },
-    {
-      "id": "81a73bb15d57a7c5",
-      "titolo_popolare": "Divieto di esportare rifiuti urbani misti per il recupero",
-      "titolo_originale": "CELEX:32026R1703: Regulation (EU) 2026/1703 of the European Parliament and of the Council of 8 July 2026 amending Regulation (EU) 2024/1157 as regards the prohibition on the export of mixed municipal waste destined for recovery (Text with EEA relevance)",
-      "riassunto_esteso": "Il Regolamento UE 2026/1703 modifica il Regolamento 2024/1157 introducendo il divieto di esportare rifiuti urbani misti destinati al recupero verso paesi terzi. È stato adottato per rafforzare la gestione dei rifiuti all'interno dell'Unione, ridurre il rischio di scarichi ambientali all'estero e incentivare il riciclo interno. La norma si applica a tutti i tipi di rifiuti solidi urbani non separati alla fonte, anche se destinati a impianti di recupero. L'obiettivo è garantire che il ciclo di vita dei rifiuti sia gestito principalmente sul territorio europeo, limitando le pratiche di esportazione che possono compromettere gli standard ambientali. La misura entra in vigore subito, ma i soggetti interessati hanno tempo per adeguare le proprie procedure di smaltimento.",
-      "cosa_cambia": [
-        "È vietato esportare rifiuti urbani misti destinati al recupero verso paesi fuori UE",
-        "Le imprese devono gestire questi rifiuti entro i confini dell'Unione",
-        "Le autorità nazionali devono monitorare e sanzionare le esportazioni illecite"
-      ],
-      "chi_interessa": "tutti i produttori di rifiuti urbani, le aziende di gestione dei rifiuti, i comuni e le autorità locali",
-      "cosa_devi_fare": "Verificare che i rifiuti urbani misti non vengano più spediti all'estero e organizzare il loro trattamento in Italia o UE.",
-      "impatto": "Riduzione delle esportazioni di rifiuti verso paesi con normative meno stringenti, con beneficio per l'ambiente e maggiore occupazione nel settore del riciclo interno.",
-      "data_vigenza": "in vigore da subito",
-      "categoria": "Ambiente e Energia",
-      "importanza": 3,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1703",
-      "pubblicato": "2026-07-10T00:00:00+02:00",
-      "processed_at": "2026-07-12T06:31:20.245383+00:00"
-    },
-    {
-      "id": "70f6580e74133955",
-      "titolo_popolare": "Nuove regole per il vino Drăgăşani a Indicazione Geografica Protetta",
-      "titolo_originale": "CELEX:32026R1702: Commission Implementing Regulation (EU) 2026/1702 of 7 July 2026 on the approval of a Union amendment to the product specification of the protected designation of origin Drăgăşani pursuant to of Regulation (EU) 2024/1143 of the European Parliament and of the Council",
-      "riassunto_esteso": "Il regolamento UE 2026/1702 approva una modifica al disciplinare del prodotto per il vino Drăgăşani, una denominazione di origine protetta. La modifica aggiorna i criteri di produzione, le zone ammissibili e le caratteristiche organolettiche per garantire la qualità e l’autenticità del vino. È stata introdotta per adeguare il disciplinare alle pratiche attuali dei produttori e per rafforzare la tutela del marchio a livello europeo. Con queste nuove regole, il vino potrà continuare a essere commercializzato con la DOP in tutta l’Unione, mantenendo la sua riconoscibilità. La decisione è parte di un più ampio sforzo dell’UE di armonizzare le norme sui prodotti tipici.",
-      "cosa_cambia": [
-        "Vengono aggiornate le zone di produzione ammesse per il vino Drăgăşani",
-        "Sono modificati i limiti di resa per ettaro e le tecniche di vinificazione consentite",
-        "Vengono precisate le caratteristiche sensoriali obbligatorie del prodotto"
-      ],
-      "chi_interessa": "produttori di vino Drăgăşani, distributori, ristoratori e consumatori di vini DOP",
-      "cosa_devi_fare": "Adeguare le pratiche di coltivazione e vinificazione alle nuove specifiche entro il prossimo ciclo di vendemmia.",
-      "impatto": "Migliora la tutela del marchio e la coerenza qualitativa del vino, garantendo ai consumatori un prodotto più affidabile.",
-      "data_vigenza": "dal 1 ottobre 2026",
-      "categoria": "Ambiente e Energia",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1702",
-      "pubblicato": "2026-07-10T00:00:00+02:00",
-      "processed_at": "2026-07-12T06:31:53.180807+00:00"
-    },
-    {
-      "id": "b772a69e4290edb1",
-      "titolo_popolare": "Regole per la raccolta dati sulla mobilità urbana",
-      "titolo_originale": "CELEX:32026R1554: Commission Implementing Regulation (EU) 2026/1554 of 9 July 2026 laying down rules for the application of Regulation (EU) 2024/1679 of the European Parliament and of the Council as regards the collection and submission to the Commission of urban mobility data per urban node in the fields of sustainability, safety and accessibility",
-      "riassunto_esteso": "Il regolamento stabilisce come i comuni e le autorità locali devono raccogliere e inviare alla Commissione europea i dati sulla mobilità urbana, suddivisi per zona di città (nodo urbano). L’obiettivo è fornire informazioni uniformi su sostenibilità, sicurezza e accessibilità dei trasporti, così da monitorare gli obiettivi climatici e migliorare la qualità della vita nelle città. Sono indicati i tipi di dati da raccogliere, le modalità di misurazione, i formati standard e le scadenze di trasmissione. Il provvedimento nasce per dare attuazione al Regolamento UE 2024/1679, che richiede una visione europea dei flussi di mobilità. In pratica, le amministrazioni dovranno dotarsi di sistemi di rilevazione e creare banche dati periodiche da condividere con l’Unione.",
-      "cosa_cambia": [
-        "I comuni devono raccogliere dati dettagliati su traffico, emissioni, incidenti e accessibilità per ogni nodo urbano.",
-        "I dati devono essere inviati alla Commissione europea con cadenza stabilita, usando formati standardizzati.",
-        "Le autorità devono adottare strumenti di misurazione compatibili con le linee guida UE."
-      ],
-      "chi_interessa": "tutti i comuni, le autorità metropolitane e gli enti locali responsabili dei trasporti urbani",
-      "cosa_devi_fare": "Implementare sistemi di raccolta dati secondo le specifiche e inviare i report alla Commissione entro le scadenze previste.",
-      "impatto": "Permetterà un confronto europeo più preciso sulla mobilità, favorendo politiche più efficaci per ridurre le emissioni e migliorare la sicurezza stradale.",
-      "data_vigenza": "dal 1 gennaio 2027",
-      "categoria": "Ambiente e Energia",
-      "importanza": 3,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1554",
-      "pubblicato": "2026-07-10T00:00:00+02:00",
-      "processed_at": "2026-07-12T06:32:34.988271+00:00"
-    },
-    {
-      "id": "dfb7829ecf18446a",
-      "titolo_popolare": "Correzione della lista delle compagnie di navigazione",
-      "titolo_originale": "CELEX:32026D1453: Commission Implementing Decision (EU) 2026/1453 of 2 July 2026 correcting Commission Implementing Decision (EU) 2024/411 on the list of shipping companies specifying the administering authority in respect of a shipping company in accordance with Directive 2003/87/EC of the European Parliament and of the Council",
-      "riassunto_esteso": "Il 2 luglio 2026 la Commissione europea ha pubblicato una decisione di attuazione che corregge una precedente del 2024, relativa all’elenco delle compagnie di navigazione e all’autorità amministrativa competente per ciascuna di esse, come previsto dalla direttiva sul mercato dell’emissione di certificati di riduzione delle emissioni (ETS). La correzione serve a sistemare errori di trascrizione e aggiornare i dati, garantendo che le informazioni siano corrette per il monitoraggio delle emissioni di CO2 dei trasporti marittimi. È una misura tecnica, senza nuove regole, ma fondamentale per la trasparenza e la corretta applicazione del sistema ETS nel settore marittimo.",
-      "cosa_cambia": [
-        "Viene aggiornato l’elenco ufficiale delle compagnie di navigazione con le autorità competenti corrette",
-        "Vengono rettificati eventuali errori di denominazione o di attribuzione dell’autorità amministrativa",
-        "Le compagnie interessate devono verificare che i dati ora riportati corrispondano alla realtà"
-      ],
-      "chi_interessa": "tutte le compagnie di navigazione soggette al sistema ETS e le autorità amministrative competenti",
-      "cosa_devi_fare": "Controllare l’elenco aggiornato e, se necessario, comunicare eventuali discrepanze all’autorità competente.",
-      "impatto": "Assicura che le compagnie di navigazione siano collegate all’autorità giusta per la gestione dei certificati ETS, evitando sanzioni o errori di reporting.",
-      "data_vigenza": "dal 2 luglio 2026",
-      "categoria": "Ambiente e Energia",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1453",
-      "pubblicato": "2026-07-10T00:00:00+02:00",
-      "processed_at": "2026-07-12T06:33:13.108761+00:00"
-    },
-    {
-      "id": "94f3a45ffce8e0b7",
-      "titolo_popolare": "Prolungamento del divieto di idrogeno russo e bielorusso",
-      "titolo_originale": "CELEX:32026D1551: Commission Implementing Decision (EU) 2026/1551 of 9 July 2026 laying down rules for the application of Regulation (EU) 2024/1789 of the European Parliament and of the Council as regards the renewal of the temporary exclusion of offers of hydrogen supplies originating in the Russian Federation or the Republic of Belarus from being collected through the mechanism to support the market development of hydrogen",
-      "riassunto_esteso": "La Commissione europea ha deciso di estendere, per un periodo temporaneo, l'esclusione delle offerte di idrogeno provenienti dalla Russia e dalla Bielorussia dal meccanismo di sostegno al mercato dell'idrogeno. Questa misura attua le disposizioni del Regolamento UE 2024/1789, che mira a garantire la sicurezza energetica dell'Unione e a non finanziare fornitori ritenuti non affidabili. Il provvedimento è stato adottato per rispondere alle tensioni geopolitiche e alle preoccupazioni di dipendenza energetica. La decisione stabilisce le modalità operative per l'esclusione, compresi i criteri di verifica dell'origine del prodotto. È una misura temporanea, soggetta a revisione in base all'evoluzione della situazione internazionale.",
-      "cosa_cambia": [
-        "Le offerte di idrogeno dalla Russia e dalla Bielorussia non potranno più accedere ai fondi UE per lo sviluppo del mercato dell'idrogeno.",
-        "Le imprese europee dovranno verificare l'origine dell'idrogeno prima di richiedere i finanziamenti.",
-        "Le autorità di controllo avranno procedure più stringenti per accertare la provenienza del prodotto."
-      ],
-      "chi_interessa": "imprese energetiche, fornitori di idrogeno, autorità di controllo e tutti gli attori coinvolti nei progetti di idrogeno sostenuto dall'UE",
-      "cosa_devi_fare": "Verificare l'origine dell'idrogeno e, se proviene da Russia o Bielorussia, escluderlo dalle domande di finanziamento.",
-      "impatto": "Si riduce il rischio di dipendenza da fornitori russi/bielorussi e si garantisce che i fondi UE supportino solo fonti considerate sicure.",
-      "data_vigenza": "dal 1 settembre 2026",
-      "categoria": "Altro",
-      "importanza": 3,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1551",
-      "pubblicato": "2026-07-10T00:00:00+02:00",
-      "processed_at": "2026-07-12T06:33:57.432945+00:00"
-    },
-    {
-      "id": "ea44c8a788e875f1",
-      "titolo_popolare": "Divieto temporaneo di certi parassiti nell'UE",
-      "titolo_originale": "CELEX:32026R1553: Commission Implementing Regulation (EU) 2026/1553 of 9 July 2026 amending Implementing Regulation (EU) 2022/1941 as regards the temporary prohibition of introduction into, movement within, holding, multiplication or release of certain pests in the Union territory",
-      "riassunto_esteso": "Il regolamento UE 2026/1553 modifica una norma del 2022 per introdurre un divieto temporaneo sull'introduzione, il movimento, la detenzione, la moltiplicazione o il rilascio di specifici parassiti nocivi nel territorio dell'Unione. È stato adottato per proteggere agricoltura, foreste e biodiversità da minacce biologiche emergenti. La misura è limitata nel tempo e riguarda specie individuate come particolarmente pericolose. Si applica a tutti gli operatori che manipolano piante, animali o prodotti agricoli che potrebbero contenere questi parassiti. L'obiettivo è evitare danni economici e ambientali prima che vengano sviluppate soluzioni più durature.",
-      "cosa_cambia": [
-        "Divieto temporaneo di importare o spostare le specie di parassiti elencate nell'UE",
-        "Obbligo di controlli più severi su merci vegetali e animali sospette",
-        "Possibili sanzioni per chi viola il divieto durante il periodo di validità"
-      ],
-      "chi_interessa": "tutti gli operatori del settore agricolo, forestale, zootecnico e i commercianti di prodotti vegetali o animali",
-      "cosa_devi_fare": "Verificare se i prodotti trattati contengono i parassiti vietati e, in caso affermativo, sospendere l'importazione o il trasferimento fino al termine del divieto.",
-      "impatto": "Riduce il rischio di invasioni biologiche dannose, proteggendo colture e ecosistemi, ma impone controlli aggiuntivi per gli operatori.",
-      "data_vigenza": "dal 9 luglio 2026",
-      "categoria": "Ambiente e Energia",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1553",
-      "pubblicato": "2026-07-10T00:00:00+02:00",
-      "processed_at": "2026-07-12T06:34:34.598210+00:00"
-    },
-    {
-      "id": "4202d63d555c9e8a",
-      "titolo_popolare": "Accordo UE-Canada per gli appalti pubblici sicuri",
-      "titolo_originale": "CELEX:22026X01699: Information relating to the entry into force of the Agreement between the European Union and Canada laying down the conditions for the participation of Canadian legal entities and products originating in Canada to procurement under the Safe Instrument [2026/1699]",
-      "riassunto_esteso": "L'Unione europea e il Canada hanno firmato un accordo che stabilisce le regole per permettere a imprese canadesi e ai prodotti made in Canada di partecipare alle gare d'appalto pubbliche europee sotto il cosiddetto Safe Instrument. L'obiettivo è aumentare la trasparenza, la concorrenza leale e la sicurezza delle forniture, garantendo che le aziende canadesi possano concorrere alle stesse condizioni dei fornitori europei. L'accordo è stato adottato per rafforzare i legami commerciali e per offrire più scelte agli enti pubblici europei. Entrerà in vigore una volta pubblicato il relativo atto delegato. Da quel momento le autorità di gara dovranno rispettare le nuove condizioni previste dal trattato.",
-      "cosa_cambia": [
-        "Le imprese canadesi potranno partecipare alle gare d'appalto pubbliche dell'UE con le stesse regole degli operatori europei",
-        "I prodotti originari del Canada saranno considerati idonei per gli appalti sotto il Safe Instrument",
-        "Le amministrazioni pubbliche UE dovranno includere i criteri dell'accordo nei loro bandi"
-      ],
-      "chi_interessa": "imprese canadesi, fornitori di prodotti canadesi, autorità pubbliche europee che gestiscono appalti",
-      "cosa_devi_fare": "Le imprese canadesi devono registrarsi nei sistemi di gara UE e dimostrare la provenienza canadese dei prodotti.",
-      "impatto": "Maggiore concorrenza e scelta per gli appalti pubblici UE, con opportunità di mercato per le aziende canadesi.",
-      "data_vigenza": "in vigore da subito dopo pubblicazione del decreto attuativo",
-      "categoria": "Appalti Pubblici",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:22026X01699",
-      "pubblicato": "2026-07-10T00:00:00+02:00",
-      "processed_at": "2026-07-12T06:35:03.423059+00:00"
     },
     {
       "id": "bb68323283680c7d",
