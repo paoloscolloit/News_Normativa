@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-08T08:44:24.075601+00:00",
-  "total": 209,
+  "last_updated": "2026-09-09T08:48:43.464638+00:00",
+  "total": 213,
   "items": [
     {
       "id": "3ccb35534a17f80a",
@@ -320,6 +320,52 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601858",
       "pubblicato": "2026-07-27T00:00:00+02:00",
       "processed_at": "2026-09-08T08:36:12.961586+00:00"
+    },
+    {
+      "id": "fa1ee1b9acebbbce",
+      "titolo_popolare": "Aggiornamento delle regole per l'assistenza a terra degli aerei",
+      "titolo_originale": "OJ:L_202690628: Corrigendum to Commission Implementing Regulation (EU) 2025/24 of 19 December 2024 amending Regulation (EU) No 965/2012 as regards requirements for aircraft operators related to ground handling activities (OJ L, 2025/24, 7.3.2025)",
+      "riassunto_esteso": "Il corrigendum corregge errori materiali e chiarisce alcuni requisiti presenti nel regolamento di esecuzione che modifica le norme sulle attività di assistenza a terra per gli operatori di aeromobili. Queste modifiche sono state introdotte per garantire che le disposizioni siano correttamente interpretate e applicate da tutte le parti coinvolte. L'obiettivo è migliorare la coerenza delle regole tra gli Stati membri e aumentare la sicurezza delle operazioni di ground handling. Il testo non introduce nuovi obblighi sostanziali, ma rende più preciso quello che già era previsto.",
+      "cosa_cambia": [
+        "Chiarimento sui requisiti di formazione del personale di assistenza a terra",
+        "Correzione di riferimenti normativi errati negli allegati",
+        "Specifica più precisa delle procedure di reporting degli incidenti",
+        "Adeguamento della terminologia utilizzata per descrivere le attrezzature di supporto"
+      ],
+      "chi_interessa": "compagnie aeree e fornitori di servizi di assistenza a terra",
+      "cosa_devi_fare": "nessuna azione richiesta direttamente ai cittadini; le compagnie devono adeguare le procedure interne",
+      "impatto": "maggiore chiarezza e uniformità nelle operazioni di assistenza a terra, contribuendo a migliorare la sicurezza e l'efficienza degli aeroporti",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Trasporti",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690628",
+      "pubblicato": "2026-07-27T00:00:00+02:00",
+      "processed_at": "2026-09-09T08:37:45.172509+00:00"
+    },
+    {
+      "id": "f3b780c2bef4d2dc",
+      "titolo_popolare": "Nuove sanzioni UE contro l'Iran per sostegno alla guerra",
+      "titolo_originale": "OJ:L_202601853: Council Implementing Regulation (EU) 2026/1853 of 24 July 2026 implementing Regulation (EU) 2023/1529 concerning restrictive measures in view of Iran’s military support to Russia’s war of aggression against Ukraine and to armed groups and entities in the Middle East and the Red Sea region as well as Iran’s actions undermining freedom of navigation in the Middle East",
+      "riassunto_esteso": "Il regolamento attuativo dell'UE introduce nuove misure restrittive contro l'Iran a causa del suo sostegno militare alla Russia nella guerra contro l'Ucraina e per il supporto a gruppi armati in Medio Oriente e Mar Rosso, nonché per le azioni che minacciano la libertà di navigazione nella regione. Le misure includono il congelamento di beni, il divieto di mettere a disposizione fondi e risorse economiche a persone ed entità iraniane designate, e restrizioni sull'esportazione di determinati beni e tecnologie. L'obiettivo è aumentare la pressione sull'Iran affinché cessi questi comportamenti che destabilizzano la sicurezza internazionale. Il provvedimento si basa sul quadro già esistente del regolamento (UE) 2023/1529 e mira a coordinare le sanzioni degli Stati membri.",
+      "cosa_cambia": [
+        "Le imprese UE non possono più effettuare transazioni finanziarie con persone o entità iraniane inserite nella lista delle sanzioni",
+        "È vietato esportazione di beni a duplice uso e di certe tecnologie verso l'Iran soggetta a autorizzazione o divieto",
+        "I beni e le risorse economiche dei soggetti sanzionati devono essere congelati e non possono essere utilizzati",
+        "Le navi e gli aerei che trasportano merci soggette a restrizioni possono essere oggetto di controlli e eventuali sequestri"
+      ],
+      "chi_interessa": "imprese, istituzioni finanziarie e cittadini che intrattengono rapporti commerciali o finanziari con l'Iran",
+      "cosa_devi_fare": "verificare che i propri partner non siano nelle liste UE di sanzioni e richiedere le eventuali autorizzazioni necessarie",
+      "impatto": "Le sanzioni limitano le opportunità di affari con l'Iran e riducono il rischio di finanziare attività che sostengono conflitti, aumentando la sicurezza internazionale",
+      "data_vigenza": "in vigore dal 24 luglio 2026",
+      "categoria": "Altro",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601853",
+      "pubblicato": "2026-07-27T00:00:00+02:00",
+      "processed_at": "2026-09-09T08:41:23.738222+00:00"
     },
     {
       "id": "3ade5a0368cf1711",
@@ -691,6 +737,52 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601862",
       "pubblicato": "2026-07-24T00:00:00+02:00",
       "processed_at": "2026-09-08T08:27:40.704212+00:00"
+    },
+    {
+      "id": "564148096d262ead",
+      "titolo_popolare": "Clausole modello per ridurre il metano nell'energia",
+      "titolo_originale": "OJ:L_202601834: Commission Recommendation (EU) 2026/1834 of 20 July 2026 on optional model clauses developed pursuant to Regulation (EU) 2024/1787 of the European Parliament and of the Council on the reduction of methane emissions in the energy sector and amending Regulation (EU) 2019/942",
+      "riassunto_esteso": "La Commissione europea ha pubblicato una raccomandazione che mette a disposizione delle imprese del settore energetico alcune clausole tipo da inserire nei contratti. Queste clausole sono volontarie e servono a favorire la riduzione delle emissioni di metano, un gas serra molto potente, lungo la catena di fornitura di gas, petrolio e altre attività energetiche. La raccomandazione si basa sul regolamento UE 2024/1787, che già impone obblighi di monitoraggio e riduzione del metano, e aggiorna anche il regolamento UE 2019/942 relativo alla trasparenza dei mercati dell'energia. Non introduce nuovi obblighi legali, ma offre uno strumento pratico per chi vuole andare oltre i requisiti minimi. L'obiettivo è contribuire agli obiettivi climatici dell'UE migliorando le pratiche contrattuali nel settore energetico.",
+      "cosa_cambia": [
+        "Le imprese energetiche possono inserire nei loro contratti clausole tipo che prevedono monitoraggio e riduzione delle emissioni di metano",
+        "Le pubbliche amministrazioni che acquistano energia possono tenere conto di queste clausole nei loro bandi di gara",
+        "Non è richiesto alcun adempimento obbligatorio; l'uso delle clausole è facoltativo",
+        "Le imprese ricevono un riferimento condiviso per migliorare la trasparenza sulle proprie performance ambientali"
+      ],
+      "chi_interessa": "aziende del settore energetico (gas, petrolio, rinnovabili) e enti che stipulano contratti nel settore",
+      "cosa_devi_fare": "nessuna azione obbligatoria; le imprese possono adottare volontariamente le clausole modello nei loro contratti",
+      "impatto": "Facilita la riduzione delle emissioni di metano nel settore energetico, contribuendo agli obiettivi climatici dell'UE.",
+      "data_vigenza": "in vigore da subito (20 luglio 2026)",
+      "categoria": "Ambiente e Energia",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601834",
+      "pubblicato": "2026-07-24T00:00:00+02:00",
+      "processed_at": "2026-09-09T08:35:50.495173+00:00"
+    },
+    {
+      "id": "8c38482f232e3c1e",
+      "titolo_popolare": "Come applicare le multe per le emissioni di metano dagli importatori",
+      "titolo_originale": "OJ:L_202601835: Commission Recommendation (EU) 2026/1835 of 20 July 2026 on the application of penalties provided for in Regulation (EU) 2024/1787 of the European Parliament and of the Council on the reduction of methane emissions in the energy sector in relation to obligations of importers",
+      "riassunto_esteso": "La raccomandazione della Commissione indica agli Stati membri come applicare le sanzioni previste dal regolamento UE 2024/1787, che mira a ridurre le emissioni di metano nel settore energetico. Si rivolge soprattutto agli importatori di gas naturale e petrolio, che devono monitorare, riferire e limitare le perdite di metano lungo la catena di approvvigionamento. L'obiettivo è garantire un'applicazione uniforme delle penali in tutta l'UE, evitando disparità tra paesi e incentivando comportamenti più rispettosi del clima. Con queste linee guida si punta a rendere più efficace la lotta contro il metano, un gas serra molto potente, contribuendo agli obiettivi climatici dell'Unione.",
+      "cosa_cambia": [
+        "Gli importatori dovranno adottare sistemi di monitoraggio e riduzione delle emissioni di metano, altrimenti rischiano multe.",
+        "Le autorità nazionali dovranno applicare le sanzioni in modo coerente, seguendo le indicazioni della raccomandazione.",
+        "Le imprese potrebbero dover investire in tecnologie di rilevazione e riparazione delle perdite di metano.",
+        "I consumatori potrebbero vedere un leggero aumento dei costi energetici dovuto agli adeguamenti richiesti agli importatori."
+      ],
+      "chi_interessa": "gli importatori di gas naturale e petrolio nell'UE",
+      "cosa_devi_fare": "Gli importatori devono monitorare e ridurre le emissioni di metano e comunicare i dati alle autorità nazionali.",
+      "impatto": "Si prevede una riduzione più uniforme delle perdite di metano nel settore energetico, contribuendo agli obiettivi di clima dell'UE. Questo può portare a minori impatti ambientali e a una maggiore trasparenza per cittadini e imprese.",
+      "data_vigenza": "in vigore dal 20 luglio 2026",
+      "categoria": "Ambiente e Energia",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601835",
+      "pubblicato": "2026-07-24T00:00:00+02:00",
+      "processed_at": "2026-09-09T08:36:01.127044+00:00"
     },
     {
       "id": "9162022795fe09e2",

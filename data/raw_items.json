@@ -1,89 +1,5 @@
 [
   {
-    "id": "81a73bb15d57a7c5",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026R1703: Regulation (EU) 2026/1703 of the European Parliament and of the Council of 8 July 2026 amending Regulation (EU) 2024/1157 as regards the prohibition on the export of mixed municipal waste destined for recovery (Text with EEA relevance)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1703",
-    "pubblicato": "2026-07-10T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-07-10T07:24:46.152462+00:00",
-    "processed": true
-  },
-  {
-    "id": "70f6580e74133955",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026R1702: Commission Implementing Regulation (EU) 2026/1702 of 7 July 2026 on the approval of a Union amendment to the product specification of the protected designation of origin Drăgăşani pursuant to of Regulation (EU) 2024/1143 of the European Parliament and of the Council",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1702",
-    "pubblicato": "2026-07-10T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-07-10T07:24:46.152611+00:00",
-    "processed": true
-  },
-  {
-    "id": "b772a69e4290edb1",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026R1554: Commission Implementing Regulation (EU) 2026/1554 of 9 July 2026 laying down rules for the application of Regulation (EU) 2024/1679 of the European Parliament and of the Council as regards the collection and submission to the Commission of urban mobility data per urban node in the fields of sustainability, safety and accessibility",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1554",
-    "pubblicato": "2026-07-10T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-07-10T07:24:46.152722+00:00",
-    "processed": true
-  },
-  {
-    "id": "dfb7829ecf18446a",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026D1453: Commission Implementing Decision (EU) 2026/1453 of 2 July 2026 correcting Commission Implementing Decision (EU) 2024/411 on the list of shipping companies specifying the administering authority in respect of a shipping company in accordance with Directive 2003/87/EC of the European Parliament and of the Council",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1453",
-    "pubblicato": "2026-07-10T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-07-10T07:24:46.152828+00:00",
-    "processed": true
-  },
-  {
-    "id": "94f3a45ffce8e0b7",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026D1551: Commission Implementing Decision (EU) 2026/1551 of 9 July 2026 laying down rules for the application of Regulation (EU) 2024/1789 of the European Parliament and of the Council as regards the renewal of the temporary exclusion of offers of hydrogen supplies originating in the Russian Federation or the Republic of Belarus from being collected through the mechanism to support the market development of hydrogen",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1551",
-    "pubblicato": "2026-07-10T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-07-10T07:24:46.152932+00:00",
-    "processed": true
-  },
-  {
-    "id": "ea44c8a788e875f1",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026R1553: Commission Implementing Regulation (EU) 2026/1553 of 9 July 2026 amending Implementing Regulation (EU) 2022/1941 as regards the temporary prohibition of introduction into, movement within, holding, multiplication or release of certain pests in the Union territory",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1553",
-    "pubblicato": "2026-07-10T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-07-10T07:24:46.153036+00:00",
-    "processed": true
-  },
-  {
-    "id": "4202d63d555c9e8a",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:22026X01699: Information relating to the entry into force of the Agreement between the European Union and Canada laying down the conditions for the participation of Canadian legal entities and products originating in Canada to procurement under the Safe Instrument [2026/1699]",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:22026X01699",
-    "pubblicato": "2026-07-10T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-07-10T07:24:46.153145+00:00",
-    "processed": true
-  },
-  {
     "id": "4b50844a1e3f1a7c",
     "source_id": "eurlex_oj_l",
     "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
@@ -2361,7 +2277,7 @@
     "pubblicato": "2026-07-24T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-24T06:16:37.065236+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "8c38482f232e3c1e",
@@ -2373,7 +2289,7 @@
     "pubblicato": "2026-07-24T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-24T06:16:37.065336+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "c2e57e43a4a9dc10",
@@ -2517,7 +2433,7 @@
     "pubblicato": "2026-07-27T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-27T06:53:12.785275+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "313e8a044e08a170",
@@ -2601,7 +2517,7 @@
     "pubblicato": "2026-07-27T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-27T06:53:12.785984+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "0e5fb08963b0a51a",
@@ -5997,6 +5913,90 @@
     "pubblicato": "2026-09-08T00:00:00+02:00",
     "summary_raw": "The corrigendum does not concern the English version.",
     "fetched_at": "2026-09-08T08:23:03.338877+00:00",
+    "processed": false
+  },
+  {
+    "id": "d2d9d50095e99c80",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R1975: Commission Implementing Regulation (EU) 2026/1975 of 8 September 2026 authorising an exemption pursuant to Regulation (EU) 2024/573 of the European Parliament and of the Council, with regards to the use of fluorinated greenhouse gases in certain equipment used for drying compressed air",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1975",
+    "pubblicato": "2026-09-09T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-09-09T08:27:55.116132+00:00",
+    "processed": false
+  },
+  {
+    "id": "56eced8432e228f9",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R1974: Commission Implementing Regulation (EU) 2026/1974 of 8 September 2026 granting a Union authorisation for the single biocidal product ERO MN in accordance with Regulation (EU) No 528/2012 of the European Parliament and of the Council",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1974",
+    "pubblicato": "2026-09-09T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-09-09T08:27:55.116249+00:00",
+    "processed": false
+  },
+  {
+    "id": "5fed936762e16fbb",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R2017: Commission Implementing Regulation (EU) 2026/2017 of 2 September 2026 on the registration of the geographical indication Brânză frământată de Teaca (PGI) in the Union register of geographical indications pursuant to Regulation (EU) 2024/1143 of the European Parliament and of the Council",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2017",
+    "pubblicato": "2026-09-09T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-09-09T08:27:55.116354+00:00",
+    "processed": false
+  },
+  {
+    "id": "1b9e33af96fd58dc",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D1977: Commission Implementing Decision (EU) 2026/1977 of 8 September 2026 laying down the final import response on behalf of the Union concerning the future import of carbosulfan and of fenthion (ultra-low-volume formulations at or above 640 g active ingredient/L) pursuant to Regulation (EU) No 649/2012 of the European Parliament and of the Council",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1977",
+    "pubblicato": "2026-09-09T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-09-09T08:27:55.116457+00:00",
+    "processed": false
+  },
+  {
+    "id": "660290b0b8cd7dda",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:31998L0056R(01):            Rectificatif à la directive 98/56/CE du Conseil du 20 juillet 1998 concernant la commercialisation des matériels de multiplication des plantes ornementales (JO L 226 du 13.8.1998)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:31998L0056R(01)",
+    "pubblicato": "2026-09-09T00:00:00+02:00",
+    "summary_raw": "The corrigendum does not concern the English version.",
+    "fetched_at": "2026-09-09T08:27:55.116543+00:00",
+    "processed": false
+  },
+  {
+    "id": "db26209f9102745d",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R1976: Commission Implementing Regulation (EU) 2026/1976 of 8 September 2026 renewing the approval of the active substance pyraclostrobin in accordance with Regulation (EC) No 1107/2009 of the European Parliament and of the Council, and amending Commission Implementing Regulation (EU) No 540/2011",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1976",
+    "pubblicato": "2026-09-09T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-09-09T08:27:55.116626+00:00",
+    "processed": false
+  },
+  {
+    "id": "2a50486302ba8d11",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D1978: Commission Implementing Decision (EU) 2026/1978 of 8 September 2026 setting up the European Digital Infrastructure Consortium for Agri-Food (EDIC for Agri-Food)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1978",
+    "pubblicato": "2026-09-09T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-09-09T08:27:55.116710+00:00",
     "processed": false
   }
 ]
