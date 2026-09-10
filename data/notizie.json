@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-09T08:48:43.464638+00:00",
-  "total": 213,
+  "last_updated": "2026-09-10T08:45:15.316147+00:00",
+  "total": 214,
   "items": [
     {
       "id": "3ccb35534a17f80a",
@@ -64,6 +64,26 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690630",
       "pubblicato": "2026-07-28T00:00:00+02:00",
       "processed_at": "2026-09-07T08:54:54.069293+00:00"
+    },
+    {
+      "id": "def0342c3660390b",
+      "titolo_popolare": "Atto UE non specificato",
+      "titolo_originale": "OJ:L_202690629",
+      "riassunto_esteso": "Le informazioni sul contenuto di questo atto non sono disponibili nella fonte fornita. Pertanto non è possibile descrivere cosa stabilisce né le motivazioni alla base della sua adozione. Si consiglia di consultare il testo ufficiale della Gazzetta UE per ottenere i dettagli necessari. Senza ulteriori dati non si possono indicare effetti concreti o obblighi derivanti dal provvedimento.",
+      "cosa_cambia": [
+        "non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690629",
+      "pubblicato": "2026-07-28T00:00:00+02:00",
+      "processed_at": "2026-09-10T08:42:43.971886+00:00"
     },
     {
       "id": "6c1a9cda8059a376",
