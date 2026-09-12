@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-11T08:48:15.356972+00:00",
-  "total": 202,
+  "last_updated": "2026-09-12T08:29:13.376105+00:00",
+  "total": 190,
   "items": [
     {
       "id": "3ccb35534a17f80a",
@@ -104,6 +104,28 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690623",
       "pubblicato": "2026-07-28T00:00:00+02:00",
       "processed_at": "2026-09-11T08:42:40.622416+00:00"
+    },
+    {
+      "id": "7f26a5e0efdf6b66",
+      "titolo_popolare": "Regole per separare i rating ESG da altre attività",
+      "titolo_originale": "OJ:L_202600872: Commission Delegated Regulation (EU) 2026/872 of 21 April 2026 supplementing Regulation (EU) 2024/3005 of the European Parliament and of the Council with regard to regulatory technical standards specifying the measures and safeguards to be implemented by ESG rating providers to separate their ESG rating activities from their other activities",
+      "riassunto_esteso": "La regolamentazione delegata della Commissione europea stabilisce standard tecnici che obbligano i fornitori di rating ESG a tenere distinti i loro servizi di rating ambientale, sociale e di governance dalle altre attività che svolgono. Lo scopo è evitare conflitti di interesse e garantire che i rating siano indipendenti e affidabili. Le nuove regole definiscono quali misure organizzative, di trasparenza e di controllo interno devono essere adottate. In questo modo si punta a migliorare la qualità delle informazioni ESG utilizzate dagli investitori e dalle imprese per decisioni sostenibili.",
+      "cosa_cambia": [
+        "I fornitori di rating ESG devono creare unità operative separate per le attività di rating e per le altre consulenze.",
+        "Devono adottare e pubblicare politiche chiare di gestione dei conflitti di interesse.",
+        "Sono tenuti a mettere in atto sistemi di controllo interno e di reporting sulle misure di separazione adottate."
+      ],
+      "chi_interessa": "i fornitori di rating ESG che operano nell'Unione Europea",
+      "cosa_devi_fare": "adottare misure di separazione organizzativa, pubblicare le politiche di conflitto di interesse e garantire il rispetto dei nuovi standard tecnici",
+      "impatto": "Si otterranno rating ESG più indipendenti e credibili, aumentando la fiducia degli investitori nelle informazioni sulla sostenibilità.",
+      "data_vigenza": "in vigore dal 21 aprile 2026",
+      "categoria": "Banche e Finanza",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202600872",
+      "pubblicato": "2026-07-28T00:00:00+02:00",
+      "processed_at": "2026-09-12T08:25:13.310602+00:00"
     },
     {
       "id": "6c1a9cda8059a376",
@@ -406,6 +428,50 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601853",
       "pubblicato": "2026-07-27T00:00:00+02:00",
       "processed_at": "2026-09-09T08:41:23.738222+00:00"
+    },
+    {
+      "id": "94992e37647ea1db",
+      "titolo_popolare": "Aggiornamento delle sanzioni UE contro l'Iran",
+      "titolo_originale": "OJ:L_202601836: Council Decision (CFSP) 2026/1836 of 24 July 2026 amending Decision 2010/413/CFSP concerning restrictive measures against Iran",
+      "riassunto_esteso": "La decisione del Consiglio aggiorna le misure restrittive dell'Unione europea contro l'Iran, modificando la decisione del 2010. L'adeguamento segue gli sviluppi del programma nucleare iraniano e altre preoccupazioni di sicurezza internazionale. Le sanzioni includono il congelamento di beni, divieti di viaggio e restrizioni agli scambi commerciali con persone ed entità elencate. L'obiettivo è mantenere la pressione sull'Iran affinché rispetti gli obblighi non di proliferazione e contribuisca alla stabilità regionale. L'atto rientra nella politica estera e di sicurezza comune dell'UE e non impone nuovi obblighi direttamente ai cittadini italiani.",
+      "cosa_cambia": [
+        "Nessuna modifica diretta agli obblighi dei cittadini italiani",
+        "Possibili effetti sulle imprese che hanno rapporti commerciali o finanziari con l'Iran"
+      ],
+      "chi_interessa": "principalmente imprese e individui coinvolti in rapporti con l'Iran; nessun effetto diretto sui cittadini comuni",
+      "cosa_devi_fare": "nessuna azione richiesta per i cittadini comuni",
+      "impatto": "L'impatto è soprattutto sulle imprese che intrattengono rapporti con l'Iran; per i cittadini comuni non ci sono cambiamenti percepibili nella vita quotidiana.",
+      "data_vigenza": "in vigore dal 24 luglio 2026",
+      "categoria": "Altro",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601836",
+      "pubblicato": "2026-07-27T00:00:00+02:00",
+      "processed_at": "2026-09-12T08:15:22.427580+00:00"
+    },
+    {
+      "id": "db5f877055170671",
+      "titolo_popolare": "Aggiornamento delle sanzioni UE contro l'Iran",
+      "titolo_originale": "OJ:L_202601838: Council Implementing Regulation (EU) 2026/1838 of 24 July 2026 implementing Regulation (EU) No 267/2012 concerning restrictive measures against Iran",
+      "riassunto_esteso": "Il regolamento attua le misure restrittive già previste contro l'Iran, aggiornando l'elenco di persone, entità e settori soggetti a sanzioni. Introduce nuovi divieti di esportazione e importazione di alcuni beni e tecnologie sensibili. Prevede il congelamento di asset e il divieto di viaggio per i soggetti designati. L'obiettivo è aumentare la pressione sull'Iran per rispettare gli obblighi internazionali riguardo al nucleare e ai diritti umani.",
+      "cosa_cambia": [
+        "Aggiunta di nuove persone e imprese iraniane alla lista dei soggetti soggetti a sanzioni UE",
+        "Estensione del divieto di esportazione di alcuni prodotti ad alta tecnologia verso l'Iran",
+        "Aggiornamento delle disposizioni sul congelamento di fondi e risorse economiche",
+        "Revisione delle eccezioni umanitarie per permettere comunque l'invio di medicinali e generi di prima necessità"
+      ],
+      "chi_interessa": "imprese che commerciano con l'Iran, istituzioni finanziarie e cittadini che hanno rapporti economici con soggetti iraniani",
+      "cosa_devi_fare": "verificare che i propri partner o clienti non siano presenti nella lista aggiornata delle sanzioni e, in caso di dubbio, consultare l'autorità competente",
+      "impatto": "Le imprese dovranno evitare transazioni con i soggetti sanzionati per non incorrere in multe o blocchi dei pagamenti; ciò tutela il rispetto delle politiche estere dell'UE.",
+      "data_vigenza": "in vigore dal 24 luglio 2026",
+      "categoria": "Imprese e Mercato",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601838",
+      "pubblicato": "2026-07-27T00:00:00+02:00",
+      "processed_at": "2026-09-12T08:18:08.004115+00:00"
     },
     {
       "id": "3ade5a0368cf1711",
@@ -1955,6 +2021,29 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601478",
       "pubblicato": "2026-07-23T00:00:00+02:00",
       "processed_at": "2026-09-04T08:20:00.136742+00:00"
+    },
+    {
+      "id": "287c8c3cd8b6f50f",
+      "titolo_popolare": "Regole UE per garantire il completamento delle case in costruzione",
+      "titolo_originale": "OJ:L_202600849: Commission Delegated Regulation (EU) 2026/849 of 16 April 2026 supplementing Regulation (EU) No 575/2013 of the European Parliament and of the Council with regard to regulatory technical standards specifying what constitutes an equivalent legal mechanism that ensures that a residential property under construction is completed within a reasonable time frame",
+      "riassunto_esteso": "La Commissione europea ha adottato norme tecniche che definiscono quali meccanismi legali possono essere considerati equivalenti per assicurare che un immobile residenziale in fase di costruzione venga ultimato entro un termine ragionevole. Queste norme integrano il regolamento prudenziale sulle banche (CRR) e servono a ridurre il rischio di credito legato ai finanziamenti per costruzioni. In pratica, le banche potranno riconoscere come sufficienti garanzie come fideiussioni, assicurazioni o conti vincolati, a condizione che rispettino gli standard UE. L'obiettivo è proteggere gli acquirenti di case in costruzione e rendere più stabile il mercato dei mutui edilizi.",
+      "cosa_cambia": [
+        "Le banche dovranno applicare nuovi criteri UE per valutare se una garanzia è sufficiente a finanziare la costruzione di una casa",
+        "I costruttori dovranno adottare meccanismi legali riconosciuti (es. fideiussioni, polizze assicurative o conti escrow) per ottenere finanziamenti",
+        "Gli acquirenti di case in costruzione beneficeranno di maggiore certezza che l'immobile venga completato nei tempi previsti",
+        "Maggiore trasparenza sulle tipologie di garanzie accettabili dagli istituti di credito"
+      ],
+      "chi_interessa": "acquirenti di case in costruzione, sviluppatori immobiliari e banche che concedono mutui edilizi",
+      "cosa_devi_fare": "Nessuna azione diretta richiesta ai cittadini; le banche e i costruttori si adegueranno alle nuove regole",
+      "impatto": "Maggiore sicurezza che le case in costruzione vengano ultimate nei tempi previsti, riducendo il rischio di perdite finanziarie per acquirenti e istituti di credito",
+      "data_vigenza": "in vigore da subito dopo la pubblicazione nella Gazzetta UE",
+      "categoria": "Banche e Finanza",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202600849",
+      "pubblicato": "2026-07-23T00:00:00+02:00",
+      "processed_at": "2026-09-12T08:11:14.942870+00:00"
     },
     {
       "id": "dc01cfcaec9ec04c",
@@ -4045,336 +4134,6 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202600789",
       "pubblicato": "2026-07-16T00:00:00+02:00",
       "processed_at": "2026-08-12T05:25:23.131178+00:00"
-    },
-    {
-      "id": "66b11f213ea14dd4",
-      "titolo_popolare": "Missione UE di partenariato in Armenia avviata",
-      "titolo_originale": "OJ:L_202601711: Council Decision (CFSP) 2026/1711 of 13 July 2026 launching the European Union Partnership Mission in Armenia (EUPM Armenia) and amending Decision (CFSP) 2026/894",
-      "riassunto_esteso": "Il Consiglio dell'Unione europea ha deciso di lanciare la Partnership Mission in Armenia, un'iniziativa volta a sostenere le riforme politiche ed economiche del paese e a rafforzare i legami tra l'UE e l'Armenia. La decisione modifica inoltre una precedente decisione (CFSP) 2026/894, aggiornandone gli obiettivi e le modalità di attuazione. La missione prevede l'invio di esperti europei per assistere le autorità armene in settori come la governance, lo Stato di diritto e lo sviluppo sostenibile. L'obiettivo è contribuire alla stabilità regionale e promuovere valori condivisi come democrazia e diritti umani. L'atto rientra nella politica estera e di sicurezza comune dell'UE.",
-      "cosa_cambia": [
-        "Nessun cambiamento diretto per i cittadini italiani"
-      ],
-      "chi_interessa": "nessun cittadino italiano direttamente interessato",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "La missione può favorire maggiori opportunità di scambio culturale ed economico con l'Armenia e contribuire a una maggiore stabilità nel Caucaso. Questo si riflette indirettamente in un contesto internazionale più sicuro per tutti.",
-      "data_vigenza": "in vigore dal 13 luglio 2026",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601711",
-      "pubblicato": "2026-07-14T00:00:00+02:00",
-      "processed_at": "2026-07-14T06:03:13.479004+00:00"
-    },
-    {
-      "id": "d1b0510fc77f54b5",
-      "titolo_popolare": "Nomina del rappresentante UE per il Kosovo",
-      "titolo_originale": "OJ:L_202601726: Council Decision (CFSP) 2026/1726 of 13 July 2026 appointing the European Union Special Representative for Kosovo",
-      "riassunto_esteso": "Il Consiglio dell'Unione europea ha deciso di nominare un nuovo rappresentante speciale per il Kosovo, con il compito di seguire da vicino la situazione politica e di situazione politica e di sicurezza nella regione. Questo ruolo serve a rafforzare la presenza dell'UE nei Balcani occidentali e a sostenere il dialogo tra Belgrado e Pristina. La decisione è stata presa il 13 luglio 2026 e entra in vigore subito dopo la pubblicazione nella Gazzetta ufficiale dell'UE. Non comporta obblighi diretti per i cittadini italiani, ma rientra nella politica estera comune dell'Unione.",
-      "cosa_cambia": [
-        "Nessun cambiamento diretto per i cittadini italiani"
-      ],
-      "chi_interessa": "nessun gruppo specifico di cittadini italiani",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "Rafforza il ruolo dell'UE nei Balcani, contribuendo alla stabilità regionale e al processo di dialogo tra Serbia e Kosovo.",
-      "data_vigenza": "in vigore dal 13 luglio 2026",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601726",
-      "pubblicato": "2026-07-14T00:00:00+02:00",
-      "processed_at": "2026-07-14T06:03:28.666331+00:00"
-    },
-    {
-      "id": "170b67366ab6f098",
-      "titolo_popolare": "Atto UE non identificato nella Gazzetta",
-      "titolo_originale": "OJ:L_202690568",
-      "riassunto_esteso": "L'atto indicato nella fonte EUR-Lex non è disponibile nelle versioni consultabili, quindi non è possibile leggere il suo contenuto ufficiale. Non essendo presente il testo integrale, non si possono descrivere gli obiettivi né le motivazioni alla base della sua adozione. Di conseguenza, non è possibile stabilire quali modifiche introduca rispetto alla normativa precedente. L'assenza di informazioni impedisce anche di capire a chi si rivolga o quali effetti possa avere. Per avere chiarimenti sarebbe necessario consultare la versione originale dell'atto o attendere eventuali comunicazioni ufficiali.",
-      "cosa_cambia": [
-        "non specificato"
-      ],
-      "chi_interessa": "non specificato",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "non specificato",
-      "data_vigenza": "non specificato",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690568",
-      "pubblicato": "2026-07-14T00:00:00+02:00",
-      "processed_at": "2026-07-14T06:03:40.693222+00:00"
-    },
-    {
-      "id": "19606a63e9aa5f4f",
-      "titolo_popolare": "Sicurezza dei sistemi spaziali UE: nuove regole",
-      "titolo_originale": "OJ:L_202601716: Council Decision (CFSP) 2026/1716 of 13 July 2026 on instructions concerning the security of systems and services deployed, operated and used under the Union Space Programme and the Union Secure Connectivity Programme which may affect the security of the Union",
-      "riassunto_esteso": "Il Consiglio dell'UE ha adottato una decisione che fornisce istruzioni specifiche sulla sicurezza dei sistemi e dei servizi impiegati nel programma spaziale europeo e nel programma di connettività sicura dell'Unione. L'obiettivo è prevenire rischi che possano compromettere la sicurezza generale dell'Unione, garantendo che satelliti, reti di comunicazione e infrastrutture correlate rispettino standard elevati di protezione. La decisione stabilisce quali enti devono applicare queste misure e come devono essere verificate le loro attività. In pratica, si tratta di un rafforzamento delle tutele contro possibili minacce cyber o fisiche ai servizi spaziali.",
-      "cosa_cambia": [
-        "Gli operatori di satelliti e di servizi di comunicazione sicura devono seguire nuove procedure di sicurezza richieste dall'UE",
-        "Vengono introdotti controlli più rigorosi sulla protezione dei dati trasmessi dallo spazio",
-        "I fornitori di servizi di navigazione e di connettività potrebbero dover aggiornare i propri sistemi per rispettare gli standard",
-        "Per i cittadini comuni non ci sono obblighi diretti di azione"
-      ],
-      "chi_interessa": "Enti pubblici e privati che partecipano al programma spaziale UE e al programma di connettività sicura",
-      "cosa_devi_fare": "Nessuna azione richiesta direttamente ai cittadini",
-      "impatto": "Maggiore protezione dei servizi spaziali e di comunicazione, riducendo il rischio di interruzioni o attacchi che potrebbero influire su navigazione, telecomunicazioni e altri servizi essenziali.",
-      "data_vigenza": "in vigore dal 13 luglio 2026",
-      "categoria": "Digitale e Privacy",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601716",
-      "pubblicato": "2026-07-14T00:00:00+02:00",
-      "processed_at": "2026-07-14T06:04:48.596206+00:00"
-    },
-    {
-      "id": "9187531a0e66d023",
-      "titolo_popolare": "Atto UE senza dettagli disponibili",
-      "titolo_originale": "OJ:L_202690570",
-      "riassunto_esteso": "L'atto è stato pubblicato nella Gazzetta Ufficiale dell'Unione Europea nella serie L. Non è disponibile una versione inglese del testo, quindi i dettagli precisi non sono conosciuti. Probabilmente riguarda una materia di interesse generale per gli Stati membri. La pubblicazione serve a rendere ufficiale la norma a livello europeo.",
-      "cosa_cambia": [
-        "non specificato"
-      ],
-      "chi_interessa": "non specificato",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "non specificato",
-      "data_vigenza": "non specificato",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690570",
-      "pubblicato": "2026-07-14T00:00:00+02:00",
-      "processed_at": "2026-07-14T06:05:13.434531+00:00"
-    },
-    {
-      "id": "fb6975cff2181780",
-      "titolo_popolare": "Aiuto UE alle forze armate delle Filippine",
-      "titolo_originale": "OJ:L_202601722: Council Decision (CFSP) 2026/1722 of 13 July 2026 on an assistance measure under the European Peace Facility to support the Armed Forces of the Philippines",
-      "riassunto_esteso": "Il Consiglio dell'Unione europea ha deciso di concedere un aiuto alle forze armate delle Filippine nell'ambito dello European Peace Facility. Questo strumento permette all'UE di fornire sostegno finanziario o materiale a paesi partner per contribuire alla pace e alla sicurezza internazionale. L'intervento mira a rafforzare la capacità delle forze filippine di contrastare minacce come il terrorismo e la criminalità organizzata, promuovendo la stabilità nella regione del Sud-Est asiatico. La decisione rientra nella politica estera e di sicurezza comune dell'UE e dimostra l'impegno dell'Unione a cooperare con paesi terzi per la sicurezza globale. Non prevede obblighi diretti per gli Stati membri né per i cittadini italiani.",
-      "cosa_cambia": [
-        "Nessun cambiamento diretto per i cittadini italiani"
-      ],
-      "chi_interessa": "nessun cittadino italiano direttamente",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "L'atto non ha effetti concreti sulla vita quotidiana dei cittadini italiani; serve principalmente a rafforzare la cooperazione internazionale dell'UE.",
-      "data_vigenza": "in vigore dal 13 luglio 2026",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601722",
-      "pubblicato": "2026-07-14T00:00:00+02:00",
-      "processed_at": "2026-07-14T06:05:46.542202+00:00"
-    },
-    {
-      "id": "f769970308d2ec4c",
-      "titolo_popolare": "Atto UE non disponibile in lingua italiana",
-      "titolo_originale": "OJ:L_202690569",
-      "riassunto_esteso": "Il documento indicato non è disponibile in lingua inglese né, presumibilmente, in italiano, quindi non è possibile conoscerne il contenuto preciso. Si tratta comunque di un atto pubblicato nella Gazzetta ufficiale dell'Unione europea, serie L, che normalmente contiene disposizioni vincolanti per gli Stati membri. Senza il testo non si possono indicare gli obblighi introdotti né gli scopi del provvedimento. Per avere informazioni bisogna consultare la fonte originale o attendere una traduzione ufficiale.",
-      "cosa_cambia": [
-        "non specificato"
-      ],
-      "chi_interessa": "non specificato",
-      "cosa_devi_fare": "non specificato",
-      "impatto": "non specificato",
-      "data_vigenza": "non specificato",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690569",
-      "pubblicato": "2026-07-14T00:00:00+02:00",
-      "processed_at": "2026-07-14T06:08:46.392428+00:00"
-    },
-    {
-      "id": "14f7ac91db10200b",
-      "titolo_popolare": "Atto normativo europeo non specificato",
-      "titolo_originale": "OJ:L_202690565",
-      "riassunto_esteso": "Non è possibile determinare il contenuto dell'atto poiché il documento non è disponibile in lingua inglese e non sono stati forniti ulteriori dettagli. Pertanto non si conoscono le disposizioni specifiche né gli obiettivi perseguiti. Senza queste informazioni non è possibile descrivere cosa stabilisce l'atto né il motivo della sua adozione. Si consiglia di consultare la fonte originale per ottenere il testo completo.",
-      "cosa_cambia": [
-        "non specificato"
-      ],
-      "chi_interessa": "non specificato",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "non specificato",
-      "data_vigenza": "non specificato",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690565",
-      "pubblicato": "2026-07-14T00:00:00+02:00",
-      "processed_at": "2026-07-14T06:13:18.380041+00:00"
-    },
-    {
-      "id": "af138af0ceedf959",
-      "titolo_popolare": "Aiuto UE alle forze armate della Repubblica Democratica del Congo",
-      "titolo_originale": "OJ:L_202601719: Council Decision (CFSP) 2026/1719 of 13 July 2026 amending Decision (CFSP) 2025/2377 on an assistance measure under the European Peace Facility to support the Armed Forces of the Democratic Republic of the Congo",
-      "riassunto_esteso": "Il Consiglio dell'Unione europea ha deciso di modificare una precedente decisione per aumentare l'assistenza finanziaria e logistica alle forze armate della Repubblica Democratica del Congo nell'ambito dello European Peace Facility. L'obiettivo è rafforzare la capacità di difesa e di sicurezza del paese, contribuendo alla stabilità della regione dei Grandi Laghi. La modifica prevede nuovi finanziamenti per addestramento, equipaggiamento e supporto operativo. Questa iniziativa rientra nella politica estera e di sicurezza comune dell'UE, volta a prevenire conflitti e sostenere processi di pace. Non introduce obblighi diretti per i cittadini degli Stati membri.",
-      "cosa_cambia": [
-        "nessun cambiamento diretto per i cittadini dell'UE"
-      ],
-      "chi_interessa": "nessun cittadino in particolare",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "L'aiuto UE può migliorare la sicurezza in Repubblica Democratica del Congo, favorendo la stabilità regionale e riducendo il rischio di escalation dei conflitti.",
-      "data_vigenza": "dal 13 luglio 2026",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601719",
-      "pubblicato": "2026-07-14T00:00:00+02:00",
-      "processed_at": "2026-07-16T06:13:49.048758+00:00"
-    },
-    {
-      "id": "12c730f56dd12b24",
-      "titolo_popolare": "Prolungamento del ruolo UE in Bosnia-Erzegovina",
-      "titolo_originale": "OJ:L_202601715: Council Decision (CFSP) 2026/1715 of 13 July 2026 extending the mandate of the European Union Special Representative for Bosnia and Herzegovina and amending Decision (CFSP) 2024/2081",
-      "riassunto_esteso": "Il Consiglio dell'Unione Europea ha deciso di estendere il mandato del rappresentante speciale dell'UE per la Bosnia-Erzegovina, mantenendo così la presenza diplomatica dell'Unione nel paese. Questa decisione modifica una precedente decisione del 2024 e serve a sostenere il processo di pace e stabilità nella regione. L'atto non introduce nuovi obblighi o diritti per i cittadini italiani, ma punta a rafforzare la cooperazione internazionale. È stato adottato per garantire continuità agli sforzi dell'UE nella promozione della democrazia e dei diritti umani in Bosnia-Erzegovina.",
-      "cosa_cambia": [
-        "nessun cambiamento diretto per i cittadini italiani"
-      ],
-      "chi_interessa": "nessun cittadino italiano direttamente interessato",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "L'atto mantiene l'impegno diplomatico dell'UE in Bosnia-Erzegovina, contribuendo alla stabilità regionale senza effetti concreti sulla vita quotidiana degli italiani.",
-      "data_vigenza": "in vigore dal 13 luglio 2026",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601715",
-      "pubblicato": "2026-07-14T00:00:00+02:00",
-      "processed_at": "2026-07-17T06:08:51.542800+00:00"
-    },
-    {
-      "id": "0d4139079ff7d498",
-      "titolo_popolare": "Sanzioni UE contro chi destabilizza il Sudan",
-      "titolo_originale": "OJ:L_202601724: Council Regulation (EU) 2026/1724 of 13 July 2026 amending Regulation (EU) 2023/2147 concerning restrictive measures in view of activities undermining the stability and political transition of Sudan",
-      "riassunto_esteso": "Il Consiglio dell'Unione europea ha modificato il regolamento che prevede misure restrittive contro persone e entità che ostacolano la stabilità e la transizione politica in Sudan. L'aggiornamento aggiunge nuovi nomi alla lista dei soggetti sanzionati, prevedendo il congelamento dei loro beni e il divieto di viaggio nell'UE. Le misure mirano a esercitare pressione su chi finanzia o sostiene attività che minacciano il processo di pace nel paese. Il regolamento si applica immediatamente agli operatori finanziari e commerciali che hanno rapporti con tali soggetti. Non introduce obblighi diretti per i cittadini comuni, ma aumenta i controlli per banche e imprese.",
-      "cosa_cambia": [
-        "Le banche devono bloccare i fondi e le risorse economiche di persone e entità inserite nella nuova lista delle sanzioni.",
-        "Le imprese devono verificare che i propri partner commerciali non siano soggetti sanzionati dall'UE.",
-        "È vietato fornire servizi finanziari, assicurativi o di investimento a chi è colpito dalle misure restrittive."
-      ],
-      "chi_interessa": "banche, imprese e professionisti che operano con controparti internazionali",
-      "cosa_devi_fare": "Verificare che clienti e fornitori non siano nelle liste sanzioni UE e segnalare eventuali corrispondenze alle autorità competenti.",
-      "impatto": "Maggiore controllo sulle transazioni internazionali per evitare di finanziare chi destabilizza il Sudan, riducendo il rischio di sanzioni per le imprese che rispettano le regole.",
-      "data_vigenza": "in vigore da subito dopo la pubblicazione nella Gazzetta UE",
-      "categoria": "Giustizia e Diritti",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601724",
-      "pubblicato": "2026-07-14T00:00:00+02:00",
-      "processed_at": "2026-07-17T06:10:35.543945+00:00"
-    },
-    {
-      "id": "a4a165e45f614055",
-      "titolo_popolare": "Nuove regole più semplici per le dichiarazioni UE di dovuta diligenza",
-      "titolo_originale": "OJ:L_202601565: Commission Implementing Regulation (EU) 2026/1565 of 13 July 2026 amending Implementing Regulation (EU) 2024/3084 as regards the submission of due diligence statements, simplified declarations for micro or small primary operators, contingency arrangements and other measures simplifying the use of the information system",
-      "riassunto_esteso": "Il regolamento UE 2026/1565 modifica le norme precedenti per rendere più facile la presentazione delle dichiarazioni di dovuta diligenza richieste dalle leggi contro la deforestazione. Introduce dichiarazioni semplificate per le micro e piccole imprese che operano come primi produttori di materie prime soggette al regolamento. Prevede anche misure di continuità per garantire che il sistema informativo continui a funzionare anche in caso di problemi tecnici. Inoltre, vengono adottate altre misure per semplificare l'uso del sistema elettronico di raccolta delle dichiarazioni. L'obiettivo è ridurre gli oneri amministrativi mantenendo efficace il controllo sulle catene di approvvigionamento.",
-      "cosa_cambia": [
-        "Le micro e piccole imprese possono usare un modulo di dichiarazione più corto e meno dettagliato.",
-        "È previsto un piano di riserva per continuare a inviare le dichiarazioni se il sistema online subisce interruzioni.",
-        "Le scadenze e le procedure di invio sono state rese più chiare e uniformi per tutti gli operatori.",
-        "Vengono ridotti i requisiti di documentazione allegata alla dichiarazione di dovuta diligenza."
-      ],
-      "chi_interessa": "micro e piccole imprese che producono o commerciano materie prime come soia, cacao, legno, caffè e altri prodotti soggetti al regolamento UE sulla deforestazione",
-      "cosa_devi_fare": "Se sei una micro o piccola impresa, utilizza il nuovo modulo semplificato nel sistema informatico UE per inviare la tua dichiarazione entro le scadenze previste",
-      "impatto": "Meno burocrazia e costi ridotti per le piccole imprese, mentre si mantiene efficace il controllo contro la deforestazione illegale.",
-      "data_vigenza": "in vigore dal 13 luglio 2026",
-      "categoria": "Ambiente e Energia",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601565",
-      "pubblicato": "2026-07-14T00:00:00+02:00",
-      "processed_at": "2026-07-17T06:11:00.986428+00:00"
-    },
-    {
-      "id": "a4db169058b852de",
-      "titolo_popolare": "Aggiornamento delle sanzioni UE contro il Sudan",
-      "titolo_originale": "OJ:L_202601705: Council Decision (CFSP) 2026/1705 of 13 July 2026 amending Decision (CFSP) 2023/2135 concerning restrictive measures in view of activities undermining the stability and political transition of Sudan",
-      "riassunto_esteso": "Il Consiglio dell'Unione europea ha deciso di modificare le misure restrittive già in atto contro il Sudan. La decisione aggiunge nuovi nomi di persone e entità soggette a congelamento dei beni e divieto di viaggio. L'obiettivo è aumentare la pressione su chi ostacola il processo di transizione politica e la stabilità nel paese. Le sanzioni mirano a impedire finanziamenti a gruppi che alimentano conflitti e violazioni dei diritti umani. Il provvedimento fa parte della politica estera comune dell'UE e non prevede obblighi diretti per i cittadini italiani.",
-      "cosa_cambia": [
-        "Nessun cambiamento diretto per i cittadini italiani"
-      ],
-      "chi_interessa": "nessun cittadino italiano direttamente interessato",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "nessun effetto concreto sulla vita quotidiana dei cittadini; serve a mantenere la pressione internazionale sul Sudan per favorire la pace.",
-      "data_vigenza": "dal 13 luglio 2026",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601705",
-      "pubblicato": "2026-07-14T00:00:00+02:00",
-      "processed_at": "2026-07-17T06:11:27.305150+00:00"
-    },
-    {
-      "id": "f451caa1760a6766",
-      "titolo_popolare": "Nuove regole per i dati sull'e-commerce",
-      "titolo_originale": "OJ:L_202601566: Commission Implementing Regulation (EU) 2026/1566 of 13 July 2026 laying down the technical specifications of data requirements and the deadlines for submission of annual metadata and quality reports for the topic ICT usage and e-commerce for the reference year 2027, pursuant to Regulation (EU) 2019/2152 of the European Parliament and of the Council",
-      "riassunto_esteso": "Il regolamento stabilisce le specifiche tecniche che le imprese devono seguire per raccogliere e trasmettere ogni anno i metadati e i rapporti di qualità sull'uso delle tecnologie dell'informazione e della comunicazione e sull'e-commerce. Queste regole sono state adottate per migliorare la comparabilità e l'affidabilità delle statistiche europee sul commercio digitale, in base al quadro generale del regolamento 2019/2152. Le imprese interessate dovranno adeguare i propri sistemi di raccolta dati e rispettare le scadenze fissate per la presentazione dei rapporti relativi all'anno di riferimento 2027. L'obiettivo è avere dati più uniformi e utili per le politiche dell'UE e per chi studia il mercato digitale.",
-      "cosa_cambia": [
-        "Le imprese dovranno raccogliere i dati sull'uso di ICT e sull'e-commerce secondo le nuove specifiche tecniche.",
-        "Dovranno inviare i rapporti annuali di metadati e qualità entro le scadenze stabilite per l'anno di riferimento 2027.",
-        "Dovranno garantire la qualità dei dati riportati, seguendo le indicazioni del regolamento."
-      ],
-      "chi_interessa": "le imprese che svolgono attività di e-commerce o che utilizzano tecnologie ICT",
-      "cosa_devi_fare": "adeguare i sistemi di raccolta dati e presentare i rapporti entro le scadenze indicate",
-      "impatto": "migliora la qualità e la comparabilità delle statistiche sull'e-commerce a livello UE, utile per politiche e analisi di mercato.",
-      "data_vigenza": "in vigore dal 13 luglio 2026",
-      "categoria": "Imprese e Mercato",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601566",
-      "pubblicato": "2026-07-14T00:00:00+02:00",
-      "processed_at": "2026-07-21T06:21:24.383011+00:00"
-    },
-    {
-      "id": "d9ebe20c5d2206f8",
-      "titolo_popolare": "...",
-      "titolo_originale": "OJ:L_202601718: Council Decision (CFSP) 2026/1718 of 13 July 2026 extending the mandate of the European Union Special Representative for the Horn of Africa and amending Decision (CFSP) 2021/1012",
-      "riassunto_esteso": "...",
-      "cosa_cambia": [
-        "..."
-      ],
-      "chi_interessa": "...",
-      "cosa_devi_fare": "...",
-      "impatto": "...",
-      "data_vigenza": "...",
-      "categoria": "Altro",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601718",
-      "pubblicato": "2026-07-14T00:00:00+02:00",
-      "processed_at": "2026-07-22T06:20:31.552262+00:00"
-    },
-    {
-      "id": "0a97edd042bf6352",
-      "titolo_popolare": "Aiuto militare UE alla Moldavia",
-      "titolo_originale": "OJ:L_202601721: Council Decision (CFSP) 2026/1721 of 13 July 2026 on an assistance measure under the European Peace Facility to support the Armed Forces of the Republic of Moldova with military equipment designed to deliver lethal force",
-      "riassunto_esteso": "L'Unione Europea ha deciso di fornire attrezzature militari letali alle forze armate della Repubblica di Moldova tramite lo European Peace Facility. Questo sostegno rientra nella politica di sicurezza e difesa comune dell'UE e mira a rafforzare la capacità di difesa del paese partner. La decisione è stata adottata dal Consiglio dell'UE il 13 luglio 2026 e diventa efficace subito dopo la pubblicazione in Gazzetta Ufficiale dell'UE. Non implica alcun obbligo o cambiamento diretto per i cittadini italiani. L'atto è puramente di natura internazionale e non riguarda la legislazione interna italiana.",
-      "cosa_cambia": [
-        "nessuna modifica diretta per i cittadini italiani"
-      ],
-      "chi_interessa": "nessun cittadino italiano direttamente coinvolto",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "L'atto non produce effetti concreti sui cittadini italiani; riguarda solo il sostegno militare alle forze armate della Moldavia.",
-      "data_vigenza": "in vigore dal 13 luglio 2026",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601721",
-      "pubblicato": "2026-07-14T00:00:00+02:00",
-      "processed_at": "2026-07-24T06:17:37.176915+00:00"
     },
     {
       "id": "bb68323283680c7d",
