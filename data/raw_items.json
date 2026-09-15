@@ -1,101 +1,5 @@
 [
   {
-    "id": "24b7517c17bc4643",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601515: Decision of the EEA Joint Committee No 138/2026 of 30 April 2026 amending Annex II (Technical regulations, standards, testing and certification) to the EEA Agreement [2026/1515]",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601515",
-    "pubblicato": "2026-07-23T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-07-23T06:21:48.838427+00:00",
-    "processed": true
-  },
-  {
-    "id": "7f70e23c2b2e2495",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601532: Decision of the EEA Joint Committee No 155/2026 of 30 April 2026 amending Annex XXI (Statistics) to the EEA Agreement [2026/1532]",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601532",
-    "pubblicato": "2026-07-23T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-07-23T06:21:48.838520+00:00",
-    "processed": true
-  },
-  {
-    "id": "d0c04604c0637aa0",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601524: Decision of the EEA Joint Committee No 149/2026 of 30 April 2026 amending Annex XIII (Transport) to the EEA Agreement [2026/1524]",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601524",
-    "pubblicato": "2026-07-23T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-07-23T06:21:48.838613+00:00",
-    "processed": true
-  },
-  {
-    "id": "cba92638f02b2368",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601505: Decision of the EEA Joint Committee No 120/2026 of 30 April 2026 amending Annex II (Technical regulations, standards, testing and certification) to the EEA Agreement [2026/1505]",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601505",
-    "pubblicato": "2026-07-23T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-07-23T06:21:48.838706+00:00",
-    "processed": true
-  },
-  {
-    "id": "df8fb323aaebc3c2",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601499: Decision of the EEA Joint Committee No 123/2026 of 30 April 2026 amending Annex II (Technical regulations, standards, testing and certification) to the EEA Agreement [2026/1499]",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601499",
-    "pubblicato": "2026-07-23T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-07-23T06:21:48.838799+00:00",
-    "processed": true
-  },
-  {
-    "id": "ed055642ada0ebf9",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202690621: Corrigendum to Commission Implementing Regulation (EU) 2026/1556 of 2 July 2026 on the approval of a Union amendment to the product specification of the protected designation of origin Tokaj / Tokaji pursuant to of Regulation (EU) 2024/1143 of the European Parliament and of the Council (OJ L, 2026/1556, 6.7.2026)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690621",
-    "pubblicato": "2026-07-23T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-07-23T06:21:48.838893+00:00",
-    "processed": true
-  },
-  {
-    "id": "0a1b979561ac23fe",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601486: Decision of the EEA Joint Committee No 131/2026 of 30 April 2026 amending Annex II (Technical regulations, standards, testing and certification) to the EEA Agreement [2026/1486]",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601486",
-    "pubblicato": "2026-07-23T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-07-23T06:21:48.839016+00:00",
-    "processed": true
-  },
-  {
-    "id": "c54bef3af655112c",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601530: Decision of the EEA Joint Committee No 153/2026 of 30 April 2026 amending Annex XIII (Transport) to the EEA Agreement [2026/1530]",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601530",
-    "pubblicato": "2026-07-23T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-07-23T06:21:48.839120+00:00",
-    "processed": true
-  },
-  {
     "id": "82e4c0a5eba4ce58",
     "source_id": "eurlex_oj_l",
     "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
@@ -993,7 +897,7 @@
     "pubblicato": "2026-07-28T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-28T06:16:27.414066+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "024b999cb0e58efc",
@@ -1089,7 +993,7 @@
     "pubblicato": "2026-07-28T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-28T06:16:27.414710+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "24c4183a6e7d0724",
@@ -5997,6 +5901,102 @@
     "pubblicato": "2026-09-14T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-09-14T09:18:56.690751+00:00",
+    "processed": false
+  },
+  {
+    "id": "81e93a6e4ae96c26",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32025R1176R(02)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32025R1176R(02)",
+    "pubblicato": "2026-09-15T00:00:00+02:00",
+    "summary_raw": "The corrigendum does not concern the English version.",
+    "fetched_at": "2026-09-15T09:00:53.995801+00:00",
+    "processed": false
+  },
+  {
+    "id": "05619dc5ce5f495b",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D2063: Political and Security Committee Decision (CFSP) 2026/2063 of 10 September 2026 on the appointment of the EU Mission Force Commander for the European Union CSDP Military Training Mission in the Central African Republic (EUTM RCA), and repealing Decision (CFSP) 2025/2010 (EUTM RCA/1/2026)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2063",
+    "pubblicato": "2026-09-15T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-09-15T09:00:53.995916+00:00",
+    "processed": false
+  },
+  {
+    "id": "b1f7a60f98abecfa",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R2045: Commission Implementing Regulation (EU) 2026/2045 of 14 September 2026 amending Regulation (EU) No 468/2010 establishing the EU list of vessels engaged in illegal, unreported and unregulated fishing",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2045",
+    "pubblicato": "2026-09-15T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-09-15T09:00:53.996024+00:00",
+    "processed": false
+  },
+  {
+    "id": "351444c1845e585f",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026H2069: Commission Recommendation (EU) 2026/2069 of 9 September 2026 on housing affordability and supply in areas under housing stress",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026H2069",
+    "pubblicato": "2026-09-15T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-09-15T09:00:53.996110+00:00",
+    "processed": false
+  },
+  {
+    "id": "193947a95afcef4f",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D2060: Council Decision (EU) 2026/2060 of 20 November 2025 on the position to be taken on behalf of the European Union within the EU-Armenia Partnership Council as regards the adoption of the Strategic Agenda for the EU-Armenia Partnership",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2060",
+    "pubblicato": "2026-09-15T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-09-15T09:00:53.996188+00:00",
+    "processed": false
+  },
+  {
+    "id": "4cd77fbbed0ae771",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R2049: Commission Implementing Regulation (EU) 2026/2049 of 14 September 2026 making imports of primary cells and primary batteries of alkaline manganese dioxide originating in People’s Republic of China subject to registration with a view to allowing the levy of anti-dumping duties on the imports subject to registration",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2049",
+    "pubblicato": "2026-09-15T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-09-15T09:00:53.996265+00:00",
+    "processed": false
+  },
+  {
+    "id": "5a1c0627c8859901",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R2047: Commission Implementing Regulation (EU) 2026/2047 of 14 September 2026 extending the retrospective Union surveillance of imports of renewable ethanol for fuel",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2047",
+    "pubblicato": "2026-09-15T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-09-15T09:00:53.996349+00:00",
+    "processed": false
+  },
+  {
+    "id": "a074841dd49a15ab",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R2094: Commission Implementing Regulation (EU) 2026/2094 of 11 September 2026 amending Annexes I and II to Implementing Regulation (EU) 2023/594 laying down special disease control measures for African swine fever",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2094",
+    "pubblicato": "2026-09-15T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-09-15T09:00:53.996430+00:00",
     "processed": false
   }
 ]
