@@ -1,77 +1,5 @@
 [
   {
-    "id": "82e4c0a5eba4ce58",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601493: Decision of the EEA Joint Committee No 115/2026 of 30 April 2026 amending Annex I (Veterinary and phytosanitary matters) and Annex II (Technical regulations, standards, testing and certification) to the EEA Agreement [2026/1493]",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601493",
-    "pubblicato": "2026-07-23T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-07-23T06:21:48.839215+00:00",
-    "processed": true
-  },
-  {
-    "id": "287c8c3cd8b6f50f",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202600849: Commission Delegated Regulation (EU) 2026/849 of 16 April 2026 supplementing Regulation (EU) No 575/2013 of the European Parliament and of the Council with regard to regulatory technical standards specifying what constitutes an equivalent legal mechanism that ensures that a residential property under construction is completed within a reasonable time frame",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202600849",
-    "pubblicato": "2026-07-23T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-07-23T06:21:48.839309+00:00",
-    "processed": true
-  },
-  {
-    "id": "2184472fbaf54bbc",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601476: Decision of the EEA Joint Committee No 114/2026 of 30 April 2026 amending Annex I (Veterinary and phytosanitary matters) and Annex II (Technical regulations, standards, testing and certification) to the EEA Agreement [2026/1476]",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601476",
-    "pubblicato": "2026-07-23T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-07-23T06:21:48.839402+00:00",
-    "processed": true
-  },
-  {
-    "id": "437f2660cd39e5df",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601496: Decision of the EEA Joint Committee No 117/2026 of 30 April 2026 amending Annex I (Veterinary and phytosanitary matters) to the EEA Agreement [2026/1496]",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601496",
-    "pubblicato": "2026-07-23T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-07-23T06:21:48.839494+00:00",
-    "processed": true
-  },
-  {
-    "id": "88782141ad1b4abe",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601487: Decision of the EEA Joint Committee No 137/2026 of 30 April 2026 amending Annex II (Technical regulations, standards, testing and certification) to the EEA Agreement [2026/1487]",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601487",
-    "pubblicato": "2026-07-23T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-07-23T06:21:48.839588+00:00",
-    "processed": true
-  },
-  {
-    "id": "dec867f45a38e6d1",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601482: Decision of the EEA Joint Committee No 144/2026 of 30 April 2026 amending Annex IX (Financial services) to the EEA Agreement [2026/1482]",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601482",
-    "pubblicato": "2026-07-23T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-07-23T06:21:48.839682+00:00",
-    "processed": true
-  },
-  {
     "id": "2112055febae8e94",
     "source_id": "eurlex_oj_l",
     "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
@@ -561,7 +489,7 @@
     "pubblicato": "2026-07-24T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-24T06:16:37.065965+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "4f4488fc06704808",
@@ -1245,7 +1173,7 @@
     "pubblicato": "2026-07-29T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-29T06:22:09.448813+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "90e02584b963d0e8",
@@ -5997,6 +5925,78 @@
     "pubblicato": "2026-09-15T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-09-15T09:00:53.996430+00:00",
+    "processed": false
+  },
+  {
+    "id": "e5a6dc9f4254d875",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R2046: Commission Implementing Regulation (EU) 2026/2046 of 14 September 2026 amending Implementing Regulation (EU) 2022/964 as regards administrative and minor changes to the Union authorisation for the biocidal product family SOPUROXID",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2046",
+    "pubblicato": "2026-09-16T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-09-16T08:53:23.674924+00:00",
+    "processed": false
+  },
+  {
+    "id": "b2ebb9866217ce89",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D2048: Commission Implementing Decision (EU) 2026/2048 of 14 September 2026 on the harmonised standard for batteries drafted in support of Regulation (EU) 2023/1542",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2048",
+    "pubblicato": "2026-09-16T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-09-16T08:53:23.675027+00:00",
+    "processed": false
+  },
+  {
+    "id": "0f5177eba9bf5751",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R2078: Commission Implementing Regulation (EU) 2026/2078 of 9 September 2026 on the registration of the geographical indication Olio dei Colli di Bologna (PGI) in the Union register of geographical indications pursuant to Regulation (EU) 2024/1143 of the European Parliament and of the Council",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2078",
+    "pubblicato": "2026-09-16T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-09-16T08:53:23.675108+00:00",
+    "processed": false
+  },
+  {
+    "id": "fa8369aa39ae554f",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32014L0051R(10)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32014L0051R(10)",
+    "pubblicato": "2026-09-16T00:00:00+02:00",
+    "summary_raw": "The corrigendum does not concern the English version.",
+    "fetched_at": "2026-09-16T08:53:23.675188+00:00",
+    "processed": false
+  },
+  {
+    "id": "663c79bb450cd172",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R2093: Commission Delegated Regulation (EU) 2026/2093 of 10 July 2026 supplementing Regulation (EU) No 1308/2013 of the European Parliament and of the Council as regards national payments for the distillation of wine, green harvesting and grubbing up of productive vineyards in justified cases of crisis",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2093",
+    "pubblicato": "2026-09-16T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-09-16T08:53:23.675264+00:00",
+    "processed": false
+  },
+  {
+    "id": "d0401f274eaaf7a3",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:22026D2080: Decision No 1/2026 of the Joint Committee established under the Protocol to the Agreement on the international occasional carriage of passengers by coach and bus (Interbus Agreement) regarding the international regular and special regular carriage of passengers by coach and bus of 2 June 2026 establishing its Rules of Procedure [2026/2080]",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:22026D2080",
+    "pubblicato": "2026-09-16T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-09-16T08:53:23.675336+00:00",
     "processed": false
   }
 ]
