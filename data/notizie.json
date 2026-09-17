@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-16T09:12:23.557809+00:00",
-  "total": 162,
+  "last_updated": "2026-09-17T09:09:28.630568+00:00",
+  "total": 163,
   "items": [
     {
       "id": "3ab7d44751d9173e",
@@ -84,6 +84,26 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601832",
       "pubblicato": "2026-07-29T00:00:00+02:00",
       "processed_at": "2026-09-16T09:10:29.733745+00:00"
+    },
+    {
+      "id": "4628c6ef647c3d0a",
+      "titolo_popolare": "Atto UE non disponibile in italiano",
+      "titolo_originale": "OJ:L_202690627",
+      "riassunto_esteso": "L'atto indicato nella Gazzetta UE non dispone di un testo leggibile in lingua italiana o inglese, quindi non è possibile conoscere il suo contenuto specifico. Probabilmente si tratta di un atto amministrativo o di una comunicazione tecnica che richiede un documento completo per essere compreso. Senza ulteriori dettagli, non si possono descrivere gli effetti pratici per i cittadini. L'assenza di testo impedisce qualsiasi valutazione normativa concreta.",
+      "cosa_cambia": [
+        "non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690627",
+      "pubblicato": "2026-07-29T00:00:00+02:00",
+      "processed_at": "2026-09-17T09:08:56.288669+00:00"
     },
     {
       "id": "3ccb35534a17f80a",

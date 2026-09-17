@@ -1,41 +1,5 @@
 [
   {
-    "id": "2112055febae8e94",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601526: Decision of the EEA Joint Committee No 152/2026 of 30 April 2026 amending Annex XIII (Transport) to the EEA Agreement [2026/1526]",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601526",
-    "pubblicato": "2026-07-23T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-07-23T06:21:48.839774+00:00",
-    "processed": true
-  },
-  {
-    "id": "424717626d89b719",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601488: Decision of the EEA Joint Committee No 134/2026 of 30 April 2026 amending Annex II (Technical regulations, standards, testing and certification) to the EEA Agreement [2026/1488]",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601488",
-    "pubblicato": "2026-07-23T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-07-23T06:21:48.839867+00:00",
-    "processed": true
-  },
-  {
-    "id": "7d1f5bdb4718b602",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601525: Decision of the EEA Joint Committee No 145/2026 of 30 April 2026 amending Annex IX (Financial services) to the EEA Agreement [2026/1525]",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601525",
-    "pubblicato": "2026-07-23T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-07-23T06:21:48.839987+00:00",
-    "processed": true
-  },
-  {
     "id": "0b4d5ed23e22732b",
     "source_id": "eurlex_oj_l",
     "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
@@ -1221,7 +1185,7 @@
     "pubblicato": "2026-07-29T00:00:00+02:00",
     "summary_raw": "This document does not exist in English.",
     "fetched_at": "2026-07-29T06:22:09.449210+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "4572973562fcefc8",
@@ -5997,6 +5961,42 @@
     "pubblicato": "2026-09-16T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-09-16T08:53:23.675336+00:00",
+    "processed": false
+  },
+  {
+    "id": "2f3f45a2de289983",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D2065: Council Decision (EU) 2026/2065 of 14 July 2026 on the signing and provisional application of the Agreement between the European Union, of the one part, and the Government of Japan, of the other part, on the participation of the Government of Japan in Union programmes",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2065",
+    "pubblicato": "2026-09-17T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-09-17T08:57:55.907688+00:00",
+    "processed": false
+  },
+  {
+    "id": "6ea72c8a34499929",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R2102: Commission Delegated Regulation (EU) 2026/2102 of 13 July 2026 amending Regulation (EU) 2023/1115 of the European Parliament and of the Council as regards the list of relevant commodities and relevant products",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2102",
+    "pubblicato": "2026-09-17T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-09-17T08:57:55.907815+00:00",
+    "processed": false
+  },
+  {
+    "id": "a7a9a9011e814f61",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:22026A02066: Agreement between the European Union, of the one part, and the Government of Japan, of the other part, on the participation of the Government of Japan in Union programmes",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:22026A02066",
+    "pubblicato": "2026-09-17T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-09-17T08:57:55.907923+00:00",
     "processed": false
   }
 ]
