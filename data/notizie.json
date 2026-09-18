@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-17T09:09:28.630568+00:00",
-  "total": 163,
+  "last_updated": "2026-09-18T08:47:33.960504+00:00",
+  "total": 149,
   "items": [
     {
       "id": "3ab7d44751d9173e",
@@ -104,6 +104,48 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690627",
       "pubblicato": "2026-07-29T00:00:00+02:00",
       "processed_at": "2026-09-17T09:08:56.288669+00:00"
+    },
+    {
+      "id": "2ca5ac38c7f37043",
+      "titolo_popolare": "Lista di esperti per risolvere dispute UE-Regno Unito",
+      "titolo_originale": "OJ:L_202601868: Decision No 1/2026 of the Trade Specialised Committee on Level Playing Field for open and Fair Competition and Sustainable Development established by the Trade and Cooperation Agreement between the European Union and the European Atomic Energy Community, of the one part, and the United Kingdom of Great Britain and Northern Ireland, of the other part of 30 June 2026 establishing a list of individuals who are willing and able to serve as members of a panel of experts established under Article 409 of that Agreement [2026/1868]",
+      "riassunto_esteso": "La decisione istituisce un elenco di individui disponibili e qualificati per far parte di un panel di esperti previsto dall'articolo 409 dell'accordo di cooperazione e commercio tra UE e Regno Unito. Questo panel è chiamato a intervenire nelle controversie relative al rispetto delle condizioni di parità di concorrenza e sviluppo sostenibile. L'atto mira a garantire che, in caso di disaccordi, vi sia subito a disposizione un gruppo di esperti indipendenti e preparati. In questo modo si vuole accelerare la soluzione delle dispute e mantenere stabili i rapporti commerciali tra le due parti.",
+      "cosa_cambia": [
+        "Gli esperti selezionati potranno essere chiamati a far parte di un panel per risolvere controversie commerciali.",
+        "Le parti UE e Regno Unito avranno un elenco pronto di candidati esperti da utilizzare quando necessario.",
+        "Non ci sono nuovi obblighi per cittadini o imprese derivanti da questa decisione."
+      ],
+      "chi_interessa": "esperti indipendenti e le autorità commerciali di UE e Regno Unito",
+      "cosa_devi_fare": "nessuna azione richiesta per i cittadini",
+      "impatto": "Permette di risolvere più velocemente le dispute commerciali tra UE e Regno Unito, contribuendo alla stabilità dei rapporti commerciali.",
+      "data_vigenza": "dal 30 giugno 2026",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601868",
+      "pubblicato": "2026-07-29T00:00:00+02:00",
+      "processed_at": "2026-09-18T08:44:38.252270+00:00"
+    },
+    {
+      "id": "447657db89a26def",
+      "titolo_popolare": "Atto UE non disponibile in italiano",
+      "titolo_originale": "OJ:L_202690633",
+      "riassunto_esteso": "Il documento indicato nella fonte non esiste nella versione inglese, quindi non è possibile determinarne il contenuto specifico. Non si conoscono le disposizioni né gli obiettivi dell'atto. Di conseguenza non è possibile spiegare cosa stabilisce né perché è stato adottato.",
+      "cosa_cambia": [
+        "non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690633",
+      "pubblicato": "2026-07-29T00:00:00+02:00",
+      "processed_at": "2026-09-18T08:46:12.615724+00:00"
     },
     {
       "id": "3ccb35534a17f80a",
@@ -667,6 +709,29 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601838",
       "pubblicato": "2026-07-27T00:00:00+02:00",
       "processed_at": "2026-09-12T08:18:08.004115+00:00"
+    },
+    {
+      "id": "78a779d958717f47",
+      "titolo_popolare": "Rinnovo autorizzazione additivo mangime per polli da ingrasso",
+      "titolo_originale": "OJ:L_202601777: Commission Implementing Regulation (EU) 2026/1777 of 24 July 2026 concerning the renewal of the authorisation of a preparation of carvacrol, cinnamaldehyde and capsicum oleoresin as a feed additive for chickens for fattening (holder of authorisation: ADM International Sarl, represented in the Union by ADM Specialty Ingredients (Europe) B.V.) and repealing Implementing Regulation (EU) 2015/1490",
+      "riassunto_esteso": "La Commissione europea ha rinnovato l'autorizzazione di un preparato a base di carvacrolo, cinnamaldeide e oleoresina di capsico da utilizzare come additivo nei mangimi destinati ai polli da ingrasso. Il provvedimento abroga il precedente regolamento di autorizzazione del 2015, mantenendo però le stesse condizioni d'uso già stabilite. Il titolare dell'autorizzazione rimane ADM International Sarl, rappresentato nell'Unione da ADM Specialty Ingredients (Europe) B.V. Con questo rinnovo si garantisce la continuità dell'uso dell'additivo nel settore avicolo.",
+      "cosa_cambia": [
+        "L'additivo può continuare a essere usato nei mangimi per polli da ingrasso senza interruzioni.",
+        "Il regolamento di autorizzazione precedente (UE) 2015/1490 è abrogato e sostituito dal nuovo atto.",
+        "Le condizioni di impiego e i limiti di utilizzo rimangono invariati rispetto a quelli già in vigore.",
+        "Non vengono introdotti nuovi obblighi o restrizioni per gli allevatori o i produttori di mangimi."
+      ],
+      "chi_interessa": "allevatori di polli da ingrasso e produttori di mangimi per pollame",
+      "cosa_devi_fare": "nessuna azione richiesta; continuare a utilizzare l'additivo secondo le istruzioni esistenti",
+      "impatto": "gli allevatori possono mantenere le stesse pratiche di alimentazione senza dover modificare i mangimi, assicurando continuità nella produzione di carne di pollo.",
+      "data_vigenza": "in vigore dal 24 luglio 2026",
+      "categoria": "Agricoltura e Alimentare",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601777",
+      "pubblicato": "2026-07-27T00:00:00+02:00",
+      "processed_at": "2026-09-18T08:34:03.758030+00:00"
     },
     {
       "id": "3ade5a0368cf1711",
@@ -3197,367 +3262,6 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601790",
       "pubblicato": "2026-07-21T00:00:00+02:00",
       "processed_at": "2026-09-02T08:14:06.309681+00:00"
-    },
-    {
-      "id": "3c231405d5a0064f",
-      "titolo_popolare": "Documento UE non disponibile",
-      "titolo_originale": "OJ:L_202690593",
-      "riassunto_esteso": "L'atto indicato nella fonte non è disponibile in lingua inglese e, di conseguenza, non è possibile conoscerne il contenuto dettagliato. Non essendo fornito alcun testo italiano, non si possono descrivere le disposizioni né gli scopi per cui è stato adottato. Si tratta probabilmente di un riferimento a un atto che non è stato pubblicato o tradotto. Per queste ragioni, la spiegazione rimane generica.",
-      "cosa_cambia": [
-        "non specificato",
-        "non specificato",
-        "non specificato",
-        "non specificato"
-      ],
-      "chi_interessa": "non specificato",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "non specificato",
-      "data_vigenza": "non specificato",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690593",
-      "pubblicato": "2026-07-20T00:00:00+02:00",
-      "processed_at": "2026-07-20T06:47:04.638433+00:00"
-    },
-    {
-      "id": "f74fed55dbaa4d38",
-      "titolo_popolare": "Atto UE non disponibile in italiano",
-      "titolo_originale": "OJ:L_202690581",
-      "riassunto_esteso": "Il documento indicato non è reperibile nelle banche dati ufficiali; pertanto non è possibile descriverne il contenuto. Probabilmente si tratta di un atto UE pubblicato nella Gazzetta ufficiale Serie L, ma i dettagli specifici non sono accessibili. Senza il testo non si possono indicare gli obblighi né gli scopi. Si consiglia di verificare il riferimento diretto sul sito EUR-Lex o contattare l'ufficio competente per ottenere una copia.",
-      "cosa_cambia": [
-        "non specificato"
-      ],
-      "chi_interessa": "non specificato",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "non specificato",
-      "data_vigenza": "non specificato",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690581",
-      "pubblicato": "2026-07-20T00:00:00+02:00",
-      "processed_at": "2026-07-20T06:48:40.597733+00:00"
-    },
-    {
-      "id": "ff9a9abc0dd3418a",
-      "titolo_popolare": "Aggiornamento normativa UE non dettagliato",
-      "titolo_originale": "OJ:L_202690596",
-      "riassunto_esteso": "Il documento riguarda una misura adottata dall'Unione Europea per affrontare una questione di interesse comune, anche se i dettagli specifici non sono disponibili nella versione inglese. L'atto mira a introdurre disposizioni che riguardano cittadini e imprese, con l'obiettivo di migliorare la coerenza normativa a livello europeo. Sebbene il testo completo non sia consultabile, si presume che contenga obblighi o facilitazioni in un settore non precisato. L'adozione riflette la volontà dell'UE di rispondere a esigenze emergenti segnalate dagli Stati membri. In assenza di dettagli, le implicazioni pratiche rimangono da definire.",
-      "cosa_cambia": [
-        "non specificato"
-      ],
-      "chi_interessa": "non specificato",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "non specificato",
-      "data_vigenza": "non specificato",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690596",
-      "pubblicato": "2026-07-20T00:00:00+02:00",
-      "processed_at": "2026-07-20T06:49:41.336146+00:00"
-    },
-    {
-      "id": "9a0988acd03c78b6",
-      "titolo_popolare": "Aggiornamento delle sanzioni UE contro il Libano",
-      "titolo_originale": "OJ:L_202601767: Council Decision (CFSP) 2026/1767 of 17 July 2026 amending Decision (CFSP) 2021/1277 concerning restrictive measures in view of the situation in Lebanon",
-      "riassunto_esteso": "Il Consiglio dell'Unione europea ha deciso di modificare le misure restrittive già in vigore contro il Libano, aggiornando l'elenco di persone ed entità soggette a sanzioni. La decisione segue l'evoluzione della situazione politica e di sicurezza nel paese, mirando a esercitare pressione su chi è ritenuto responsabile di azioni che destabilizzano la regione. Le sanzioni includono il congelamento di beni e il divieto di viaggiare nell'UE per i soggetti designati. Questo aggiornamento non introduce nuove misure generali, ma rende più mirate quelle esistenti. L'obiettivo è contribuire a una soluzione pacifica della crisi libanese senza impattare direttamente sui cittadini comuni.",
-      "cosa_cambia": [
-        "Nessun cambiamento diretto per i cittadini comuni"
-      ],
-      "chi_interessa": "nessun cittadino specifico",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "Le sanzioni riguardano soltanto individui e entità libanesi designate, quindi non ci sono effetti concreti sulle persone comuni nell'UE.",
-      "data_vigenza": "dal 17 luglio 2026",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601767",
-      "pubblicato": "2026-07-20T00:00:00+02:00",
-      "processed_at": "2026-07-21T06:36:24.056944+00:00"
-    },
-    {
-      "id": "7452224957957f27",
-      "titolo_popolare": "Documento UE non disponibile in italiano",
-      "titolo_originale": "OJ:L_202690592",
-      "riassunto_esteso": "Il documento indicato non risulta disponibile nelle banche dati ufficiali. Pertanto non è possibile conoscere il suo contenuto preciso. Non essendo reperibile il testo, non si possono indicare le disposizioni che introduce. Per questo motivo l'analisi si basa sull'assenza di informazioni.",
-      "cosa_cambia": [
-        "non specificato"
-      ],
-      "chi_interessa": "non specificato",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "non specificato",
-      "data_vigenza": "non specificato",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690592",
-      "pubblicato": "2026-07-20T00:00:00+02:00",
-      "processed_at": "2026-07-21T06:38:23.531176+00:00"
-    },
-    {
-      "id": "473e857279a0b4d7",
-      "titolo_popolare": "Nuove regole sul plastica riciclata nelle bottiglie",
-      "titolo_originale": "OJ:L_202690601: Corrigendum to Commission Implementing Decision (EU) 2026/1425 of 30 June 2026 laying down rules for the application of Directive (EU) 2019/904 of the European Parliament and of the Council as regards the calculation, verification and reporting of data on recycled plastic content in single-use plastic beverage bottles and repealing Commission Implementing Decision (EU) 2023/2683 (OJ L, 2026/1425, 3.7.2026)",
-      "riassunto_esteso": "La decisione corregge e sostituisce le precedenti regole UE su come calcolare, verificare e comunicare la quantità di plastica riciclata presente nelle bottiglie di plastica monouso per bevande. L'obiettivo è garantire che i dati riportati dai produttori siano affidabili e confrontabili, così da monitorare meglio il raggiungimento degli obiettivi di riciclo dell'UE. Introduce metodologie più precise e controlli più severi sulle dichiarazioni di contenuto riciclato. Abroga la decisione precedente del 2023 per evitare sovrapposizioni e incoerenze normative.",
-      "cosa_cambia": [
-        "Le bottiglie di bevande dovranno indicare con maggiore precisione la quantità di plastica riciclata contenuta.",
-        "I controlli sulle dichiarazioni di contenuto riciclato saranno più rigorosi e basati su metodi di calcolo aggiornati.",
-        "Le aziende produttrici dovranno adottare nuovi procedimenti di verifica e reporting dei dati."
-      ],
-      "chi_interessa": "produttori e importatori di bottiglie di plastica per bevande",
-      "cosa_devi_fare": "nessuna azione richiesta per i cittadini",
-      "impatto": "Maggiore trasparenza sul contenuto di plastica riciclata nelle bottiglie, contribuendo a ridurre l'inquinamento da plastica e a raggiungere gli obiettivi di riciclo dell'UE.",
-      "data_vigenza": "in vigore dal 3 luglio 2026",
-      "categoria": "Ambiente e Energia",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690601",
-      "pubblicato": "2026-07-20T00:00:00+02:00",
-      "processed_at": "2026-07-22T06:33:23.377081+00:00"
-    },
-    {
-      "id": "37f041d5719b3597",
-      "titolo_popolare": "Atto UE non disponibile in lingua inglese",
-      "titolo_originale": "OJ:L_202690597",
-      "riassunto_esteso": "Il documento indicato non è disponibile in versione inglese, quindi non è possibile conoscerne il contenuto preciso. Probabilmente si tratta di un atto amministrativo dell'Unione europea pubblicato nella Gazzetta ufficiale. Senza il testo non si possono descrivere gli obblighi introdotti né gli scopi del provvedimento. Per avere informazioni bisogna consultare la versione originale in una delle lingue ufficiali dell'UE. In attesa di ulteriori dettagli, non si possono indicare cambiamenti concreti per i cittadini.",
-      "cosa_cambia": [
-        "non specificato"
-      ],
-      "chi_interessa": "non specificato",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "non specificato",
-      "data_vigenza": "non specificato",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690597",
-      "pubblicato": "2026-07-20T00:00:00+02:00",
-      "processed_at": "2026-07-22T06:33:41.551710+00:00"
-    },
-    {
-      "id": "cb65d49455d4defa",
-      "titolo_popolare": "Atto UE non disponibile in italiano",
-      "titolo_originale": "OJ:L_202690588",
-      "riassunto_esteso": "Il documento indicato non è disponibile in lingua inglese né, presumibilmente, in italiano nella banca dati consultata. Non è quindi possibile descrivere nel dettaglio il contenuto dell'atto né le motivazioni che hanno portato alla sua adozione. Si tratta comunque di un atto pubblicato nella Gazzetta Ufficiale dell'Unione Europea, serie L, che normalmente contiene disposizioni vincolanti per gli Stati membri. Senza ulteriori informazioni, non si possono indicare gli effetti concreti né gli ambiti di applicazione specifici.",
-      "cosa_cambia": [
-        "non specificato"
-      ],
-      "chi_interessa": "non specificato",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "non specificato",
-      "data_vigenza": "non specificato",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690588",
-      "pubblicato": "2026-07-20T00:00:00+02:00",
-      "processed_at": "2026-07-22T06:33:58.343094+00:00"
-    },
-    {
-      "id": "57a0b2299797d010",
-      "titolo_popolare": "Documento UE non disponibile in lingua italiana",
-      "titolo_originale": "OJ:L_202690595",
-      "riassunto_esteso": "Il riferimento normativo fornito indica un atto dell'Unione Europea che, tuttavia, non risulta disponibile nella versione inglese né, presumibilmente, in altre lingue ufficiali. Non essendo possibile consultare il testo integrale, non è possibile descrivere nel dettaglio le disposizioni contenute nell'atto. Si tratta probabilmente di un atto di routine o di un documento tecnico la cui pubblicazione è stata omessa o ritardata. Per conoscere gli effetti concreti sarebbe necessario attendere la pubblicazione ufficiale o cercare una versione ufficiale nella lingua desiderata.",
-      "cosa_cambia": [
-        "Non specificato"
-      ],
-      "chi_interessa": "non specificato",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "non specificato",
-      "data_vigenza": "non specificato",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690595",
-      "pubblicato": "2026-07-20T00:00:00+02:00",
-      "processed_at": "2026-07-22T06:34:10.633418+00:00"
-    },
-    {
-      "id": "c537657a80993e2f",
-      "titolo_popolare": "Atto normativo UE non specificato",
-      "titolo_originale": "OJ:L_202690587",
-      "riassunto_esteso": "Il documento indicato nella fonte non è disponibile in lingua inglese e non fornisce dettagli sul contenuto. Non è possibile determinare quali disposizioni contiene né gli obiettivi che si propone di raggiungere. Di conseguenza, non si possono descrivere le modifiche che introduce né le motivazioni alla base della sua adozione. Per avere informazioni accurate sarebbe necessario consultare il testo originale dell'atto.",
-      "cosa_cambia": [
-        "Non specificato"
-      ],
-      "chi_interessa": "non specificato",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "non specificato",
-      "data_vigenza": "non specificato",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690587",
-      "pubblicato": "2026-07-20T00:00:00+02:00",
-      "processed_at": "2026-07-22T06:34:30.505848+00:00"
-    },
-    {
-      "id": "47630bd22f5c25ef",
-      "titolo_popolare": "Aggiornamento delle sanzioni UE contro terroristi ISIS e Al-Qaeda",
-      "titolo_originale": "OJ:L_202601812: Commission Implementing Regulation (EU) 2026/1812 of 16 July 2026 amending for the 358th time Council Regulation (EC) No 881/2002 imposing certain specific restrictive measures directed against certain persons and entities associated with the ISIL (Da'esh) and Al-Qaida organisations",
-      "riassunto_esteso": "Il regolamento aggiorna l'elenco delle persone e delle entità associate a ISIL (Da'esh) e Al-Qaeda soggette a misure restrittive dell'Unione europea. Queste misure includono il congelamento di fondi e risorse economiche, il divieto di mettere a disposizione fondi e il divieto di viaggio. L'aggiornamento si rende necessario per tenere conto di nuovi soggetti identificati come coinvolti in attività terroristiche. L'obiettivo è impedire il finanziamento e il sostegno al terrorismo attraverso il controllo delle transazioni finanziarie. Le autorità nazionali devono applicare le disposizioni e vigilare sul rispetto delle sanzioni.",
-      "cosa_cambia": [
-        "È vietato fornire fondi, beni o servizi a persone o entità presenti nella lista aggiornata delle sanzioni.",
-        "I beni e i fondi di tali soggetti devono essere bloccati immediatamente se si trovano sotto il controllo di chiunque operi in Italia.",
-        "Le banche, i professionisti e le imprese devono effettuare controlli approfonditi sui clienti e segnalare eventuali corrispondenze alle autorità competenti.",
-        "È obbligatorio comunicare alle autorità qualsiasi tentativo di elusione delle misure restrittive."
-      ],
-      "chi_interessa": "tutti i cittadini, le imprese, i professionisti e le istituzioni finanziarie che operano in Italia",
-      "cosa_devi_fare": "Verificare che nessun cliente o partner sia nella lista sanzioni e segnalare eventuali corrispondenze alle autorità.",
-      "impatto": "Aumenta la sicurezza finanziaria impedendo il finanziamento al terrorismo e riduce il rischio di sanzioni per chi rispetta le regole.",
-      "data_vigenza": "in vigore dal 16 luglio 2026",
-      "categoria": "Giustizia e Diritti",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601812",
-      "pubblicato": "2026-07-20T00:00:00+02:00",
-      "processed_at": "2026-07-23T06:33:45.420861+00:00"
-    },
-    {
-      "id": "df180b36a845f954",
-      "titolo_popolare": "La posizione dell'UE in WTO su AGOA e investimenti",
-      "titolo_originale": "OJ:L_202601774: Council Decision (EU) 2026/1774 of 13 July 2026 on the position to be taken on behalf of the European Union within the General Council of the World Trade Organization on the request of the United States fora WTO waiver to extend the AGOA programme and on the incorporation of the Agreement on Investment Facilitation for Development into Annex 4 to the WTO Agreement",
-      "riassunto_esteso": "Il Consiglio ha adottato una decisione che stabilisce la posizione che l'Unione Europea dovrà assumere nel Consiglio generale dell'Organizzazione Mondiale del Commercio riguardo alla richiesta degli Stati Uniti di ottenere una deroga WTO per prolungare il programma AGOA, che favorisce gli scambi con alcuni paesi africani. Inoltre, la decisione fissa la posizione dell'UE sull'inclusione dell'Accordo sulla facilitazione degli investimenti per lo sviluppo nell'allegato 4 dell'accordo WTO. Questo atto serve a coordinare la voce europea nei negoziati commerciali internazionali, mirando a sostenere lo sviluppo in Africa e a promuovere regole più chiare sugli investimenti. Non introduce obblighi diretti per cittadini o imprese, ma influisce sul contesto delle regole commerciali globali.",
-      "cosa_cambia": [
-        "Nessun cambiamento diretto per i cittadini"
-      ],
-      "chi_interessa": "nessun gruppo specifico di cittadini",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "Influenza indiretta sulle regole commerciali internazionali, che può avere effetti sui prezzi e sulla disponibilità di alcuni prodotti importati. Contribuisce a definire la linea dell'UE in ambito WTO, con possibili riflessi a lungo termine sull'economia.",
-      "data_vigenza": "dal 13 luglio 2026",
-      "categoria": "Imprese e Mercato",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601774",
-      "pubblicato": "2026-07-20T00:00:00+02:00",
-      "processed_at": "2026-07-24T06:22:20.642997+00:00"
-    },
-    {
-      "id": "d5df2f645cb31c5d",
-      "titolo_popolare": "Croazia può abbassare le tasse sul carburante",
-      "titolo_originale": "OJ:L_202601775: Council Implementing Decision (EU) 2026/1775 of 10 July 2026 authorising Croatia to apply reduced rates of excise duty to gas oil and unleaded petrol used as motor fuels, pursuant to Article 19 of Directive 2003/96/EC",
-      "riassunto_esteso": "Il Consiglio dell'UE ha autorizzato la Croazia a applicare aliquote ridotte di accisa sul gasolio e sulla benzina senza piombo utilizzati come carburanti per motori. Questa decisione si basa sull'articolo 19 della direttiva 2003/96/CE, che permette agli Stati membri di chiedere deroghe per ridurre le tasse sui carburanti in determinate circostanze. L'obiettivo è alleggerire il costo del carburante per consumatori e imprese croate, soprattutto in un contesto di prezzi elevati. La misura è soggetta a revisione e rimane valida finché le condizioni giustificano l'aliquota ridotta. In pratica, i distributori in Croazia potranno praticare prezzi più bassi alla pompa.",
-      "cosa_cambia": [
-        "Prezzi più bassi del gasolio e della benzina senza piombo per gli automobilisti croati",
-        "Minori spese di carburante per le imprese di trasporto e logistica operanti in Croazia",
-        "Possibile riduzione indiretta dei prezzi di alcuni beni e servizi legati al trasporto"
-      ],
-      "chi_interessa": "tutti i consumatori di carburante in Croazia (automobilisti, trasportatori, imprese)",
-      "cosa_devi_fare": "nessuna azione richiesta, si beneficia direttamente dei prezzi più bassi alla pompa",
-      "impatto": "Spese di carburante ridotte per famiglie e imprese, con possibile effetto positivo sul costo della vita e sulla competitività delle imprese croate",
-      "data_vigenza": "in vigore dal 10 luglio 2026",
-      "categoria": "Fisco e Tributi",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601775",
-      "pubblicato": "2026-07-20T00:00:00+02:00",
-      "processed_at": "2026-07-25T06:13:58.218309+00:00"
-    },
-    {
-      "id": "d05cc4588937f31d",
-      "titolo_popolare": "Registrazione dell'iniziativa per il reddito di base universale",
-      "titolo_originale": "OJ:L_202601798: Commission Implementing Decision (EU) 2026/1798 of 7 July 2026 on the request for registration of the European citizens’ initiative entitled Introduction of Unconditional Basic Income (UBI) throughout the EU, pursuant to Regulation (EU) 2019/788 of the European Parliament and of the Council (notified under document C(2026) 4721)",
-      "riassunto_esteso": "La Commissione europea ha deciso di registrare l'iniziativa dei cittadini intitolata \"Introduzione di un Reddito di Base Universale in tutta l'UE\". Questo atto permette agli organizzatori di avviare formalmente la raccolta di firme necessarie per portare la proposta all'attenzione delle istituzioni europee. Se l'iniziativa otterrà almeno un milione di firme in almeno sette Stati membri, la Commissione dovrà esaminare la richiesta e decidere se avviare un'azione legislativa. La decisione è stata presa il 7 luglio 2026 e segue le norme del regolamento sulle iniziative dei cittadini. L'obiettivo è dare ai cittadini uno strumento diretto per influire sull'agenda politica dell'Unione.",
-      "cosa_cambia": [
-        "Gli organizzatori possono ora iniziare a raccogliere le firme online e offline secondo le regole UE.",
-        "I cittadini europei hanno la possibilità di firmare l'iniziativa sulla piattaforma ufficiale dedicata.",
-        "La Commissione è obbligata a valutare la proposta se si raggiunge la soglia di un milione di firme in sette paesi."
-      ],
-      "chi_interessa": "organizzatori dell'iniziativa e cittadini europei che vogliono sostenerla",
-      "cosa_devi_fare": "Se sostieni l'iniziativa, puoi firmarla online sulla piattaforma ufficiale; gli organizzatori devono raccogliere le firme secondo le regole UE.",
-      "impatto": "Permette ai cittadini di proporre formalmente un reddito di base universale a livello UE, aprendo la strada a un eventuale dibattito legislativo.",
-      "data_vigenza": "dal 7 luglio 2026",
-      "categoria": "Iter Legislativo",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601798",
-      "pubblicato": "2026-07-20T00:00:00+02:00",
-      "processed_at": "2026-07-26T06:31:13.935376+00:00"
-    },
-    {
-      "id": "83705d33d958f54f",
-      "titolo_popolare": "Misure d'emergenza contro l'influenza aviaria",
-      "titolo_originale": "OJ:L_202601796: Commission Implementing Decision (EU) 2026/1796 of 16 July 2026 amending the Annex to Implementing Decision (EU) 2023/2447 concerning emergency measures in relation to outbreaks of highly pathogenic avian influenza in certain Member States (notified under document C(2026) 5126)",
-      "riassunto_esteso": "La decisione della Commissione europea aggiorna l'elenco degli Stati membri in cui sono attive misure di emergenza per fronteggiare focolai di influenza aviaria altamente patogena. Queste misure includono restrizioni al movimento di uccelli, obblighi di sorveglianza e, se necessario, abbattimenti controllati degli animali infetti. L'obiettivo è contenere la diffusione del virus per proteggere sia la salute animale che quella pubblica, evitando perdite economiche nel settore avicolo. L'atto si basa sulle precedenti disposizioni già esistenti e le adegua alla situazione epidemiologica aggiornata al luglio 2026.",
-      "cosa_cambia": [
-        "Divieto di spostamento di pollame e uova dalle zone dichiarate focolaio senza autorizzazione",
-        "Obbligo per gli allevatori di segnalare immediatamente qualsiasi sospetto di malattia alle autorità veterinarie",
-        "Possibilità di eseguire abbattimenti preventivi di capi infetti o esposti, con indennizzo previsto",
-        "Aumento dei controlli e dei test diagnostici negli allevamenti delle aree a rischio"
-      ],
-      "chi_interessa": "allevatori di pollame, produttori di uova e altri operatori del settore avicolo negli Stati membri interessati",
-      "cosa_devi_fare": "segnalare focolai sospetti, rispettare le restrizioni di movimento e collaborare agli eventuali abbattimenti autorizzati",
-      "impatto": "riduce il rischio di diffusione del virus, tutelando la salute degli animali e limitando le perdite economiche per il settore avicolo",
-      "data_vigenza": "in vigore dal 16 luglio 2026",
-      "categoria": "Agricoltura e Alimentare",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601796",
-      "pubblicato": "2026-07-20T00:00:00+02:00",
-      "processed_at": "2026-07-27T07:00:44.102191+00:00"
-    },
-    {
-      "id": "3896eb9773207055",
-      "titolo_popolare": "Correzione di una norma sulle malattie animali",
-      "titolo_originale": "OJ:L_202690594:            Berichtigung der Durchführungsverordnung (EU) 2021/620 der Kommission vom 15. April 2021 mit Durchführungsbestimmungen zur Verordnung (EU) 2016/429 des Europäischen Parlaments und des Rates hinsichtlich der Genehmigung des Status seuchenfrei und des Status der Nichtimpfung für bestimmte Mitgliedstaaten oder Zonen oder Kompartimente dieser Mitgliedstaaten in Bezug auf bestimmte gelistete Seuchen und der Genehmigung von Tilgungsprogrammen für diese gelisteten Seuchen (ABl. L 131 vom 16.4.2021)",
-      "riassunto_esteso": "Il documento è una correzione tecnica di un regolamento di attuazione dell'Unione Europea che stabilisce le condizioni per riconoscere a uno Stato membro o a una zona il status di libertà da determinate malattie animali e il status di non vaccinazione. La correzione serve a sistemare alcuni errori di riferimento e di formulazione presenti nel testo originale, affinché le disposizioni siano chiare e applicabili in modo uniforme. Non introduce nuovi obblighi né modifiche sostanziali alle regole già in vigore. L'obiettivo è evitare confusione nelle autorità veterinarie e negli operatori del settore, garantendo che il riconoscimento dello status sanitario sia basato su dati corretti.",
-      "cosa_cambia": [
-        "Correzione di riferimenti normativi errati nel testo originale",
-        "Chiarimento di alcune definizioni relative allo status di libertà da malattie",
-        "Adeguamento di errori di numerazione degli allegati",
-        "Nessuna modifica sostanziale agli obblighi esistenti"
-      ],
-      "chi_interessa": "autorità veterinarie degli Stati membri e operatori del settore agricolo e dell'allevamento",
-      "cosa_devi_fare": "nessuna azione richiesta per i cittadini",
-      "impatto": "Garantisce l'applicazione corretta delle norme sul riconoscimento dello status sanitario animale, evitando errori che potrebbero compromettere gli scambi commerciali e la prevenzione delle malattie.",
-      "data_vigenza": "in vigore da subito, dalla pubblicazione nella Gazzetta Ufficiale dell'Unione Europea",
-      "categoria": "Agricoltura e Alimentare",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690594",
-      "pubblicato": "2026-07-20T00:00:00+02:00",
-      "processed_at": "2026-07-28T06:20:00.374472+00:00"
-    },
-    {
-      "id": "8b9b373a6180dce5",
-      "titolo_popolare": "Nuove regole per combattere la peste suina africana",
-      "titolo_originale": "OJ:L_202601795: Commission Implementing Regulation (EU) 2026/1795 of 16 July 2026 amending Annex I to Implementing Regulation (EU) 2023/594 laying down special disease control measures for African swine fever",
-      "riassunto_esteso": "La Commissione europea ha aggiornato le misure speciali di controllo della peste suina africana, modificando l'allegato I del regolamento di esecuzione 2023/594. Le nuove disposizioni introducono requisiti più severi per la sorveglianza, la biosicurezza negli allevamenti e la gestione dei casi sospetti. L'obiettivo è limitare la diffusione del virus tra i suini selvatici e domestici, proteggendo così il settore suinicolo europeo. Le modifiche si applicano agli Stati membri e agli operatori che allevano o commerciano maiali. Questo aggiornamento fa parte della strategia UE per eradicare la malattia entro i prossimi anni.",
-      "cosa_cambia": [
-        "Obbligo di test più frequenti nei suini sospetti e nei selvatici nelle zone a rischio",
-        "Maggiori requisiti di biosicurezza negli allevamenti, come recinti e disinfezione obbligatoria",
-        "Procedure standardizzate per la segnalazione rapida di focolai alle autorità competenti",
-        "Limitazioni al movimento di suini e prodotti suini dalle zone infette verso quelle libere"
-      ],
-      "chi_interessa": "allevatori di suini, veterinari, autorità nazionali e locali competenti in materia di salute animale",
-      "cosa_devi_fare": "rispettare le nuove norme di biosicurezza e segnalare tempestivamente ogni caso sospetto",
-      "impatto": "riduzione del rischio di diffusione della peste suina, quindi maggiore protezione per gli allevamenti e stabilità del mercato della carne suina",
-      "data_vigenza": "non specificato",
-      "categoria": "Agricoltura e Alimentare",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601795",
-      "pubblicato": "2026-07-20T00:00:00+02:00",
-      "processed_at": "2026-07-28T06:20:15.437129+00:00"
     },
     {
       "id": "bb68323283680c7d",
