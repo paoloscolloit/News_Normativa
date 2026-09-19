@@ -1,17 +1,5 @@
 [
   {
-    "id": "3ade5a0368cf1711",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601831: Commission Implementing Decision (EU) 2026/1831 of 23 July 2026 amending Implementing Decision (EU) 2025/638 concerning certain emergency measures relating to infection with peste des petits ruminants virus in Romania (notified under document C(2026) 5341)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601831",
-    "pubblicato": "2026-07-24T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-07-24T06:16:37.064237+00:00",
-    "processed": true
-  },
-  {
     "id": "b50a2da334e91939",
     "source_id": "eurlex_oj_l",
     "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
@@ -741,7 +729,7 @@
     "pubblicato": "2026-07-28T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-28T06:16:27.415349+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "764524e7cf8e3027",
@@ -849,7 +837,7 @@
     "pubblicato": "2026-07-29T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-29T06:22:09.448486+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "0811d3ee49a254d1",
@@ -957,7 +945,7 @@
     "pubblicato": "2026-07-29T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-29T06:22:09.449402+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "96bc4f9a94f83764",
@@ -981,7 +969,7 @@
     "pubblicato": "2026-07-30T00:00:00+02:00",
     "summary_raw": "This document does not exist in English.",
     "fetched_at": "2026-07-30T06:15:19.240126+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "3f73d19278df5754",
@@ -993,7 +981,7 @@
     "pubblicato": "2026-07-30T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-30T06:15:19.240223+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "eb16a7d526e39cbc",
@@ -1005,7 +993,7 @@
     "pubblicato": "2026-07-30T00:00:00+02:00",
     "summary_raw": "This document does not exist in English.",
     "fetched_at": "2026-07-30T06:15:19.240310+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "65fd56c7f2322c31",
@@ -5997,6 +5985,18 @@
     "pubblicato": "2026-09-18T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-09-18T08:32:42.794838+00:00",
+    "processed": false
+  },
+  {
+    "id": "3665371e310ff92d",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R2108: Regulation (EU) 2026/2108 of the European Parliament and of the Council of 16 September 2026 establishing the Union Customs Code and the European Union Customs Authority, and repealing Regulation (EU) No 952/2013 (Text with EEA relevance)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2108",
+    "pubblicato": "2026-09-19T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-09-19T08:20:07.755826+00:00",
     "processed": false
   }
 ]
