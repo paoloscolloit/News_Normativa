@@ -1,101 +1,5 @@
 [
   {
-    "id": "e171d1d897de1746",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601822: Commission Implementing Regulation (EU) 2026/1822 of 24 July 2026 concerning the authorisation of peppermint tincture from Mentha × piperita L., wild thyme tincture from Thymus serpyllum L. and sage tincture from Salvia officinalis L. as feed additives for all animal species",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601822",
-    "pubblicato": "2026-07-27T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-07-27T06:53:12.786216+00:00",
-    "processed": false
-  },
-  {
-    "id": "db5f877055170671",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601838: Council Implementing Regulation (EU) 2026/1838 of 24 July 2026 implementing Regulation (EU) No 267/2012 concerning restrictive measures against Iran",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601838",
-    "pubblicato": "2026-07-27T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-07-27T06:53:12.786291+00:00",
-    "processed": true
-  },
-  {
-    "id": "a738ff2139ac7328",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601837: Council Decision (CFSP) 2026/1837 of 24 July 2026 amending Decision (CFSP) 2023/1532 concerning restrictive measures in view of Iran’s military support to Russia’s war of aggression against Ukraine and to armed groups and entities in the Middle East and the Red Sea region as well as Iran’s actions undermining freedom of navigation in the Middle East",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601837",
-    "pubblicato": "2026-07-27T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-07-27T06:53:12.786363+00:00",
-    "processed": true
-  },
-  {
-    "id": "39935cfbfc01e5ba",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601803: Commission Implementing Regulation (EU) 2026/1803 of 24 July 2026 amending Implementing Regulation (EU) 2026/530 on exceptional support measures for the sheepmeat and pigmeat sectors in Hungary and Implementing Regulation (EU) 2026/1100 on exceptional support measures for the milk and pigmeat sectors in Slovakia",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601803",
-    "pubblicato": "2026-07-27T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-07-27T06:53:12.786450+00:00",
-    "processed": true
-  },
-  {
-    "id": "27e1d64f5e5759de",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601807: Commission Implementing Regulation (EU) 2026/1807 of 24 July 2026 amending Implementing Regulation (EU) 2022/2299 as regards new and modified reporting obligations",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601807",
-    "pubblicato": "2026-07-27T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-07-27T06:53:12.786522+00:00",
-    "processed": true
-  },
-  {
-    "id": "b4f9c56463c789f7",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601863: Commission Implementing Decision (EU) 2026/1863 of 17 July 2026 on the request for registration, pursuant to Regulation (EU) 2019/788 of the European Parliament and of the Council, of the European citizens’ initiative entitled Right to Housing! Now and Forever (notified under document C(2026) 4960)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601863",
-    "pubblicato": "2026-07-27T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-07-27T06:53:12.786591+00:00",
-    "processed": true
-  },
-  {
-    "id": "0c043221a953a3d0",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601856: Council Decision (CFSP) 2026/1856 of 24 July 2026 amending Decision (CFSP) 2016/610 on a European Union CSDP Military Training Mission in the Central African Republic (EUTM RCA)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601856",
-    "pubblicato": "2026-07-27T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-07-27T06:53:12.786659+00:00",
-    "processed": true
-  },
-  {
-    "id": "e00de027229633d1",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601861: Guideline (EU) 2026/1861 of the European Central Bank of 15 July 2026 on the Eurosystem liquidity facility for non-euro area central banks (ECB/2026/17)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601861",
-    "pubblicato": "2026-07-27T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-07-27T06:53:12.786736+00:00",
-    "processed": true
-  },
-  {
     "id": "320bd9ec4cfa6c20",
     "source_id": "eurlex_oj_l",
     "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
@@ -513,7 +417,7 @@
     "pubblicato": "2026-07-29T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-29T06:22:09.448913+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "f5df9c68f8888c06",
@@ -669,7 +573,7 @@
     "pubblicato": "2026-07-30T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-30T06:15:19.240630+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "c5f4e6289a710a1a",
@@ -693,7 +597,7 @@
     "pubblicato": "2026-07-30T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-30T06:15:19.240781+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "5b3980e6cdd455dc",
@@ -5997,6 +5901,102 @@
     "pubblicato": "2026-09-21T00:00:00+02:00",
     "summary_raw": "The corrigendum does not concern the English version.",
     "fetched_at": "2026-09-21T09:21:26.267365+00:00",
+    "processed": false
+  },
+  {
+    "id": "162b9ac3eb7543d7",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32024R1028R(01): Corrigendum to Regulation (EU) 2024/1028 of the European Parliament and of the Council of 11 April 2024 on data collection and sharing relating to short-term accommodation rental services and amending Regulation (EU) 2018/1724 (OJ L, 2024/1028, 29.4.2024)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32024R1028R(01)",
+    "pubblicato": "2026-09-22T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-09-22T08:51:12.615131+00:00",
+    "processed": false
+  },
+  {
+    "id": "2717b51473ca4c8a",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R2149: Commission Implementing Regulation (EU) 2026/2149 of 21 September 2026 amending Annexes V and XIV to Implementing Regulation (EU) 2021/404 as regards the entries for the United States in the lists of third countries, territories, or zones thereof authorised for the entry into the Union of consignments of poultry and germinal products of poultry, and of fresh meat of poultry and game birds",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2149",
+    "pubblicato": "2026-09-22T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-09-22T08:51:12.615219+00:00",
+    "processed": false
+  },
+  {
+    "id": "5d4369f89f312c83",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32022R0692R(03)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32022R0692R(03)",
+    "pubblicato": "2026-09-22T00:00:00+02:00",
+    "summary_raw": "The corrigendum does not concern the English version.",
+    "fetched_at": "2026-09-22T08:51:12.615294+00:00",
+    "processed": false
+  },
+  {
+    "id": "b7fdf0c6e97d4ce7",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32023L2225R(03): Corrigendum to Directive (EU) 2023/2225 of the European Parliament and of the Council of 18 October 2023 on credit agreements for consumers and repealing Directive 2008/48/EC (OJ L, 2023/2225, 30.10.2023)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32023L2225R(03)",
+    "pubblicato": "2026-09-22T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-09-22T08:51:12.615361+00:00",
+    "processed": false
+  },
+  {
+    "id": "093291e35ffecb5c",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R2099: Commission Implementing Regulation (EU) 2026/2099 of 21 September 2026 on an interoperable, cross-border identification and authentication mechanism for natural persons, health professionals and healthcare providers for the purposes of the cross-border exchange of personal electronic health data",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2099",
+    "pubblicato": "2026-09-22T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-09-22T08:51:12.615424+00:00",
+    "processed": false
+  },
+  {
+    "id": "9b940ac682d8fbc0",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D2123: Commission Implementing Decision (EU) 2026/2123 of 17 September 2026 amending Implementing Decision (EU) 2024/2207 concerning certain emergency measures relating to sheep pox and goat pox in Greece (notified under document C(2026) 6699)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2123",
+    "pubblicato": "2026-09-22T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-09-22T08:51:12.615484+00:00",
+    "processed": false
+  },
+  {
+    "id": "a263764e69db712d",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32018R0669R(03):            Rectificatif au règlement (UE) 2018/669 de la Commission du 16 avril 2018 modifiant, aux fins de son adaptation au progrès technique et scientifique, le règlement (CE) no 1272/2008 du Parlement européen et du Conseil relatif à la classification, à l’étiquetage et à l’emballage des substances et des mélanges (JO L 115 du 4.5.2018)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32018R0669R(03)",
+    "pubblicato": "2026-09-22T00:00:00+02:00",
+    "summary_raw": "The corrigendum does not concern the English version.",
+    "fetched_at": "2026-09-22T08:51:12.615544+00:00",
+    "processed": false
+  },
+  {
+    "id": "7e981ac2e422bb17",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32024L1785R(01)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32024L1785R(01)",
+    "pubblicato": "2026-09-22T00:00:00+02:00",
+    "summary_raw": "The corrigendum does not concern the English version.",
+    "fetched_at": "2026-09-22T08:51:12.615605+00:00",
     "processed": false
   }
 ]
