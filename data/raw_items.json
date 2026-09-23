@@ -1,173 +1,5 @@
 [
   {
-    "id": "320bd9ec4cfa6c20",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601858: Council Decision (CFSP) 2026/1858 of 24 July 2026 amending Decision (CFSP) 2019/2110 on the European Union CSDP Advisory Mission in the Central African Republic (EUAM RCA)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601858",
-    "pubblicato": "2026-07-27T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-07-27T06:53:12.786806+00:00",
-    "processed": true
-  },
-  {
-    "id": "fd4bae66354100ed",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601806: Commission Implementing Regulation (EU) 2026/1806 of 24 July 2026 amending Regulation (EU) No 37/2010 as regards the classification of the substance recombinant equine chorionic gonadotropin with respect to its maximum residue limit in foodstuffs of animal origin",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601806",
-    "pubblicato": "2026-07-27T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-07-27T06:53:12.786875+00:00",
-    "processed": true
-  },
-  {
-    "id": "3ccb35534a17f80a",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601839: Commission Implementing Decision (EU) 2026/1839 of 23 July 2026 amending Implementing Decision (EU) 2026/820 concerning certain emergency measures relating to foot and mouth disease in Greece (notified under document C(2026) 5381)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601839",
-    "pubblicato": "2026-07-28T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-07-28T06:16:27.413857+00:00",
-    "processed": true
-  },
-  {
-    "id": "ef3587c7709552b6",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601876: Council Decision (CFSP) 2026/1876 of 23 July 2026 appointing the European Union Special Representative for the Sahel",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601876",
-    "pubblicato": "2026-07-28T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-07-28T06:16:27.413975+00:00",
-    "processed": true
-  },
-  {
-    "id": "8dc420c558286c19",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601799: Commission Implementing Decision (EU) 2026/1799 of 24 July 2026 authorising grading methods for the classification of pig carcasses in the Netherlands and repealing Implementing Decision 2011/303/EU (notified under document C(2026) 5120)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601799",
-    "pubblicato": "2026-07-28T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-07-28T06:16:27.414066+00:00",
-    "processed": true
-  },
-  {
-    "id": "024b999cb0e58efc",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202690634: Corrigendum to Regulation (EU) 2023/2674 of the European Parliament and of the Council of 22 November 2023 amending Council Regulation (EC) No 1217/2009 as regards conversion of the Farm Accountancy Data Network into a Farm Sustainability Data Network (OJ L, 2023/2674, 29.11.2023)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690634",
-    "pubblicato": "2026-07-28T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-07-28T06:16:27.414171+00:00",
-    "processed": false
-  },
-  {
-    "id": "3669598a9be7c0ab",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601801: Commission Recommendation (EU) 2026/1801 of 24 July 2026 on the presence of deoxynivalenol, zearalenone, ochratoxin A, T-2 and HT-2 toxins and fumonisins in feed",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601801",
-    "pubblicato": "2026-07-28T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-07-28T06:16:27.414253+00:00",
-    "processed": true
-  },
-  {
-    "id": "bae28a6d90bedea9",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601881: Regulation (EU) 2026/1881 of the European Parliament and of the Council of 24 July 2026 on a temporary derogation from certain provisions of Directive 2002/58/EC as regards the use of technologies by providers of number-independent interpersonal communications services for the processing of personal and other data for the purpose of combating online child sexual abuse (Text with EEA relevance)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601881",
-    "pubblicato": "2026-07-28T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-07-28T06:16:27.414333+00:00",
-    "processed": false
-  },
-  {
-    "id": "33e4bdb8ce511cb6",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601854: Commission Implementing Regulation (EU) 2026/1854 of 27 July 2026 imposing a provisional anti-dumping duty on imports of sodium benzoate originating in the People’s Republic of China",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601854",
-    "pubblicato": "2026-07-28T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-07-28T06:16:27.414412+00:00",
-    "processed": true
-  },
-  {
-    "id": "8b611d1fbeae5e48",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601800: Commission Implementing Decision (EU) 2026/1800 of 24 July 2026 amending Implementing Decision (EU) 2020/1426 as regards introducing wider frequency channels in the Union-harmonised 5,9 GHz frequency band for safety-related applications of road intelligent transport systems (notified under document C(2026) 5125)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601800",
-    "pubblicato": "2026-07-28T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-07-28T06:16:27.414492+00:00",
-    "processed": false
-  },
-  {
-    "id": "48d943bd86eabe5b",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202690630",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690630",
-    "pubblicato": "2026-07-28T00:00:00+02:00",
-    "summary_raw": "This document does not exist in English.",
-    "fetched_at": "2026-07-28T06:16:27.414568+00:00",
-    "processed": true
-  },
-  {
-    "id": "96197fa85cc8d64b",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601821: Commission Implementing Regulation (EU) 2026/1821 of 27 July 2026 amending Implementing Regulation (EU) 2015/1018 laying down a list classifying occurrences in civil aviation to be mandatorily reported, as regards Unmanned Aircraft Systems (UAS), U-space occurrences, part-IS occurrences, and the removal of certain aviation security occurrences from mandatory reporting requirements",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601821",
-    "pubblicato": "2026-07-28T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-07-28T06:16:27.414640+00:00",
-    "processed": false
-  },
-  {
-    "id": "f95b25f5412b060f",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601889: Commission Implementing Regulation (EU) 2026/1889 of 27 July 2026 amending Annexes V and XIV to Implementing Regulation (EU) 2021/404 as regards the entries for the United States in the lists of third countries, territories, or zones thereof authorised for the entry into the Union of consignments of poultry and germinal products of poultry, and of fresh meat of poultry and game birds",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601889",
-    "pubblicato": "2026-07-28T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-07-28T06:16:27.414710+00:00",
-    "processed": true
-  },
-  {
-    "id": "24c4183a6e7d0724",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601815: Commission Implementing Decision (EU) 2026/1815 of 24 July 2026 on the publication of a list indicating certain CO2 emissions values per manufacturer as well as average specific CO2 emissions of all new heavy-duty vehicles registered in the Union pursuant to Regulation (EU) 2019/1242 of the European Parliament and of the Council for the reporting period of the year 2024 (notified under document C(2026) 5108)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601815",
-    "pubblicato": "2026-07-28T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-07-28T06:16:27.414785+00:00",
-    "processed": false
-  },
-  {
     "id": "7f26a5e0efdf6b66",
     "source_id": "eurlex_oj_l",
     "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
@@ -297,7 +129,7 @@
     "pubblicato": "2026-07-29T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-29T06:22:09.447848+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "b53fb5d5e896ce68",
@@ -621,7 +453,7 @@
     "pubblicato": "2026-07-30T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-30T06:15:19.240920+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "fd279dcbdbfe1964",
@@ -729,7 +561,7 @@
     "pubblicato": "2026-07-31T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-31T06:35:06.578511+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "9efbdeb155c21493",
@@ -741,7 +573,7 @@
     "pubblicato": "2026-07-31T00:00:00+02:00",
     "summary_raw": "This document does not exist in English.",
     "fetched_at": "2026-07-31T06:35:06.578618+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "eb0dbe08b54af6f7",
@@ -5997,6 +5829,174 @@
     "pubblicato": "2026-09-22T00:00:00+02:00",
     "summary_raw": "The corrigendum does not concern the English version.",
     "fetched_at": "2026-09-22T08:51:12.615605+00:00",
+    "processed": false
+  },
+  {
+    "id": "d542941debb1fc33",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R2138: Council Implementing Regulation (EU) 2026/2138 of 22 September 2026 implementing Article 11(4) of Regulation (EU) No 753/2011 concerning restrictive measures directed against certain individuals, groups, undertakings and entities in view of the situation in Afghanistan",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2138",
+    "pubblicato": "2026-09-23T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-09-23T08:52:50.749351+00:00",
+    "processed": false
+  },
+  {
+    "id": "051ce24f53f71bb1",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D2156: Council Decision (CFSP) 2026/2156 of 22 September 2026 amending Decision (CFSP) 2020/1465 on a European Union action in support of the United Nations Verification and Inspection Mechanism in Yemen",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2156",
+    "pubblicato": "2026-09-23T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-09-23T08:52:50.749472+00:00",
+    "processed": false
+  },
+  {
+    "id": "1837576e064aa8a5",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D0075R(02):            Rectificatif à la décision d’exécution (UE) 2026/75 de la Commission du 12 janvier 2026 relative à l’équivalence des matériels de multiplication de plantes fruitières et des plantes fruitières destinées à la production de fruits produits dans certains pays tiers en ce qui concerne les obligations du fournisseur, l’identité, les caractères, les aspects phytosanitaires, le milieu de culture, les modalités d’inspection, l’étiquetage, la fermeture et l’emballage [notifiée sous le numéro C(2026) 30] (JO L, 2026/75, 14.1.2026)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D0075R(02)",
+    "pubblicato": "2026-09-23T00:00:00+02:00",
+    "summary_raw": "The corrigendum does not concern the English version.",
+    "fetched_at": "2026-09-23T08:52:50.749605+00:00",
+    "processed": false
+  },
+  {
+    "id": "1070671062881e47",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R2107: Commission Implementing Regulation (EU) 2026/2107 of 22 September 2026 imposing a definitive countervailing duty on imports of continuous filament glass fibre products (GFR) originating in Egypt following an expiry review pursuant to Article 18 of Regulation (EU) 2016/1037 of the European Parliament and of the Council",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2107",
+    "pubblicato": "2026-09-23T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-09-23T08:52:50.749712+00:00",
+    "processed": false
+  },
+  {
+    "id": "b9c16a04a9160930",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D2137: Council Implementing Decision (CFSP) 2026/2137 of 22 September 2026 implementing Decision 2011/486/CFSP concerning restrictive measures directed against certain individuals, groups, undertakings and entities in view of the situation in Afghanistan",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2137",
+    "pubblicato": "2026-09-23T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-09-23T08:52:50.749811+00:00",
+    "processed": false
+  },
+  {
+    "id": "5a0655c02bc70c40",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:22026D1964R(01):            Berichtigung des Beschlusses Nr. 1/2026 des Gemischten Ausschusses EU-Monaco der mit dem Abkommen zwischen der Europäischen Gemeinschaft und dem Fürstentum Monaco über die Anwendung bestimmter Rechtsakte der Gemeinschaft auf dem Gebiet des Fürstentums Monaco eingesetzt wurde vom 28. Juli 2026 zur Änderung des Anhangs jenes Abkommens [2026/1964] (ABl. L, 2026/1964, 4.9.2026)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:22026D1964R(01)",
+    "pubblicato": "2026-09-23T00:00:00+02:00",
+    "summary_raw": "The corrigendum does not concern the English version.",
+    "fetched_at": "2026-09-23T08:52:50.749913+00:00",
+    "processed": false
+  },
+  {
+    "id": "fc7af81ffcfcdd80",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D2147: Political and Security Committee Decision (CFSP) 2026/2147 of 17 September 2026 on the appointment of the EU Mission Force Commander for the European Union military mission to contribute to the training of Somali security forces (EUTM Somalia), and repealing Decision (CFSP) 2026/236 (EUTM Somalia/2/2026)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2147",
+    "pubblicato": "2026-09-23T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-09-23T08:52:50.750012+00:00",
+    "processed": false
+  },
+  {
+    "id": "449ef663169f03b2",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D2145: Council Decision (EU) 2026/2145 of 22 September 2026 amending Decision (EU) 2021/1875 concerning the position to be adopted on behalf of the European Union in the annual consultations with the United Kingdom to agree on total allowable catches",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2145",
+    "pubblicato": "2026-09-23T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-09-23T08:52:50.750111+00:00",
+    "processed": false
+  },
+  {
+    "id": "07a1346f2641654f",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D2144: Council Decision (EU) 2026/2144 of 22 September 2026 amending Decision (EU) 2021/1765 on the position to be taken on behalf of the European Union, for the period 2021-2026, within the Specialised Committee on Fisheries established by the Trade and Cooperation Agreement between the European Union and the European Atomic Energy Community, of the one part, and the United Kingdom of Great Britain and Northern Ireland, of the other part",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2144",
+    "pubblicato": "2026-09-23T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-09-23T08:52:50.750205+00:00",
+    "processed": false
+  },
+  {
+    "id": "51727edd52f906d5",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32020R1182R(02)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32020R1182R(02)",
+    "pubblicato": "2026-09-23T00:00:00+02:00",
+    "summary_raw": "The corrigendum does not concern the English version.",
+    "fetched_at": "2026-09-23T08:52:50.750302+00:00",
+    "processed": false
+  },
+  {
+    "id": "f5dd7b4f6afa8e64",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:31993L0013R(13)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:31993L0013R(13)",
+    "pubblicato": "2026-09-23T00:00:00+02:00",
+    "summary_raw": "The corrigendum does not concern the English version.",
+    "fetched_at": "2026-09-23T08:52:50.750405+00:00",
+    "processed": false
+  },
+  {
+    "id": "37a3b33deec32ba2",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D2136: Council Decision (CFSP) 2026/2136 of 22 September 2026 amending Decision (CFSP) 2025/1554 on an assistance measure under the European Peace Facility to support the Djibouti Armed Forces",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2136",
+    "pubblicato": "2026-09-23T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-09-23T08:52:50.750503+00:00",
+    "processed": false
+  },
+  {
+    "id": "7d172c59ff422092",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R1139R(01)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1139R(01)",
+    "pubblicato": "2026-09-23T00:00:00+02:00",
+    "summary_raw": "The corrigendum does not concern the English version.",
+    "fetched_at": "2026-09-23T08:52:50.750659+00:00",
+    "processed": false
+  },
+  {
+    "id": "0ca77edd3e00afab",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D2148: Commission Implementing Decision (EU) 2026/2148 of 21 September 2026 amending Implementing Decision (EU) 2026/820 concerning certain emergency measures relating to foot and mouth disease in Greece (notified under document C(2026) 6793)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2148",
+    "pubblicato": "2026-09-23T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-09-23T08:52:50.750766+00:00",
     "processed": false
   }
 ]

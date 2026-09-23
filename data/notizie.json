@@ -1,7 +1,49 @@
 {
-  "last_updated": "2026-09-22T09:04:32.286909+00:00",
-  "total": 47,
+  "last_updated": "2026-09-23T09:07:30.357781+00:00",
+  "total": 51,
   "items": [
+    {
+      "id": "dc6b26223c8c43d6",
+      "titolo_popolare": "Accordo UE-Messico per commercio e cooperazione",
+      "titolo_originale": "OJ:L_202601509: Political, Economic and Cooperation Strategic Partnership Agreement between the European Union and its Member States, of the one part, and the United Mexican States, of the other part",
+      "riassunto_esteso": "L'Unione Europea e gli Stati Uniti Messicani hanno firmato un accordo di partenariato strategico che punta a rafforzare i rapporti politici, economici e di cooperazione tra le due parti. L'intesa prevede di facilitare gli scambi commerciali, promuovere gli investimenti reciproci e collaborare su temi come clima, energia, ricerca e sviluppo. Inoltre, include disposizioni per il dialogo politico e la cooperazione in materia di diritti umani e governance. L'obiettivo è creare condizioni più favorevoli per le imprese e migliorare l'accesso a beni e servizi per i cittadini. L'accordo entra in funzione dopo le procedure di ratifica previste dalle rispettive istituzioni.",
+      "cosa_cambia": [
+        "Maggiori opportunità per le imprese europee di esportare prodotti in Messico con minori ostacoli doganali",
+        "Possibile riduzione dei prezzi di alcuni prodotti messicani disponibili nei mercati europei",
+        "Maggiore collaborazione su progetti di ricerca e innovazione tra enti europei e messicani"
+      ],
+      "chi_interessa": "imprese che commerciano con il Messico e consumatori di prodotti messicani",
+      "cosa_devi_fare": "nessuna azione richiesta direttamente dai cittadini",
+      "impatto": "Potrebbe portare a prezzi più bassi per alcuni beni messicani e nuove occasioni di lavoro per le aziende coinvolte negli scambi bilaterali. L'accordo rafforza anche i legami politici e di cooperazione su temi globali come il clima.",
+      "data_vigenza": "non specificato",
+      "categoria": "Imprese e Mercato",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601509",
+      "pubblicato": "2026-07-31T00:00:00+02:00",
+      "processed_at": "2026-09-23T09:05:36.696904+00:00"
+    },
+    {
+      "id": "9efbdeb155c21493",
+      "titolo_popolare": "Atto UE non disponibile",
+      "titolo_originale": "OJ:L_202690647",
+      "riassunto_esteso": "Non è possibile reperire il contenuto dell'atto poiché il documento indicato non esiste nelle banche dati ufficiali. Pertanto non si conoscono le disposizioni né gli obiettivi del provvedimento. Per questo motivo non è possibile descrivere cosa stabilisce né perché è stato adottato. Si consiglia di verificare il riferimento o consultare fonti ufficiali per confermare l'esistenza del testo.",
+      "cosa_cambia": [
+        "Non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690647",
+      "pubblicato": "2026-07-31T00:00:00+02:00",
+      "processed_at": "2026-09-23T09:05:52.813133+00:00"
+    },
     {
       "id": "34fcfc76fa073044",
       "titolo_popolare": "Documento non disponibile in lingua italiana",
@@ -149,6 +191,28 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601852",
       "pubblicato": "2026-07-30T00:00:00+02:00",
       "processed_at": "2026-09-22T09:01:56.557892+00:00"
+    },
+    {
+      "id": "edaaccfcff68ef82",
+      "titolo_popolare": "Rinnovo autorizzazione taurina nei mangimi per animali",
+      "titolo_originale": "OJ:L_202601859: Commission Implementing Regulation (EU) 2026/1859 of 29 July 2026 concerning the renewal of the authorisation of a preparation of taurine as a feed additive for Canidae, Felidae, Mustelidae, carnivorous finfish and other aquatic carnivorous species and repealing Implementing Regulation (EU) 2015/722",
+      "riassunto_esteso": "La Commissione europea ha rinnovato l'autorizzazione per l'uso di una preparazione di taurina come additivo nei mangimi destinati a cani, gatti, mustelidi, pesci carnivori e altre specie acquatiche carnivore. Questo provvedimento sostituisce il precedente regolamento del 2015, mantenendo le stesse condizioni di utilizzo e sicurezza. Il rinnovo è stato deciso dopo una nuova valutazione scientifica che ha confermato l'innocuità della taurina per questi animali e l'utilità nutrizionale. In pratica, i produttori di mangimi potranno continuare a includere la taurina nei loro prodotti senza dover richiedere nuove autorizzazioni. La misura garantisce continuità nel mercato dei mangimi specializzati per animali da compagnia e acquacoltura.",
+      "cosa_cambia": [
+        "La taurina rimane autorizzata come additivo nei mangimi per cani, gatti e altri animali carnivori specificati.",
+        "Viene abrogato il vecchio regolamento 2015/722, semplificando il quadro normativo di riferimento.",
+        "Non sono introdotti nuovi limiti o requisiti aggiuntivi rispetto a quelli già in vigore."
+      ],
+      "chi_interessa": "produttori di mangimi per animali da compagnia e acquacoltura, nonché i relativi distributori",
+      "cosa_devi_fare": "nessuna azione richiesta direttamente ai cittadini; i produttori devono rispettare le condizioni già esistenti",
+      "impatto": "Assicura la disponibilità continua di mangimi contenenti taurina, importante per la salute di molti animali domestici e di allevamento. Questo sostiene la qualità dell'alimentazione animale senza oneri aggiuntivi per i consumatori.",
+      "data_vigenza": "in vigore dal 29 luglio 2026 (data di pubblicazione nella Gazzetta ufficiale dell'UE)",
+      "categoria": "Agricoltura e Alimentare",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601859",
+      "pubblicato": "2026-07-30T00:00:00+02:00",
+      "processed_at": "2026-09-23T09:01:28.330155+00:00"
     },
     {
       "id": "3ab7d44751d9173e",
@@ -362,6 +426,29 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601826",
       "pubblicato": "2026-07-29T00:00:00+02:00",
       "processed_at": "2026-09-22T08:58:50.179716+00:00"
+    },
+    {
+      "id": "6a801b43d5641522",
+      "titolo_popolare": "Registrazione obbligatoria per lisina cinese importata",
+      "titolo_originale": "OJ:L_202601824: Commission Implementing Regulation (EU) 2026/1824 of 28 July 2026 making imports of lysine originating in the People’s Republic of China subject to registration with a view to allowing the levy of anti-dumping duties on the imports subject to registration",
+      "riassunto_esteso": "La Commissione europea ha deciso che le importazioni di lisina proveniente dalla Cina devono essere registrate presso le autorità doganali prima di poter entrare nell'UE. Questo passaggio serve a raccogliere le informazioni necessarie per poter eventualmente applicare dazi antidumping sulle stesse merci. L'obiettivo è contrastare pratiche di vendita a prezzi sleali che danneggiano i produttori europei di lisina. La misura non impone dazi immediati, ma crea il meccanismo per poterli introdurre se necessario. In pratica, gli importatori dovranno adempiere a un nuovo obbligo amministrativo prima dello sdoganamento.",
+      "cosa_cambia": [
+        "Gli importatori devono registrare ogni partita di lisina cinese presso le dogane prima dell'importazione",
+        "Le autorità doganali potranno verificare la registrazione e bloccare le merci non registrate",
+        "Se verrà constatato dumping, potranno essere applicati dazi antidumping sulle importazioni registrate",
+        "I prezzi della lisina e dei prodotti che la contengono potrebbero aumentare a causa dei possibili dazi"
+      ],
+      "chi_interessa": "importatori di lisina proveniente dalla Cina e imprese che utilizzano lisina nei mangimi o alimenti",
+      "cosa_devi_fare": "Gli importatori devono registrare ogni partita di lisina cinese presso le dogane prima dello sdoganamento",
+      "impatto": "Potrebbe aumentare i costi della lisina importata e, di conseguenza, dei prodotti che la contengono, mentre mira a contrastare pratiche di dumping sleale. L'effetto concreto dipenderà dall'eventuale applicazione dei dazi antidumping.",
+      "data_vigenza": "dal 28 luglio 2026",
+      "categoria": "Imprese e Mercato",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601824",
+      "pubblicato": "2026-07-29T00:00:00+02:00",
+      "processed_at": "2026-09-23T08:56:11.972254+00:00"
     },
     {
       "id": "3ccb35534a17f80a",
