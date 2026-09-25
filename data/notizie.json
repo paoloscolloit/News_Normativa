@@ -1,7 +1,87 @@
 {
-  "last_updated": "2026-09-24T09:07:40.000662+00:00",
-  "total": 65,
+  "last_updated": "2026-09-25T09:29:26.672387+00:00",
+  "total": 56,
   "items": [
+    {
+      "id": "8d7fd77456657ab1",
+      "titolo_popolare": "Atto europeo non disponibile",
+      "titolo_originale": "OJ:L_202690661",
+      "riassunto_esteso": "Il documento indicato non risulta disponibile nelle lingue ufficiali dell'UE, pertanto non è possibile conoscerne il contenuto preciso. Probabilmente riguarda una materia di competenza europea, ma senza il testo non si possono indicare gli effetti. Si consiglia di verificare la fonte ufficiale per eventuali aggiornamenti. In attesa di ulteriori informazioni, non si possono derivare obblighi o diritti per i cittadini.",
+      "cosa_cambia": [
+        "non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690661",
+      "pubblicato": "2026-08-05T00:00:00+02:00",
+      "processed_at": "2026-09-25T09:27:03.470331+00:00"
+    },
+    {
+      "id": "42ce4906147abc79",
+      "titolo_popolare": "Atto UE non disponibile in inglese",
+      "titolo_originale": "OJ:L_202690660",
+      "riassunto_esteso": "Il documento indicato nella fonte non esiste nella versione inglese, quindi non è possibile conoscerne il contenuto dettagliato. Si tratta comunque di un atto pubblicato nella Gazzetta ufficiale dell'Unione europea, serie L, che normalmente contiene disposizioni di carattere normativo o amministrativo. Senza il testo completo non si possono indicare gli obblighi, i diritti o le scadenze che introduce. Per avere informazioni precise sarebbe necessario consultare la versione originale nella lingua ufficiale dell'atto o attendere una eventuale traduzione. In attesa di tali dettagli, si può ritenere che l'atto non abbia effetti immediati noti sui cittadini.",
+      "cosa_cambia": [
+        "Non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690660",
+      "pubblicato": "2026-08-04T00:00:00+02:00",
+      "processed_at": "2026-09-25T09:21:16.808281+00:00"
+    },
+    {
+      "id": "0c34f9660b0edae6",
+      "titolo_popolare": "Documento UE non disponibile in italiano",
+      "titolo_originale": "OJ:L_202690655",
+      "riassunto_esteso": "Il documento indicato nella fonte non risulta disponibile nella versione inglese, quindi non è possibile conoscerne il contenuto preciso. Non si hanno informazioni sulle disposizioni che contiene né sugli obiettivi che si propone di raggiungere. Probabilmente si tratta di un atto normativo dell'Unione Europea pubblicato nella Gazzetta Ufficiale, ma senza il testo non si possono descrivere le sue norme. Per questo motivo non è possibile spiegare cosa stabilisce né perché è stato adottato. L'assenza del testo impedisce qualsiasi analisi dettagliata.",
+      "cosa_cambia": [
+        "non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690655",
+      "pubblicato": "2026-08-04T00:00:00+02:00",
+      "processed_at": "2026-09-25T09:22:17.501917+00:00"
+    },
+    {
+      "id": "8729710ef11e00d3",
+      "titolo_popolare": "Correzione delle traduzioni UE dei farmaci",
+      "titolo_originale": "OJ:L_202600863: Commission Delegated Regulation (EU) 2026/863 of 20 April 2026 correcting certain language versions of Regulation (EC) No 1234/2008 concerning the examination of variations to the terms of marketing authorisations for medicinal products for human use",
+      "riassunto_esteso": "La Commissione europea ha adottato un regolamento delegato che corregge alcune versioni linguistiche del regolamento (CE) n. 1234/2008. Questo regolamento originale stabilisce le regole per esaminare le variazioni alle autorizzazioni di immissione in commercio dei medicinali per uso umano. Le correzioni riguardano solo le traduzioni ufficiali in diverse lingue dell'Unione, senza modificare il contenuto sostanziale delle norme. L'obiettivo è evitare discrepanze tra le versioni linguistiche che potrebbero portare a interpretazioni diverse. Il testo è stato pubblicato nella Gazzetta ufficiale dell'Unione europea il 20 aprile 2026.",
+      "cosa_cambia": [
+        "Nessun cambiamento concreto per i cittadini"
+      ],
+      "chi_interessa": "nessun gruppo specifico di cittadini",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "Garantisce che le informazioni sui farmaci siano identiche in tutte le lingue dell'UE, riducendo il rischio di confusione o errori di interpretazione. L'effetto pratico sui cittadini è trascurabile.",
+      "data_vigenza": "in vigore dal 20 aprile 2026",
+      "categoria": "Salute e Farmaci",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202600863",
+      "pubblicato": "2026-08-04T00:00:00+02:00",
+      "processed_at": "2026-09-25T09:23:56.217898+00:00"
+    },
     {
       "id": "4a24fd6e2896e1cc",
       "titolo_popolare": "Atto UE non specificato",
@@ -124,6 +204,26 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690659",
       "pubblicato": "2026-08-03T00:00:00+02:00",
       "processed_at": "2026-09-24T09:06:59.875334+00:00"
+    },
+    {
+      "id": "d455e1e966fdb2cb",
+      "titolo_popolare": "Abrogata la procedura di deficit eccessivo per Malta",
+      "titolo_originale": "OJ:L_202601783: Council Decision (EU) 2026/1783 of 12 June 2026 abrogating Council Decision (EU) 2024/2128 on the existence of an excessive deficit in Malta",
+      "riassunto_esteso": "Il Consiglio dell'Unione europea ha deciso di abrogare la decisione del 2024 che dichiarava l'esistenza di un deficit eccessivo a Malta. Questa abrogazione avviene perché i dati più recenti mostrano che i conti maltesi sono tornati entro i limiti previsti dalle regole UE di bilancio. Con questo atto Malta non è più sottoposta alla procedura di correzione del deficit eccessivo, ripristinando maggiore flessibilità nella sua politica di bilancio. La decisione è stata adottata per allineare il quadro di sorveglianza fiscale alla situazione economica attuale del paese. Non introduce nuovi obblighi o diritti per i cittadini degli altri Stati membri.",
+      "cosa_cambia": [
+        "Nessuna modifica diretta per i cittadini italiani"
+      ],
+      "chi_interessa": "nessun cittadino italiano in particolare",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "L'abrogazione non ha effetti pratici sui cittadini italiani; serve solo a correggere la situazione di Malta nel quadro delle regole UE di bilancio.",
+      "data_vigenza": "in vigore dal 12 giugno 2026",
+      "categoria": "Fisco e Tributi",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601783",
+      "pubblicato": "2026-08-03T00:00:00+02:00",
+      "processed_at": "2026-09-25T09:18:26.677829+00:00"
     },
     {
       "id": "dc6b26223c8c43d6",
@@ -326,6 +426,71 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601898",
       "pubblicato": "2026-07-31T00:00:00+02:00",
       "processed_at": "2026-09-24T09:02:04.957029+00:00"
+    },
+    {
+      "id": "4c82ad5059496ab1",
+      "titolo_popolare": "Sospensione delle tariffe UE-USA su alcuni prodotti",
+      "titolo_originale": "OJ:L_202601893: Commission Implementing Regulation (EU) 2026/1893 of 30 July 2026 suspending commercial rebalancing measures concerning certain products originating in the United States of America and certain products exported from the Union to the United States of America imposed by Implementing Regulation (EU) 2025/1564",
+      "riassunto_esteso": "La Commissione europea ha deciso di sospendere le misure di riequilibrio commerciale che erano state introdotte contro determinati prodotti statunitensi e contro alcune esportazioni dell'UE verso gli USA. Queste misure, sotto forma di dazi aggiuntivi o altre contromisure, erano state adottate nel 2025 per rispondere a pratiche commerciali ritenute sleali. Con il nuovo regolamento, tali dazi vengono temporaneamente rimossi, ripristinando le condizioni precedenti per i prodotti interessati. L'obiettivo è ridurre le tensioni commerciali e favorire scambi più fluidi tra le due sponde dell'Atlantico, almeno finché non verrà presa una decisione definitiva.",
+      "cosa_cambia": [
+        "I dazi aggiuntivi su alcuni prodotti statunitensi vengono temporaneamente sospesi",
+        "Le imprese europee che esportano quei prodotti negli USA non devono più pagare le contromisure previste",
+        "I consumatori potrebbero vedere prezzi più bassi sui beni interessati",
+        "Le autorità doganali applicheranno le norme tariffarie ordinarie invece delle misure speciali"
+      ],
+      "chi_interessa": "imprese che importano/esportano i prodotti interessati tra UE e USA e i consumatori di quei beni",
+      "cosa_devi_fare": "nessuna azione richiesta specifica; è consigliabile verificare se i propri prodotti rientrano nell'elenco",
+      "impatto": "Prezzi più bassi per alcuni beni e minori oneri doganali per le imprese coinvolte, contribuendo a ridurre le tensioni commerciali tra UE e USA.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Imprese e Mercato",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601893",
+      "pubblicato": "2026-07-31T00:00:00+02:00",
+      "processed_at": "2026-09-25T09:14:14.485278+00:00"
+    },
+    {
+      "id": "804087352c094e41",
+      "titolo_popolare": "Aggiornamento delle sanzioni UE contro l'Iran",
+      "titolo_originale": "OJ:L_202601866: Council Decision (CFSP) 2026/1866 of 30 July 2026 amending Decision 2010/413/CFSP concerning restrictive measures against Iran",
+      "riassunto_esteso": "Il Consiglio dell'Unione europea ha deciso di modificare la decisione del 2010 che impone misure restrittive contro l'Iran, mantenendo e aggiornando le sanzioni su persone ed entità legati al programma nucleare e ad altre attività preoccupanti. L'atto è stato adottato per rispondere al mancato rispetto da parte di Teheran degli accordi internazionali sul nucleare e per continuare a esercitare pressione diplomatica ed economica. Le modifiche riguardano principalmente l'elenco dei soggetti sottoposti a congelamento dei beni e divieto di viaggio, nonché alcune restrizioni sulle esportazioni di tecnologie sensibili. L'obiettivo è quello di impedire che l'Iran possa sviluppare capacità nucleari militari e di sostenere la stabilità regionale. La decisione entra in forza subito dopo la sua pubblicazione nella Gazzetta ufficiale dell'UE.",
+      "cosa_cambia": [
+        "Nessun cambiamento diretto per i cittadini comuni nella vita quotidiana"
+      ],
+      "chi_interessa": "imprese e istituzioni finanziarie che hanno rapporti commerciali o finanziari con l'Iran",
+      "cosa_devi_fare": "nessuna azione richiesta per i cittadini comuni",
+      "impatto": "L'impatto sui cittadini è minimo; le sanzioni mirano a limitare le attività economiche con l'Iran per promuovere la sicurezza internazionale e prevenire la proliferazione nucleare.",
+      "data_vigenza": "in vigore dal 30 luglio 2026",
+      "categoria": "Altro",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601866",
+      "pubblicato": "2026-07-31T00:00:00+02:00",
+      "processed_at": "2026-09-25T09:14:44.901303+00:00"
+    },
+    {
+      "id": "3c197b5bf6a39e72",
+      "titolo_popolare": "Nuove regole contro la peste suina africana",
+      "titolo_originale": "OJ:L_202601908: Commission Implementing Regulation (EU) 2026/1908 of 30 July 2026 amending Annex I to Implementing Regulation (EU) 2023/594 laying down special disease control measures for African swine fever",
+      "riassunto_esteso": "La Commissione europea ha aggiornato l'elenco delle misure speciali per controllare la peste suina africana, modificando l'Allegato I del regolamento di esecuzione 2023/594. L'aggiornamento introduce nuove zone soggette a restrizioni e definisce più dettagliatamente le attività di sorveglianza, test e movimentazione degli animali. L'obiettivo è impedire la diffusione del virus nei territori dell'UE e proteggere il settore suinicolo. La misura si basa sulle ultime evidenze epidemiologiche e sulle esperienze degli Stati membri colpiti.",
+      "cosa_cambia": [
+        "Vengono aggiunte o modificate le zone dove si applicano restrizioni al movimento dei suini e dei loro prodotti",
+        "Si precisano le procedure di testing e di sorveglianza obbligatorie negli allevamenti nelle zone a rischio",
+        "Vengono introdotti requisiti più stringenti per la pulizia e la disinfezione di veicoli e attrezzature utilizzati negli spostamenti"
+      ],
+      "chi_interessa": "allevatori di suini, veterinari, trasportatori e autorità sanitarie animali",
+      "cosa_devi_fare": "rispettare le nuove disposizioni di movimento, effettuare i test richiesti e segnalare eventuali focolai alle autorità competenti",
+      "impatto": "Riduce il rischio di focolai di peste suina africana, salvaguardando la produzione di carne suina e limitando perdite economiche per gli allevatori.",
+      "data_vigenza": "in vigore dal 30 luglio 2026",
+      "categoria": "Agricoltura e Alimentare",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601908",
+      "pubblicato": "2026-07-31T00:00:00+02:00",
+      "processed_at": "2026-09-25T09:16:46.397186+00:00"
     },
     {
       "id": "34fcfc76fa073044",
@@ -995,375 +1160,6 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601794",
       "pubblicato": "2026-07-28T00:00:00+02:00",
       "processed_at": "2026-09-20T08:57:04.385207+00:00"
-    },
-    {
-      "id": "6c1a9cda8059a376",
-      "titolo_popolare": "Documento non disponibile per spiegazione",
-      "titolo_originale": "OJ:L_202690625",
-      "riassunto_esteso": "Non essendo disponibile il testo, non si conoscono le disposizioni contenute. Non è possibile indicare gli obiettivi del legislatore. Non si possono evidenziare le motivazioni alla base dell'adozione. Per questi motivi non si può fornire un riassunto dettagliato.",
-      "cosa_cambia": [
-        "non specificato"
-      ],
-      "chi_interessa": "non specificato",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "non specificato",
-      "data_vigenza": "non specificato",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690625",
-      "pubblicato": "2026-07-27T00:00:00+02:00",
-      "processed_at": "2026-08-29T10:45:55.568798+00:00"
-    },
-    {
-      "id": "652967ba6c57e2f2",
-      "titolo_popolare": "Registrazione dell'iniziativa cittadina 'All On Board'",
-      "titolo_originale": "OJ:L_202601870: Commission Implementing Decision (EU) 2026/1870 of 17 July 2026 on the request for registration, pursuant to Regulation (EU) 2019/788 of the European Parliament and of the Council, of the European citizens’ initiative entitled All On Board – For your right to citizenship without borders (notified under document C(2026) 4639)",
-      "riassunto_esteso": "La decisione della Commissione europea registra l'iniziativa dei cittadini intitolata 'All On Board – For your right to citizenship without borders'. Con questa registrazione, l'iniziativa può iniziare la fase di raccolta firme in tutti gli Stati membri. Se raggiungerà almeno un milione di firme provenienti da almeno sette paesi diversi, la Commissione sarà obbligata a esaminare la richiesta e decidere se proporre un atto legislativo. L'atto serve a dare seguito al diritto di iniziativa dei cittadini previsto dai trattati UE.",
-      "cosa_cambia": [
-        "I cittadini dell'UE possono ora firmare l'iniziativa 'All On Board' quando sarà aperta la raccolta firme.",
-        "L'iniziativa potrà procedere alla fase di raccolta firme necessaria per raggiungere il milione di firme richiesto.",
-        "Se l'obiettivo sarà raggiunto, la Commissione dovrà valutare la proposta di una cittadinanza europea senza frontiere."
-      ],
-      "chi_interessa": "tutti i cittadini dell'Unione Europea",
-      "cosa_devi_fare": "nessuna azione richiesta; chi desidera può firmare l'iniziativa quando sarà aperta la raccolta firme.",
-      "impatto": "Permette di avviare una raccolta firme su un tema di cittadinanza europea, aumentando la partecipazione democratica e la visibilità della proposta.",
-      "data_vigenza": "in vigore dal 17 luglio 2026",
-      "categoria": "Giustizia e Diritti",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601870",
-      "pubblicato": "2026-07-27T00:00:00+02:00",
-      "processed_at": "2026-08-30T09:48:42.606671+00:00"
-    },
-    {
-      "id": "b2c727b2f1c26bd3",
-      "titolo_popolare": "...",
-      "titolo_originale": "OJ:L_202601811: Commission Implementing Regulation (EU) 2026/1811 of 24 July 2026 concerning the authorisation of eugenol and trans-anethole as feed additives for poultry and ornamental birds and the renewal of the authorisation of trans-anethole produced by chemical synthesis as a feed additive for ornamental birds, and amending Implementing Regulation (EU) 2022/1452",
-      "riassunto_esteso": "...",
-      "cosa_cambia": [
-        "...",
-        "...",
-        "...",
-        "..."
-      ],
-      "chi_interessa": "...",
-      "cosa_devi_fare": "...",
-      "impatto": "...",
-      "data_vigenza": "...",
-      "categoria": "Altro",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601811",
-      "pubblicato": "2026-07-27T00:00:00+02:00",
-      "processed_at": "2026-09-02T08:23:57.268540+00:00"
-    },
-    {
-      "id": "0e5fb08963b0a51a",
-      "titolo_popolare": "Aggiornamento nome autorizzazione enzima per mangimi",
-      "titolo_originale": "OJ:L_202601802: Commission Implementing Regulation (EU) 2026/1802 of 24 July 2026 amending Implementing Regulation (EU) 2019/1324 as regards the name of the holder of the authorisation for endo-1,4-beta-xylanase produced by Bacillus subtilis LMG S-27588 as a feed additive",
-      "riassunto_esteso": "La Commissione europea ha modificato il regolamento di esecuzione che autorizza l'uso dell'enzima endo-1,4-beta-xylanase prodotto da Bacillus subtilis LMG S-27588 come additivo per mangimi. La modifica riguarda esclusivamente il nome del titolare dell'autorizzazione, che è stato aggiornato per riflettere una variazione societaria. Le condizioni di utilizzo, i limiti di impiego e le specifiche tecniche dell'additivo rimangono invariati. Questo adeguamento serve a mantenere il registro degli additivi accurato e trasparente. Non introduce nuovi obblighi per gli utilizzatori finali.",
-      "cosa_cambia": [
-        "Il nome del titolare dell'autorizzazione per l'enzima xylanase nei mangimi è stato aggiornato.",
-        "L'autorizzazione stessa e le condizioni d'uso dell'additivo rimangono invariate."
-      ],
-      "chi_interessa": "produttori di mangimi e additivi per animali e chi li utilizza nell'allevamento",
-      "cosa_devi_fare": "nessuna azione richiesta per i cittadini comuni",
-      "impatto": "La modifica garantisce che le etichette riportino il nome corretto del titolare, migliorando la tracciabilità senza cambiare l'uso dell'enzima. Per i cittadini comuni l'effetto è praticamente nullo.",
-      "data_vigenza": "in vigore dal 24 luglio 2026",
-      "categoria": "Agricoltura e Alimentare",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601802",
-      "pubblicato": "2026-07-27T00:00:00+02:00",
-      "processed_at": "2026-09-03T08:36:47.391310+00:00"
-    },
-    {
-      "id": "27e1d64f5e5759de",
-      "titolo_popolare": "Nuove regole per la dichiarazione delle emissioni",
-      "titolo_originale": "OJ:L_202601807: Commission Implementing Regulation (EU) 2026/1807 of 24 July 2026 amending Implementing Regulation (EU) 2022/2299 as regards new and modified reporting obligations",
-      "riassunto_esteso": "Il regolamento modifica le disposizioni esistenti sul monitoraggio, la comunicazione e la verifica delle emissioni di gas serra nell'ambito del sistema europeo di scambio di quote (ETS). Introduce nuovi obblighi di reporting per alcune categorie di impianti e adegua le frequenze e i contenuti delle dichiarazioni già richieste. L'obiettivo è migliorare la trasparenza e l'affidabilità dei dati sulle emissioni, facilitando il raggiungimento degli obiettivi climatici dell'UE. Le modifiche si applicano direttamente negli Stati membri senza bisogno di recepimento nazionale. In pratica, le imprese interessate dovranno aggiornare i propri sistemi di raccolta dati e presentare le nuove informazioni entro le scadenze stabilite.",
-      "cosa_cambia": [
-        "Obbligo di riportare anche le emissioni di protossido di azoto per alcuni impianti chimici",
-        "Aumento della frequenza di comunicazione da trimestrale a mensile per le grandi installazioni",
-        "Inclusione di nuovi parametri di verifica per le emissioni dell'aviazione"
-      ],
-      "chi_interessa": "Impianti industriali e compagnie aeree che partecipano al sistema europeo di scambio di quote di emissione (ETS)",
-      "cosa_devi_fare": "Adeguare i sistemi di monitoraggio e inviare le nuove dichiarazioni entro le scadenze previste dal regolamento",
-      "impatto": "Maggiore precisione nei dati sulle emissioni, che permette un controllo più efficace del rispetto degli obiettivi di riduzione e riduce il rischio di sanzioni per dichiarazioni incomplete o inaccurate.",
-      "data_vigenza": "in vigore dal 24 luglio 2026",
-      "categoria": "Ambiente e Energia",
-      "importanza": 3,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601807",
-      "pubblicato": "2026-07-27T00:00:00+02:00",
-      "processed_at": "2026-09-03T08:42:13.742307+00:00"
-    },
-    {
-      "id": "0c043221a953a3d0",
-      "titolo_popolare": "Aggiornamento missione UE di addestramento militare in Centrafrica",
-      "titolo_originale": "OJ:L_202601856: Council Decision (CFSP) 2026/1856 of 24 July 2026 amending Decision (CFSP) 2016/610 on a European Union CSDP Military Training Mission in the Central African Republic (EUTM RCA)",
-      "riassunto_esteso": "Il Consiglio dell'UE ha deciso di modificare la decisione che istituisce la missione di addestramento militare dell'Unione europea nella Repubblica Centrafricana (EUTM RCA). L'aggiornamento adegua il mandato, la durata e le risorse della missione alla situazione di sicurezza attuale nel paese. L'obiettivo è migliorare le capacità delle forze armate locali e contribuire alla stabilità e alla protezione dei civili. Questa iniziativa rientra nell'impegno continuo dell'UE per la cooperazione in materia di sicurezza e difesa in Africa. Non prevede effetti diretti sulla vita quotidiana dei cittadini europei.",
-      "cosa_cambia": [
-        "Nessun cambiamento diretto nella vita quotidiana dei cittadini"
-      ],
-      "chi_interessa": "nessun cittadino specifico",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "L'atto non ha effetti concreti sulla vita quotidiana delle persone, ma riflette l'impegno dell'UE per la sicurezza internazionale.",
-      "data_vigenza": "in vigore dal 24 luglio 2026",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601856",
-      "pubblicato": "2026-07-27T00:00:00+02:00",
-      "processed_at": "2026-09-05T08:09:07.171770+00:00"
-    },
-    {
-      "id": "a738ff2139ac7328",
-      "titolo_popolare": "Nuove sanzioni UE contro l'Iran per sostegno alla Russia",
-      "titolo_originale": "OJ:L_202601837: Council Decision (CFSP) 2026/1837 of 24 July 2026 amending Decision (CFSP) 2023/1532 concerning restrictive measures in view of Iran’s military support to Russia’s war of aggression against Ukraine and to armed groups and entities in the Middle East and the Red Sea region as well as Iran’s actions undermining freedom of navigation in the Middle East",
-      "riassunto_esteso": "Il Consiglio dell'Unione europea ha modificato una decisione precedente per introdurre nuove misure restrittive nei confronti dell'Iran. Queste misure sono motivate dal sostegno militare che l'Iran fornisce alla Russia nella sua guerra contro l'Ucraina e dal supporto a gruppi armati in Medio Oriente e nel Mar Rosso. Inoltre, l'UE vuole contrastare le azioni iraniane che minacciano la libertà di navigazione nella stessa regione. L'obiettivo è aumentare la pressione diplomatica ed economica sull'Iran per farlo cessare questi comportamenti. La decisione si inserisce nel quadro della politica estera comune dell'UE e delle sue politiche di sanzioni.",
-      "cosa_cambia": [
-        "Nessun cambiamento diretto per i cittadini italiani"
-      ],
-      "chi_interessa": "nessun cittadino italiano direttamente",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "Non ci sono effetti concreti sulle persone comuni; le sanzioni servono principalmente a esercitare pressione politica sull'Iran.",
-      "data_vigenza": "in vigore dal 24 luglio 2026",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601837",
-      "pubblicato": "2026-07-27T00:00:00+02:00",
-      "processed_at": "2026-09-06T08:25:20.137456+00:00"
-    },
-    {
-      "id": "39935cfbfc01e5ba",
-      "titolo_popolare": "Aggiornamento degli aiuti UE per carne e latte in Ungheria e Slovacchia",
-      "titolo_originale": "OJ:L_202601803: Commission Implementing Regulation (EU) 2026/1803 of 24 July 2026 amending Implementing Regulation (EU) 2026/530 on exceptional support measures for the sheepmeat and pigmeat sectors in Hungary and Implementing Regulation (EU) 2026/1100 on exceptional support measures for the milk and pigmeat sectors in Slovakia",
-      "riassunto_esteso": "La Commissione europea ha modificato due regolamenti di attuazione che prevedono misure di sostegno eccezionale per i settori della carne di pecora e di maiale in Ungheria e per il latte e la carne di maiale in Slovacchia. Le modifiche riguardano l'adeguamento degli importi e delle condizioni di erogazione degli aiuti, allo scopo di rispondere a nuove esigenze di mercato e garantire la stabilità dei settori interessati. L'intervento si inserisce nel quadro della politica agricola comune, volto a sostenere gli agricoltori in situazioni di difficoltà economica o di crisi settoriale. Non introduce nuovi obblighi per i cittadini italiani, ma agisce esclusivamente a beneficio degli operatori ungheresi e slovacchi dei settori indicati.",
-      "cosa_cambia": [
-        "Adegua i livelli di finanziamento degli aiuti eccezionali per carne di pecora e maiale in Ungheria",
-        "Aggiorna le condizioni di accesso agli aiuti per latte e carne di maiale in Slovacchia",
-        "Estende la durata delle misure di sostegno per affrontare eventuali prolungamenti di crisi di mercato",
-        "Specifica nuove procedure di rendicontazione e controllo per garantire un uso corretto dei fondi"
-      ],
-      "chi_interessa": "agricoltori e imprese del settore ovino, suino e lattiero-caseario in Ungheria e Slovacchia",
-      "cosa_devi_fare": "nessuna azione richiesta per i cittadini italiani; gli interessati nei due paesi devono seguire le nuove indicazioni delle autorità nazionali",
-      "impatto": "Mantiene disponibili risorse finanziarie per sostenere i produttori nei settori indicati, contribuendo a evitare cali di produzione e perdite di reddito. Per l'Italia l'effetto è nullo o trascurabile.",
-      "data_vigenza": "in vigore dal 24 luglio 2026",
-      "categoria": "Agricoltura e Alimentare",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601803",
-      "pubblicato": "2026-07-27T00:00:00+02:00",
-      "processed_at": "2026-09-06T08:25:32.900763+00:00"
-    },
-    {
-      "id": "b4f9c56463c789f7",
-      "titolo_popolare": "Iniziativa europea sul diritto alla casa accettata",
-      "titolo_originale": "OJ:L_202601863: Commission Implementing Decision (EU) 2026/1863 of 17 July 2026 on the request for registration, pursuant to Regulation (EU) 2019/788 of the European Parliament and of the Council, of the European citizens’ initiative entitled Right to Housing! Now and Forever (notified under document C(2026) 4960)",
-      "riassunto_esteso": "La Commissione europea ha deciso di registrare l'iniziativa dei cittadini intitolata \"Right to Housing! Now and Forever\". Questo permette agli organizzatori di avviare la raccolta di firme in tutti gli Stati membri. Se raggiungeranno almeno un milione di firme provenienti da almeno sette paesi, la Commissione dovrà esaminare la richiesta e valutare una proposta legislativa sul diritto alla casa. La decisione segue le norme del regolamento sulle iniziative dei cittadini europee. L'obiettivo è dare ai cittadini uno strumento diretto per influenzare le politiche abitative dell'UE.",
-      "cosa_cambia": [
-        "Gli organizzatori possono iniziare la raccolta firme in tutta l'UE",
-        "I cittadini possono firmare l'iniziativa per sostenere il diritto alla casa",
-        "Se si raggiunge il quorum, la Commissione dovrà valutare una proposta legislativa sul housing",
-        "Nessun cambiamento immediato per chi non partecipa alla raccolta firme"
-      ],
-      "chi_interessa": "Tutti i cittadini dell'UE",
-      "cosa_devi_fare": "Firmare l'iniziativa sul sito ufficiale dell'UE quando apre la raccolta firme, se si desidera sostenerla",
-      "impatto": "Offre ai cittadini la possibilità di influenzare potenzialmente le politiche abitative europee; se l'iniziativa ha successo, potrebbe portare a nuove tutele sul diritto alla casa",
-      "data_vigenza": "in vigore da subito",
-      "categoria": "Giustizia e Diritti",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601863",
-      "pubblicato": "2026-07-27T00:00:00+02:00",
-      "processed_at": "2026-09-06T08:26:37.410175+00:00"
-    },
-    {
-      "id": "e00de027229633d1",
-      "titolo_popolare": "Nuova linea di liquidità per banche centrali fuori euro",
-      "titolo_originale": "OJ:L_202601861: Guideline (EU) 2026/1861 of the European Central Bank of 15 July 2026 on the Eurosystem liquidity facility for non-euro area central banks (ECB/2026/17)",
-      "riassunto_esteso": "La BCE ha pubblicato una guida che istituisce un meccanismo di liquidità in euro destinato alle banche centrali dei paesi che non adottano l'euro. Questo strumento permette a tali istituzioni di ottenere finanziamenti in euro dall'Eurosistema quando ne hanno bisogno, ad esempio per affrontare tensioni sui mercati finanziari. La guida è stata adottata per rafforzare la cooperazione internazionale e garantire che la disponibilità di euro non sia limitata solo agli Stati membri dell'area euro. In questo modo si vuole contribuire alla stabilità del sistema finanziario globale e prevenire possibili contagii di crisi. La misura si inserisce nel quadro delle azioni della BCE per sostenere la fiducia nei mercati e facilitare le operazioni di cambio tra valute.",
-      "cosa_cambia": [
-        "nessun cambiamento diretto per i cittadini comuni"
-      ],
-      "chi_interessa": "banche centrali dei paesi fuori dall'area euro",
-      "cosa_devi_fare": "nessuna azione richiesta per i cittadini",
-      "impatto": "maggiore disponibilità di euro per le banche centrali esterne, contribuisce a stabilità finanziaria globale e a prevenire tensioni sui mercati internazionali.",
-      "data_vigenza": "in vigore dal 15 luglio 2026",
-      "categoria": "Banche e Finanza",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601861",
-      "pubblicato": "2026-07-27T00:00:00+02:00",
-      "processed_at": "2026-09-06T08:26:59.182600+00:00"
-    },
-    {
-      "id": "fd4bae66354100ed",
-      "titolo_popolare": "Limite residui di ormone equino negli alimenti animali",
-      "titolo_originale": "OJ:L_202601806: Commission Implementing Regulation (EU) 2026/1806 of 24 July 2026 amending Regulation (EU) No 37/2010 as regards the classification of the substance recombinant equine chorionic gonadotropin with respect to its maximum residue limit in foodstuffs of animal origin",
-      "riassunto_esteso": "La Commissione europea ha aggiornato il limite massimo di residui consentito per la gonadotropina corionica equina ricombinante negli alimenti di origine animale. Questa modifica adegua la normativa alle ultime valutazioni scientifiche sulla sicurezza della sostanza. L'obiettivo è garantire che i livelli di residui negli alimenti non rappresentino un rischio per la salute dei consumatori. Il provvedimento si inserisce nel quadro generale di controllo dei residui veterinari nei prodotti alimentari.",
-      "cosa_cambia": [
-        "Il limite massimo di residui della sostanza negli alimenti di origine animale è stato modificato secondo i nuovi valori scientifici.",
-        "Le imprese del settore alimentare devono adeguare i propri piani di controllo e analisi per rispettare il nuovo limite.",
-        "I controlli ufficiali sulle carni, latte e derivati verranno effettuati con il nuovo valore di riferimento."
-      ],
-      "chi_interessa": "tutti i consumatori di alimenti di origine animale",
-      "cosa_devi_fare": "nessuna azione richiesta direttamente ai cittadini",
-      "impatto": "Gli alimenti saranno più sicuri, riducendo l'esposizione a possibili residui ormonali. Questo aumenta la fiducia dei consumatori nella qualità dei prodotti animali.",
-      "data_vigenza": "in vigore da subito",
-      "categoria": "Salute e Farmaci",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601806",
-      "pubblicato": "2026-07-27T00:00:00+02:00",
-      "processed_at": "2026-09-06T08:27:39.840779+00:00"
-    },
-    {
-      "id": "320bd9ec4cfa6c20",
-      "titolo_popolare": "Aggiornamento della missione UE in Repubblica Centrafricana",
-      "titolo_originale": "OJ:L_202601858: Council Decision (CFSP) 2026/1858 of 24 July 2026 amending Decision (CFSP) 2019/2110 on the European Union CSDP Advisory Mission in the Central African Republic (EUAM RCA)",
-      "riassunto_esteso": "La decisione aggiorna il mandato della missione di consulenza dell'Unione europea in Repubblica Centrafricana, estendendone la durata e adeguando i compiti alle nuove esigenze di sicurezza. È stata adottata per rispondere all'evoluzione della situazione sul terreno e per rafforzare il contributo dell'UE al processo di pace e alla riforma del settore della sicurezza. L'atto introduce un maggiore focus sulla formazione della polizia locale e delle istituzioni giudiziarie, migliorando il coordinamento con altri attori internazionali. Non impone nuovi obblighi direttamente a cittadini o imprese degli Stati membri. La modifica riguarda principalmente le istituzioni UE e gli Stati che partecipano alla missione.",
-      "cosa_cambia": [
-        "Nessun cambiamento diretto per i cittadini italiani o le imprese"
-      ],
-      "chi_interessa": "Istituzioni UE e Stati membri coinvolti nella missione in Repubblica Centrafricana",
-      "cosa_devi_fare": "Nessuna azione richiesta ai cittadini",
-      "impatto": "L'atto rafforza il ruolo dell'UE nella stabilizzazione della Repubblica Centrafricana, senza effetti diretti sulla vita quotidiana dei cittadini.",
-      "data_vigenza": "in vigore da subito",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601858",
-      "pubblicato": "2026-07-27T00:00:00+02:00",
-      "processed_at": "2026-09-08T08:36:12.961586+00:00"
-    },
-    {
-      "id": "fa1ee1b9acebbbce",
-      "titolo_popolare": "Aggiornamento delle regole per l'assistenza a terra degli aerei",
-      "titolo_originale": "OJ:L_202690628: Corrigendum to Commission Implementing Regulation (EU) 2025/24 of 19 December 2024 amending Regulation (EU) No 965/2012 as regards requirements for aircraft operators related to ground handling activities (OJ L, 2025/24, 7.3.2025)",
-      "riassunto_esteso": "Il corrigendum corregge errori materiali e chiarisce alcuni requisiti presenti nel regolamento di esecuzione che modifica le norme sulle attività di assistenza a terra per gli operatori di aeromobili. Queste modifiche sono state introdotte per garantire che le disposizioni siano correttamente interpretate e applicate da tutte le parti coinvolte. L'obiettivo è migliorare la coerenza delle regole tra gli Stati membri e aumentare la sicurezza delle operazioni di ground handling. Il testo non introduce nuovi obblighi sostanziali, ma rende più preciso quello che già era previsto.",
-      "cosa_cambia": [
-        "Chiarimento sui requisiti di formazione del personale di assistenza a terra",
-        "Correzione di riferimenti normativi errati negli allegati",
-        "Specifica più precisa delle procedure di reporting degli incidenti",
-        "Adeguamento della terminologia utilizzata per descrivere le attrezzature di supporto"
-      ],
-      "chi_interessa": "compagnie aeree e fornitori di servizi di assistenza a terra",
-      "cosa_devi_fare": "nessuna azione richiesta direttamente ai cittadini; le compagnie devono adeguare le procedure interne",
-      "impatto": "maggiore chiarezza e uniformità nelle operazioni di assistenza a terra, contribuendo a migliorare la sicurezza e l'efficienza degli aeroporti",
-      "data_vigenza": "in vigore da subito",
-      "categoria": "Trasporti",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690628",
-      "pubblicato": "2026-07-27T00:00:00+02:00",
-      "processed_at": "2026-09-09T08:37:45.172509+00:00"
-    },
-    {
-      "id": "f3b780c2bef4d2dc",
-      "titolo_popolare": "Nuove sanzioni UE contro l'Iran per sostegno alla guerra",
-      "titolo_originale": "OJ:L_202601853: Council Implementing Regulation (EU) 2026/1853 of 24 July 2026 implementing Regulation (EU) 2023/1529 concerning restrictive measures in view of Iran’s military support to Russia’s war of aggression against Ukraine and to armed groups and entities in the Middle East and the Red Sea region as well as Iran’s actions undermining freedom of navigation in the Middle East",
-      "riassunto_esteso": "Il regolamento attuativo dell'UE introduce nuove misure restrittive contro l'Iran a causa del suo sostegno militare alla Russia nella guerra contro l'Ucraina e per il supporto a gruppi armati in Medio Oriente e Mar Rosso, nonché per le azioni che minacciano la libertà di navigazione nella regione. Le misure includono il congelamento di beni, il divieto di mettere a disposizione fondi e risorse economiche a persone ed entità iraniane designate, e restrizioni sull'esportazione di determinati beni e tecnologie. L'obiettivo è aumentare la pressione sull'Iran affinché cessi questi comportamenti che destabilizzano la sicurezza internazionale. Il provvedimento si basa sul quadro già esistente del regolamento (UE) 2023/1529 e mira a coordinare le sanzioni degli Stati membri.",
-      "cosa_cambia": [
-        "Le imprese UE non possono più effettuare transazioni finanziarie con persone o entità iraniane inserite nella lista delle sanzioni",
-        "È vietato esportazione di beni a duplice uso e di certe tecnologie verso l'Iran soggetta a autorizzazione o divieto",
-        "I beni e le risorse economiche dei soggetti sanzionati devono essere congelati e non possono essere utilizzati",
-        "Le navi e gli aerei che trasportano merci soggette a restrizioni possono essere oggetto di controlli e eventuali sequestri"
-      ],
-      "chi_interessa": "imprese, istituzioni finanziarie e cittadini che intrattengono rapporti commerciali o finanziari con l'Iran",
-      "cosa_devi_fare": "verificare che i propri partner non siano nelle liste UE di sanzioni e richiedere le eventuali autorizzazioni necessarie",
-      "impatto": "Le sanzioni limitano le opportunità di affari con l'Iran e riducono il rischio di finanziare attività che sostengono conflitti, aumentando la sicurezza internazionale",
-      "data_vigenza": "in vigore dal 24 luglio 2026",
-      "categoria": "Altro",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601853",
-      "pubblicato": "2026-07-27T00:00:00+02:00",
-      "processed_at": "2026-09-09T08:41:23.738222+00:00"
-    },
-    {
-      "id": "94992e37647ea1db",
-      "titolo_popolare": "Aggiornamento delle sanzioni UE contro l'Iran",
-      "titolo_originale": "OJ:L_202601836: Council Decision (CFSP) 2026/1836 of 24 July 2026 amending Decision 2010/413/CFSP concerning restrictive measures against Iran",
-      "riassunto_esteso": "La decisione del Consiglio aggiorna le misure restrittive dell'Unione europea contro l'Iran, modificando la decisione del 2010. L'adeguamento segue gli sviluppi del programma nucleare iraniano e altre preoccupazioni di sicurezza internazionale. Le sanzioni includono il congelamento di beni, divieti di viaggio e restrizioni agli scambi commerciali con persone ed entità elencate. L'obiettivo è mantenere la pressione sull'Iran affinché rispetti gli obblighi non di proliferazione e contribuisca alla stabilità regionale. L'atto rientra nella politica estera e di sicurezza comune dell'UE e non impone nuovi obblighi direttamente ai cittadini italiani.",
-      "cosa_cambia": [
-        "Nessuna modifica diretta agli obblighi dei cittadini italiani",
-        "Possibili effetti sulle imprese che hanno rapporti commerciali o finanziari con l'Iran"
-      ],
-      "chi_interessa": "principalmente imprese e individui coinvolti in rapporti con l'Iran; nessun effetto diretto sui cittadini comuni",
-      "cosa_devi_fare": "nessuna azione richiesta per i cittadini comuni",
-      "impatto": "L'impatto è soprattutto sulle imprese che intrattengono rapporti con l'Iran; per i cittadini comuni non ci sono cambiamenti percepibili nella vita quotidiana.",
-      "data_vigenza": "in vigore dal 24 luglio 2026",
-      "categoria": "Altro",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601836",
-      "pubblicato": "2026-07-27T00:00:00+02:00",
-      "processed_at": "2026-09-12T08:15:22.427580+00:00"
-    },
-    {
-      "id": "db5f877055170671",
-      "titolo_popolare": "Aggiornamento delle sanzioni UE contro l'Iran",
-      "titolo_originale": "OJ:L_202601838: Council Implementing Regulation (EU) 2026/1838 of 24 July 2026 implementing Regulation (EU) No 267/2012 concerning restrictive measures against Iran",
-      "riassunto_esteso": "Il regolamento attua le misure restrittive già previste contro l'Iran, aggiornando l'elenco di persone, entità e settori soggetti a sanzioni. Introduce nuovi divieti di esportazione e importazione di alcuni beni e tecnologie sensibili. Prevede il congelamento di asset e il divieto di viaggio per i soggetti designati. L'obiettivo è aumentare la pressione sull'Iran per rispettare gli obblighi internazionali riguardo al nucleare e ai diritti umani.",
-      "cosa_cambia": [
-        "Aggiunta di nuove persone e imprese iraniane alla lista dei soggetti soggetti a sanzioni UE",
-        "Estensione del divieto di esportazione di alcuni prodotti ad alta tecnologia verso l'Iran",
-        "Aggiornamento delle disposizioni sul congelamento di fondi e risorse economiche",
-        "Revisione delle eccezioni umanitarie per permettere comunque l'invio di medicinali e generi di prima necessità"
-      ],
-      "chi_interessa": "imprese che commerciano con l'Iran, istituzioni finanziarie e cittadini che hanno rapporti economici con soggetti iraniani",
-      "cosa_devi_fare": "verificare che i propri partner o clienti non siano presenti nella lista aggiornata delle sanzioni e, in caso di dubbio, consultare l'autorità competente",
-      "impatto": "Le imprese dovranno evitare transazioni con i soggetti sanzionati per non incorrere in multe o blocchi dei pagamenti; ciò tutela il rispetto delle politiche estere dell'UE.",
-      "data_vigenza": "in vigore dal 24 luglio 2026",
-      "categoria": "Imprese e Mercato",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601838",
-      "pubblicato": "2026-07-27T00:00:00+02:00",
-      "processed_at": "2026-09-12T08:18:08.004115+00:00"
-    },
-    {
-      "id": "78a779d958717f47",
-      "titolo_popolare": "Rinnovo autorizzazione additivo mangime per polli da ingrasso",
-      "titolo_originale": "OJ:L_202601777: Commission Implementing Regulation (EU) 2026/1777 of 24 July 2026 concerning the renewal of the authorisation of a preparation of carvacrol, cinnamaldehyde and capsicum oleoresin as a feed additive for chickens for fattening (holder of authorisation: ADM International Sarl, represented in the Union by ADM Specialty Ingredients (Europe) B.V.) and repealing Implementing Regulation (EU) 2015/1490",
-      "riassunto_esteso": "La Commissione europea ha rinnovato l'autorizzazione di un preparato a base di carvacrolo, cinnamaldeide e oleoresina di capsico da utilizzare come additivo nei mangimi destinati ai polli da ingrasso. Il provvedimento abroga il precedente regolamento di autorizzazione del 2015, mantenendo però le stesse condizioni d'uso già stabilite. Il titolare dell'autorizzazione rimane ADM International Sarl, rappresentato nell'Unione da ADM Specialty Ingredients (Europe) B.V. Con questo rinnovo si garantisce la continuità dell'uso dell'additivo nel settore avicolo.",
-      "cosa_cambia": [
-        "L'additivo può continuare a essere usato nei mangimi per polli da ingrasso senza interruzioni.",
-        "Il regolamento di autorizzazione precedente (UE) 2015/1490 è abrogato e sostituito dal nuovo atto.",
-        "Le condizioni di impiego e i limiti di utilizzo rimangono invariati rispetto a quelli già in vigore.",
-        "Non vengono introdotti nuovi obblighi o restrizioni per gli allevatori o i produttori di mangimi."
-      ],
-      "chi_interessa": "allevatori di polli da ingrasso e produttori di mangimi per pollame",
-      "cosa_devi_fare": "nessuna azione richiesta; continuare a utilizzare l'additivo secondo le istruzioni esistenti",
-      "impatto": "gli allevatori possono mantenere le stesse pratiche di alimentazione senza dover modificare i mangimi, assicurando continuità nella produzione di carne di pollo.",
-      "data_vigenza": "in vigore dal 24 luglio 2026",
-      "categoria": "Agricoltura e Alimentare",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601777",
-      "pubblicato": "2026-07-27T00:00:00+02:00",
-      "processed_at": "2026-09-18T08:34:03.758030+00:00"
     },
     {
       "id": "bb68323283680c7d",
