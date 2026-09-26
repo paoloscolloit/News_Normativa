@@ -93,7 +93,7 @@
     "pubblicato": "2026-07-31T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-07-31T06:35:06.579130+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "f8c223a783b12cb9",
@@ -417,7 +417,7 @@
     "pubblicato": "2026-08-04T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-08-04T06:18:09.233561+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "0c34f9660b0edae6",
@@ -489,7 +489,7 @@
     "pubblicato": "2026-08-05T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-08-05T06:16:39.258848+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "5004906eac1644a0",
@@ -549,7 +549,7 @@
     "pubblicato": "2026-08-05T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-08-05T06:16:39.259269+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "1bac26ec228b215c",
@@ -585,7 +585,7 @@
     "pubblicato": "2026-08-05T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-08-05T06:16:39.259496+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "2cba7e827a7eebaf",
@@ -597,7 +597,7 @@
     "pubblicato": "2026-08-05T00:00:00+02:00",
     "summary_raw": "This document does not exist in English.",
     "fetched_at": "2026-08-05T06:16:39.259568+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "9283b8d06f4c3daa",
@@ -609,7 +609,7 @@
     "pubblicato": "2026-08-05T00:00:00+02:00",
     "summary_raw": "This document does not exist in English.",
     "fetched_at": "2026-08-05T06:16:39.259657+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "3d53f6bf680b956a",
@@ -621,7 +621,7 @@
     "pubblicato": "2026-08-05T00:00:00+02:00",
     "summary_raw": "This document does not exist in English.",
     "fetched_at": "2026-08-05T06:16:39.259729+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "f92e6751fd651a8d",
@@ -633,7 +633,7 @@
     "pubblicato": "2026-08-05T00:00:00+02:00",
     "summary_raw": "This document does not exist in English.",
     "fetched_at": "2026-08-05T06:16:39.259800+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "28b0a4286501c842",
@@ -645,7 +645,7 @@
     "pubblicato": "2026-08-06T00:00:00+02:00",
     "summary_raw": "This document does not exist in English.",
     "fetched_at": "2026-08-06T06:20:07.266558+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "f0365ca66f815c2a",

@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-09-25T09:29:26.672387+00:00",
-  "total": 56,
+  "last_updated": "2026-09-26T09:07:27.357473+00:00",
+  "total": 54,
   "items": [
+    {
+      "id": "28b0a4286501c842",
+      "titolo_popolare": "Atto UE non disponibile in lingua inglese",
+      "titolo_originale": "OJ:L_202690668",
+      "riassunto_esteso": "Il documento indicato nella fonte non è disponibile in versione inglese, quindi non possiamo leggere il suo contenuto diretto. Tuttavia, trattandosi di un atto pubblicato nella Gazzetta ufficiale dell'Unione europea, esso contiene disposizioni normative adottate dalle istituzioni UE. Senza poter consultare il testo, non è possibile precisare quali siano le norme specifiche introdotte o gli obiettivi perseguiti. L'atto potrebbe riguardare qualsiasi materia di competenza dell'Unione, dal mercato interno alla politica ambientale. Per conoscere gli effetti concreti sarebbe necessario reperire la versione ufficiale nella lingua originale o una traduzione affidabile.",
+      "cosa_cambia": [
+        "non specificato"
+      ],
+      "chi_interessa": "tutti i cittadini dell'Unione europea",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non possibile determinare l'impatto concreto senza conoscere il contenuto dell'atto.",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690668",
+      "pubblicato": "2026-08-06T00:00:00+02:00",
+      "processed_at": "2026-09-26T09:07:27.351921+00:00"
+    },
     {
       "id": "8d7fd77456657ab1",
       "titolo_popolare": "Atto europeo non disponibile",
@@ -21,6 +41,152 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690661",
       "pubblicato": "2026-08-05T00:00:00+02:00",
       "processed_at": "2026-09-25T09:27:03.470331+00:00"
+    },
+    {
+      "id": "2487ef881f9eb378",
+      "titolo_popolare": "Accordo UE-Cook Islands sulla pesca sostenibile",
+      "titolo_originale": "OJ:L_202601544: Council Decision (EU) 2026/1544 of 17 November 2025 on the conclusion, on behalf of the Union, of the Protocol on the implementation of the Sustainable Fisheries Partnership Agreement between the European Union and the Government of the Cook Islands (2025-2032)",
+      "riassunto_esteso": "Il Consiglio dell'Unione europea ha deciso di concludere, a nome dell'Unione, il protocollo che attua l'accordo di partenariato per la pesca sostenibile tra l'Unione europea e il Governo delle Isole Cook. Questo protocollo regola l'accesso delle navi da pesca europee alle acque delle Isole Cook per il periodo 2025-2032, prevedendo condizioni di pesca responsabile e un contributo finanziario dell'UE a sostegno della gestione delle risorse marine. L'obiettivo è garantire che le attività di pesca siano compatibili con la conservazione degli ecosistemi marini e con lo sviluppo sostenibile delle comunità locali. Il decisione entra in vigore subito dopo la sua pubblicazione nella Gazzetta ufficiale dell'Unione europea.",
+      "cosa_cambia": [
+        "Le navi da pesca dell'UE possono operare nelle zone economiche esclusive delle Isole Cook secondo regole di sostenibilità",
+        "L'UE verserà un contributo finanziario annuale per supportare la ricerca e il controllo delle risorse ittiche locali",
+        "Vengono introdotti obblighi di monitoraggio e di reporting sulle catture per garantire la trasparenza",
+        "L'accordo ha una durata fissata fino al 2032, con possibilità di revisione periodica"
+      ],
+      "chi_interessa": "pescatori e imprese del settore ittico dell'Unione europea",
+      "cosa_devi_fare": "nessuna azione richiesta direttamente ai cittadini comuni",
+      "impatto": "Assicura un approvvigionamento di pesce più sostenibile per il mercato europeo e contribuisce alla tutela degli ecosistemi marini delle Isole Cook.",
+      "data_vigenza": "in vigore dal 17 novembre 2025",
+      "categoria": "Ambiente e Energia",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601544",
+      "pubblicato": "2026-08-05T00:00:00+02:00",
+      "processed_at": "2026-09-26T09:02:11.667735+00:00"
+    },
+    {
+      "id": "c30439e98380b4a3",
+      "titolo_popolare": "Via libera all'iniziativa dei cittadini 'Save Europe Act'",
+      "titolo_originale": "OJ:L_202601922: Commission Implementing Decision (EU) 2026/1922 of 22 July 2026 on the request for registration, pursuant to Regulation (EU) 2019/788 of the European Parliament and of the Council, of the European citizens’ initiative entitled Save Europe Act (notified under document C(2026) 5115)",
+      "riassunto_esteso": "La Commissione europea ha deciso di registrare l'iniziativa dei cittadini intitolata 'Save Europe Act', permettendo così agli organizzatori di avviare la raccolta delle firme necessarie. Questo passaggio è previsto dal regolamento UE sulle iniziative dei cittadini e serve a verificare che la proposta soddisfi i requisiti formali. Una volta registrata, l'iniziativa può raccogliere un milione di firme in almeno sette Stati membri entro un anno. Se il quorum viene raggiunto, la Commissione dovrà esaminare la richiesta e decidere se proporre un atto legislativo. La decisione è stata pubblicata nella Gazzetta ufficiale dell'Unione europea il 22 luglio 2026.",
+      "cosa_cambia": [
+        "gli organizzatori possono iniziare la raccolta firme per l'iniziativa",
+        "i cittadini interessati possono firmare l'iniziativa online o tramite i moduli ufficiali",
+        "se si raggiunge il milione di firme, la Commissione dovrà valutare la proposta legislativa",
+        "non specificato"
+      ],
+      "chi_interessa": "tutti i cittadini dell'UE",
+      "cosa_devi_fare": "nessuna azione richiesta se non si vuole firmare; chi vuole sostenere può firmare sul sito ufficiale dell'iniziativa",
+      "impatto": "consente ai cittadini di influenzare l'agenda legislativa europea su temi ritenuti importanti; se l'iniziativa ha successo, potrebbe portare a nuove leggi UE.",
+      "data_vigenza": "in vigore dal 22 luglio 2026",
+      "categoria": "Giustizia e Diritti",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601922",
+      "pubblicato": "2026-08-05T00:00:00+02:00",
+      "processed_at": "2026-09-26T09:04:03.203299+00:00"
+    },
+    {
+      "id": "31e51c7de3ad4ed2",
+      "titolo_popolare": "Correzione di errori nella normativa sui medicinali",
+      "titolo_originale": "OJ:L_202690662: Corrigendum to Regulation (EU) 2019/5 of the European Parliament and of the Council of 11 December 2018 amending Regulation (EC) No 726/2004 laying down Community procedures for the authorisation and supervision of medicinal products for human and veterinary use and establishing a European Medicines Agency, Regulation (EC) No 1901/2006 on medicinal products for paediatric use and Directive 2001/83/EC on the Community code relating to medicinal products for human use (OJ L 4, 7.1.2019)",
+      "riassunto_esteso": "Il documento è un corrigendum che corregge alcuni refusi e errori materiali presenti nel regolamento (UE) 2019/5, che a sua volta modificava norme sull'autorizzazione e la supervisione dei medicinali per uso umano e veterinario, sui medicinali pediatrici e sul codice comunitario relativo ai medicinali umani. Questi errori riguardavano principalmente la numerazione degli articoli, riferimenti incrociati e alcune formule tecniche. La correzione è stata adottata per garantire che i testi giuridici siano precisi e privi di ambiguità, evitando possibili interpretazioni errate da parte delle autorità e degli operatori del settore. Non introduce nuove disposizioni né modifica sostanzialmente il contenuto delle norme già in vigore. L'obiettivo è semplicemente allineare il testo ufficiale a quello voluto dal legislatore.",
+      "cosa_cambia": [
+        "nessuna modifica sostanziale per i cittadini o le imprese"
+      ],
+      "chi_interessa": "nessun impatto diretto sui cittadini; riguarda principalmente le imprese farmaceutiche e le autorità sanitarie",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "nessun effetto pratico sui cittadini; serve a correggere errori formali nei testi giuridici per evitare confusione",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Salute e Farmaci",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690662",
+      "pubblicato": "2026-08-05T00:00:00+02:00",
+      "processed_at": "2026-09-26T09:05:22.211297+00:00"
+    },
+    {
+      "id": "2cba7e827a7eebaf",
+      "titolo_popolare": "Documento UE non disponibile in italiano",
+      "titolo_originale": "OJ:L_202690651",
+      "riassunto_esteso": "Il documento indicato non è reperibile nelle banche dati ufficiali, quindi non è possibile conoscere il suo contenuto. Probabilmente si tratta di un atto recente o di una bozza non ancora pubblicata. Senza il testo non si possono indicare gli effetti pratici né le motivazioni che hanno portato alla sua adozione. Si consiglia di verificare nuovamente la fonte o attendere la pubblicazione ufficiale sul sito EUR-Lex.",
+      "cosa_cambia": [
+        "non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690651",
+      "pubblicato": "2026-08-05T00:00:00+02:00",
+      "processed_at": "2026-09-26T09:05:32.422799+00:00"
+    },
+    {
+      "id": "9283b8d06f4c3daa",
+      "titolo_popolare": "Atto normativo non disponibile",
+      "titolo_originale": "OJ:L_202690663",
+      "riassunto_esteso": "Il documento indicato nella fonte non è reperibile in lingua inglese, quindi non è possibile conoscerne il contenuto ufficiale. Senza il testo integrale non si possono individuare le disposizioni che l'atto introduce né gli obiettivi che ha perseguito. Di conseguenza non è possibile descrivere cosa cambia per i cittadini né quali siano le motivazioni alla base della sua adozione. L'assenza di informazioni impedisce anche di valutare l'impatto pratico o la platea di soggetti interessati. Si tratta quindi di una situazione in cui l'atto rimane sconosciuto al pubblico.",
+      "cosa_cambia": [
+        "non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690663",
+      "pubblicato": "2026-08-05T00:00:00+02:00",
+      "processed_at": "2026-09-26T09:05:47.796311+00:00"
+    },
+    {
+      "id": "3d53f6bf680b956a",
+      "titolo_popolare": "Documento non disponibile in lingua inglese",
+      "titolo_originale": "OJ:L_202690656",
+      "riassunto_esteso": "Il documento indicato non è reperibile nella banca dati EUR-Lex in lingua inglese, quindi non è possibile conoscerne il contenuto. Probabilmente si tratta di un atto recente o di una pubblicazione non ancora tradotta. Senza il testo non si possono indicare le disposizioni né gli scopi. Per avere informazioni sarebbe necessario consultare la versione originale nella lingua ufficiale dell'UE o attendere una traduzione. Al momento non è possibile determinare cosa stabilisce l'atto né perché è stato adottato.",
+      "cosa_cambia": [
+        "Non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690656",
+      "pubblicato": "2026-08-05T00:00:00+02:00",
+      "processed_at": "2026-09-26T09:06:07.988391+00:00"
+    },
+    {
+      "id": "f92e6751fd651a8d",
+      "titolo_popolare": "Documento UE non disponibile in lingua italiana",
+      "titolo_originale": "OJ:L_202690664",
+      "riassunto_esteso": "Il documento indicato non risulta disponibile nella banca dati EUR-Lex in lingua italiana. Pertanto non è possibile descrivere precisamente le disposizioni contenute. L'atto probabilmente riguarda una materia di normativa europea, ma senza il testo non si possono indicare gli effetti pratici. Si consiglia di verificare la fonte originale o attendere una versione tradotta.",
+      "cosa_cambia": [
+        "Non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "da definire con decreto attuativo",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690664",
+      "pubblicato": "2026-08-05T00:00:00+02:00",
+      "processed_at": "2026-09-26T09:07:01.993416+00:00"
     },
     {
       "id": "42ce4906147abc79",
@@ -81,6 +247,29 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202600863",
       "pubblicato": "2026-08-04T00:00:00+02:00",
       "processed_at": "2026-09-25T09:23:56.217898+00:00"
+    },
+    {
+      "id": "2a8e6438bab57846",
+      "titolo_popolare": "Aggiornamento delle regole per licenze di pilota",
+      "titolo_originale": "OJ:L_202690653: Corrigendum to Commission Implementing Regulation (EU) 2019/1747 of 15 October 2019 amending Regulation (EU) No 1178/2011 as regards requirements for certain flight crew licences and certificates, rules on training organisations and competent authorities (OJ L 268, 22.10.2019)",
+      "riassunto_esteso": "Il corrigendum corregge alcuni errori presenti nel regolamento di esecuzione che modifica le norme sulle licenze di equipaggio di volo, sulle organizzazioni di formazione e sulle autorità competenti. Queste modifiche mirano a chiarire i requisiti per il rilascio e il rinnovo di determinate licenze e certificati di pilota, nonché a migliorare la vigilanza sulle scuole di volo. L'intervento è stato adottato per garantire una maggiore uniformità e sicurezza nel settore dell'aviazione civile in tutta l'Unione europea. In pratica, le norme diventano più precise e facili da applicare sia per i piloti che per gli enti di formazione. Questo contribuisce a incrementare la fiducia dei passeggeri e a facilitare la libera circolazione dei professionisti del volo dentro l'UE.",
+      "cosa_cambia": [
+        "I piloti devono rispettare nuovi requisiti di formazione e esperienza per il rinnovo di alcune licenze",
+        "Le organizzazioni di formazione devono aggiornare i loro programmi per allinearsi agli standard revisionati",
+        "Le autorità nazionali dell'aviazione devono verificare la conformità delle scuole e dei corsi aggiornati",
+        "I certificati di abilitazione ricevono chiarimenti sulle condizioni di validità e sui controlli periodici"
+      ],
+      "chi_interessa": "piloti, scuole di volo e autorità nazionali dell'aviazione civile",
+      "cosa_devi_fare": "Verificare i nuovi requisiti sulle licenze o sui corsi di formazione e adeguarsi entro i termini indicati dalle autorità nazionali",
+      "impatto": "Migliora la sicurezza del volo e armonizza le regole in Europa, aumentando la tutela dei passeggeri e la mobilità dei professionisti del settore",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Trasporti",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690653",
+      "pubblicato": "2026-08-04T00:00:00+02:00",
+      "processed_at": "2026-09-26T09:00:36.721824+00:00"
     },
     {
       "id": "4a24fd6e2896e1cc",
@@ -493,6 +682,28 @@
       "processed_at": "2026-09-25T09:16:46.397186+00:00"
     },
     {
+      "id": "70fc14489be68d68",
+      "titolo_popolare": "Nuove regole UE-Turchia per l'origine dei prodotti agricoli",
+      "titolo_originale": "OJ:L_202601903: Decision No 1/2025 of the EU-Türkiye Association Council of 22 December 2025 amending Decision No 1/98 of the EC-Turkey Association Council on the trade regime for agricultural products, by replacing Protocol 3 thereto concerning the definition of the concept of ‘originating products’ and methods of administrative cooperation [2026/1903]",
+      "riassunto_esteso": "La decisione modifica l'accordo di associazione UE-Turchia aggiornando le norme che definiscono quando un prodotto agricolo è considerato 'originario' e quindi beneficia dei dazi agevolati. Viene sostituito il Protocollo 3, che conteneva le definizioni di origine e le procedure di cooperazione amministrativa tra le autorità doganali delle due parti. L'obiettivo è rendere più chiaro e trasparente il criterio di origine, riducendo il rischio di contestazioni doganali e facilitando gli scambi. Le nuove disposizioni si applicano a tutti i prodotti agricoli oggetto dell'accordo di libero scambio tra UE e Turchia. In pratica, gli operatori dovranno verificare che i loro prodotti rispettino le nuove regole per poter usufruire del trattamento tariffario preferenziale.",
+      "cosa_cambia": [
+        "Nuova definizione più dettagliata di 'prodotto originario' per i beni agricoli scambiati tra UE e Turchia",
+        "Aggiornamento delle procedure di cooperazione amministrativa tra le autorità doganali delle due parti",
+        "Possibile modifica della documentazione necessaria per dimostrare l'origine dei prodotti"
+      ],
+      "chi_interessa": "imprese che esportano o importano prodotti agricoli tra l'Unione Europea e la Turchia",
+      "cosa_devi_fare": "verificare che i propri prodotti rispettino le nuove regole di origine e aggiornare eventualmente la documentazione doganale",
+      "impatto": "Le imprese potrebbero vedere cambiare i dazi applicabili sui loro prodotti agricoli, con possibili risparmi o nuovi costi a seconda del rispetto delle nuove regole. Maggiore certezza giuridica riduce il rischio di contestazioni e ritardi alle frontiere.",
+      "data_vigenza": "in vigore dalla pubblicazione nella Gazzetta UE (22 dicembre 2025)",
+      "categoria": "Agricoltura e Alimentare",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601903",
+      "pubblicato": "2026-07-31T00:00:00+02:00",
+      "processed_at": "2026-09-26T08:55:53.463009+00:00"
+    },
+    {
       "id": "34fcfc76fa073044",
       "titolo_popolare": "Documento non disponibile in lingua italiana",
       "titolo_originale": "OJ:L_202690638",
@@ -897,269 +1108,6 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601824",
       "pubblicato": "2026-07-29T00:00:00+02:00",
       "processed_at": "2026-09-23T08:56:11.972254+00:00"
-    },
-    {
-      "id": "3ccb35534a17f80a",
-      "titolo_popolare": "Misure d'emergenza contro la febbre aftosa in Grecia",
-      "titolo_originale": "OJ:L_202601839: Commission Implementing Decision (EU) 2026/1839 of 23 July 2026 amending Implementing Decision (EU) 2026/820 concerning certain emergency measures relating to foot and mouth disease in Greece (notified under document C(2026) 5381)",
-      "riassunto_esteso": "La decisione della Commissione europea aggiorna le misure già previste per affrontare un focolaio di febbre aftosa in Grecia. Introduce nuove restrizioni sul movimento di animali suscettibili e sui prodotti derivati, al fine di contenere la diffusione della malattia. Prevede anche intensificati controlli veterinari e obblighi di segnalazione per gli allevatori. L'obiettivo è proteggere la salute del bestiame greco e evitare ripercussioni economiche sul settore agricolo. Le modifiche entrano in vigore subito dopo la pubblicazione nella Gazzetta ufficiale dell'UE.",
-      "cosa_cambia": [
-        "Divieto di spostamento di bovini, ovini e suini fuori dalle zone delimitate senza autorizzazione",
-        "Obbligo di effettuare test diagnostici sugli animali prima di qualsiasi commercio",
-        "Sospensione temporanea di fiere e mercati del bestiame nelle aree interessate",
-        "Rafforzamento dei controlli alle frontiere interne greche su prodotti animali"
-      ],
-      "chi_interessa": "allevatori, commercianti e trasportatori di bestiame in Grecia",
-      "cosa_devi_fare": "rispettare le restrizioni su spostamenti e vendite di animali e sottoporre i capi a controlli veterinari richiesti",
-      "impatto": "limita la diffusione della febbre aftosa, tutelando la salute degli animali e riducendo le perdite economiche per il settore agricolo greco",
-      "data_vigenza": "in vigore dal 24 luglio 2026",
-      "categoria": "Agricoltura e Alimentare",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601839",
-      "pubblicato": "2026-07-28T00:00:00+02:00",
-      "processed_at": "2026-09-04T08:37:21.932877+00:00"
-    },
-    {
-      "id": "ef3587c7709552b6",
-      "titolo_popolare": "Nomina del rappresentante UE per il Sahel",
-      "titolo_originale": "OJ:L_202601876: Council Decision (CFSP) 2026/1876 of 23 July 2026 appointing the European Union Special Representative for the Sahel",
-      "riassunto_esteso": "L'Unione Europea ha deciso di nominare un rappresentante speciale per il Sahel, al fine di coordinare meglio le proprie azioni nella regione. Questa nomina nasce dalla necessità di affrontare le crisi di sicurezza, sviluppo e migrazione che interessano il Sahel. Il rappresentante avrà il compito di dialogare con governi locali, organizzazioni internazionali e le istituzioni UE per promuovere stabilità e cooperazione. L'obiettivo è rendere più efficace l'aiuto europeo e la diplomazia nella zona. Con questa decisione l'UE vuole rafforzare la propria presenza e capacità di risposta alle sfide regionali.",
-      "cosa_cambia": [
-        "Nessun cambiamento diretto nella vita quotidiana dei cittadini"
-      ],
-      "chi_interessa": "nessun cittadino specifico",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "Migliora la capacità dell'UE di agire in modo coordinato nel Sahel, contribuendo a sicurezza e sviluppo regionale, con possibili benefici indiretti per la gestione delle migrazioni e della lotta al terrorismo.",
-      "data_vigenza": "in vigore dal 23 luglio 2026",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601876",
-      "pubblicato": "2026-07-28T00:00:00+02:00",
-      "processed_at": "2026-09-04T08:37:32.023393+00:00"
-    },
-    {
-      "id": "48d943bd86eabe5b",
-      "titolo_popolare": "Atto UE non disponibile in lingua italiana",
-      "titolo_originale": "OJ:L_202690630",
-      "riassunto_esteso": "Il documento indicato non è reperibile nella banca dati ufficiale dell'Unione europea. Pertanto non è possibile conoscere il suo contenuto né gli obiettivi che si proponeva di raggiungere. Senza il testo non si possono descrivere le disposizioni che contiene né le motivazioni alla base della sua adozione. Per avere informazioni sarebbe necessario consultare la fonte originale o richiedere una copia presso le istituzioni europee.",
-      "cosa_cambia": [
-        "Non specificato"
-      ],
-      "chi_interessa": "non specificato",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "non specificato",
-      "data_vigenza": "non specificato",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690630",
-      "pubblicato": "2026-07-28T00:00:00+02:00",
-      "processed_at": "2026-09-07T08:54:54.069293+00:00"
-    },
-    {
-      "id": "def0342c3660390b",
-      "titolo_popolare": "Atto UE non specificato",
-      "titolo_originale": "OJ:L_202690629",
-      "riassunto_esteso": "Le informazioni sul contenuto di questo atto non sono disponibili nella fonte fornita. Pertanto non è possibile descrivere cosa stabilisce né le motivazioni alla base della sua adozione. Si consiglia di consultare il testo ufficiale della Gazzetta UE per ottenere i dettagli necessari. Senza ulteriori dati non si possono indicare effetti concreti o obblighi derivanti dal provvedimento.",
-      "cosa_cambia": [
-        "non specificato"
-      ],
-      "chi_interessa": "non specificato",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "non specificato",
-      "data_vigenza": "non specificato",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690629",
-      "pubblicato": "2026-07-28T00:00:00+02:00",
-      "processed_at": "2026-09-10T08:42:43.971886+00:00"
-    },
-    {
-      "id": "dc8a378c5fdd4ba3",
-      "titolo_popolare": "Aggiornamento delle sanzioni UE contro la Russia",
-      "titolo_originale": "OJ:L_202690623:            Rectificatif à la décision (PESC) 2022/327 du Conseil du 25 février 2022 modifiant la décision 2014/512/PESC concernant des mesures restrictives eu égard aux actions de la Russie déstabilisant la situation en Ukraine (JO L 48 du 25.2.2022)",
-      "riassunto_esteso": "Il documento è una correzione tecnica di una decisione del Consiglio UE che prevede sanzioni contro la Russia per le sue azioni in Ucraina. Non introduce nuove misure, ma corregge errori di forma nel testo originale della decisione. L'obiettivo è garantire che le sanzioni già adottate siano applicate correttamente e senza ambiguità interpretative. In pratica, l'atto serve a mantenere invariato il regime di restrizioni già in vigore.",
-      "cosa_cambia": [
-        "Nessun cambiamento diretto per i cittadini italiani"
-      ],
-      "chi_interessa": "nessun gruppo specifico di cittadini",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "L'atto non altera le sanzioni esistenti, quindi la situazione per cittadini e imprese rimane la stessa. Serve solo a evitare possibili errori applicativi delle misure già adottate.",
-      "data_vigenza": "in vigore da subito",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690623",
-      "pubblicato": "2026-07-28T00:00:00+02:00",
-      "processed_at": "2026-09-11T08:42:40.622416+00:00"
-    },
-    {
-      "id": "7f26a5e0efdf6b66",
-      "titolo_popolare": "Regole per separare i rating ESG da altre attività",
-      "titolo_originale": "OJ:L_202600872: Commission Delegated Regulation (EU) 2026/872 of 21 April 2026 supplementing Regulation (EU) 2024/3005 of the European Parliament and of the Council with regard to regulatory technical standards specifying the measures and safeguards to be implemented by ESG rating providers to separate their ESG rating activities from their other activities",
-      "riassunto_esteso": "La regolamentazione delegata della Commissione europea stabilisce standard tecnici che obbligano i fornitori di rating ESG a tenere distinti i loro servizi di rating ambientale, sociale e di governance dalle altre attività che svolgono. Lo scopo è evitare conflitti di interesse e garantire che i rating siano indipendenti e affidabili. Le nuove regole definiscono quali misure organizzative, di trasparenza e di controllo interno devono essere adottate. In questo modo si punta a migliorare la qualità delle informazioni ESG utilizzate dagli investitori e dalle imprese per decisioni sostenibili.",
-      "cosa_cambia": [
-        "I fornitori di rating ESG devono creare unità operative separate per le attività di rating e per le altre consulenze.",
-        "Devono adottare e pubblicare politiche chiare di gestione dei conflitti di interesse.",
-        "Sono tenuti a mettere in atto sistemi di controllo interno e di reporting sulle misure di separazione adottate."
-      ],
-      "chi_interessa": "i fornitori di rating ESG che operano nell'Unione Europea",
-      "cosa_devi_fare": "adottare misure di separazione organizzativa, pubblicare le politiche di conflitto di interesse e garantire il rispetto dei nuovi standard tecnici",
-      "impatto": "Si otterranno rating ESG più indipendenti e credibili, aumentando la fiducia degli investitori nelle informazioni sulla sostenibilità.",
-      "data_vigenza": "in vigore dal 21 aprile 2026",
-      "categoria": "Banche e Finanza",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202600872",
-      "pubblicato": "2026-07-28T00:00:00+02:00",
-      "processed_at": "2026-09-12T08:25:13.310602+00:00"
-    },
-    {
-      "id": "3669598a9be7c0ab",
-      "titolo_popolare": "Limiti per tossine nei mangimi animali",
-      "titolo_originale": "OJ:L_202601801: Commission Recommendation (EU) 2026/1801 of 24 July 2026 on the presence of deoxynivalenol, zearalenone, ochratoxin A, T-2 and HT-2 toxins and fumonisins in feed",
-      "riassunto_esteso": "La Commissione europea ha pubblicato una raccomandazione che indica i livelli massimi accettabili di alcune tossine prodotte da funghi nei mangimi per animali. Le sostanze interessate sono deossinivalenolo, zearalenone, ocratossina A, tossine T-2 e HT-2 e fumonisina. L'obiettivo è proteggere la salute degli animali e, di conseguenza, quella dei consumatori, riducendo il rischio che queste tossine entrino nella catena alimentare. La raccomandazione non è vincolante, ma guida gli Stati membri e gli operatori del settore nei controlli e nelle buone pratiche. Si basa su valutazioni scientifiche aggiornate e mira a uniformare gli standard in tutta l'Unione Europea.",
-      "cosa_cambia": [
-        "I produttori di mangimi devono verificare che le concentrazioni di tossine non superino i limiti indicati.",
-        "Gli allevatori sono incoraggiati a richiedere mangimi certificati conformi a questi livelli di sicurezza.",
-        "Le autorità nazionali di controllo possono utilizzare questi valori come riferimento per le ispezioni.",
-        "I consumatori beneficiano indirettamente di una minore probabilità di contaminazione di carne, latte e uova."
-      ],
-      "chi_interessa": "produttori di mangimi, allevatori di bestiame e autorità di controllo alimentare",
-      "cosa_devi_fare": "nessuna azione diretta richiesta ai cittadini; gli operatori del settore devono effettuare i controlli necessari",
-      "impatto": "riduce il rischio di tossine negli alimenti di origine animale, aumentando la sicurezza della catena alimentare per tutti.",
-      "data_vigenza": "in vigore dal 24 luglio 2026",
-      "categoria": "Agricoltura e Alimentare",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601801",
-      "pubblicato": "2026-07-28T00:00:00+02:00",
-      "processed_at": "2026-09-14T09:27:51.646132+00:00"
-    },
-    {
-      "id": "33e4bdb8ce511cb6",
-      "titolo_popolare": "Nuovo dazio antidumping sul sodio benzoato dalla Cina",
-      "titolo_originale": "OJ:L_202601854: Commission Implementing Regulation (EU) 2026/1854 of 27 July 2026 imposing a provisional anti-dumping duty on imports of sodium benzoate originating in the People’s Republic of China",
-      "riassunto_esteso": "La Commissione europea ha adottato un provvedimento provvisorio che applica un dazio antidumping sulle importazioni di sodio benzoato proveniente dalla Cina, per contrastare presunte pratiche di dumping che danneggiano i produttori dell'UE. Il sodio benzoato è un conservante ampliamente usato in alimenti, bevande e prodotti farmaceutici. Il provvedimento mira a ristabilire condizioni di concorrenza leale nel mercato interno e a proteggere l'industria europea. Il dazio sarà applicato finché non sarà conclusa l'inchiesta definitiva. La misura entra in vigore subito dopo la pubblicazione nella Gazzetta Ufficiale dell'UE.",
-      "cosa_cambia": [
-        "Le importazioni di sodio benzoato dalla Cina saranno soggette a un dazio aggiuntivo",
-        "Le imprese UE che acquistano questo conservante potrebbero vedere aumentare i costi di approvvigionamento",
-        "I produttori cinesi di sodio benzoato dovranno pagare il dazio per poter vendere nell'UE",
-        "Gli utilizzatori finali (industrie alimentari, farmaceutiche) potrebbero trasferire parte dell'onere sui prezzi al consumo"
-      ],
-      "chi_interessa": "importatori di sodio benzoato, imprese che lo utilizzano come conservante e, indirettamente, i consumatori",
-      "cosa_devi_fare": "Verificare se le proprie importazioni sono soggette al nuovo dazio e adeguare le dichiarazioni doganali",
-      "impatto": "Probabile aumento dei prezzi del sodio benzoato e dei prodotti che lo contengono, con effetti sulle catene di fornitura e sui costi finali per consumatori e imprese.",
-      "data_vigenza": "in vigore dal giorno successivo alla pubblicazione nella Gazzetta Ufficiale dell'UE (28 luglio 2026)",
-      "categoria": "Imprese e Mercato",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601854",
-      "pubblicato": "2026-07-28T00:00:00+02:00",
-      "processed_at": "2026-09-14T09:28:40.986399+00:00"
-    },
-    {
-      "id": "8dc420c558286c19",
-      "titolo_popolare": "Nuove regole per classificare le carcasse di maiale in Olanda",
-      "titolo_originale": "OJ:L_202601799: Commission Implementing Decision (EU) 2026/1799 of 24 July 2026 authorising grading methods for the classification of pig carcasses in the Netherlands and repealing Implementing Decision 2011/303/EU (notified under document C(2026) 5120)",
-      "riassunto_esteso": "La Commissione europea ha approvato nuovi metodi per classificare le carcasse di maiale nei Paesi Bassi, sostituendo le precedenti regole del 2011. L'obiettivo è garantire maggiore uniformità e trasparenza nel settore suinicolo, facilitando gli scambi commerciali e aumentando la fiducia dei consumatori. La decisione abroga l'atto precedente e introduce criteri aggiornati per la valutazione della qualità della carne. Questo intervento si inserisce nella politica europea di armonizzazione delle norme agricole.",
-      "cosa_cambia": [
-        "Gli allevatori e i macelli olandesi devono applicare le nuove metodologie di classificazione delle carcasse di maiale",
-        "Le precedenti linee guida del 2011 non sono più valide e devono essere sostituite",
-        "È necessario aggiornare i registri e i sistemi di segnalazione secondo i nuovi standard",
-        "I controlli ufficiali verranno effettuati sulla base dei nuovi criteri di qualità"
-      ],
-      "chi_interessa": "allevatori di suini e macelli nei Paesi Bassi",
-      "cosa_devi_fare": "adeguare i propri sistemi di classificazione alle nuove metodologie entro la data di entrata in vigore",
-      "impatto": "Maggiore trasparenza e uniformità nel mercato della carne di suino, che facilita gli scambi e aumenta la fiducia dei consumatori.",
-      "data_vigenza": "in vigore dal 24 luglio 2026",
-      "categoria": "Agricoltura e Alimentare",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601799",
-      "pubblicato": "2026-07-28T00:00:00+02:00",
-      "processed_at": "2026-09-15T09:03:55.947221+00:00"
-    },
-    {
-      "id": "f95b25f5412b060f",
-      "titolo_popolare": "Nuove regole per importare pollame dagli USA",
-      "titolo_originale": "OJ:L_202601889: Commission Implementing Regulation (EU) 2026/1889 of 27 July 2026 amending Annexes V and XIV to Implementing Regulation (EU) 2021/404 as regards the entries for the United States in the lists of third countries, territories, or zones thereof authorised for the entry into the Union of consignments of poultry and germinal products of poultry, and of fresh meat of poultry and game birds",
-      "riassunto_esteso": "La Commissione europea ha aggiornato le liste dei paesi terzi autorizzati ad esportare pollame e prodotti avicoli nell'Unione, includendo specifiche zone degli Stati Uniti. Questo significa che le spedizioni di pollame fresco, di carne di uccelli da caccia e di prodotti germinali proveniente dagli USA possono ora entrare nell'UE a condizione che rispettino i requisiti sanitari previsti. La modifica è stata introdotta per allineare le norme UE agli ultimi controlli effettuati sulle aziende statunitensi, garantendo un livello equivalente di sicurezza alimentare. In pratica, si facilita il commercio transatlantico di questi prodotti, mantenendo però vigenti i controlli ufficiali alle frontiere.",
-      "cosa_cambia": [
-        "gli importatori possono ora portare pollame statunitense nell'UE se i prodotti soddisfano i nuovi requisiti sanitari",
-        "i controlli doganali e sanitari alle frontiere saranno aggiornati per verificare la conformità delle spedizioni USA",
-        "i consumatori potrebbero trovare più pollame e prodotti avicoli statunitensi sugli scaffali dei negozi",
-        "le imprese europee del settore avicolo potrebbero affrontare una maggiore concorrenza proveniente dagli USA"
-      ],
-      "chi_interessa": "importatori, distributori, dettaglianti di prodotti avicoli e consumatori finali nell'UE",
-      "cosa_devi_fare": "nessuna azione richiesta per i consumatori; gli importatori devono verificare che i prodotti rispettino i nuovi requisiti sanitari",
-      "impatto": "maggiore disponibilità di pollame statunitense sul mercato europeo, con possibile effetto sui prezzi e più scelta per i consumatori",
-      "data_vigenza": "in vigore dal 27 luglio 2026",
-      "categoria": "Agricoltura e Alimentare",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601889",
-      "pubblicato": "2026-07-28T00:00:00+02:00",
-      "processed_at": "2026-09-15T09:05:54.308832+00:00"
-    },
-    {
-      "id": "80545f52bb8e35b8",
-      "titolo_popolare": "Nuove regole IVA per vendite online nell'UE",
-      "titolo_originale": "OJ:L_202601869: Commission Implementing Regulation (EU) 2026/1869 of 27 July 2026 amending Implementing Regulation (EU) 2020/194 laying down detailed rules for the application of Council Regulation (EU) No 904/2010 as regards the special schemes for taxable persons supplying services to non-taxable persons or making distance sales of goods, certain domestic supplies of goods or transfers of own goods",
-      "riassunto_esteso": "La modifica aggiorna le disposizioni che permettono alle imprese di dichiarare e versare l'IVA sulle vendite a distanza e sui servizi forniti a consumatori privati attraverso lo sportello unico (OSS) e lo sportello unico all'importazione (IOSS). L'obiettivo è semplificare gli adempimenti fiscali per chi commercia oltre frontiera, riducendo la necessità di registrarsi in ogni Stato membro. La norma introduce anche chiarimenti sulle cessioni nazionali di beni e sui trasferimenti di propri beni tra stabilimenti dello stesso soggetto passivo. In questo modo si cerca di contrastare l'evasione e di rendere più uniforme l'applicazione dell'IVA nel mercato unico.",
-      "cosa_cambia": [
-        "Possibilità di utilizzare lo sportello unico OSS per dichiarare l'IVA sulle vendite a distanza di beni e servizi nell'UE.",
-        "Estensione dello sportello unico IOSS anche a certe cessioni nazionali di beni e trasferimenti di propri beni.",
-        "Aggiornamento delle regole di fatturazione e di conservazione dei documenti per chi aderisce ai regimi speciali.",
-        "Chiarimenti sui soggetti che possono beneficiare dei regimi e sulle soglie di accesso (non specificate nel testo)."
-      ],
-      "chi_interessa": "imprese che effettuano vendite a distanza o forniture di servizi a consumatori privati nell'Unione Europea, soprattutto e-commerce",
-      "cosa_devi_fare": "verificare se rientrare nei regimi OSS/IOSS e, se sì, aggiornare le procedure di dichiarazione IVA",
-      "impatto": "Gli adempimenti fiscali diventano più semplici e centralizzati, riducendo costi amministrativi per le imprese online. Questo favorisce la competitività e la trasparenza nel mercato unico.",
-      "data_vigenza": "in vigore dal 27 luglio 2026",
-      "categoria": "Fisco e Tributi",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601869",
-      "pubblicato": "2026-07-28T00:00:00+02:00",
-      "processed_at": "2026-09-19T08:28:03.170844+00:00"
-    },
-    {
-      "id": "7df3b34a654db3fb",
-      "titolo_popolare": "Nuovo dazio anti-dumping sul ferro-silicio da Russia e Cina",
-      "titolo_originale": "OJ:L_202601794: Commission Implementing Regulation (EU) 2026/1794 of 27 July 2026 imposing a definitive anti-dumping duty on imports of ferro-silicon originating in the Russian Federation and the People’s Republic of China following an expiry review pursuant to Article 11(2) of Regulation (EU) 2016/1036 of the European Parliament and of the Council",
-      "riassunto_esteso": "La Commissione europea ha deciso di applicare un dazio definitivo contro le importazioni di ferro-silicio proveniente dalla Russia e dalla Cina. Questa misura segue una revisione scaduta delle precedenti misure anti-dumping, allo scopo di proteggere l'industria europea del ferro-silicio da pratiche di dumping ritenute sleali. Il dazio sarà applicato sulle quantità importate di questo materiale, utilizzato principalmente nella produzione di acciaio. L'obiettivo è evitare che le imprese europee subisca una concorrenza sleale che potrebbe danneggiare la loro produzione e i posti di lavoro.",
-      "cosa_cambia": [
-        "Le importazioni di ferro-silicio da Russia e Cina saranno soggette a un dazio aggiuntivo al momento dell'ingresso nell'UE.",
-        "I produttori europei di acciaio che usano ferro-silicio potrebbero vedere aumentare leggermente i costi di approvvigionamento.",
-        "Le imprese importatrici dovranno dichiarare e pagare il nuovo dazio nelle operazioni doganali.",
-        "Non è previsto alcun cambiamento diretto per i consumatori finali."
-      ],
-      "chi_interessa": "imprese siderurgiche e produttrici di acciaio che utilizzano ferro-silicio, nonché gli importatori del materiale",
-      "cosa_devi_fare": "nessuna azione richiesta direttamente ai cittadini; le imprese devono adeguare le dichiarazioni doganali al nuovo dazio",
-      "impatto": "Il dazio potrebbe aumentare leggermente i costi di produzione dell'acciaio, con effetti limitati sui prezzi finali per i consumatori.",
-      "data_vigenza": "in vigore da subito",
-      "categoria": "Imprese e Mercato",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601794",
-      "pubblicato": "2026-07-28T00:00:00+02:00",
-      "processed_at": "2026-09-20T08:57:04.385207+00:00"
     },
     {
       "id": "bb68323283680c7d",
