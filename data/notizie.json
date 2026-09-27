@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-26T09:07:27.357473+00:00",
-  "total": 54,
+  "last_updated": "2026-09-27T09:49:34.317186+00:00",
+  "total": 47,
   "items": [
     {
       "id": "28b0a4286501c842",
@@ -21,6 +21,66 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690668",
       "pubblicato": "2026-08-06T00:00:00+02:00",
       "processed_at": "2026-09-26T09:07:27.351921+00:00"
+    },
+    {
+      "id": "f0365ca66f815c2a",
+      "titolo_popolare": "Documento UE non disponibile in italiano",
+      "titolo_originale": "OJ:L_202690669",
+      "riassunto_esteso": "Il documento indicato non risulta disponibile nelle banche dati ufficiali, quindi non è possibile conoscerne il contenuto. Probabilmente si tratta di un atto dell'Unione europea che non è stato pubblicato o è stato ritirato. Senza il testo non si possono indicare gli obblighi o le novità introdotte. Per avere informazioni sarebbe necessario consultare la fonte originale o verificare se esiste un numero di riferimento corretto.",
+      "cosa_cambia": [
+        "non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690669",
+      "pubblicato": "2026-08-06T00:00:00+02:00",
+      "processed_at": "2026-09-27T09:46:51.723815+00:00"
+    },
+    {
+      "id": "00bb15b8977d41f6",
+      "titolo_popolare": "Atto normativo non disponibile in lingua italiana",
+      "titolo_originale": "OJ:L_202690670",
+      "riassunto_esteso": "Il testo fornito indica che il documento non esiste in inglese. Non essendo disponibile una versione italiana, non possiamo conoscere le disposizioni contenute. Di conseguenza non è possibile spiegare cosa stabilisce l'atto né il motivo della sua adozione. L'assenza di informazioni impedisce qualsiasi analisi dettagliata. Si consiglia di verificare la fonte originale o cercare una traduzione ufficiale.",
+      "cosa_cambia": [
+        "Non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non possibile valutare l'impatto a causa della mancata disponibilità del testo.",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690670",
+      "pubblicato": "2026-08-06T00:00:00+02:00",
+      "processed_at": "2026-09-27T09:46:59.044089+00:00"
+    },
+    {
+      "id": "1d5d75fa6de93149",
+      "titolo_popolare": "Correzione della normativa sulla sicurezza informatica dei prodotti digitali",
+      "titolo_originale": "OJ:L_202690667:            Berichtigung der Verordnung (EU) 2024/2847 des Europäischen Parlaments und des Rates vom 23. Oktober 2024 über horizontale Cybersicherheitsanforderungen für Produkte mit digitalen Elementen und zur Änderung der Verordnungen (EU) Nr. 168/2013 und (EU) 2019/1020 und der Richtlinie (EU) 2020/1828 (Cyberresilienz-Verordnung) (ABl. L, 2024/2847, 20.11.2024)",
+      "riassunto_esteso": "Il documento è un corrigendum che corregge errori materiali presenti nel testo del regolamento (UE) 2024/2847 sulle richieste orizzontali di sicurezza informatica per i prodotti con elementi digitali. La correzione riguarda principalmente riferimenti normativi, numeri di articoli e alcune formule che erano state pubblicate in modo errato. L'intervento è stato adottato per evitare che tali refusi generassero incertezze giuridiche o difficoltà nell'applicazione della norma. Non introduce nuovi obblighi né modifica sostanzialmente il contenuto della regolamentazione.",
+      "cosa_cambia": [
+        "nessuna modifica sostanziale degli obblighi di sicurezza per i prodotti con elementi digitali"
+      ],
+      "chi_interessa": "produttori, importatori e distributori di prodotti con elementi digitali",
+      "cosa_devi_fare": "nessuna azione richiesta, la correzione non impone nuovi adempimenti",
+      "impatto": "garantisce che il testo della norma sia corretto, evitando possibili interpretazioni errate e mantenendo invariato il livello di sicurezza richiesto. Così si riduce il rischio di contenziosi dovuti a refusi.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Digitale e Privacy",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690667",
+      "pubblicato": "2026-08-06T00:00:00+02:00",
+      "processed_at": "2026-09-27T09:48:05.224241+00:00"
     },
     {
       "id": "8d7fd77456657ab1",
@@ -413,6 +473,29 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601783",
       "pubblicato": "2026-08-03T00:00:00+02:00",
       "processed_at": "2026-09-25T09:18:26.677829+00:00"
+    },
+    {
+      "id": "6f6c5063679a6d8c",
+      "titolo_popolare": "Nuove misure contro la peste degli ovini in Romania",
+      "titolo_originale": "OJ:L_202601910: Commission Implementing Decision (EU) 2026/1910 of 30 July 2026 amending Implementing Decision (EU) 2025/638 concerning certain emergency measures relating to infection with peste des petits ruminants virus in Romania (notified under document C(2026) 5607)",
+      "riassunto_esteso": "La decisione aggiorna le misure di emergenza già previste per contenere l'infezione da virus della peste dei piccoli ruminanti in Romania. Introduce nuove restrizioni agli spostamenti di pecore e capre, obblighi di vaccinazione e intensifica i controlli veterinari negli allevamenti. L'obiettivo è evitare che la malattia si diffonda ad altri Stati membri dell'Unione europea, proteggendo così il patrimonio zootecnico comunitario. Le misure sono state adottate dopo un peggioramento della situazione epidemiologica osservato nel paese. La decisione entra in vigore immediatamente dopo la sua pubblicazione nella Gazzetta ufficiale dell'Unione europea.",
+      "cosa_cambia": [
+        "Divieto di movimento di pecore e capre fuori dalle zone dichiarate infette",
+        "Obbligo di vaccinazione degli animali suscettibili secondo il piano nazionale",
+        "Aumento dei controlli e dei test diagnostici negli allevamenti e nei mercati",
+        "Possibilità di indennizzo per gli animali abbattuti su ordine delle autorità"
+      ],
+      "chi_interessa": "allevatori di pecore e capre e operatori del settore in Romania",
+      "cosa_devi_fare": "rispettare le restrizioni sugli spostamenti, vaccinare gli animali e segnalare subito qualsiasi caso sospetto alle autorità veterinarie",
+      "impatto": "Riduce il rischio di diffusione della peste dei piccoli ruminanti, salvaguardando la salute del bestiame e limitando le perdite economiche per gli allevatori.",
+      "data_vigenza": "in vigore dal 30 luglio 2026",
+      "categoria": "Agricoltura e Alimentare",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601910",
+      "pubblicato": "2026-08-03T00:00:00+02:00",
+      "processed_at": "2026-09-27T09:39:24.483342+00:00"
     },
     {
       "id": "dc6b26223c8c43d6",
@@ -872,242 +955,6 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601859",
       "pubblicato": "2026-07-30T00:00:00+02:00",
       "processed_at": "2026-09-23T09:01:28.330155+00:00"
-    },
-    {
-      "id": "3ab7d44751d9173e",
-      "titolo_popolare": "Atto normativo non disponibile",
-      "titolo_originale": "OJ:L_202690636",
-      "riassunto_esteso": "Il documento indicato nella fonte non è disponibile in lingua inglese e non fornisce ulteriori dettagli sul contenuto. Pertanto non è possibile descrivere cosa stabilisce l'atto né le motivazioni della sua adozione. Si tratta di un atto normativo europeo del quale non si hanno informazioni testuali accessibili.",
-      "cosa_cambia": [],
-      "chi_interessa": "non specificato",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "non specificato",
-      "data_vigenza": "non specificato",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690636",
-      "pubblicato": "2026-07-29T00:00:00+02:00",
-      "processed_at": "2026-09-14T09:40:57.560152+00:00"
-    },
-    {
-      "id": "2b87db1c7bc8d345",
-      "titolo_popolare": "Aggiornamento delle misure contro l'influenza aviaria",
-      "titolo_originale": "OJ:L_202601888: Commission Implementing Decision (EU) 2026/1888 of 27 July 2026 amending the Annex to Implementing Decision (EU) 2023/2447 concerning emergency measures in relation to outbreaks of highly pathogenic avian influenza in certain Member States (notified under document C(2026) 5492)",
-      "riassunto_esteso": "La decisione della Commissione europea modifica l'elenco degli Stati membri interessati da focolai di influenza aviaria altamente patogena e aggiorna le misure di emergenza da adottare. Si tratta di un intervento tecnico che serve a contenere la diffusione del virus tra gli allevamenti di pollame. Le nuove disposizioni riguardano soprattutto le zone dove sono stati confermati casi di malattia, introducendo requisiti più severi di biosicurezza e di sorveglianza. L'obiettivo è proteggere sia la salute degli animali che quella dei cittadini, evitando che il virus si trasmetta all'uomo. Il provvedimento entra in vigore subito dopo la sua pubblicazione nella Gazzetta ufficiale dell'Unione Europea.",
-      "cosa_cambia": [
-        "Viene aggiornato l'elenco delle regioni soggette a restrizioni per l'influenza aviaria",
-        "Gli allevatori devono applicare standard di biosicurezza più rigorosi nei loro stabilimenti",
-        "È obbligatorio segnalare tempestivamente qualsiasi sospetto di focolai alle autorità competenti",
-        "Possono essere previste indennità o sostegni economici per gli allevamenti colpiti dalle misure"
-      ],
-      "chi_interessa": "allevatori di pollame e operatori del settore avicolo",
-      "cosa_devi_fare": "rispettare le nuove norme di biosicurezza e segnalare eventuali focolai alle autorità sanitarie",
-      "impatto": "riduce il rischio di diffusione del virus, proteggendo la salute pubblica e limitando le perdite economiche del settore avicolo",
-      "data_vigenza": "in vigore dal 27 luglio 2026",
-      "categoria": "Agricoltura e Alimentare",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601888",
-      "pubblicato": "2026-07-29T00:00:00+02:00",
-      "processed_at": "2026-09-14T09:42:22.953633+00:00"
-    },
-    {
-      "id": "ac3d138d292a486a",
-      "titolo_popolare": "Aggiornamento sulla sicurezza dei programmi spaziali UE",
-      "titolo_originale": "OJ:L_202690639: Corrigendum to Council Decision (CFSP) 2026/1716 of 13 July 2026 on instructions concerning the security of systems and services deployed, operated and used under the Union Space Programme and the Union Secure Connectivity Programme which may affect the security of the Union (OJ L, 2026/1716, 14.7.2026)",
-      "riassunto_esteso": "Il documento è un corrigendum, cioè una correzione, di una decisione del Consiglio UE riguardante le istruzioni di sicurezza per i sistemi e i servizi impiegati nel programma spaziale dell'Unione e nel programma di connettività sicura. La correzione serve a sistemare errori o imprecisioni presenti nel testo originale, garantendo che le indicazioni di sicurezza siano corrette e complete. Non introduce nuove regole, ma chiarisce quelle già esistenti per evitare fraintendimenti. L'atto è stato adottato per mantenere l'affidabilità e la protezione delle infrastrutture spaziali e di comunicazione dell'UE.",
-      "cosa_cambia": [
-        "Nessuna modifica diretta per i cittadini comuni"
-      ],
-      "chi_interessa": "istituzioni dell'UE e fornitori di servizi spaziali e di connettività sicura",
-      "cosa_devi_fare": "nessuna azione richiesta per i cittadini",
-      "impatto": "L'atto non ha effetti concreti sulla vita quotidiana delle persone; serve solo a correggere un documento interno dell'UE.",
-      "data_vigenza": "dal 14 luglio 2026",
-      "categoria": "Digitale e Privacy",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690639",
-      "pubblicato": "2026-07-29T00:00:00+02:00",
-      "processed_at": "2026-09-14T09:44:10.728636+00:00"
-    },
-    {
-      "id": "fabb46518611944b",
-      "titolo_popolare": "Rinnovo autorizzazione acido benzoico come additivo per mangimi suini",
-      "titolo_originale": "OJ:L_202601832: Commission Implementing Regulation (EU) 2026/1832 of 28 July 2026 concerning the renewal of the authorisation of benzoic acid as a feed additive for weaned piglets, pigs for fattening, sows, minor porcine species for fattening, and sows and boars of minor porcine species (holder of authorisation: DSM Nutritional Products Ltd represented by DSM Nutritional Products Sp. z.o.o.), and repealing Implementing Regulations (EU) 2016/900, (EU) 2018/983, (EU) 2018/1550 and (EU) 2020/1031",
-      "riassunto_esteso": "La Commissione europea ha rinnovato l'autorizzazione all'uso dell'acido benzoico come additivo nei mangini destinati a suini svezzati, suini da ingrasso, scrofe e specie porcine minori. Il provvedimento abroga le precedenti autorizzazioni del 2016, 2018 e 2020, consolidando in un unico atto le condizioni d'uso. La decisione si basa sulla valutazione di sicurezza dell'EFSA, che ha confermato l'innocuità dell'additivo entro i limiti stabiliti. Il rinnovo garantisce la continuità di utilizzo per gli operatori del settore, evitando interruzioni nella catena di produzione dei mangimi. In questo modo si sostiene la salute intestinale degli animali e si contribuisce a ridurre la dipendenza dagli antibiotici negli allevamenti suini.",
-      "cosa_cambia": [
-        "Gli allevatori possono continuare a utilizzare l'acido benzoico nei mangini per le categorie di suini specificate, rispettando i limiti già previsti.",
-        "Le precedenti autorizzazioni sono abrogate, quindi bisogna fare riferimento esclusivamente a questo nuovo regolamento per verificare le condizioni d'uso.",
-        "I produttori di mangimi devono aggiornare le proprie formulazioni e le etichette per riflettare l'unico atto di autorizzazione vigente."
-      ],
-      "chi_interessa": "allevatori di suini e imprese che producono mangimi per suini",
-      "cosa_devi_fare": "nessuna azione richiesta se già si rispetta l'uso dell'additivo secondo i limiti; verificare eventuali aggiornamenti nei disciplinari di mangime.",
-      "impatto": "Continua disponibilità di un additivo che migliora la salute intestinale dei suini e può ridurre l'uso di antibiotici, con effetti positivi sulla produttività e sulla sicurezza alimentare.",
-      "data_vigenza": "in vigore da subito",
-      "categoria": "Agricoltura e Alimentare",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601832",
-      "pubblicato": "2026-07-29T00:00:00+02:00",
-      "processed_at": "2026-09-16T09:10:29.733745+00:00"
-    },
-    {
-      "id": "4628c6ef647c3d0a",
-      "titolo_popolare": "Atto UE non disponibile in italiano",
-      "titolo_originale": "OJ:L_202690627",
-      "riassunto_esteso": "L'atto indicato nella Gazzetta UE non dispone di un testo leggibile in lingua italiana o inglese, quindi non è possibile conoscere il suo contenuto specifico. Probabilmente si tratta di un atto amministrativo o di una comunicazione tecnica che richiede un documento completo per essere compreso. Senza ulteriori dettagli, non si possono descrivere gli effetti pratici per i cittadini. L'assenza di testo impedisce qualsiasi valutazione normativa concreta.",
-      "cosa_cambia": [
-        "non specificato"
-      ],
-      "chi_interessa": "non specificato",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "non specificato",
-      "data_vigenza": "non specificato",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690627",
-      "pubblicato": "2026-07-29T00:00:00+02:00",
-      "processed_at": "2026-09-17T09:08:56.288669+00:00"
-    },
-    {
-      "id": "2ca5ac38c7f37043",
-      "titolo_popolare": "Lista di esperti per risolvere dispute UE-Regno Unito",
-      "titolo_originale": "OJ:L_202601868: Decision No 1/2026 of the Trade Specialised Committee on Level Playing Field for open and Fair Competition and Sustainable Development established by the Trade and Cooperation Agreement between the European Union and the European Atomic Energy Community, of the one part, and the United Kingdom of Great Britain and Northern Ireland, of the other part of 30 June 2026 establishing a list of individuals who are willing and able to serve as members of a panel of experts established under Article 409 of that Agreement [2026/1868]",
-      "riassunto_esteso": "La decisione istituisce un elenco di individui disponibili e qualificati per far parte di un panel di esperti previsto dall'articolo 409 dell'accordo di cooperazione e commercio tra UE e Regno Unito. Questo panel è chiamato a intervenire nelle controversie relative al rispetto delle condizioni di parità di concorrenza e sviluppo sostenibile. L'atto mira a garantire che, in caso di disaccordi, vi sia subito a disposizione un gruppo di esperti indipendenti e preparati. In questo modo si vuole accelerare la soluzione delle dispute e mantenere stabili i rapporti commerciali tra le due parti.",
-      "cosa_cambia": [
-        "Gli esperti selezionati potranno essere chiamati a far parte di un panel per risolvere controversie commerciali.",
-        "Le parti UE e Regno Unito avranno un elenco pronto di candidati esperti da utilizzare quando necessario.",
-        "Non ci sono nuovi obblighi per cittadini o imprese derivanti da questa decisione."
-      ],
-      "chi_interessa": "esperti indipendenti e le autorità commerciali di UE e Regno Unito",
-      "cosa_devi_fare": "nessuna azione richiesta per i cittadini",
-      "impatto": "Permette di risolvere più velocemente le dispute commerciali tra UE e Regno Unito, contribuendo alla stabilità dei rapporti commerciali.",
-      "data_vigenza": "dal 30 giugno 2026",
-      "categoria": "Iter Legislativo",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601868",
-      "pubblicato": "2026-07-29T00:00:00+02:00",
-      "processed_at": "2026-09-18T08:44:38.252270+00:00"
-    },
-    {
-      "id": "447657db89a26def",
-      "titolo_popolare": "Atto UE non disponibile in italiano",
-      "titolo_originale": "OJ:L_202690633",
-      "riassunto_esteso": "Il documento indicato nella fonte non esiste nella versione inglese, quindi non è possibile determinarne il contenuto specifico. Non si conoscono le disposizioni né gli obiettivi dell'atto. Di conseguenza non è possibile spiegare cosa stabilisce né perché è stato adottato.",
-      "cosa_cambia": [
-        "non specificato"
-      ],
-      "chi_interessa": "non specificato",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "non specificato",
-      "data_vigenza": "non specificato",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690633",
-      "pubblicato": "2026-07-29T00:00:00+02:00",
-      "processed_at": "2026-09-18T08:46:12.615724+00:00"
-    },
-    {
-      "id": "0d768313e62bc97c",
-      "titolo_popolare": "Aggiornamento delle categorie doganali per alcuni prodotti",
-      "titolo_originale": "OJ:L_202601874: Commission Implementing Regulation (EU) 2026/1874 of 23 July 2026 concerning the classification of certain goods in the Combined Nomenclature",
-      "riassunto_esteso": "La regolamentazione aggiorna la Combined Nomenclature, ovvero la lista europea che assegna un codice doganale a ogni tipo di merce. Questo serve a riflettere cambiamenti tecnologici, nuove tipologie di prodotti o evoluzioni del commercio internazionale. Con i nuovi codici le autorità doganali possono applicare correttamente i dazi e le misure di politica commerciale. L'atto è stato adottato per tenere il sistema tariffario dell'UE allineato alla realtà del mercato e evitare errori nella classificazione delle merci.",
-      "cosa_cambia": [
-        "Le imprese devono usare i nuovi codici CN nelle dichiarazioni doganali per le merci interessate",
-        "Possibili variazioni dei dazi applicabili a seconda della nuova classificazione",
-        "È necessario aggiornare i software di gestione delle operazioni doganali",
-        "Le autorità doganali controlleranno più attentamente la correttezza dei codici utilizzati"
-      ],
-      "chi_interessa": "imprese che importano o esportano merci nell'Unione Europea e i loro intermediari doganali",
-      "cosa_devi_fare": "verificare e aggiornare i codici CN nelle proprie dichiarazioni doganali e nei sistemi informatici",
-      "impatto": "Garantisce l'applicazione corretta dei dazi, riducendo il rischio di contestazioni e sanzioni; rende il commercio più prevedibile e trasparente per le imprese coinvolte.",
-      "data_vigenza": "in vigore dal 23 luglio 2026",
-      "categoria": "Imprese e Mercato",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601874",
-      "pubblicato": "2026-07-29T00:00:00+02:00",
-      "processed_at": "2026-09-19T08:31:02.760619+00:00"
-    },
-    {
-      "id": "13f3f8a78c82f311",
-      "titolo_popolare": "Aggiornamento delle categorie doganali per alcuni prodotti",
-      "titolo_originale": "OJ:L_202601873: Commission Implementing Regulation (EU) 2026/1873 of 23 July 2026 concerning the classification of certain goods in the Combined Nomenclature",
-      "riassunto_esteso": "La Commissione europea ha adottato un regolamento che modifica la classificazione di alcune merci nella Nomenclatura Combinata, il sistema usato per le dichiarazioni doganali e le statistiche del commercio estero. Le modifiche riguardano prodotti specifici, spostandoli da una voce tariffaria all'altra per riflettere meglio le loro caratteristiche tecniche o il loro uso. Questo aggiornamento serve a garantire che le aliquote doganali applicate siano corrette e che i dati sul commercio siano più affidabili. Il regolamento entra in forza poco dopo la sua pubblicazione nella Gazzetta ufficiale dell'Unione europea.",
-      "cosa_cambia": [
-        "Le aliquote doganali applicabili a alcuni prodotti possono aumentare o diminuire secondo la nuova voce tariffaria.",
-        "Le imprese che importano o esportano quei prodotti devono usare il nuovo codice doganale nelle dichiarazioni.",
-        "Le statistiche ufficiali sul commercio estero dell'UE rifletteranno le nuove categorie, migliorando la precisione dei dati."
-      ],
-      "chi_interessa": "imprese che importano o esportano i prodotti interessati, e indirettamente i consumatori che acquistano quei beni",
-      "cosa_devi_fare": "Le imprese devono verificare il nuovo codice CN e aggiornare le proprie procedure doganali; nessun adempimento richiesto ai cittadini comuni.",
-      "impatto": "Possibili variazioni di prezzo sui beni importati e maggiore trasparenza nelle statistiche commerciali. Questo aiuta a evitare errori di classificazione che could portare a sanzioni o a rimborsi di dazi.",
-      "data_vigenza": "in vigore da subito dopo la pubblicazione nella Gazzetta ufficiale dell'UE",
-      "categoria": "Imprese e Mercato",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601873",
-      "pubblicato": "2026-07-29T00:00:00+02:00",
-      "processed_at": "2026-09-19T08:34:07.604520+00:00"
-    },
-    {
-      "id": "90e02584b963d0e8",
-      "titolo_popolare": "Proroga dell'uso di alcuni pesticidi in agricoltura",
-      "titolo_originale": "OJ:L_202601826: Commission Implementing Regulation (EU) 2026/1826 of 28 July 2026 amending Implementing Regulation (EU) No 540/2011 as regards the extension of the approval periods of the active substances aclonifen, amisulbrom, Bacillus amyloliquefaciens strain MBI 600, beflubutamid, clomazone, cyantraniliprole, cyprodinil, daminozide, dichlorprop-P, dimethachlor, fludioxonil, formetanate, fosetyl, isofetamid, metalaxyl, metazachlor, penconazole, phenmedipham, pirimicarb, pyraclostrobin and S-abscisic acid",
-      "riassunto_esteso": "La Commissione europea ha deciso di estendere il periodo di approvazione di venti sostanze attive utilizzate nei prodotti fitosanitari, cioè nei pesticidi impiegati in agricoltura. Questa proroga permette agli agricoltori di continuare a usare questi prodotti mentre vengono completate le valutazioni di sicurezza a lungo termine. L'obiettivo è evitare interruzioni improvvise nella difesa delle colture, garantendo così la continuità della produzione alimentare. Le sostanze interessate includono, ad esempio, aclonifen, amisulbrom e varie altre impiegate contro funghi, insetti e erbacce. La misura si basa sulle norme UE che regolano l'autorizzazione e il rinnovo dei principi attivi nei pesticidi.",
-      "cosa_cambia": [
-        "Gli agricoltori possono continuare a usare i prodotti contenenti queste sostanze per un periodo più lungo senza dover cercare alternative immediate.",
-        "Non è necessario modificare subito i trattamenti in corso nei campi.",
-        "I controlli sui residui negli alimenti rimangono invariati, poiché le sostanze restano autorizzate secondo i limiti esistenti.",
-        "Le imprese che producono o commercializzano questi pesticidi non devono richiedere nuove autorizzazioni nel breve periodo."
-      ],
-      "chi_interessa": "agricoltori e chi utilizza prodotti fitosanitari nell'UE",
-      "cosa_devi_fare": "nessuna azione richiesta immediata; verificare eventualmente l'etichetta dei prodotti usati",
-      "impatto": "Assicura la continuità della difesa delle colture, evitando perdite di produzione e mantenendo stabili i prezzi degli alimenti.",
-      "data_vigenza": "in vigore da subito",
-      "categoria": "Agricoltura e Alimentare",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601826",
-      "pubblicato": "2026-07-29T00:00:00+02:00",
-      "processed_at": "2026-09-22T08:58:50.179716+00:00"
-    },
-    {
-      "id": "6a801b43d5641522",
-      "titolo_popolare": "Registrazione obbligatoria per lisina cinese importata",
-      "titolo_originale": "OJ:L_202601824: Commission Implementing Regulation (EU) 2026/1824 of 28 July 2026 making imports of lysine originating in the People’s Republic of China subject to registration with a view to allowing the levy of anti-dumping duties on the imports subject to registration",
-      "riassunto_esteso": "La Commissione europea ha deciso che le importazioni di lisina proveniente dalla Cina devono essere registrate presso le autorità doganali prima di poter entrare nell'UE. Questo passaggio serve a raccogliere le informazioni necessarie per poter eventualmente applicare dazi antidumping sulle stesse merci. L'obiettivo è contrastare pratiche di vendita a prezzi sleali che danneggiano i produttori europei di lisina. La misura non impone dazi immediati, ma crea il meccanismo per poterli introdurre se necessario. In pratica, gli importatori dovranno adempiere a un nuovo obbligo amministrativo prima dello sdoganamento.",
-      "cosa_cambia": [
-        "Gli importatori devono registrare ogni partita di lisina cinese presso le dogane prima dell'importazione",
-        "Le autorità doganali potranno verificare la registrazione e bloccare le merci non registrate",
-        "Se verrà constatato dumping, potranno essere applicati dazi antidumping sulle importazioni registrate",
-        "I prezzi della lisina e dei prodotti che la contengono potrebbero aumentare a causa dei possibili dazi"
-      ],
-      "chi_interessa": "importatori di lisina proveniente dalla Cina e imprese che utilizzano lisina nei mangimi o alimenti",
-      "cosa_devi_fare": "Gli importatori devono registrare ogni partita di lisina cinese presso le dogane prima dello sdoganamento",
-      "impatto": "Potrebbe aumentare i costi della lisina importata e, di conseguenza, dei prodotti che la contengono, mentre mira a contrastare pratiche di dumping sleale. L'effetto concreto dipenderà dall'eventuale applicazione dei dazi antidumping.",
-      "data_vigenza": "dal 28 luglio 2026",
-      "categoria": "Imprese e Mercato",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601824",
-      "pubblicato": "2026-07-29T00:00:00+02:00",
-      "processed_at": "2026-09-23T08:56:11.972254+00:00"
     },
     {
       "id": "bb68323283680c7d",
