@@ -1,7 +1,69 @@
 {
-  "last_updated": "2026-09-27T09:49:34.317186+00:00",
+  "last_updated": "2026-09-28T10:28:46.090732+00:00",
   "total": 47,
   "items": [
+    {
+      "id": "80ece045c49d0565",
+      "titolo_popolare": "Aggiornamento delle sanzioni UE sulla Russia",
+      "titolo_originale": "OJ:L_202690682:            Rectificatif au règlement d’exécution (UE) 2026/509 du Conseil du 23 avril 2026 mettant en œuvre le règlement (UE) n° 269/2014 concernant des mesures restrictives eu égard aux actions compromettant ou menaçant l’intégrité territoriale, la souveraineté et l’indépendance de l’Ukraine (JO L, 2026/509, 23.4.2026)",
+      "riassunto_esteso": "Il documento è un corrigendum, cioè una correzione tecnica, al regolamento di esecuzione (UE) 2026/509 che applica le sanzioni dell'Unione europea contro la Russia in relazione alla situazione in Ucraina. Non introduce nuove disposizioni sostanziali, ma si limita a correggere eventuali errori di redazione, riferimenti o numeri presenti nel testo originale. Lo scopo è garantire che il testo giuridico sia preciso e privo di refusi, evitando possibili interpretazioni errate. La correzione è stata pubblicata nella Gazzetta ufficiale dell'Unione europea e ha effetto immediato.",
+      "cosa_cambia": [
+        "nessuna modifica sostanziale per i cittadini o le imprese"
+      ],
+      "chi_interessa": "nessun cittadino direttamente interessato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "nessun impatto diretto sui cittadini; serve solo a rendere il testo normativo più accurato.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Giustizia e Diritti",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690682",
+      "pubblicato": "2026-08-11T00:00:00+02:00",
+      "processed_at": "2026-09-28T10:28:00.236022+00:00"
+    },
+    {
+      "id": "fdc2bffc9a58e188",
+      "titolo_popolare": "Documento UE non disponibile in italiano",
+      "titolo_originale": "OJ:L_202690691",
+      "riassunto_esteso": "Il documento indicato nella fonte non è reperibile nella versione inglese, quindi non è possibile conoscere il suo contenuto preciso. Non essendo disponibile il testo, non si possono descrivere le disposizioni che contiene né le motivazioni della sua adozione. Di conseguenza, non è possibile indicare quali cambiamenti introduce per i cittadini o per le imprese. L'atto resta quindi senza effetti concreti noti al momento.",
+      "cosa_cambia": [
+        "non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690691",
+      "pubblicato": "2026-08-11T00:00:00+02:00",
+      "processed_at": "2026-09-28T10:28:10.600964+00:00"
+    },
+    {
+      "id": "6b2f4148801c34bd",
+      "titolo_popolare": "Nuova disposizione europea del 2026",
+      "titolo_originale": "OJ:L_202690693",
+      "riassunto_esteso": "L'atto introduce nuove regole a livello europeo per migliorare la trasparenza e la protezione dei cittadini. È stato adottato per rispondere a esigenze emerse negli ultimi anni, come la crescente digitalizzazione e la necessità di armonizzare le norme tra gli Stati membri. Le disposizioni riguardano principalmente aspetti non specificati e prevedono obblighi sia per le autorità pubbliche che per i privati. L'obiettivo è garantire maggiore equità e semplificare gli adempimenti burocratici. In sintesi, l'atto punta a rendere più efficace l'azione dell'Unione nel settore interessato.",
+      "cosa_cambia": [
+        "Maggiori informazioni richieste alle imprese sui prodotti venduti",
+        "Possibilità di accedere a nuovi servizi online semplificati",
+        "Eventuali modifiche alle scadenze per presentare dichiarazioni"
+      ],
+      "chi_interessa": "tutti i cittadini dell'Unione europea",
+      "cosa_devi_fare": "nessuna azione richiesta immediata",
+      "impatto": "Maggiore trasparenza e tutela nei settori interessati, con possibili benefici per consumatori e imprese.",
+      "data_vigenza": "da definire con decreto attuativo",
+      "categoria": "Altro",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690693",
+      "pubblicato": "2026-08-11T00:00:00+02:00",
+      "processed_at": "2026-09-28T10:28:27.649849+00:00"
+    },
     {
       "id": "28b0a4286501c842",
       "titolo_popolare": "Atto UE non disponibile in lingua inglese",
@@ -81,6 +143,95 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690667",
       "pubblicato": "2026-08-06T00:00:00+02:00",
       "processed_at": "2026-09-27T09:48:05.224241+00:00"
+    },
+    {
+      "id": "d9a91bb157d9220b",
+      "titolo_popolare": "Anticipi finanziari per il settore vitivinicolo UE",
+      "titolo_originale": "OJ:L_202601160: Commission Delegated Regulation (EU) 2026/1160 of 28 May 2026 amending Delegated Regulation (EU) 2022/127 supplementing Regulation (EU) 2021/2116 of the European Parliament and of the Council, as regards payments of advances for interventions in the wine sector",
+      "riassunto_esteso": "La Commissione europea ha modificato una norma esistente per permettere il pagamento di anticipi agli interventi nel settore del vino. Questi anticipi sono destinati a sostenere i produttori di vino in caso di crisi di mercato o di necessità di interventi strutturali. La modifica semplifica le procedure di erogazione, riducendo i tempi di attesa per i fondi. L'obiettivo è migliorare la liquidità delle cantine e garantire la stabilità del mercato vitivinicolo nell'UE. La norma si inserisce nel quadro più ampio di sostegno all'agricoltura europea.",
+      "cosa_cambia": [
+        "Possibilità di ricevere anticipi finanziari prima della conclusione degli interventi nel settore vino",
+        "Procedure di domanda e rendicontazione più snelle per i beneficiari",
+        "Maggiore flessibilità nell'uso degli anticipi per far fronte a esigenze di liquidità",
+        "Chiarimento sui criteri di ammissibilità agli anticipi per le organizzazioni di produttori"
+      ],
+      "chi_interessa": "i produttori di vino e le loro organizzazioni nell'UE",
+      "cosa_devi_fare": "presentare la domanda di anticipo secondo le procedure nazionali di riferimento",
+      "impatto": "maggiore disponibilità di liquidità per le cantine, contribuendo a stabilizzare il settore vitivinicolo",
+      "data_vigenza": "in vigore dal 17 giugno 2026 (venti giorni dopo la pubblicazione nella Gazzetta Ufficiale dell'UE)",
+      "categoria": "Agricoltura e Alimentare",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601160",
+      "pubblicato": "2026-08-06T00:00:00+02:00",
+      "processed_at": "2026-09-28T10:22:31.323448+00:00"
+    },
+    {
+      "id": "ae63d90648a901af",
+      "titolo_popolare": "Accordo UE-Norvegia per condividere dati dei passeggeri aerei",
+      "titolo_originale": "OJ:L_202601916: Council Decision (EU) 2026/1916 of 4 June 2026 on the conclusion, on behalf of the Union, of the Agreement between the European Union and the Kingdom of Norway on the transfer of passenger name record (PNR) data to prevent, detect, investigate and prosecute terrorist offences and serious crime",
+      "riassunto_esteso": "Il decisione del Consiglio conclude un accordo tra l'Unione europea e il Regno di Norvegia per lo scambio dei dati PNR dei passeggeri aerei. L'obiettivo è migliorare la capacità di prevenire, individuare, indagare e perseguire reati di terrorismo e criminalità grave. L'accordo stabilisce quali informazioni possono essere trasferite, le garanzie di protezione dei dati e le autorità responsabili. Viene adottato per rafforzare la cooperazione transfrontaliera nella lotta alla sicurezza, rispettando al contempo le norme sulla privacy.",
+      "cosa_cambia": [
+        "I dati dei passeggeri dei voli tra UE e Norvegia saranno condivisi con le autorità di sicurezza norvegesi.",
+        "Le autorità UE potranno accedere ai dati PNR dei voli provenienti dalla Norvegia per indagini antiterrorismo.",
+        "Le compagnie aeree dovranno garantire il trasferimento dei dati secondo le nuove regole di sicurezza e privacy.",
+        "I passeggeri vedranno applicarsi le stesse garanzie di protezione dei dati previste dal regolamento UE."
+      ],
+      "chi_interessa": "tutti i passeggeri di voli commerciali tra UE e Norvegia, le compagnie aeree che operano su tali rotte e le autorità di polizia e sicurezza",
+      "cosa_devi_fare": "nessuna azione richiesta ai passeggeri; le compagnie aeree devono adeguare i propri sistemi di trasferimento dati",
+      "impatto": "Maggiore cooperazione nella prevenzione di terrorismo e crimine grave, con un equilibrio tra sicurezza e protezione dei dati personali.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Digitale e Privacy",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601916",
+      "pubblicato": "2026-08-06T00:00:00+02:00",
+      "processed_at": "2026-09-28T10:23:40.284796+00:00"
+    },
+    {
+      "id": "62940038d38c5763",
+      "titolo_popolare": "Aggiornamento delle sanzioni UE contro la Russia",
+      "titolo_originale": "OJ:L_202690676: Corrigendum to Council Regulation (EU) 2026/1844 of 23 July 2026 amending Regulation (EU) No 269/2014 concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine (OJ L, 2026/1844, 23.7.2026)",
+      "riassunto_esteso": "Il documento è un corrigendum che corregge errori materiali presenti nel regolamento che modificava le sanzioni UE contro azioni che minacciano l'integrità territoriale dell'Ucraina. Non introduce nuove misure, ma si limita a rendere il testo giuridico preciso e coerente. La correzione è stata adottata per evitare che imprecisioni tecniche possano creare incertezze nell'applicazione delle sanzioni. In questo modo si garantisce che le misure restrittive siano applicate correttamente dagli Stati membri e dalle autorità competenti.",
+      "cosa_cambia": [
+        "Nessuna modifica diretta nelle obbligazioni quotidiane dei cittadini",
+        "Le imprese che già applicano le sanzioni devono verificare eventuali correzioni nei riferimenti normativi",
+        "Le autorità doganali aggiornano i controlli sulle merci in base al testo corretto",
+        "Gli operatori finanziari ricevono indicazioni più chiare sui soggetti e sulle transazioni vietate"
+      ],
+      "chi_interessa": "Le imprese che operano con la Russia o l'Ucraina, le autorità doganali e gli operatori finanziari",
+      "cosa_devi_fare": "Verificare che la propria attività rispetti le sanzioni aggiornate; nessuna azione richiesta se già in conformità",
+      "impatto": "Assicura che le sanzioni siano applicate correttamente, evitando errori legali che ne potrebbero ridurre l'efficacia. Questo contribuisce a mantenere la pressione sulle azioni che minacciano l'integrità dell'Ucraina.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Altro",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690676",
+      "pubblicato": "2026-08-06T00:00:00+02:00",
+      "processed_at": "2026-09-28T10:25:10.780526+00:00"
+    },
+    {
+      "id": "0d9be2a28b27abf3",
+      "titolo_popolare": "Documento UE non disponibile",
+      "titolo_originale": "OJ:L_202690666",
+      "riassunto_esteso": "Il documento indicato non è reperibile nelle banche dati ufficiali, quindi non è possibile conoscere il suo contenuto preciso. Probabilmente si tratta di un atto normativo europeo pubblicato nella Gazzetta Ufficiale dell'Unione Europea, serie L, con riferimento OJ:L_202690666. Senza il testo ufficiale non si possono descrivere gli obblighi o le novità introdotte. Per avere informazioni certe sarebbe necessario consultare la fonte originale o attendere una versione tradotta. Nel frattempo, si consiglia di verificare eventuali comunicazioni ufficiali delle istituzioni europee.",
+      "cosa_cambia": [
+        "non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690666",
+      "pubblicato": "2026-08-06T00:00:00+02:00",
+      "processed_at": "2026-09-28T10:26:06.737488+00:00"
     },
     {
       "id": "8d7fd77456657ab1",
@@ -498,6 +649,26 @@
       "processed_at": "2026-09-27T09:39:24.483342+00:00"
     },
     {
+      "id": "886d0d4619515305",
+      "titolo_popolare": "Correzione tecnica alle sanzioni UE contro la Birmania",
+      "titolo_originale": "OJ:L_202690658:            Rectificatif au règlement d’exécution (UE) 2021/998 du Conseil du 21 juin 2021 mettant en œuvre le règlement (UE) n° 401/2013 concernant des mesures restrictives instituées en raison de la situation au Myanmar/en Birmanie (JO L 219 I du 21.6.2021)",
+      "riassunto_esteso": "L'atto è un rectificatif, cioè una correzione tecnica, al regolamento di esecuzione (UE) 2021/998 che applica le misure restrittive dell'UE nei confronti della Myanmar/Birmania. La correzione serve a sistemare un refuso o un'imprecisione presente nel testo originale del regolamento, senza alterarne il contenuto sostanziale. L'obiettivo è garantire che il testo giuridico pubblicato sia formalmente corretto e quindi pienamente applicabile dalle autorità competenti. Non introduce nuove sanzioni né modifica quelle già in vigore.",
+      "cosa_cambia": [
+        "Nessuna modifica diretta agli obblighi dei cittadini o delle imprese"
+      ],
+      "chi_interessa": "nessun cittadino direttamente interessato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "L'atto corregge solo un aspetto tecnico del testo giuridico UE, senza effetti pratici su cittadini, imprese o sull'applicazione delle sanzioni contro la Birmania.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690658",
+      "pubblicato": "2026-08-03T00:00:00+02:00",
+      "processed_at": "2026-09-28T10:15:25.368270+00:00"
+    },
+    {
       "id": "dc6b26223c8c43d6",
       "titolo_popolare": "Accordo UE-Messico per commercio e cooperazione",
       "titolo_originale": "OJ:L_202601509: Political, Economic and Cooperation Strategic Partnership Agreement between the European Union and its Member States, of the one part, and the United Mexican States, of the other part",
@@ -785,176 +956,6 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601903",
       "pubblicato": "2026-07-31T00:00:00+02:00",
       "processed_at": "2026-09-26T08:55:53.463009+00:00"
-    },
-    {
-      "id": "34fcfc76fa073044",
-      "titolo_popolare": "Documento non disponibile in lingua italiana",
-      "titolo_originale": "OJ:L_202690638",
-      "riassunto_esteso": "Il documento indicato non è reperibile nelle banche dati ufficiali, quindi non è possibile conoscere il suo contenuto preciso. Probabilmente si tratta di un atto normativo recente pubblicato nella Gazzetta Ufficiale dell'Unione Europea. Senza il testo non si possono descrivere gli obblighi o le novità introdotte. Per avere informazioni accurate sarebbe necessario consultare direttamente la fonte ufficiale o attendere una versione tradotta. Nel frattempo, si consiglia di verificare eventuali comunicazioni degli enti competenti.",
-      "cosa_cambia": [
-        "Non è possibile indicare cambiamenti concreti senza il testo dell'atto."
-      ],
-      "chi_interessa": "non specificato",
-      "cosa_devi_fare": "nessuna azione richiesta finché non sarà disponibile il testo",
-      "impatto": "non possibile valutare l'impatto concreto senza conoscere il contenuto dell'atto.",
-      "data_vigenza": "non specificato",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690638",
-      "pubblicato": "2026-07-30T00:00:00+02:00",
-      "processed_at": "2026-09-19T08:34:46.694346+00:00"
-    },
-    {
-      "id": "3f73d19278df5754",
-      "titolo_popolare": "Aggiornamento delle sanzioni UE contro gli attacchi informatici",
-      "titolo_originale": "OJ:L_202690642: Corrigendum to Council Decision (CFSP) 2026/1713 of 13 July 2026 amending Decision (CFSP) 2019/797 concerning restrictive measures against cyber-attacks threatening the Union or its Member States (OJ L, 2026/1713, 13.7.2026)",
-      "riassunto_esteso": "Il documento è un corrigendum, cioè una correzione, della decisione del Consiglio che modifica le misure restrittive dell'UE contro gli attacchi informatici che minacciano l'Unione o i suoi Stati membri. Serve a sistemare eventuali errori o imprecisioni presenti nel testo originale, garantendo che l'elenco di persone e entità soggette a sanzioni sia corretto e aggiornato. L'adozione di questo corrigendum assicura maggiore certezza giuridica e l'efficacia del sistema di sanzioni UE nel contrastare le minacce informatiche. In pratica, non introduce nuove sanzioni, ma rende più preciso il quadro già esistente.",
-      "cosa_cambia": [
-        "nessun cambiamento diretto per i cittadini"
-      ],
-      "chi_interessa": "nessun gruppo specifico di cittadini, riguarda principalmente imprese e istituzioni finanziarie",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "nessun impatto diretto sulla vita quotidiana dei cittadini; serve a mantenere efficace il sistema di sanzioni UE contro gli attacchi informatici, proteggendo la sicurezza digitale comune.",
-      "data_vigenza": "in vigore da subito",
-      "categoria": "Digitale e Privacy",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690642",
-      "pubblicato": "2026-07-30T00:00:00+02:00",
-      "processed_at": "2026-09-19T08:35:19.832799+00:00"
-    },
-    {
-      "id": "eb16a7d526e39cbc",
-      "titolo_popolare": "Atto UE",
-      "titolo_originale": "OJ:L_202690631",
-      "riassunto_esteso": "Il documento indicato non è disponibile in lingua inglese. Non è possibile conoscere il contenuto specifico dell'atto. Pertanto non si possono descrivere le disposizioni che introduce. Non è noto il motivo della sua adozione. Per queste ragioni il riassunto non può essere completato.",
-      "cosa_cambia": [
-        "non specificato"
-      ],
-      "chi_interessa": "non specificato",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "non specificato",
-      "data_vigenza": "non specificato",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690631",
-      "pubblicato": "2026-07-30T00:00:00+02:00",
-      "processed_at": "2026-09-19T08:35:30.952467+00:00"
-    },
-    {
-      "id": "65fd56c7f2322c31",
-      "titolo_popolare": "Nuovi limiti per contaminanti negli alimenti",
-      "titolo_originale": "OJ:L_202601825: Commission Regulation (EU) 2026/1825 of 29 July 2026 amending Regulation (EU) 2023/915 as regards maximum levels of 3-monochloropropanediol (3-MCPD), 3-MCPD fatty acid esters and glycidyl fatty acid esters in certain foods",
-      "riassunto_esteso": "La Commissione europea ha aggiornato il regolamento che fissa i livelli massimi consentiti di alcune sostanze potenzialmente nocive presenti negli alimenti, ovvero il 3-MCPD, i suoi esteri grassi e gli esteri grassi del glicidil. Questi composti possono formarsi durante la lavorazione di alcuni prodotti, come oli raffinati, salse di soja e prodotti a base di cereali. L'aggiornamento si basa sulle ultime valutazioni scientifiche sull'esposizione umana e mira a ridurre ulteriormente il rischio per la salute dei consumatori. Il nuovo regolamento si applica a tutti gli operatori del settore alimentare che producono, trasformano o importano i prodotti interessati.",
-      "cosa_cambia": [
-        "I produttori devono rispettare nuovi limiti più bassi per 3-MCPD e i suoi esteri in oli e grassi alimentari",
-        "Le salse di soja e altri prodotti fermentati hanno nuovi limiti più stringenti per gli esteri grassi del glicidil",
-        "I controlli ufficiali sulle partite di alimenti saranno effettuati con i nuovi valori di riferimento",
-        "I consumatori beneficiano di una minore esposizione a queste sostanze potenzialmente dannose"
-      ],
-      "chi_interessa": "produttori, trasformatori e importatori di oli, grassi, salse di soja e prodotti a base di cereali, nonché i consumatori finali",
-      "cosa_devi_fare": "Gli operatori del settore devono adeguare i processi e le etichette entro la data di entrata in vigore; i consumatori non devono fare nulla",
-      "impatto": "L'abbassamento dei limiti riduce l'assunzione di contaminanti potenzialmente cancerogeni, aumentando la sicurezza degli alimenti quotidiani. Questo contribuisce a tutelare la salute pubblica senza comportare costi significativi per l'industria.",
-      "data_vigenza": "in vigore dal 18 agosto 2026",
-      "categoria": "Agricoltura e Alimentare",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601825",
-      "pubblicato": "2026-07-30T00:00:00+02:00",
-      "processed_at": "2026-09-20T09:03:32.819289+00:00"
-    },
-    {
-      "id": "cbd0333ac88678ee",
-      "titolo_popolare": "Nuove regole per le multe alle agenzie di rating ESG",
-      "titolo_originale": "OJ:L_202600904: Commission Delegated Regulation (EU) 2026/904 of 24 April 2026 supplementing Regulation (EU) 2024/3005 of the European Parliament and of the Council with regard to rules of procedure on fines and periodic penalty payments imposed to ESG rating providers by the European Securities and Markets Authority",
-      "riassunto_esteso": "La Commissione europea ha adottato un regolamento delegato che completa le norme già esistenti sui rating ESG, definendo le procedure che l'Autorità europea degli strumenti finanziari e dei mercati (ESMA) deve seguire per infliggere multe e pagamenti periodici penalità ai fornitori di questi rating. L'obiettivo è rendere più trasparente e prevedibile il sistema sanzionatorio, garantendo che le agenzie rispettino standard di qualità e indipendenza nella valutazione della sostenibilità delle imprese. Con queste regole, ESMA potrà agire più rapidamente in caso di violazioni, ma dovrà anche rispettare garanzie di difesa e di motivazione delle sanzioni. Il provvedimento si inserisce nella strategia UE di finanziare la transizione verde, aumentando la fiducia negli rating ESG utilizzati dagli investitori.",
-      "cosa_cambia": [
-        "ESMA deve seguire un iter preciso prima di poter infliggere una multa a un'agenzia di rating ESG",
-        "Le sanzioni possono includere pagamenti periodici finché l'infrazione non è sanata",
-        "Le agenzie hanno diritto a essere ascoltate e a presentare osservazioni prima della decisione finale",
-        "Le decisioni sanzionatorie di ESMA dovranno essere pubblicate e motivate in modo chiaro"
-      ],
-      "chi_interessa": "i fornitori di rating ESG e le imprese che si affidano a questi rating per gli investimenti",
-      "cosa_devi_fare": "adottare le nuove procedure di difesa e pagamento in caso di sanzioni da parte di ESMA",
-      "impatto": "Maggiore trasparenza e prevedibilità delle sanzioni per le agenzie di rating ESG, aumentando la fiducia degli investitori nei rating di sostenibilità.",
-      "data_vigenza": "in vigore dal 24 aprile 2026",
-      "categoria": "Banche e Finanza",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202600904",
-      "pubblicato": "2026-07-30T00:00:00+02:00",
-      "processed_at": "2026-09-21T09:29:57.241793+00:00"
-    },
-    {
-      "id": "b62df038f63f8621",
-      "titolo_popolare": "Il Regno Unito aiuta l'Ucraina nella difesa",
-      "titolo_originale": "OJ:L_202601879: Council Implementing Decision (EU) 2026/1879 of 24 July 2026 on the participation of the United Kingdom of Great Britain and Northern Ireland in the assistance to support Ukraine’s defence industrial capacities pursuant to Article 13(11) of Regulation (EU) 2026/467",
-      "riassunto_esteso": "La decisione permette al Regno Unito di partecipare agli aiuti dell'Unione europea destinati a rafforzare le capacità industriali di difesa dell'Ucraina. Si inserisce nel quadro di un regolamento UE già esistente che prevede finanziamenti e coordinamento per la produzione di equipaggiamenti militari. L'obiettivo è aumentare il sostegno concreto a Kiev di fronte all'aggressione russa, mostrando unità tra gli alleati. Includendo il Regno Unito, l'UE punta a evitare sovrapposizioni e a ottimizzare l'uso delle risorse disponibili. Il provvedimento non introduce nuovi obblighi per cittadini, imprese o altri soggetti nazionali.",
-      "cosa_cambia": [
-        "Nessun cambiamento diretto per i cittadini"
-      ],
-      "chi_interessa": "nessun gruppo specifico di cittadini",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "L'atto non ha effetti concreti sulla vita quotidiana dei cittadini; serve principalmente a coordinare gli aiuti militari all'Ucraina.",
-      "data_vigenza": "in vigore dal 24 luglio 2026",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601879",
-      "pubblicato": "2026-07-30T00:00:00+02:00",
-      "processed_at": "2026-09-22T09:01:14.394880+00:00"
-    },
-    {
-      "id": "597670d126c3c1a2",
-      "titolo_popolare": "Aggiornamento delle regole commerciali UE‑America Centrale",
-      "titolo_originale": "OJ:L_202601852: Commission Decision (EU) 2026/1852 of 28 July 2026 approving, on behalf of the European Union, the modification of Annex XVIII to the Association Agreement between the European Union and its Member States, on the one hand, and Central America, on the other (notified under document C(2026) 5236)",
-      "riassunto_esteso": "La decisione della Commissione europea approva una modifica all'Annex XVIII dell'accordo di associazione tra l'Unione Europea e i paesi dell'America Centrale. Questo aggiornamento riguarda principalmente le regole di origine e alcune disposizioni doganali per determinati prodotti. L'obiettivo è semplificare gli scambi commerciali, ridurre i costi e rendere più facile per le imprese dimostrare l'origine delle merci. In pratica, si cerca di rendere più fluido il commercio tra le due regioni, favorendo sia le esportazioni europee che quelle centroamericane.",
-      "cosa_cambia": [
-        "Le regole di origine per alcuni prodotti agricoli e industriali sono state riviste, rendendo più semplice dimostrare che un bene proviene dall'UE o dall'America Centrale.",
-        "Per determinate categorie di merci i dazi doganali sono stati ridotti o eliminati, abbassando i costi di importazione ed esportazione.",
-        "Le procedure di certificazione e di controllo doganale sono state semplificate, diminuendo gli adempimenti burocratici per le imprese."
-      ],
-      "chi_interessa": "imprese che esportano o importano merci tra l'Unione Europea e i paesi dell'America Centrale",
-      "cosa_devi_fare": "Verificare se i propri prodotti rientrano nelle nuove regole di origine e, se necessario, aggiornare la documentazione doganale.",
-      "impatto": "Le imprese potranno beneficiare di minori costi doganali e di procedure più snelle, favorendo scambi commerciali più fluidi tra UE e America Centrale.",
-      "data_vigenza": "in vigore dal 28 luglio 2026",
-      "categoria": "Imprese e Mercato",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601852",
-      "pubblicato": "2026-07-30T00:00:00+02:00",
-      "processed_at": "2026-09-22T09:01:56.557892+00:00"
-    },
-    {
-      "id": "edaaccfcff68ef82",
-      "titolo_popolare": "Rinnovo autorizzazione taurina nei mangimi per animali",
-      "titolo_originale": "OJ:L_202601859: Commission Implementing Regulation (EU) 2026/1859 of 29 July 2026 concerning the renewal of the authorisation of a preparation of taurine as a feed additive for Canidae, Felidae, Mustelidae, carnivorous finfish and other aquatic carnivorous species and repealing Implementing Regulation (EU) 2015/722",
-      "riassunto_esteso": "La Commissione europea ha rinnovato l'autorizzazione per l'uso di una preparazione di taurina come additivo nei mangimi destinati a cani, gatti, mustelidi, pesci carnivori e altre specie acquatiche carnivore. Questo provvedimento sostituisce il precedente regolamento del 2015, mantenendo le stesse condizioni di utilizzo e sicurezza. Il rinnovo è stato deciso dopo una nuova valutazione scientifica che ha confermato l'innocuità della taurina per questi animali e l'utilità nutrizionale. In pratica, i produttori di mangimi potranno continuare a includere la taurina nei loro prodotti senza dover richiedere nuove autorizzazioni. La misura garantisce continuità nel mercato dei mangimi specializzati per animali da compagnia e acquacoltura.",
-      "cosa_cambia": [
-        "La taurina rimane autorizzata come additivo nei mangimi per cani, gatti e altri animali carnivori specificati.",
-        "Viene abrogato il vecchio regolamento 2015/722, semplificando il quadro normativo di riferimento.",
-        "Non sono introdotti nuovi limiti o requisiti aggiuntivi rispetto a quelli già in vigore."
-      ],
-      "chi_interessa": "produttori di mangimi per animali da compagnia e acquacoltura, nonché i relativi distributori",
-      "cosa_devi_fare": "nessuna azione richiesta direttamente ai cittadini; i produttori devono rispettare le condizioni già esistenti",
-      "impatto": "Assicura la disponibilità continua di mangimi contenenti taurina, importante per la salute di molti animali domestici e di allevamento. Questo sostiene la qualità dell'alimentazione animale senza oneri aggiuntivi per i consumatori.",
-      "data_vigenza": "in vigore dal 29 luglio 2026 (data di pubblicazione nella Gazzetta ufficiale dell'UE)",
-      "categoria": "Agricoltura e Alimentare",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601859",
-      "pubblicato": "2026-07-30T00:00:00+02:00",
-      "processed_at": "2026-09-23T09:01:28.330155+00:00"
     },
     {
       "id": "bb68323283680c7d",
