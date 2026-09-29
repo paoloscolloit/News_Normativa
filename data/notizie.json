@@ -1,7 +1,27 @@
 {
-  "last_updated": "2026-09-28T10:28:46.090732+00:00",
-  "total": 47,
+  "last_updated": "2026-09-29T10:26:41.806874+00:00",
+  "total": 38,
   "items": [
+    {
+      "id": "76787dd244bce14f",
+      "titolo_popolare": "Atto normativo non disponibile",
+      "titolo_originale": "OJ:L_202690695",
+      "riassunto_esteso": "Il testo fornito indica che il documento non esiste nella versione inglese. Pertanto non è possibile conoscere le disposizioni normative contenute. Senza informazioni sul contenuto, non si possono descrivere gli effetti pratici. Si consiglia di verificare la fonte originale per ottenere il testo completo.",
+      "cosa_cambia": [
+        "Non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690695",
+      "pubblicato": "2026-08-12T00:00:00+02:00",
+      "processed_at": "2026-09-29T10:22:12.718466+00:00"
+    },
     {
       "id": "80ece045c49d0565",
       "titolo_popolare": "Aggiornamento delle sanzioni UE sulla Russia",
@@ -63,6 +83,87 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690693",
       "pubblicato": "2026-08-11T00:00:00+02:00",
       "processed_at": "2026-09-28T10:28:27.649849+00:00"
+    },
+    {
+      "id": "16c38ab730369a24",
+      "titolo_popolare": "Atto normativo non disponibile",
+      "titolo_originale": "OJ:L_202690689",
+      "riassunto_esteso": "Il documento indicato nella fonte non è reperibile nelle banche dati pubbliche, quindi non è possibile conoscere il suo contenuto preciso. Non essendo disponibile il testo integrale, non si possono descrivere le disposizioni che contiene né gli obiettivi che si proponeva di raggiungere. Di conseguenza, non è possibile spiegare perché è stato adottato o quali effetti avrebbe dovuto produrre. Per avere informazioni accurate sarebbe necessario consultare la fonte originale o attendere una pubblicazione ufficiale del testo.",
+      "cosa_cambia": [],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690689",
+      "pubblicato": "2026-08-11T00:00:00+02:00",
+      "processed_at": "2026-09-29T10:17:44.626032+00:00"
+    },
+    {
+      "id": "73275ce4cad35b9c",
+      "titolo_popolare": "Aggiornamento delle sanzioni UE contro la Bielorussia",
+      "titolo_originale": "OJ:L_202690686: Corrigendum to Council Regulation (EU) 2026/513 of 23 April 2026 amending Regulation (EC) No 765/2006 concerning restrictive measures in view of the situation in Belarus and the involvement of Belarus in the Russian aggression against Ukraine (OJ L, 2026/513, 23.4.2026)",
+      "riassunto_esteso": "Il documento è un corrigendum, cioè una correzione di errori materiali, relativo a un regolamento del Consiglio che modifica le sanzioni UE contro la Bielorussia a causa del suo sostegno all'aggressione russa in Ucraina. Non introduce nuove misure, ma corregge refusi e imprecisioni presenti nel testo originale del regolamento. L'obiettivo è garantire che le disposizioni sanzionatorie siano applicate correttamente e senza ambiguità interpretative. La correzione si limita a questioni formali e non cambia il contenuto sostanziale delle restrizioni già in vigore.",
+      "cosa_cambia": [
+        "nessun cambiamento diretto per i cittadini italiani"
+      ],
+      "chi_interessa": "imprese e cittadini che hanno rapporti commerciali o finanziari con la Bielorussia",
+      "cosa_devi_fare": "nessuna nuova azione richiesta, limitarsi a rispettare le sanzioni già esistenti",
+      "impatto": "L'atto corregge solo errori tecnici senza modificare il contenuto delle sanzioni, quindi l'effetto pratico è nullo per la maggior parte delle persone. Serve a evitare possibili errori di applicazione da parte degli operatori interessati.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690686",
+      "pubblicato": "2026-08-11T00:00:00+02:00",
+      "processed_at": "2026-09-29T10:19:20.469336+00:00"
+    },
+    {
+      "id": "7d325fbed1c09e60",
+      "titolo_popolare": "Nuove misure contro l'influenza aviaria negli Stati membri",
+      "titolo_originale": "OJ:L_202601944: Commission Implementing Decision (EU) 2026/1944 of 7 August 2026 amending the Annex to Implementing Decision (EU) 2023/2447 concerning emergency measures in relation to outbreaks of highly pathogenic avian influenza in certain Member States (notified under document C(2026) 5787)",
+      "riassunto_esteso": "La decisione aggiorna le misure di emergenza già previste per affrontare focolai di influenza aviaria altamente patogena in alcuni paesi dell'Unione europea. Introduce o modifica obblighi di segnalazione, restrizioni al movimento di pollame e uova, possibilità di abbattimento controllato e un programma di vaccinazione di emergenza. L'obiettivo è contenere rapidamente la diffusione del virus e limitare i danni agli allevamenti. La misura è stata adottata in risposta a nuovi focolai segnalati negli Stati membri interessati.",
+      "cosa_cambia": [
+        "Gli allevatori devono segnalare subito qualsiasi sospetto di influenza aviaria nelle loro greggi.",
+        "Sono previste restrizioni al movimento di pollame e uova dalle zone focolaio.",
+        "Le autorità possono ordinare l'abbattimento controllato degli animali infetti.",
+        "Viene introdotto un programma di vaccinazione di emergenza per i volatili in aree a rischio."
+      ],
+      "chi_interessa": "gli allevatori di pollame e le aziende del settore avicolo",
+      "cosa_devi_fare": "Segnalare tempestivamente i casi sospetti e rispettare le restrizioni di movimento imposte dalle autorità.",
+      "impatto": "Riduce il rischio di diffusione del virus, proteggendo la salute degli animali e la sicurezza alimentare.",
+      "data_vigenza": "in vigore dal 7 agosto 2026",
+      "categoria": "Agricoltura e Alimentare",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601944",
+      "pubblicato": "2026-08-11T00:00:00+02:00",
+      "processed_at": "2026-09-29T10:20:05.399924+00:00"
+    },
+    {
+      "id": "629c4d5df5d6d3ce",
+      "titolo_popolare": "Atto normativo non disponibile in lingua italiana",
+      "titolo_originale": "OJ:L_202690690",
+      "riassunto_esteso": "Il documento indicato nella fonte non risulta presente nelle banche dati ufficiali. Pertanto non è possibile conoscere gli obblighi o le disposizioni che contiene. Senza queste informazioni non si può valutare l'impatto sui cittadini. Si consiglia di verificare eventuali aggiornamenti ufficiali sui canali istituzionali.",
+      "cosa_cambia": [
+        "Non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "da definire con decreto attuativo",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690690",
+      "pubblicato": "2026-08-11T00:00:00+02:00",
+      "processed_at": "2026-09-29T10:22:02.334315+00:00"
     },
     {
       "id": "28b0a4286501c842",
@@ -667,295 +768,6 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690658",
       "pubblicato": "2026-08-03T00:00:00+02:00",
       "processed_at": "2026-09-28T10:15:25.368270+00:00"
-    },
-    {
-      "id": "dc6b26223c8c43d6",
-      "titolo_popolare": "Accordo UE-Messico per commercio e cooperazione",
-      "titolo_originale": "OJ:L_202601509: Political, Economic and Cooperation Strategic Partnership Agreement between the European Union and its Member States, of the one part, and the United Mexican States, of the other part",
-      "riassunto_esteso": "L'Unione Europea e gli Stati Uniti Messicani hanno firmato un accordo di partenariato strategico che punta a rafforzare i rapporti politici, economici e di cooperazione tra le due parti. L'intesa prevede di facilitare gli scambi commerciali, promuovere gli investimenti reciproci e collaborare su temi come clima, energia, ricerca e sviluppo. Inoltre, include disposizioni per il dialogo politico e la cooperazione in materia di diritti umani e governance. L'obiettivo è creare condizioni più favorevoli per le imprese e migliorare l'accesso a beni e servizi per i cittadini. L'accordo entra in funzione dopo le procedure di ratifica previste dalle rispettive istituzioni.",
-      "cosa_cambia": [
-        "Maggiori opportunità per le imprese europee di esportare prodotti in Messico con minori ostacoli doganali",
-        "Possibile riduzione dei prezzi di alcuni prodotti messicani disponibili nei mercati europei",
-        "Maggiore collaborazione su progetti di ricerca e innovazione tra enti europei e messicani"
-      ],
-      "chi_interessa": "imprese che commerciano con il Messico e consumatori di prodotti messicani",
-      "cosa_devi_fare": "nessuna azione richiesta direttamente dai cittadini",
-      "impatto": "Potrebbe portare a prezzi più bassi per alcuni beni messicani e nuove occasioni di lavoro per le aziende coinvolte negli scambi bilaterali. L'accordo rafforza anche i legami politici e di cooperazione su temi globali come il clima.",
-      "data_vigenza": "non specificato",
-      "categoria": "Imprese e Mercato",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601509",
-      "pubblicato": "2026-07-31T00:00:00+02:00",
-      "processed_at": "2026-09-23T09:05:36.696904+00:00"
-    },
-    {
-      "id": "9efbdeb155c21493",
-      "titolo_popolare": "Atto UE non disponibile",
-      "titolo_originale": "OJ:L_202690647",
-      "riassunto_esteso": "Non è possibile reperire il contenuto dell'atto poiché il documento indicato non esiste nelle banche dati ufficiali. Pertanto non si conoscono le disposizioni né gli obiettivi del provvedimento. Per questo motivo non è possibile descrivere cosa stabilisce né perché è stato adottato. Si consiglia di verificare il riferimento o consultare fonti ufficiali per confermare l'esistenza del testo.",
-      "cosa_cambia": [
-        "Non specificato"
-      ],
-      "chi_interessa": "non specificato",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "non specificato",
-      "data_vigenza": "non specificato",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690647",
-      "pubblicato": "2026-07-31T00:00:00+02:00",
-      "processed_at": "2026-09-23T09:05:52.813133+00:00"
-    },
-    {
-      "id": "f8c223a783b12cb9",
-      "titolo_popolare": "Correzione tecnica di un regolamento UE sulle norme di prodotto",
-      "titolo_originale": "OJ:L_202601740: Commission Implementing Regulation (EU) 2026/1740 of 20 July 2026 correcting Implementing Regulation (EU) 2025/2621 as regards Annexes I and IV thereto",
-      "riassunto_esteso": "Il regolamento corregge alcuni errori presenti negli allegati I e IV di un precedente atto di esecuzione europeo. Si tratta di una modifica puramente formale, che non introduce nuove sostanze né cambia gli obblighi sostanziali. L'obiettivo è garantire che le norme tecniche siano coerenti e prive di refusi, facilitando l'applicazione uniforme da parte delle imprese. Non ci sono conseguenze dirette per i cittadini comuni.",
-      "cosa_cambia": [
-        "nessuna modifica diretta per i cittadini",
-        "eventuali adeguamenti tecnici minimi per le imprese interessate"
-      ],
-      "chi_interessa": "imprese e operatori economici che devono rispettare le norme tecniche UE",
-      "cosa_devi_fare": "nessuna azione richiesta; eventualmente verificare gli aggiornamenti delle linee guida di settore",
-      "impatto": "nessun effetto concreto sui cittadini; serve a mantenere coerenza e correttezza delle norme tecniche UE",
-      "data_vigenza": "dal 20 luglio 2026",
-      "categoria": "Imprese e Mercato",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601740",
-      "pubblicato": "2026-07-31T00:00:00+02:00",
-      "processed_at": "2026-09-24T08:56:34.935045+00:00"
-    },
-    {
-      "id": "0136e3a5e187913e",
-      "titolo_popolare": "Conferma dell'operazione navale UE nel Mediterraneo",
-      "titolo_originale": "OJ:L_202601884: Political and Security Committee Decision (CFSP) 2026/1884 of 16 July 2026 on the reconfirmation of the authorisation of the European Union military operation in the Mediterranean (EUNAVFOR MED IRINI) (EUNAVFOR MED IRINI/3/2026)",
-      "riassunto_esteso": "Il decisione del Comitato Politico e di Sicurezza dell'UE riconferma l'autorizzazione dell'operazione militare EUNAVFOR MED IRINI nel Mediterraneo. Questa operazione ha lo scopo di monitorare l'embargo sulle armi verso la Libia e di contribuire alla sicurezza delle rotte marittime. La riconferma avviene dopo una valutazione periodica del mandato e delle risorse necessarie. L'atto non introduce nuovi obblighi per i cittadini, ma mantiene attiva una presenza navale europea nella regione.",
-      "cosa_cambia": [
-        "Nessun cambiamento diretto nella vita quotidiana dei cittadini",
-        "Possibile continuazione della presenza di navi militari UE nel Mediterraneo"
-      ],
-      "chi_interessa": "nessun gruppo specifico di cittadini; riguarda la politica di sicurezza comune dell'UE",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "L'operazione continua a contribuire al rispetto dell'embargo sulle armi verso la Libia e alla stabilità delle rotte marittime mediterranee. Questo sostiene la sicurezza regionale e gli interessi strategici dell'UE.",
-      "data_vigenza": "in vigore dal 16 luglio 2026",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601884",
-      "pubblicato": "2026-07-31T00:00:00+02:00",
-      "processed_at": "2026-09-24T08:57:31.722440+00:00"
-    },
-    {
-      "id": "a6995d4951b7a196",
-      "titolo_popolare": "Aggiornamento delle sanzioni UE contro la Russia",
-      "titolo_originale": "OJ:L_202690652: Corrigendum to Council Decision (CFSP) 2026/1849 of 23 July 2026 amending Decision 2014/512/CFSP concerning restrictive measures in view of Russia’s actions destabilising the situation in Ukraine (OJ L, 2026/1849, 23.7.2026)",
-      "riassunto_esteso": "Il documento è un corrigendum, cioè una correzione, di una decisione del Consiglio UE che aveva già introdotto misure restrittive contro la Russia a causa delle sue azioni in Ucraina. Il corrigendum serve a sistemare errori materiali o di riferimento presenti nel testo originale, senza modificare il contenuto sostanziale delle sanzioni. Non introduce nuove restrizioni né toglie quelle esistenti, ma si limita a rendere il atto giuridico più preciso e formalmente corretto. Questo tipo di atto è interno all'Unione Europea e non prevede obblighi diretti per i cittadini o le imprese degli Stati membri. La sua adozione è dovuta alla necessità di garantire la correttezza tecnica dei testi giuridici UE.",
-      "cosa_cambia": [
-        "nessuna modifica diretta per i cittadini"
-      ],
-      "chi_interessa": "nessun impatto diretto sui cittadini",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "Non produce effetti concreti sulla vita quotidiana delle persone; serve solo a correggere un atto interno dell'UE. Quindi non cambia bollette, tasse, lavoro o altri aspetti personali.",
-      "data_vigenza": "in vigore da subito",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690652",
-      "pubblicato": "2026-07-31T00:00:00+02:00",
-      "processed_at": "2026-09-24T08:57:55.014096+00:00"
-    },
-    {
-      "id": "b9af55c7d77a320f",
-      "titolo_popolare": "Correzione tecnica al regolamento Eurojust",
-      "titolo_originale": "OJ:L_202690646:            Berichtigung der Verordnung (EU) 2018/1727 des Europäischen Parlaments und des Rates vom 14. November 2018 betreffend die Agentur der Europäischen Union für justizielle Zusammenarbeit in Strafsachen (Eurojust) und zur Ersetzung und Aufhebung des Beschlusses 2002/187/JI des Rates (ABl. L 295 vom 21.11.2018)",
-      "riassunto_esteso": "L'atto è una correzione di errori materiali presenti nel regolamento (UE) 2018/1727 che istituisce l'agenzia Eurojust per la cooperazione giudiziaria penale. Non introduce nuove norme né modifica sostanzialmente le disposizioni esistenti, ma si limita a rettificare refusi e imprecisioni di testo. La correzione è stata adottata per garantire che il testo ufficiale sia accurato e privo di ambiguità interpretative. In pratica, non cambia nulla per i cittadini né per le imprese, ma serve a evitare possibili confusioni tra gli operatori della giustizia.",
-      "cosa_cambia": [
-        "Nessun cambiamento diretto per i cittadini"
-      ],
-      "chi_interessa": "autorità giudiziarie e forze dell'ordine che collaborano con Eurojust",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "L'atto corregge solo errori formali, quindi l'effetto concreto sui cittadini è nullo. Serve principalmente a migliorare la chiarezza del testo per gli operatori della giustizia.",
-      "data_vigenza": "in vigore da subito",
-      "categoria": "Giustizia e Diritti",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690646",
-      "pubblicato": "2026-07-31T00:00:00+02:00",
-      "processed_at": "2026-09-24T08:58:15.994114+00:00"
-    },
-    {
-      "id": "ea80821cd4524f5c",
-      "titolo_popolare": "Documento UE non disponibile in lingua italiana",
-      "titolo_originale": "OJ:L_202690649",
-      "riassunto_esteso": "L'atto normativo è stato pubblicato nella Gazzetta ufficiale dell'Unione europea, ma il testo completo non è attualmente accessibile in lingua italiana né in inglese. Non è possibile descrivere nel dettaglio quali disposizioni contiene né gli obiettivi che si propone di raggiungere. Si tratta comunque di un atto ufficiale dell'UE che entra a far parte del corpus normativo comunitario. Per conoscere il contenuto preciso sarà necessario attendere eventuali traduzioni ufficiali o consultare la versione originale nella lingua di pubblicazione.",
-      "cosa_cambia": [
-        "non specificato"
-      ],
-      "chi_interessa": "non specificato",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "non specificato",
-      "data_vigenza": "non specificato",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690649",
-      "pubblicato": "2026-07-31T00:00:00+02:00",
-      "processed_at": "2026-09-24T08:58:47.744778+00:00"
-    },
-    {
-      "id": "7d048ba13cd63d95",
-      "titolo_popolare": "Atto UE senza testo disponibile",
-      "titolo_originale": "OJ:L_202690643",
-      "riassunto_esteso": "Il documento indicato non è disponibile in lingua inglese e non è possibile consultarne il contenuto ufficiale. Pertanto non è possibile descrivere precisamente le disposizioni contenute. Tuttavia, si tratta di un atto pubblicato nella Gazzetta ufficiale dell'Unione europea, serie L, che normalmente contiene norme vincolanti per gli Stati membri. Senza ulteriori dettagli non è possibile indicare gli effetti concreti né le motivazioni specifiche alla base dell'adozione.",
-      "cosa_cambia": [
-        "non specificato"
-      ],
-      "chi_interessa": "non specificato",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "non specificato",
-      "data_vigenza": "non specificato",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690643",
-      "pubblicato": "2026-07-31T00:00:00+02:00",
-      "processed_at": "2026-09-24T08:59:12.602833+00:00"
-    },
-    {
-      "id": "0924c868dbf08610",
-      "titolo_popolare": "Atto normativo non disponibile",
-      "titolo_originale": "OJ:L_202690637",
-      "riassunto_esteso": "Il documento indicato non è reperibile nelle fonti ufficiali; pertanto non è possibile descrivere il suo contenuto. Non si conoscono le disposizioni che contiene né gli obiettivi che si proponeva di raggiungere. Senza informazioni concrete, non è possibile indicare cosa cambia per i cittadini né a chi si applica. Di conseguenza, tutti i campi successivi sono basati su stime ragionevoli o indicati come non specificati. Questa situazione può derivare da un errore di riferimento o da una pubblicazione non ancora entrata in vigore.",
-      "cosa_cambia": [],
-      "chi_interessa": "non specificato",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "non specificato",
-      "data_vigenza": "non specificato",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690637",
-      "pubblicato": "2026-07-31T00:00:00+02:00",
-      "processed_at": "2026-09-24T09:00:24.628467+00:00"
-    },
-    {
-      "id": "f8002727e88e440f",
-      "titolo_popolare": "Nomina del direttore dell'autorità per i partiti europei",
-      "titolo_originale": "OJ:L_202601898: Decision (EU, Euratom) 2026/1898 of the European Parliament, the Council and the Commission of 21 July 2026 appointing the Director of the Authority for European political parties and European political foundations",
-      "riassunto_esteso": "La decisione nomina il direttore dell'Autorità per i partiti politici europei e le fondazioni politiche europee. Questo organismo è responsabile della vigilanza sui finanziamenti e sulla trasparenza dei partiti che operano a livello europeo. La nomina è stata adottata per garantire che l'autorità possa iniziare a svolgere le sue funzioni di controllo e supporto. Senza un direttore in carica, l'autorità non potrebbe esercitare pienamente i suoi compiti istituzionali.",
-      "cosa_cambia": [
-        "nessuna modifica diretta per i cittadini"
-      ],
-      "chi_interessa": "nessun cittadino direttamente interessato",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "Non ci sono effetti concreti sui cittadini; la nomina serve a garantire il corretto funzionamento dell'autorità che vigila sui finanziamenti dei partiti europei.",
-      "data_vigenza": "in vigore dal 21 luglio 2026",
-      "categoria": "Giustizia e Diritti",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601898",
-      "pubblicato": "2026-07-31T00:00:00+02:00",
-      "processed_at": "2026-09-24T09:02:04.957029+00:00"
-    },
-    {
-      "id": "4c82ad5059496ab1",
-      "titolo_popolare": "Sospensione delle tariffe UE-USA su alcuni prodotti",
-      "titolo_originale": "OJ:L_202601893: Commission Implementing Regulation (EU) 2026/1893 of 30 July 2026 suspending commercial rebalancing measures concerning certain products originating in the United States of America and certain products exported from the Union to the United States of America imposed by Implementing Regulation (EU) 2025/1564",
-      "riassunto_esteso": "La Commissione europea ha deciso di sospendere le misure di riequilibrio commerciale che erano state introdotte contro determinati prodotti statunitensi e contro alcune esportazioni dell'UE verso gli USA. Queste misure, sotto forma di dazi aggiuntivi o altre contromisure, erano state adottate nel 2025 per rispondere a pratiche commerciali ritenute sleali. Con il nuovo regolamento, tali dazi vengono temporaneamente rimossi, ripristinando le condizioni precedenti per i prodotti interessati. L'obiettivo è ridurre le tensioni commerciali e favorire scambi più fluidi tra le due sponde dell'Atlantico, almeno finché non verrà presa una decisione definitiva.",
-      "cosa_cambia": [
-        "I dazi aggiuntivi su alcuni prodotti statunitensi vengono temporaneamente sospesi",
-        "Le imprese europee che esportano quei prodotti negli USA non devono più pagare le contromisure previste",
-        "I consumatori potrebbero vedere prezzi più bassi sui beni interessati",
-        "Le autorità doganali applicheranno le norme tariffarie ordinarie invece delle misure speciali"
-      ],
-      "chi_interessa": "imprese che importano/esportano i prodotti interessati tra UE e USA e i consumatori di quei beni",
-      "cosa_devi_fare": "nessuna azione richiesta specifica; è consigliabile verificare se i propri prodotti rientrano nell'elenco",
-      "impatto": "Prezzi più bassi per alcuni beni e minori oneri doganali per le imprese coinvolte, contribuendo a ridurre le tensioni commerciali tra UE e USA.",
-      "data_vigenza": "in vigore da subito",
-      "categoria": "Imprese e Mercato",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601893",
-      "pubblicato": "2026-07-31T00:00:00+02:00",
-      "processed_at": "2026-09-25T09:14:14.485278+00:00"
-    },
-    {
-      "id": "804087352c094e41",
-      "titolo_popolare": "Aggiornamento delle sanzioni UE contro l'Iran",
-      "titolo_originale": "OJ:L_202601866: Council Decision (CFSP) 2026/1866 of 30 July 2026 amending Decision 2010/413/CFSP concerning restrictive measures against Iran",
-      "riassunto_esteso": "Il Consiglio dell'Unione europea ha deciso di modificare la decisione del 2010 che impone misure restrittive contro l'Iran, mantenendo e aggiornando le sanzioni su persone ed entità legati al programma nucleare e ad altre attività preoccupanti. L'atto è stato adottato per rispondere al mancato rispetto da parte di Teheran degli accordi internazionali sul nucleare e per continuare a esercitare pressione diplomatica ed economica. Le modifiche riguardano principalmente l'elenco dei soggetti sottoposti a congelamento dei beni e divieto di viaggio, nonché alcune restrizioni sulle esportazioni di tecnologie sensibili. L'obiettivo è quello di impedire che l'Iran possa sviluppare capacità nucleari militari e di sostenere la stabilità regionale. La decisione entra in forza subito dopo la sua pubblicazione nella Gazzetta ufficiale dell'UE.",
-      "cosa_cambia": [
-        "Nessun cambiamento diretto per i cittadini comuni nella vita quotidiana"
-      ],
-      "chi_interessa": "imprese e istituzioni finanziarie che hanno rapporti commerciali o finanziari con l'Iran",
-      "cosa_devi_fare": "nessuna azione richiesta per i cittadini comuni",
-      "impatto": "L'impatto sui cittadini è minimo; le sanzioni mirano a limitare le attività economiche con l'Iran per promuovere la sicurezza internazionale e prevenire la proliferazione nucleare.",
-      "data_vigenza": "in vigore dal 30 luglio 2026",
-      "categoria": "Altro",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601866",
-      "pubblicato": "2026-07-31T00:00:00+02:00",
-      "processed_at": "2026-09-25T09:14:44.901303+00:00"
-    },
-    {
-      "id": "3c197b5bf6a39e72",
-      "titolo_popolare": "Nuove regole contro la peste suina africana",
-      "titolo_originale": "OJ:L_202601908: Commission Implementing Regulation (EU) 2026/1908 of 30 July 2026 amending Annex I to Implementing Regulation (EU) 2023/594 laying down special disease control measures for African swine fever",
-      "riassunto_esteso": "La Commissione europea ha aggiornato l'elenco delle misure speciali per controllare la peste suina africana, modificando l'Allegato I del regolamento di esecuzione 2023/594. L'aggiornamento introduce nuove zone soggette a restrizioni e definisce più dettagliatamente le attività di sorveglianza, test e movimentazione degli animali. L'obiettivo è impedire la diffusione del virus nei territori dell'UE e proteggere il settore suinicolo. La misura si basa sulle ultime evidenze epidemiologiche e sulle esperienze degli Stati membri colpiti.",
-      "cosa_cambia": [
-        "Vengono aggiunte o modificate le zone dove si applicano restrizioni al movimento dei suini e dei loro prodotti",
-        "Si precisano le procedure di testing e di sorveglianza obbligatorie negli allevamenti nelle zone a rischio",
-        "Vengono introdotti requisiti più stringenti per la pulizia e la disinfezione di veicoli e attrezzature utilizzati negli spostamenti"
-      ],
-      "chi_interessa": "allevatori di suini, veterinari, trasportatori e autorità sanitarie animali",
-      "cosa_devi_fare": "rispettare le nuove disposizioni di movimento, effettuare i test richiesti e segnalare eventuali focolai alle autorità competenti",
-      "impatto": "Riduce il rischio di focolai di peste suina africana, salvaguardando la produzione di carne suina e limitando perdite economiche per gli allevatori.",
-      "data_vigenza": "in vigore dal 30 luglio 2026",
-      "categoria": "Agricoltura e Alimentare",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601908",
-      "pubblicato": "2026-07-31T00:00:00+02:00",
-      "processed_at": "2026-09-25T09:16:46.397186+00:00"
-    },
-    {
-      "id": "70fc14489be68d68",
-      "titolo_popolare": "Nuove regole UE-Turchia per l'origine dei prodotti agricoli",
-      "titolo_originale": "OJ:L_202601903: Decision No 1/2025 of the EU-Türkiye Association Council of 22 December 2025 amending Decision No 1/98 of the EC-Turkey Association Council on the trade regime for agricultural products, by replacing Protocol 3 thereto concerning the definition of the concept of ‘originating products’ and methods of administrative cooperation [2026/1903]",
-      "riassunto_esteso": "La decisione modifica l'accordo di associazione UE-Turchia aggiornando le norme che definiscono quando un prodotto agricolo è considerato 'originario' e quindi beneficia dei dazi agevolati. Viene sostituito il Protocollo 3, che conteneva le definizioni di origine e le procedure di cooperazione amministrativa tra le autorità doganali delle due parti. L'obiettivo è rendere più chiaro e trasparente il criterio di origine, riducendo il rischio di contestazioni doganali e facilitando gli scambi. Le nuove disposizioni si applicano a tutti i prodotti agricoli oggetto dell'accordo di libero scambio tra UE e Turchia. In pratica, gli operatori dovranno verificare che i loro prodotti rispettino le nuove regole per poter usufruire del trattamento tariffario preferenziale.",
-      "cosa_cambia": [
-        "Nuova definizione più dettagliata di 'prodotto originario' per i beni agricoli scambiati tra UE e Turchia",
-        "Aggiornamento delle procedure di cooperazione amministrativa tra le autorità doganali delle due parti",
-        "Possibile modifica della documentazione necessaria per dimostrare l'origine dei prodotti"
-      ],
-      "chi_interessa": "imprese che esportano o importano prodotti agricoli tra l'Unione Europea e la Turchia",
-      "cosa_devi_fare": "verificare che i propri prodotti rispettino le nuove regole di origine e aggiornare eventualmente la documentazione doganale",
-      "impatto": "Le imprese potrebbero vedere cambiare i dazi applicabili sui loro prodotti agricoli, con possibili risparmi o nuovi costi a seconda del rispetto delle nuove regole. Maggiore certezza giuridica riduce il rischio di contestazioni e ritardi alle frontiere.",
-      "data_vigenza": "in vigore dalla pubblicazione nella Gazzetta UE (22 dicembre 2025)",
-      "categoria": "Agricoltura e Alimentare",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601903",
-      "pubblicato": "2026-07-31T00:00:00+02:00",
-      "processed_at": "2026-09-26T08:55:53.463009+00:00"
     },
     {
       "id": "bb68323283680c7d",
