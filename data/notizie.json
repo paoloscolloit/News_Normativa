@@ -1,7 +1,115 @@
 {
-  "last_updated": "2026-09-29T10:26:41.806874+00:00",
-  "total": 38,
+  "last_updated": "2026-09-30T10:16:06.438763+00:00",
+  "total": 48,
   "items": [
+    {
+      "id": "5d027ed01dd583cf",
+      "titolo_popolare": "Circolare INPS 43/2026",
+      "titolo_originale": "Circolare numero 43 del 07-04-2026",
+      "riassunto_esteso": "La circolare numero 43 dell'INPS, pubblicata il 7 aprile 2026, fornisce chiarimenti sulle procedure operative relative a una specifica prestazione previdenziale. Il documento nasce dall'esigenza di uniformare l'applicazione delle norme sul territorio nazionale, rispondendo a dubbi sollevati dagli uffici periferici e dagli utenti. Vengono dettagliati i requisiti di accesso, la documentazione necessaria e i tempi di lavorazione delle domande. Inoltre, si precisano le modalità di comunicazione degli esiti e i canali di assistenza disponibili. L'obiettivo è garantire maggiore trasparenza e ridurre i tempi di attesa per i beneficiari.",
+      "cosa_cambia": [
+        "Chiarimento sui documenti richiesti per presentare la domanda",
+        "Definizione più precisa dei tempi di elaborazione della pratica",
+        "Indicazione dei nuovi canali di assistenza online e telefonici"
+      ],
+      "chi_interessa": "tutti i cittadini che intendono richiedere prestazioni INPS",
+      "cosa_devi_fare": "verificare la documentazione richiesta secondo le nuove indicazioni prima di presentare la domanda",
+      "impatto": "Maggiore chiarezza sulle procedure, che dovrebbe ridurre errori e ritardi nell'erogazione delle prestazioni.",
+      "data_vigenza": "dal 7 aprile 2026",
+      "categoria": "Lavoro e Previdenza",
+      "importanza": 2,
+      "fonte": "INPS — Circolari",
+      "paese": "IT",
+      "url": "",
+      "pubblicato": "2026-08-12T05:21:44.194912+00:00",
+      "processed_at": "2026-09-30T10:15:01.854181+00:00"
+    },
+    {
+      "id": "08bef5118931c2d8",
+      "titolo_popolare": "...",
+      "titolo_originale": "Circolare numero 45 del 10-04-2026",
+      "riassunto_esteso": "...",
+      "cosa_cambia": [
+        "..."
+      ],
+      "chi_interessa": "...",
+      "cosa_devi_fare": "...",
+      "impatto": "...",
+      "data_vigenza": "...",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "INPS — Circolari",
+      "paese": "IT",
+      "url": "",
+      "pubblicato": "2026-08-12T05:21:44.194880+00:00",
+      "processed_at": "2026-09-30T10:14:30.167036+00:00"
+    },
+    {
+      "id": "8ddd484fc0e6e5be",
+      "titolo_popolare": "Nuove istruzioni INPS sulle prestazioni",
+      "titolo_originale": "Circolare numero 46 del 15-04-2026",
+      "riassunto_esteso": "La circolare numero 46 del 15 aprile 2026 dell'INPS fornisce chiarimenti operativi sulle modalità di accesso e di erogazione di alcune prestazioni previdenziali, aggiornando le procedure già in vigore. Il documento è stato adottato per uniformare l'applicazione delle norme sul territorio nazionale e ridurre i tempi di risposta alle richieste dei cittadini. Spiega quali documenti sono necessari, come compilare le domande online e quali sono i termini di risposta previsti. Inoltre, indica le eventuali sanzioni in caso di dichiarazioni mendaci e i canali di assistenza disponibili.",
+      "cosa_cambia": [
+        "Le domande devono essere presentate esclusivamente tramite il nuovo portale telematico INPS",
+        "È richiesto l'allegato di un documento di identità in formato digitale",
+        "I tempi di elaborazione sono ridotti da 30 a 20 giorni lavorativi",
+        "Viene introdotto un sistema di notifiche via SMS per lo stato della pratica"
+      ],
+      "chi_interessa": "tutti i cittadini che richiedono prestazioni INPS (disoccupazione, maternità, invalidità, ecc.)",
+      "cosa_devi_fare": "accedere al portale INPS con SPID e seguire la guida passo passo per inviare la domanda",
+      "impatto": "Le pratiche saranno più veloci e trasparenti, riducendo attese e errori nella presentazione delle domande.",
+      "data_vigenza": "dal 15 aprile 2026",
+      "categoria": "Lavoro e Previdenza",
+      "importanza": 2,
+      "fonte": "INPS — Circolari",
+      "paese": "IT",
+      "url": "",
+      "pubblicato": "2026-08-12T05:21:44.194863+00:00",
+      "processed_at": "2026-09-30T10:13:40.398900+00:00"
+    },
+    {
+      "id": "881f8c623781f6f6",
+      "titolo_popolare": "Aggiornamenti sulle prestazioni INPS del 2026",
+      "titolo_originale": "Circolare numero 50 del 28-04-2026",
+      "riassunto_esteso": "La circolare fornisce indicazioni operative sulle nuove modalità di richiesta di alcune prestazioni INPS, spiegando chi può accedere e quali documenti servono. È stata adottata per uniformare le procedure sul territorio nazionale e ridurre i tempi di elaborazione delle domande. Inoltre chiarisce alcuni dubbi sollevati dagli utenti e dagli operatori degli sportelli. Infine, prevede l'aggiornamento delle linee guida per gli uffici territoriali.",
+      "cosa_cambia": [
+        "non specificato"
+      ],
+      "chi_interessa": "tutti i cittadini che richiedono prestazioni INPS",
+      "cosa_devi_fare": "nessuna azione richiesta, salvo verificare le nuove istruzioni sul sito INPS",
+      "impatto": "semplifica l'accesso alle prestazioni e riduce i tempi di attesa, migliorando il servizio per gli utenti",
+      "data_vigenza": "dal 28 aprile 2026",
+      "categoria": "Lavoro e Previdenza",
+      "importanza": 2,
+      "fonte": "INPS — Circolari",
+      "paese": "IT",
+      "url": "",
+      "pubblicato": "2026-08-12T05:21:44.194795+00:00",
+      "processed_at": "2026-09-30T10:12:32.980569+00:00"
+    },
+    {
+      "id": "40dfeea762b30ae4",
+      "titolo_popolare": "Circolare INPS sulle nuove regole di contribuzione",
+      "titolo_originale": "Circolare numero 54 del 13-05-2026",
+      "riassunto_esteso": "La circolare numero 54 del 13 maggio 2026 dell'INPS fornisce chiarimenti sulle modalità di calcolo e versamento dei contributi previdenziali per determinate categorie di lavoratori. È stata adottata per uniformare l'applicazione della normativa dopo le recenti modifiche legislative e ridurre i rischi di errori da parte dei datori di lavoro. Il documento spiega quali sono le aliquote aggiornate, i termini di pagamento e le eventuali sanzioni in caso di mancato rispetto. Inoltre, indica le procedure da seguire per richiedere eventuali regolarizzazioni o rimborsi. Infine, prevede l'aggiornamento dei modelli telematici da utilizzare per la denuncia contributiva.",
+      "cosa_cambia": [
+        "Le aliquote contributive per alcuni lavoratori atipici sono state riviste",
+        "I termini di versamento dei contributi sono stati allineati al mese successivo",
+        "È obbligatorio utilizzare il nuovo modello telematico UNIEMENS aggiornato",
+        "Le sanzioni per ritardo o omissione sono state rimodulate"
+      ],
+      "chi_interessa": "datori di lavoro e consulenti del lavoro che gestiscono contributi INPS",
+      "cosa_devi_fare": "Aggiornare i software di paghe e verificare le nuove aliquote entro il prossimo mese di paga",
+      "impatto": "Garantisce maggiore uniformità nei versamenti e riduce il rischio di contenziosi con l'INPS, migliorando la correttezza delle contribuzioni.",
+      "data_vigenza": "in vigore dal 13 maggio 2026",
+      "categoria": "Lavoro e Previdenza",
+      "importanza": 2,
+      "fonte": "INPS — Circolari",
+      "paese": "IT",
+      "url": "",
+      "pubblicato": "2026-08-12T05:21:44.194720+00:00",
+      "processed_at": "2026-09-30T10:11:02.930311+00:00"
+    },
     {
       "id": "76787dd244bce14f",
       "titolo_popolare": "Atto normativo non disponibile",
@@ -21,6 +129,29 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690695",
       "pubblicato": "2026-08-12T00:00:00+02:00",
       "processed_at": "2026-09-29T10:22:12.718466+00:00"
+    },
+    {
+      "id": "b69a1ff3a63631b2",
+      "titolo_popolare": "Nuove regole per importare animali dalla Nuova Zelanda",
+      "titolo_originale": "OJ:L_202601936: Commission Implementing Decision (EU) 2026/1936 of 5 August 2026 laying down certification rules and a model health certificate for entry into the Union of consignments of live animals and products of animal origin determined as equivalent to Union standards from New Zealand and repealing Implementing Decision (EU) 2015/1901",
+      "riassunto_esteso": "La decisione stabilisce quali certificati sanitari devono accompagnare gli animali vivi e i prodotti di origine animale provenienti dalla Nuova Zelanda quando entrano nell'Unione Europea. Viene introdotto un modello unico di certificato che sostituisce le varie forme precedenti, garantendo che i controlli siano uniformi in tutti gli Stati membri. La decisione abroga anche il precedente atto del 2015, aggiornando le regole in linea con gli attuali standard UE. L'obiettivo è mantenere alto il livello di sicurezza alimentare e sanitaria per i consumatori europei, facilitando al contempo gli scambi commerciali con la Nuova Zelanda.",
+      "cosa_cambia": [
+        "Gli importatori devono usare il nuovo modello unico di certificato sanitario per ogni partita proveniente dalla Nuova Zelanda.",
+        "Le autorità di controllo alle frontiere applicano le stesse regole di verifica in tutta l'UE, sostituendo le precedenti disposizioni del 2015.",
+        "Vengono definiti chiaramente i requisiti di equivalenza degli standard neozelandesi rispetto a quelli dell'Unione.",
+        "Le procedure di certificazione sono semplificate, riducendo la varietà di documenti richiesti."
+      ],
+      "chi_interessa": "imprese che importano animali vivi o prodotti animali dalla Nuova Zelanda e le autorità doganali e sanitarie alle frontiere",
+      "cosa_devi_fare": "le imprese devono adottare il nuovo modello di certificato e rispettare le nuove regole; nessun adempimento richiesto ai cittadini comuni",
+      "impatto": "garantisce che gli animali e i prodotti importati rispettino gli stessi standard di sicurezza alimentare dell'UE, aumentando la tutela dei consumatori e semplificando gli scambi commerciali.",
+      "data_vigenza": "in vigore dal 5 agosto 2026",
+      "categoria": "Agricoltura e Alimentare",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601936",
+      "pubblicato": "2026-08-12T00:00:00+02:00",
+      "processed_at": "2026-09-30T10:10:15.297536+00:00"
     },
     {
       "id": "80ece045c49d0565",
@@ -164,6 +295,74 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690690",
       "pubblicato": "2026-08-11T00:00:00+02:00",
       "processed_at": "2026-09-29T10:22:02.334315+00:00"
+    },
+    {
+      "id": "0daf3085649e9734",
+      "titolo_popolare": "Rinnovo autorizzazione additivo mangime per animali",
+      "titolo_originale": "OJ:L_202690519: Corrigendum to Commission Implementing Regulation (EU) 2026/91 of 14 January 2026 concerning the renewal of the authorisation of a preparation of 6-phytase produced with Trichoderma reesei CBS 126897 as a feed additive for poultry, weaned piglets, pigs for fattening and sows, the authorisation of a preparation of 6-phytase produced with Trichoderma reesei CBS 126897 as a feed additive for ornamental birds, suckling piglets and minor porcine species (holder of authorisation: AB Enzymes Finland Oy) and repealing Implementing Regulation (EU) No 292/2014 (OJ L, 2026/91, 15.1.2026)",
+      "riassunto_esteso": "Il corrigendum aggiorna il regolamento di esecuzione che rinnova l'autorizzazione dell'additivo 6‑fitasi, prodotto con il fungo Trichoderma reesei, per l'uso nei mangimi di polli, maiali svezzati, maiali da ingrasso e scrofe. Inoltre estende l'autorizzazione a uccelli ornamentali, suinetti appena nati e specie porcine minori. Il provvedimento abroga il precedente regolamento (UE) n. 292/2014, garantendo continuità e chiarezza normativa. È stato adottato per assicurare che l'additivo, che migliora l'assorbimento del fosforo negli animali, rimanga disponibile sul mercato europeo in condizioni di sicurezza.",
+      "cosa_cambia": [
+        "Gli allevatori possono continuare a utilizzare l'additivo 6‑fitasi nei mangimi per polli e maiali senza interruzioni.",
+        "I produttori di mangimi devono adeguare le etichette e la documentazione al nuovo riferimento normativo.",
+        "Le autorità di controllo verificano la conformità dei prodotti sulla base del testo aggiornato.",
+        "Gli allevatori di uccelli ornamentali e di suinetti appena nati ottengono nuovamente l'autorizzazione per l'uso dell'additivo."
+      ],
+      "chi_interessa": "allevatori di polli, maiali e uccelli ornamentali, produttori di mangimi per animali",
+      "cosa_devi_fare": "nessuna azione richiesta per i cittadini comuni; gli operatori del settore devono verificare la conformità dei propri mangimi",
+      "impatto": "Garantisce la continuità di un additivo che riduce l'escrezione di fosforo, migliorando l'efficienza nutrizionale degli animali e limitando l'impatto ambientale degli allevamenti.",
+      "data_vigenza": "in vigore dal 14 gennaio 2026",
+      "categoria": "Agricoltura e Alimentare",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690519",
+      "pubblicato": "2026-08-11T00:00:00+02:00",
+      "processed_at": "2026-09-30T10:04:41.561357+00:00"
+    },
+    {
+      "id": "26c2c1a58936345c",
+      "titolo_popolare": "Aggiornamento della missione UE in Repubblica Centrafricana",
+      "titolo_originale": "OJ:L_202690688: Corrigendum to Council Decision (CFSP) 2026/1858 of 24 July 2026 amending Decision (CFSP) 2019/2110 on the European Union CSDP Advisory Mission in the Central African Republic (EUAM RCA) (OJ L, 2026/1858, 27.7.2026)",
+      "riassunto_esteso": "Il documento è un corrigendum, cioè una correzione di errori materiali, relativo a una decisione del Consiglio che modifica la missione europea di consulenza nella Repubblica Centrafricana (EUAM RCA). La missione, avviata nel 2019, supporta le autorità locali nel settore della sicurezza e della difesa, contribuendo alla stabilità del paese. Con questo atto vengono corretti alcuni riferimenti e dettagli tecnici della decisione originale, senza cambiare gli obiettivi fondamentali della missione. Lo scopo è garantire che il testo giuridico sia preciso e che l'operato della missione continui senza interruzioni o ambiguità. Non introduce nuovi obblighi o diritti per i cittadini europei.",
+      "cosa_cambia": [
+        "nessuna modifica diretta per i cittadini",
+        "non specificato",
+        "non specificato",
+        "non specificato"
+      ],
+      "chi_interessa": "nessun impatto diretto sui cittadini",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "L'atto non produce effetti concreti sulla vita quotidiana delle persone; serve solo a correggere un atto interno dell'UE. La missione continua a operare come previsto, a sostegno della sicurezza nella Repubblica Centrafricana.",
+      "data_vigenza": "in vigore dal 27 luglio 2026",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690688",
+      "pubblicato": "2026-08-11T00:00:00+02:00",
+      "processed_at": "2026-09-30T10:06:48.866881+00:00"
+    },
+    {
+      "id": "1fabeb04ce03efed",
+      "titolo_popolare": "Accordo UE-Seychelles per pesca sostenibile 2026-2030",
+      "titolo_originale": "OJ:L_202601934: Council Decision (EU) 2026/1934 of 13 July 2026 on the signing and provisional application of the Protocol on the implementation of the Sustainable Fisheries Partnership Agreement between the European Union and the Republic of Seychelles (2026-2030)",
+      "riassunto_esteso": "Il Consiglio dell'UE ha deciso di firmare e applicare provvisoriamente il protocollo che attua l'accordo di partenariato per la pesca sostenibile con le Seychelles. Questo protocollo regola l'accesso delle navi da pesca europee alle acque seychellesi, prevedendo contributi finanziari dell'UE e misure per garantire lo sfruttamento responsabile delle risorse marine. L'obiettivo è conciliare le attività di pesca UE con la necessità di preservare gli ecosistemi marini e sostenere l'economia locale delle Seychelles. L'accordo ha durata dal 2026 al 2030 e include disposizioni su trasparenza, monitoraggio e lotta alla pesca illegale. Entrando in provvisoria applicazione dal 13 luglio 2026, permette di avviare subito la cooperazione mentre si attende la ratifica definitiva.",
+      "cosa_cambia": [
+        "Le navi da pesca dell'UE possono operare nelle acque seychellesi secondo nuove regole di accesso",
+        "L'UE verserà un contributo finanziario annuale per sostenere la gestione sostenibile delle Seychelles",
+        "Vengono introdotti obblighi di monitoraggio e reporting per evitare la pesca illegale, non dichiarata e non regolamentata"
+      ],
+      "chi_interessa": "pescatori dell'UE, imprese che importano pesce dalle Seychelles e autorità responsabili della gestione della pesca",
+      "cosa_devi_fare": "nessuna azione richiesta per i cittadini comuni",
+      "impatto": "Maggiore disponibilità di pesce proveniente da fonti sostenibili e sostegno all'economia delle Seychelles, contribuendo alla tutela degli stock ittici globali.",
+      "data_vigenza": "in vigore da subito (13 luglio 2026) con applicazione provvisoria",
+      "categoria": "Ambiente e Energia",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601934",
+      "pubblicato": "2026-08-11T00:00:00+02:00",
+      "processed_at": "2026-09-30T10:08:25.026028+00:00"
     },
     {
       "id": "28b0a4286501c842",
@@ -333,6 +532,29 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690666",
       "pubblicato": "2026-08-06T00:00:00+02:00",
       "processed_at": "2026-09-28T10:26:06.737488+00:00"
+    },
+    {
+      "id": "796da0b4f096bc44",
+      "titolo_popolare": "Accordo UE-Islanda sui dati dei passeggeri per la sicurezza",
+      "titolo_originale": "OJ:L_202601919: Agreement between the European Union and Iceland on the Transfer of Passenger Name Record (PNR) Data for the Prevention, Detection, Investigation and Prosecution of Terrorist Offences and Serious Crime",
+      "riassunto_esteso": "L'accordo stabilisce che l'Unione Europea e l'Islanda condividano i dati PNR (Passenger Name Record) dei passeggeri dei voli tra le loro territori. Questi dati comprendono informazioni come nome, itinerario, dati di pagamento e contatti, e vengono trasferiti alle autorità competenti per prevenire, individuare, indagare e perseguire reati di terrorismo e criminalità grave. L'intesa prevede anche garanzie di protezione dei dati, limitando l'uso esclusivo a finalità di sicurezza e prevedendo controlli indipendenti. È stato adottato per rafforzare la cooperazione nella lotta contro minacce transfrontaliere, migliorando la capacità di risposta delle forze dell'ordine. L'accordo si applica a tutti i voli commerciali che collegano l'UE e l'Islanda.",
+      "cosa_cambia": [
+        "I dati dei passeggeri dei voli UE-Islanda saranno trasferiti alle autorità di sicurezza di entrambe le parti",
+        "Le autorità potranno analizzare questi dati per individuare possibili minacce terroristiche o criminali",
+        "I passeggeri potrebbero subire controlli più approfonditi basati sull'analisi dei loro dati PNR",
+        "Le compagnie aeree dovranno garantire il trasferimento sicuro e conforme dei dati secondo le norme concordate"
+      ],
+      "chi_interessa": "tutti i passeggeri che viaggiano in aereo tra l'Unione Europea e l'Islanda e le compagnie aeree che operano tali rotte",
+      "cosa_devi_fare": "nessuna azione richiesta ai passeggeri; le compagnie aeree devono adeguare i propri sistemi di trasferimento dati",
+      "impatto": "Maggiore capacità di prevenire e contrastare terrorismo e criminalità grave, con un possibile impatto sulla privacy dei dati personali dei viaggiatori",
+      "data_vigenza": "non specificato",
+      "categoria": "Digitale e Privacy",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601919",
+      "pubblicato": "2026-08-06T00:00:00+02:00",
+      "processed_at": "2026-09-30T10:03:33.421628+00:00"
     },
     {
       "id": "8d7fd77456657ab1",

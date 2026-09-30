@@ -1,113 +1,5 @@
 [
   {
-    "id": "d9a91bb157d9220b",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601160: Commission Delegated Regulation (EU) 2026/1160 of 28 May 2026 amending Delegated Regulation (EU) 2022/127 supplementing Regulation (EU) 2021/2116 of the European Parliament and of the Council, as regards payments of advances for interventions in the wine sector",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601160",
-    "pubblicato": "2026-08-06T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-08-06T06:20:07.267227+00:00",
-    "processed": true
-  },
-  {
-    "id": "17fd984ee55cb83c",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202690677: Corrigendum to Political and Security Committee Decision (CFSP) 2026/1781 of 14 July 2026 on the appointment of the Head of Mission of the European Union Rule of Law Mission in Kosovo (EULEX KOSOVO) (EULEX KOSOVO/2/2026) (OJ L, 2026/1781, 17.7.2026)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690677",
-    "pubblicato": "2026-08-06T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-08-06T06:20:07.267356+00:00",
-    "processed": false
-  },
-  {
-    "id": "9d7f10c718e9acdb",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601914: Commission Implementing Regulation (EU) 2026/1914 of 5 August 2026 imposing a provisional countervailing duty on imports of certain lightweight thermal paper originating in the People’s Republic of China",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601914",
-    "pubblicato": "2026-08-06T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-08-06T06:20:07.267459+00:00",
-    "processed": false
-  },
-  {
-    "id": "ae63d90648a901af",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601916: Council Decision (EU) 2026/1916 of 4 June 2026 on the conclusion, on behalf of the Union, of the Agreement between the European Union and the Kingdom of Norway on the transfer of passenger name record (PNR) data to prevent, detect, investigate and prosecute terrorist offences and serious crime",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601916",
-    "pubblicato": "2026-08-06T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-08-06T06:20:07.267559+00:00",
-    "processed": true
-  },
-  {
-    "id": "f742ee2c395987bd",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601927: Commission Implementing Regulation (EU) 2026/1927 of 31 July 2026 on the registration of the geographical indication Kiełbasa pradziada z Dukli (PGI) in the Union register of geographical indications pursuant to Regulation (EU) 2024/1143 of the European Parliament and of the Council",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601927",
-    "pubblicato": "2026-08-06T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-08-06T06:20:07.267659+00:00",
-    "processed": false
-  },
-  {
-    "id": "b0f9d87bc17cc58d",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202690674:            Rectificatif à la décision d’exécution (UE) 2026/1428 de la Commission du 1er juillet 2026 modifiant l’annexe de la décision 2002/994/CE relative à certaines mesures de protection à l’égard des produits d’origine animale importés de Chine (JO L, 2026/1428, 2.7.2026)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690674",
-    "pubblicato": "2026-08-06T00:00:00+02:00",
-    "summary_raw": "This document does not exist in English.",
-    "fetched_at": "2026-08-06T06:20:07.267763+00:00",
-    "processed": false
-  },
-  {
-    "id": "62940038d38c5763",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202690676: Corrigendum to Council Regulation (EU) 2026/1844 of 23 July 2026 amending Regulation (EU) No 269/2014 concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine (OJ L, 2026/1844, 23.7.2026)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690676",
-    "pubblicato": "2026-08-06T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-08-06T06:20:07.267862+00:00",
-    "processed": true
-  },
-  {
-    "id": "e7cacc13e720b1fe",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601937: Commission Implementing Decision (EU) 2026/1937 of 5 August 2026 concerning certain interim emergency measures relating to African swine fever in Finland (notified under document C(2026) 5722)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601937",
-    "pubblicato": "2026-08-06T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-08-06T06:20:07.267959+00:00",
-    "processed": false
-  },
-  {
-    "id": "0d9be2a28b27abf3",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202690666",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690666",
-    "pubblicato": "2026-08-06T00:00:00+02:00",
-    "summary_raw": "This document does not exist in English.",
-    "fetched_at": "2026-08-06T06:20:07.268056+00:00",
-    "processed": true
-  },
-  {
     "id": "796da0b4f096bc44",
     "source_id": "eurlex_oj_l",
     "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
@@ -117,7 +9,7 @@
     "pubblicato": "2026-08-06T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-08-06T06:20:07.268155+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "de24f22ee8945c47",
@@ -189,7 +81,7 @@
     "pubblicato": "2026-08-11T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-08-11T04:56:34.260789+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "9d7be39362daad72",
@@ -285,7 +177,7 @@
     "pubblicato": "2026-08-11T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-08-11T04:56:34.261619+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "5b11bae5e726f4be",
@@ -321,7 +213,7 @@
     "pubblicato": "2026-08-11T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-08-11T04:56:34.261919+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "629c4d5df5d6d3ce",
@@ -381,7 +273,7 @@
     "pubblicato": "2026-08-12T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-08-12T05:21:43.285965+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "071ed9367037a834",
@@ -405,7 +297,7 @@
     "pubblicato": "2026-08-12T05:21:44.194720+00:00",
     "summary_raw": "",
     "fetched_at": "2026-08-12T05:21:44.194729+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "2d7e33c1d65e37d4",
@@ -453,7 +345,7 @@
     "pubblicato": "2026-08-12T05:21:44.194795+00:00",
     "summary_raw": "",
     "fetched_at": "2026-08-12T05:21:44.194803+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "943da7bb66c7c1de",
@@ -501,7 +393,7 @@
     "pubblicato": "2026-08-12T05:21:44.194863+00:00",
     "summary_raw": "",
     "fetched_at": "2026-08-12T05:21:44.194871+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "08bef5118931c2d8",
@@ -513,7 +405,7 @@
     "pubblicato": "2026-08-12T05:21:44.194880+00:00",
     "summary_raw": "",
     "fetched_at": "2026-08-12T05:21:44.194887+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "d541fcd1045c7ad7",
@@ -537,7 +429,7 @@
     "pubblicato": "2026-08-12T05:21:44.194912+00:00",
     "summary_raw": "",
     "fetched_at": "2026-08-12T05:21:44.194920+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "910bda148aad71ab",
@@ -5997,6 +5889,114 @@
     "pubblicato": "2026-09-29T00:00:00+02:00",
     "summary_raw": "The corrigendum does not concern the English version.",
     "fetched_at": "2026-09-29T10:11:09.188115+00:00",
+    "processed": false
+  },
+  {
+    "id": "1b4503ad4ef994b4",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D2183: Council Decision (EU) 2026/2183 of 22 September 2026 appointing a member, proposed by the Federal Republic of Germany, of the Committee of the Regions",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2183",
+    "pubblicato": "2026-09-30T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-09-30T10:03:02.557510+00:00",
+    "processed": false
+  },
+  {
+    "id": "2a435419450943f4",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D2189: Commission Implementing Decision (EU) 2026/2189 of 24 September 2026 laying down rules for the application of Directive (EU) 2016/797 of the European Parliament and of the Council as regards a request from Greece not to apply the requirement to install ETCS on board vehicles set out in Commission Implementing Regulation (EU) 2023/1695 (notified under document C(2026) 6839)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2189",
+    "pubblicato": "2026-09-30T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-09-30T10:03:02.557644+00:00",
+    "processed": false
+  },
+  {
+    "id": "a5bd7634855a2241",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R2162: Commission Implementing Regulation (EU) 2026/2162 of 29 September 2026 making imports of solid glass microspheres (commercially known as glass beads) originating in the People’s Republic of China subject to registration with a view to allowing the levy of anti-dumping duties on the imports subject to registration",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2162",
+    "pubblicato": "2026-09-30T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-09-30T10:03:02.557756+00:00",
+    "processed": false
+  },
+  {
+    "id": "6a6f1427bad0077c",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D2182: Council Decision (EU) 2026/2182 of 22 September 2026 appointing two members and two alternate members, proposed by the Grand Duchy of Luxembourg, of the Committee of the Regions",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2182",
+    "pubblicato": "2026-09-30T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-09-30T10:03:02.557862+00:00",
+    "processed": false
+  },
+  {
+    "id": "44ef2f3398c2d4d3",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32024L1174R(01)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32024L1174R(01)",
+    "pubblicato": "2026-09-30T00:00:00+02:00",
+    "summary_raw": "The corrigendum does not concern the English version.",
+    "fetched_at": "2026-09-30T10:03:02.557970+00:00",
+    "processed": false
+  },
+  {
+    "id": "17735cb1e13f6204",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D2181: Council Decision (EU) 2026/2181 of 22 September 2026 appointing a member and an alternate member, proposed by the Federal Republic of Germany, of the Committee of the Regions",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2181",
+    "pubblicato": "2026-09-30T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-09-30T10:03:02.558113+00:00",
+    "processed": false
+  },
+  {
+    "id": "ded44c6f3c6ebfa9",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D2194: Council Implementing Decision (EU) 2026/2194 of 22 September 2026 authorising Spain to apply reduced rates of excise duty to gas oil and unleaded petrol used as motor fuels, pursuant to Article 19 of Directive 2003/96/EC",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2194",
+    "pubblicato": "2026-09-30T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-09-30T10:03:02.558230+00:00",
+    "processed": false
+  },
+  {
+    "id": "a9b60088430c92ce",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D2186: Commission Implementing Decision (EU) 2026/2186 of 24 September 2026 amending the Annexes to Implementing Decision (EU) 2025/1582 concerning certain emergency measures relating to infection with lumpy skin disease virus in Italy (notified under document C(2026) 6900)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2186",
+    "pubblicato": "2026-09-30T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-09-30T10:03:02.558336+00:00",
+    "processed": false
+  },
+  {
+    "id": "b37ccb09dfcddf16",
+    "source_id": "agenzia_entrate",
+    "fonte": "Agenzia delle Entrate",
+    "paese": "IT",
+    "titolo_originale": "Interpello: Spese sanitarie rimborsate dall'ente bilaterale di categoria ai propri iscritti – Comunicazione ai sensi dell'articolo 78, comma 25–bis, della l. n. 413 del 1991 (risposta n. 178)",
+    "url": "https://www.agenziaentrate.gov.it/portale/documents/20143/10289089/Risposta+n.+178_2026/35fb5eea-40dd-a8f3-8d22-750f5391b5aa",
+    "pubblicato": "2026-09-30T00:00:00+00:00",
+    "summary_raw": "",
+    "fetched_at": "2026-09-30T10:03:03.188635+00:00",
     "processed": false
   }
 ]
