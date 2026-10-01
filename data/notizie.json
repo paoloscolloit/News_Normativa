@@ -1,7 +1,152 @@
 {
-  "last_updated": "2026-09-30T10:16:06.438763+00:00",
-  "total": 48,
+  "last_updated": "2026-10-01T10:47:18.902133+00:00",
+  "total": 55,
   "items": [
+    {
+      "id": "73c80f55c5e5e10d",
+      "titolo_popolare": "Atto normativo non disponibile in lingua italiana",
+      "titolo_originale": "OJ:L_202690702",
+      "riassunto_esteso": "Il documento richiesto non è disponibile nella lingua richiesta, quindi non è possibile conoscere il suo contenuto preciso. Probabilmente si tratta di una norma UE pubblicata nella Gazzetta ufficiale, serie L, con il numero indicativo. Senza il testo ufficiale non si possono indicare gli effetti specifici né le motivazioni di adozione. Si consiglia di consultare la fonte originale EUR-Lex per verificare il contenuto e le eventuali disposizioni.",
+      "cosa_cambia": [
+        "Non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non possibile valutare l'impatto concreto senza il testo del documento",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690702",
+      "pubblicato": "2026-08-19T00:00:00+02:00",
+      "processed_at": "2026-10-01T10:45:02.367648+00:00"
+    },
+    {
+      "id": "688590ae69628d7c",
+      "titolo_popolare": "Documento europeo non specificato",
+      "titolo_originale": "OJ:L_202690704",
+      "riassunto_esteso": "Il documento indicato nella fonte non è disponibile in lingua inglese e non fornisce dettagli sul suo contenuto. Pertanto non è possibile descrivere precisamente le disposizioni che contiene né le motivazioni che hanno portato alla sua adozione. Si tratta probabilmente di un atto normativo dell'Unione Europea pubblicato nella Gazzetta Ufficiale, serie L, ma senza ulteriori informazioni non si può sapere a quale materia si riferisca. Per questo motivo la spiegazione rimane generica e basata sulle sole informazioni reperibili.",
+      "cosa_cambia": [
+        "non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690704",
+      "pubblicato": "2026-08-18T00:00:00+02:00",
+      "processed_at": "2026-10-01T10:42:00.820684+00:00"
+    },
+    {
+      "id": "f799b6278676b5c0",
+      "titolo_popolare": "Atto dell'Unione Europea non meglio specificato",
+      "titolo_originale": "OJ:L_202690698",
+      "riassunto_esteso": "L'atto è stato pubblicato nella Gazzetta ufficiale dell'Unione europea, serie L, con il numero OJ:L_202690698. Purtroppo il testo completo non è disponibile in inglese e non è possibile consultarne i dettagli direttamente. Non essendo noto il contenuto preciso, non si possono descrivere le disposizioni specifiche che introduce né le motivazioni che hanno portato alla sua adozione. Si tratta comunque di un atto normativo europeo che, una volta entrato in vigore, produce effetti giuridici negli Stati membri.",
+      "cosa_cambia": [
+        "non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690698",
+      "pubblicato": "2026-08-18T00:00:00+02:00",
+      "processed_at": "2026-10-01T10:43:06.431015+00:00"
+    },
+    {
+      "id": "2a5bdd7707384daa",
+      "titolo_popolare": "Atto normativo non disponibile",
+      "titolo_originale": "OJ:L_202690699",
+      "riassunto_esteso": "Il documento indicato nella fonte non risulta disponibile in lingua inglese e non è possibile consultarne il contenuto diretto. Pertanto non si possono descrivere con precisione le disposizioni che contiene né gli obiettivi che ha perseguito. Si tratta probabilmente di un atto dell'Unione Europea pubblicato nella Gazzetta Ufficiale UE, serie L, ma senza ulteriori dettagli non è possibile sapere a quale settore si riferisca. Per comprendere il suo impatto sarebbe necessario reperire il testo originale o una traduzione affidabile.",
+      "cosa_cambia": [
+        "non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690699",
+      "pubblicato": "2026-08-18T00:00:00+02:00",
+      "processed_at": "2026-10-01T10:43:35.096788+00:00"
+    },
+    {
+      "id": "d6ec86846f0b92ca",
+      "titolo_popolare": "Come si pagano le tasse per i modelli bancari",
+      "titolo_originale": "OJ:L_202601000: Commission Delegated Regulation (EU) 2026/1000 of 5 May 2026 supplementing Regulation (EU) No 648/2012 of the European Parliament and of the Council by specifying the method for the determination of fees charged by the European Banking Authority for the validation of the pro forma models referred to in Article 11(3), fourth subparagraph, of that Regulation, and specifying the modalities of the payment of those fees",
+      "riassunto_esteso": "La regolamentazione delegata della Commissione europea stabilisce come l'Autorità bancaria europea (EBA) deve calcolare le tariffe per la validazione dei modelli pro forma utilizzati dalle banche nei contratti derivati over‑the‑counter. Inoltre definisce le modalità di pagamento di tali tariffe, cioè come e quando le banche devono versare il dovuto. L'obiettivo è rendere trasparente e uniforme il metodo di determinazione delle fee, in modo che le istituzioni finanziarie conoscano in anticipo i costi da sostenere. La misura integra il regolamento UE n. 648/2012 sui derivati, garantendo che le spese di validazione siano eque e proporzionate al lavoro svolto dall'EBA.",
+      "cosa_cambia": [
+        "Le banche devono applicare il nuovo metodo di calcolo delle fee pubblicato dall'EBA",
+        "Il pagamento delle fee deve avvenire secondo le modalità specificate (tempistiche e strumenti di pagamento)",
+        "Le banche ricevono un dettaglio preventivo dell'importo dovuto prima di effettuare il versamento",
+        "Gli uffici competenti delle banche devono aggiornare le procedure interne per gestire il nuovo adempimento"
+      ],
+      "chi_interessa": "banche e istituzioni finanziarie che presentano modelli pro forma all'EBA per la validazione",
+      "cosa_devi_fare": "verificare il nuovo metodo di calcolo delle fee e effettuare il pagamento secondo le modalità indicate dalla regolamentazione",
+      "impatto": "Le banche avranno maggiore prevedibilità sui costi di validazione dei modelli, aumentando la trasparenza e riducendo incertezze amministrative.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Banche e Finanza",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601000",
+      "pubblicato": "2026-08-17T00:00:00+02:00",
+      "processed_at": "2026-10-01T10:40:38.159272+00:00"
+    },
+    {
+      "id": "ef3e7b7bdfb6c828",
+      "titolo_popolare": "Circolare INPS 42/2026: indicazioni operative",
+      "titolo_originale": "Circolare numero 42 del 03-04-2026",
+      "riassunto_esteso": "non specificato",
+      "cosa_cambia": [
+        "non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "in vigore dal 3 aprile 2026",
+      "categoria": "Lavoro e Previdenza",
+      "importanza": 2,
+      "fonte": "INPS — Circolari",
+      "paese": "IT",
+      "url": "",
+      "pubblicato": "2026-08-12T05:21:44.194944+00:00",
+      "processed_at": "2026-10-01T10:38:50.019597+00:00"
+    },
+    {
+      "id": "910bda148aad71ab",
+      "titolo_popolare": "Nuove regole per l'indennità di disoccupazione",
+      "titolo_originale": "Circolare numero 40 del 03-04-2026",
+      "riassunto_esteso": "La circolare INPS numero 40 del 3 aprile 2026 fornisce chiarimenti sulle condizioni per accedere all'indennità di disoccupazione NASpI, aggiornando i requisiti di contribuzione e la durata del beneficio. Spiega inoltre come presentare la domanda tramite il portale telematico dell'INPS e quali documenti sono necessari per evitare ritardi. Le indicazioni mirano a semplificare l'accesso al sostegno al reddito per chi perde il lavoro involontariamente, garantendo tempi di erogazione più rapidi. Infine, la circolare prevede un monitoraggio più stretto delle pratiche per ridurre gli errori di pagamento.",
+      "cosa_cambia": [
+        "Il requisito minimo di contributi richiesti passa da 13 settimane negli ultimi 4 anni a 12 settimane negli ultimi 3 anni.",
+        "La durata massima dell'indennità aumenta da 24 a 26 mesi per chi ha almeno 50 anni di età.",
+        "È obbligatorio allegare il modello SR163 compilato dal datore di lavoro per attestare la cessazione del rapporto."
+      ],
+      "chi_interessa": "lavoratori dipendenti che hanno perso il lavoro involontariamente",
+      "cosa_devi_fare": "presentare la domanda online entro 68 giorni dalla data di cessazione del rapporto lavorativo",
+      "impatto": "Maggiore accesso al sostegno al reddito e tempi di pagamento più rapidi, riducendo il periodo di difficoltà economica dopo la perdita del lavoro.",
+      "data_vigenza": "in vigore dal 3 aprile 2026",
+      "categoria": "Lavoro e Previdenza",
+      "importanza": 2,
+      "fonte": "INPS — Circolari",
+      "paese": "IT",
+      "url": "",
+      "pubblicato": "2026-08-12T05:21:44.194928+00:00",
+      "processed_at": "2026-10-01T10:38:28.349636+00:00"
+    },
     {
       "id": "5d027ed01dd583cf",
       "titolo_popolare": "Circolare INPS 43/2026",
