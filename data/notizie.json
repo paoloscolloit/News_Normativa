@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-10-01T10:47:18.902133+00:00",
-  "total": 55,
+  "last_updated": "2026-10-02T10:27:28.157460+00:00",
+  "total": 50,
   "items": [
+    {
+      "id": "a77e9dd8bf262dba",
+      "titolo_popolare": "Atto normativo non disponibile in lingua italiana",
+      "titolo_originale": "OJ:L_202690706",
+      "riassunto_esteso": "Il documento indicato nella fonte non esiste in versione inglese e, di conseguenza, non è possibile reperire il testo originale. Senza il contenuto dell'atto non si possono descrivere le disposizioni che introduce né le motivazioni che lo hanno portato all'adozione. Pertanto, qualsiasi spiegazione sulle sue norme sarebbe puramente speculativa. Per fornire una risposta utile si segnala l'assenza di informazioni verificabili sul provvedimento.",
+      "cosa_cambia": [
+        "non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690706",
+      "pubblicato": "2026-08-20T00:00:00+02:00",
+      "processed_at": "2026-10-02T10:20:47.346744+00:00"
+    },
+    {
+      "id": "fd194511b04bd4de",
+      "titolo_popolare": "Atto UE non disponibile in lingua italiana",
+      "titolo_originale": "OJ:L_202690703",
+      "riassunto_esteso": "Il documento indicato nella fonte non è disponibile in inglese, quindi non è possibile consultarne il contenuto diretto. Non essendo reperibile il testo ufficiale, non si possono descrivere le disposizioni specifiche che contiene. Tuttavia, trattandosi di un atto pubblicato nella Gazzetta UE, si presume che riguardi materie di competenza dell'Unione europea. Senza ulteriori dettagli, non è possibile indicare quali siano gli effetti pratici per i cittadini o le imprese.",
+      "cosa_cambia": [
+        "non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690703",
+      "pubblicato": "2026-08-20T00:00:00+02:00",
+      "processed_at": "2026-10-02T10:21:59.694712+00:00"
+    },
     {
       "id": "73c80f55c5e5e10d",
       "titolo_popolare": "Atto normativo non disponibile in lingua italiana",
@@ -21,6 +61,26 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690702",
       "pubblicato": "2026-08-19T00:00:00+02:00",
       "processed_at": "2026-10-01T10:45:02.367648+00:00"
+    },
+    {
+      "id": "05f4c915635be9af",
+      "titolo_popolare": "Atto europeo non disponibile in lingua italiana",
+      "titolo_originale": "OJ:L_202690705",
+      "riassunto_esteso": "Il documento indicato nella fonte non è reperibile in lingua inglese, quindi non è possibile conoscerne il contenuto preciso. Non avendo il testo completo, non si possono descrivere gli obblighi o le novità che introduce. Probabilmente si tratta di un atto di routine o di un atto ancora in fase di pubblicazione. In assenza di informazioni, si può solo affermare che non produce effetti immediati conosciuti dai cittadini.",
+      "cosa_cambia": [
+        "non specificato"
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690705",
+      "pubblicato": "2026-08-19T00:00:00+02:00",
+      "processed_at": "2026-10-02T10:20:13.475649+00:00"
     },
     {
       "id": "688590ae69628d7c",
@@ -231,6 +291,24 @@
       "url": "",
       "pubblicato": "2026-08-12T05:21:44.194795+00:00",
       "processed_at": "2026-09-30T10:12:32.980569+00:00"
+    },
+    {
+      "id": "2d7e33c1d65e37d4",
+      "titolo_popolare": "non specificato",
+      "titolo_originale": "Circolare numero 53 del 07-05-2026",
+      "riassunto_esteso": "non specificato",
+      "cosa_cambia": [],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "dal 7 maggio 2026",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "INPS — Circolari",
+      "paese": "IT",
+      "url": "",
+      "pubblicato": "2026-08-12T05:21:44.194740+00:00",
+      "processed_at": "2026-10-02T10:07:33.124324+00:00"
     },
     {
       "id": "40dfeea762b30ae4",
@@ -949,192 +1027,6 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690653",
       "pubblicato": "2026-08-04T00:00:00+02:00",
       "processed_at": "2026-09-26T09:00:36.721824+00:00"
-    },
-    {
-      "id": "4a24fd6e2896e1cc",
-      "titolo_popolare": "Atto UE non specificato",
-      "titolo_originale": "OJ:L_202690650",
-      "riassunto_esteso": "Il documento indicato non è disponibile in lingua inglese e non è possibile consultarne il contenuto diretto. Si tratta comunque di un atto pubblicato nella Gazzetta Ufficiale dell'Unione Europea, serie L, che normalmente contiene disposizioni legislative o regolamentari adottate dalle istituzioni UE. Senza il testo effettivo non è possibile descrivere quali siano le norme introdotte o gli obiettivi perseguiti. L'atto potrebbe riguardare qualsiasi materia di competenza dell'Unione, dal mercato interno alla politica ambientale. Per conoscere gli effetti concreti sarebbe necessario reperire la versione originale nel linguaggio ufficiale dell'atto.",
-      "cosa_cambia": [
-        "non specificato"
-      ],
-      "chi_interessa": "non specificato",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "non specificato",
-      "data_vigenza": "non specificato",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690650",
-      "pubblicato": "2026-08-03T00:00:00+02:00",
-      "processed_at": "2026-09-24T09:03:15.230445+00:00"
-    },
-    {
-      "id": "a8ff3b7a48261ea3",
-      "titolo_popolare": "Modifiche alle domande di aiuto UE",
-      "titolo_originale": "OJ:L_202601905: Commission Implementing Regulation (EU) 2026/1905 of 31 July 2026 amending Implementing Regulation (EU) 2022/1173 as regards the amendment and withdrawal of aid applications",
-      "riassunto_esteso": "Il regolamento aggiorna le norme sulle domande di aiuto dell'Unione Europea, permettendo di modificarle o ritirarle più facilmente. L'obiettivo è semplificare le procedure amministrative per le imprese che cercano finanziamenti UE, riducendo tempi e costi burocratici. Vengono introdotti nuovi termini e modalità per comunicare le variazioni o il ritiro delle richieste. Questo intervento fa parte di un sforzo più ampio per rendere più accessibili gli aiuti di Stato e gli strumenti di finanziamento europeo.",
-      "cosa_cambia": [
-        "È possibile modificare la domanda di aiuto dopo la presentazione, rispettando nuove scadenze semplificate.",
-        "Il ritiro della domanda può essere effettuato con una comunicazione più rapida e meno formale.",
-        "Vengono chiariti i requisiti documentali necessari per le modifiche, evitando duplicazioni.",
-        "Le autorità di gestione devono rispondere entro termini più brevi alle richieste di variazione."
-      ],
-      "chi_interessa": "le imprese che richiedono aiuti dell'Unione Europea",
-      "cosa_devi_fare": "verificare le nuove procedure prima di presentare, modificare o ritirare una domanda di aiuto UE",
-      "impatto": "Maggiore flessibilità nel gestire le richieste di finanziamento, con meno adempimenti burocratici e tempi di risposta più rapidi.",
-      "data_vigenza": "in vigore dal 31 luglio 2026",
-      "categoria": "Imprese e Mercato",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601905",
-      "pubblicato": "2026-08-03T00:00:00+02:00",
-      "processed_at": "2026-09-24T09:03:46.244713+00:00"
-    },
-    {
-      "id": "feda9bada1dd273b",
-      "titolo_popolare": "Atto normativo non disponibile",
-      "titolo_originale": "OJ:L_202690657",
-      "riassunto_esteso": "Il documento indicato nella fonte non risulta reperibile nelle banche dati ufficiali, quindi non è possibile conoscere il suo contenuto né gli obiettivi che si proponeva di raggiungere. Senza il testo dell'atto non si possono descrivere le disposizioni né il contesto di adozione. Questa mancata disponibilità impedisce qualsiasi analisi concreta delle sue disposizioni. Si consiglia di verificare la correttezza del riferimento o di cercare una versione alternativa del documento.",
-      "cosa_cambia": [],
-      "chi_interessa": "non specificato",
-      "cosa_devi_fare": "nessuna azione richiesta finché il documento non sarà reperibile",
-      "impatto": "non determinabile in assenza di informazioni sul contenuto dell'atto",
-      "data_vigenza": "non specificato",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690657",
-      "pubblicato": "2026-08-03T00:00:00+02:00",
-      "processed_at": "2026-09-24T09:03:52.549109+00:00"
-    },
-    {
-      "id": "5ddeab4813a6ec0b",
-      "titolo_popolare": "Atto europeo non disponibile in lingua italiana",
-      "titolo_originale": "OJ:L_202690645",
-      "riassunto_esteso": "Il documento indicato nella fonte non è reperibile in inglese, quindi non è possibile conoscerne il contenuto preciso. Non si hanno informazioni sulle disposizioni che contiene né sugli obiettivi che si propone di raggiungere. Probabilmente si tratta di un atto di routine o di un documento tecnico la cui pubblicazione è prevista in altre lingue. Senza ulteriori dettagli non è possibile spiegare cosa stabilisce o perché è stato adottato.",
-      "cosa_cambia": [
-        "non specificato"
-      ],
-      "chi_interessa": "non specificato",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "non specificato",
-      "data_vigenza": "non specificato",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690645",
-      "pubblicato": "2026-08-03T00:00:00+02:00",
-      "processed_at": "2026-09-24T09:04:15.272573+00:00"
-    },
-    {
-      "id": "c63f8c8c1399c798",
-      "titolo_popolare": "Atto UE non disponibile in lingua italiana",
-      "titolo_originale": "OJ:L_202690644",
-      "riassunto_esteso": "L'atto indicato nella fonte non è reperibile nella versione inglese, quindi non è possibile conoscerne il contenuto. Per questo motivo non si possono descrivere le disposizioni che contiene né le motivazioni della sua adozione. L'assenza del testo impedisce di capire quali effetti possa avere sui cittadini o sulle imprese. Si tratta probabilmente di un documento che non è stato pubblicato o che è stato ritirato.",
-      "cosa_cambia": [
-        "non specificato"
-      ],
-      "chi_interessa": "non specificato",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "non specificato",
-      "data_vigenza": "non specificato",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690644",
-      "pubblicato": "2026-08-03T00:00:00+02:00",
-      "processed_at": "2026-09-24T09:06:09.606892+00:00"
-    },
-    {
-      "id": "1a27a2ef45c4354f",
-      "titolo_popolare": "Aggiornamento delle sanzioni UE contro il Myanmar",
-      "titolo_originale": "OJ:L_202690659:            Rectificatif à la décision (PESC) 2021/1000 du Conseil du 21 juin 2021 modifiant la décision 2013/184/PESC concernant des mesures restrictives instituées en raison de la situation au Myanmar/en Birmanie (JO L 219 I du 21.6.2021)",
-      "riassunto_esteso": "L'Unione Europea ha pubblicato un atto correttivo che rettifica una precedente decisione sulle misure restrittive adottate nei confronti del Myanmar. La correzione serve a risolvere un errore materiale nel testo originale, garantendo che le sanzioni siano applicate esattamente come previsto. Le misure includono divieti di esportazione di determinati beni e restrizioni finanziarie verso individui e entità legate al regime birmano. L'obiettivo è mantenere pressione internazionale sul paese per promuovere il rispetto dei diritti umani e la democratizzazione. L'atto non introduce nuove sanzioni, ma assicura che quelle esistenti siano correttamente formulate.",
-      "cosa_cambia": [
-        "Le imprese devono controllare che le proprie esportazioni verso il Myanmar rispettino l'elenco aggiornato dei beni vietati",
-        "Le transazioni finanziarie con soggetti sanciti sono ora chiaramente proibite secondo il testo corretto",
-        "Gli operatori che effettuano servizi di intermediazione devono verificare le nuove indicazioni sui soggetti designati"
-      ],
-      "chi_interessa": "imprese e professionisti che intrattengono rapporti commerciali o finanziari con il Myanmar",
-      "cosa_devi_fare": "Verificare che le proprie attività rispettino le sanzioni aggiornate; nessuna azione richiesta se non si hanno rapporti con il Myanmar",
-      "impatto": "Le sanzioni rimangono efficaci e correttamente applicate, contribuendo a pressione sul regime birmano senza creare nuovi oneri per chi non è coinvolto",
-      "data_vigenza": "in vigore da subito",
-      "categoria": "Imprese e Mercato",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690659",
-      "pubblicato": "2026-08-03T00:00:00+02:00",
-      "processed_at": "2026-09-24T09:06:59.875334+00:00"
-    },
-    {
-      "id": "d455e1e966fdb2cb",
-      "titolo_popolare": "Abrogata la procedura di deficit eccessivo per Malta",
-      "titolo_originale": "OJ:L_202601783: Council Decision (EU) 2026/1783 of 12 June 2026 abrogating Council Decision (EU) 2024/2128 on the existence of an excessive deficit in Malta",
-      "riassunto_esteso": "Il Consiglio dell'Unione europea ha deciso di abrogare la decisione del 2024 che dichiarava l'esistenza di un deficit eccessivo a Malta. Questa abrogazione avviene perché i dati più recenti mostrano che i conti maltesi sono tornati entro i limiti previsti dalle regole UE di bilancio. Con questo atto Malta non è più sottoposta alla procedura di correzione del deficit eccessivo, ripristinando maggiore flessibilità nella sua politica di bilancio. La decisione è stata adottata per allineare il quadro di sorveglianza fiscale alla situazione economica attuale del paese. Non introduce nuovi obblighi o diritti per i cittadini degli altri Stati membri.",
-      "cosa_cambia": [
-        "Nessuna modifica diretta per i cittadini italiani"
-      ],
-      "chi_interessa": "nessun cittadino italiano in particolare",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "L'abrogazione non ha effetti pratici sui cittadini italiani; serve solo a correggere la situazione di Malta nel quadro delle regole UE di bilancio.",
-      "data_vigenza": "in vigore dal 12 giugno 2026",
-      "categoria": "Fisco e Tributi",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601783",
-      "pubblicato": "2026-08-03T00:00:00+02:00",
-      "processed_at": "2026-09-25T09:18:26.677829+00:00"
-    },
-    {
-      "id": "6f6c5063679a6d8c",
-      "titolo_popolare": "Nuove misure contro la peste degli ovini in Romania",
-      "titolo_originale": "OJ:L_202601910: Commission Implementing Decision (EU) 2026/1910 of 30 July 2026 amending Implementing Decision (EU) 2025/638 concerning certain emergency measures relating to infection with peste des petits ruminants virus in Romania (notified under document C(2026) 5607)",
-      "riassunto_esteso": "La decisione aggiorna le misure di emergenza già previste per contenere l'infezione da virus della peste dei piccoli ruminanti in Romania. Introduce nuove restrizioni agli spostamenti di pecore e capre, obblighi di vaccinazione e intensifica i controlli veterinari negli allevamenti. L'obiettivo è evitare che la malattia si diffonda ad altri Stati membri dell'Unione europea, proteggendo così il patrimonio zootecnico comunitario. Le misure sono state adottate dopo un peggioramento della situazione epidemiologica osservato nel paese. La decisione entra in vigore immediatamente dopo la sua pubblicazione nella Gazzetta ufficiale dell'Unione europea.",
-      "cosa_cambia": [
-        "Divieto di movimento di pecore e capre fuori dalle zone dichiarate infette",
-        "Obbligo di vaccinazione degli animali suscettibili secondo il piano nazionale",
-        "Aumento dei controlli e dei test diagnostici negli allevamenti e nei mercati",
-        "Possibilità di indennizzo per gli animali abbattuti su ordine delle autorità"
-      ],
-      "chi_interessa": "allevatori di pecore e capre e operatori del settore in Romania",
-      "cosa_devi_fare": "rispettare le restrizioni sugli spostamenti, vaccinare gli animali e segnalare subito qualsiasi caso sospetto alle autorità veterinarie",
-      "impatto": "Riduce il rischio di diffusione della peste dei piccoli ruminanti, salvaguardando la salute del bestiame e limitando le perdite economiche per gli allevatori.",
-      "data_vigenza": "in vigore dal 30 luglio 2026",
-      "categoria": "Agricoltura e Alimentare",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601910",
-      "pubblicato": "2026-08-03T00:00:00+02:00",
-      "processed_at": "2026-09-27T09:39:24.483342+00:00"
-    },
-    {
-      "id": "886d0d4619515305",
-      "titolo_popolare": "Correzione tecnica alle sanzioni UE contro la Birmania",
-      "titolo_originale": "OJ:L_202690658:            Rectificatif au règlement d’exécution (UE) 2021/998 du Conseil du 21 juin 2021 mettant en œuvre le règlement (UE) n° 401/2013 concernant des mesures restrictives instituées en raison de la situation au Myanmar/en Birmanie (JO L 219 I du 21.6.2021)",
-      "riassunto_esteso": "L'atto è un rectificatif, cioè una correzione tecnica, al regolamento di esecuzione (UE) 2021/998 che applica le misure restrittive dell'UE nei confronti della Myanmar/Birmania. La correzione serve a sistemare un refuso o un'imprecisione presente nel testo originale del regolamento, senza alterarne il contenuto sostanziale. L'obiettivo è garantire che il testo giuridico pubblicato sia formalmente corretto e quindi pienamente applicabile dalle autorità competenti. Non introduce nuove sanzioni né modifica quelle già in vigore.",
-      "cosa_cambia": [
-        "Nessuna modifica diretta agli obblighi dei cittadini o delle imprese"
-      ],
-      "chi_interessa": "nessun cittadino direttamente interessato",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "L'atto corregge solo un aspetto tecnico del testo giuridico UE, senza effetti pratici su cittadini, imprese o sull'applicazione delle sanzioni contro la Birmania.",
-      "data_vigenza": "in vigore da subito",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690658",
-      "pubblicato": "2026-08-03T00:00:00+02:00",
-      "processed_at": "2026-09-28T10:15:25.368270+00:00"
     },
     {
       "id": "bb68323283680c7d",

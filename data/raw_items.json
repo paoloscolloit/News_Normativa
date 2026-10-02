@@ -1,149 +1,5 @@
 [
   {
-    "id": "6590487b9af782cf",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202690687: Corrigendum to Council Regulation (EU) 2026/506 of 23 April 2026 amending Regulation (EU) No 833/2014 concerning restrictive measures in view of Russia’s actions destabilising the situation in Ukraine (OJ L, 2026/506, 23.4.2026)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690687",
-    "pubblicato": "2026-08-11T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-08-11T04:56:34.261305+00:00",
-    "processed": false
-  },
-  {
-    "id": "73275ce4cad35b9c",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202690686: Corrigendum to Council Regulation (EU) 2026/513 of 23 April 2026 amending Regulation (EC) No 765/2006 concerning restrictive measures in view of the situation in Belarus and the involvement of Belarus in the Russian aggression against Ukraine (OJ L, 2026/513, 23.4.2026)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690686",
-    "pubblicato": "2026-08-11T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-08-11T04:56:34.261403+00:00",
-    "processed": true
-  },
-  {
-    "id": "7d325fbed1c09e60",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601944: Commission Implementing Decision (EU) 2026/1944 of 7 August 2026 amending the Annex to Implementing Decision (EU) 2023/2447 concerning emergency measures in relation to outbreaks of highly pathogenic avian influenza in certain Member States (notified under document C(2026) 5787)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601944",
-    "pubblicato": "2026-08-11T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-08-11T04:56:34.261502+00:00",
-    "processed": true
-  },
-  {
-    "id": "26c2c1a58936345c",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202690688: Corrigendum to Council Decision (CFSP) 2026/1858 of 24 July 2026 amending Decision (CFSP) 2019/2110 on the European Union CSDP Advisory Mission in the Central African Republic (EUAM RCA) (OJ L, 2026/1858, 27.7.2026)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690688",
-    "pubblicato": "2026-08-11T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-08-11T04:56:34.261619+00:00",
-    "processed": true
-  },
-  {
-    "id": "5b11bae5e726f4be",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601933: Council Regulation (EU) 2026/1933 of 13 July 2026 on the allocation of the fishing opportunities provided for in the Protocol on the implementation of the Sustainable Fisheries Partnership Agreement between the European Union and the Republic of Seychelles (2026-2030)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601933",
-    "pubblicato": "2026-08-11T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-08-11T04:56:34.261721+00:00",
-    "processed": false
-  },
-  {
-    "id": "f788158c0b5bea7c",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601935: Protocol on the implementation of the Sustainable Fisheries Partnership Agreement between the European Union and the Republic of Seychelles (2026-2030)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601935",
-    "pubblicato": "2026-08-11T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-08-11T04:56:34.261818+00:00",
-    "processed": false
-  },
-  {
-    "id": "1fabeb04ce03efed",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601934: Council Decision (EU) 2026/1934 of 13 July 2026 on the signing and provisional application of the Protocol on the implementation of the Sustainable Fisheries Partnership Agreement between the European Union and the Republic of Seychelles (2026-2030)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601934",
-    "pubblicato": "2026-08-11T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-08-11T04:56:34.261919+00:00",
-    "processed": true
-  },
-  {
-    "id": "629c4d5df5d6d3ce",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202690690",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690690",
-    "pubblicato": "2026-08-11T00:00:00+02:00",
-    "summary_raw": "This document does not exist in English.",
-    "fetched_at": "2026-08-11T04:56:34.262019+00:00",
-    "processed": true
-  },
-  {
-    "id": "76787dd244bce14f",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202690695",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690695",
-    "pubblicato": "2026-08-12T00:00:00+02:00",
-    "summary_raw": "This document does not exist in English.",
-    "fetched_at": "2026-08-12T05:21:43.285628+00:00",
-    "processed": true
-  },
-  {
-    "id": "02306f61300cea25",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601278: Commission Delegated Regulation (EU) 2026/1278 of 9 June 2026 amending and correcting Regulation (EU) No 649/2012 of the European Parliament and of the Council as regards the listing of pesticides and industrial chemicals",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601278",
-    "pubblicato": "2026-08-12T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-08-12T05:21:43.285751+00:00",
-    "processed": false
-  },
-  {
-    "id": "ced078b48b158868",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601872: Commission Implementing Regulation (EU) 2026/1872 of 29 July 2026 amending the implementing technical standards laid down in Implementing Regulation (EU) 2016/2070 as regards benchmark portfolios, reporting templates and reporting instructions to be applied in the Union for the reporting referred to in Article 78(2) of Directive 2013/36 /EU of the European Parliament and of the Council",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601872",
-    "pubblicato": "2026-08-12T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-08-12T05:21:43.285862+00:00",
-    "processed": false
-  },
-  {
-    "id": "b69a1ff3a63631b2",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202601936: Commission Implementing Decision (EU) 2026/1936 of 5 August 2026 laying down certification rules and a model health certificate for entry into the Union of consignments of live animals and products of animal origin determined as equivalent to Union standards from New Zealand and repealing Implementing Decision (EU) 2015/1901",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601936",
-    "pubblicato": "2026-08-12T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-08-12T05:21:43.285965+00:00",
-    "processed": true
-  },
-  {
     "id": "071ed9367037a834",
     "source_id": "inps_circolari",
     "fonte": "INPS — Circolari",
@@ -177,7 +33,7 @@
     "pubblicato": "2026-08-12T05:21:44.194740+00:00",
     "summary_raw": "",
     "fetched_at": "2026-08-12T05:21:44.194748+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "e297a5d6c55d3f26",
@@ -501,7 +357,7 @@
     "pubblicato": "2026-08-19T00:00:00+02:00",
     "summary_raw": "This document does not exist in English.",
     "fetched_at": "2026-08-19T04:24:12.092446+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "c15cc7ef57ffcf3e",
@@ -525,7 +381,7 @@
     "pubblicato": "2026-08-20T00:00:00+02:00",
     "summary_raw": "This document does not exist in English.",
     "fetched_at": "2026-08-20T04:24:36.559177+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "fd194511b04bd4de",
@@ -537,7 +393,7 @@
     "pubblicato": "2026-08-20T00:00:00+02:00",
     "summary_raw": "This document does not exist in English.",
     "fetched_at": "2026-08-20T04:24:36.559255+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "9db567da2463ae61",
@@ -5997,6 +5853,150 @@
     "pubblicato": "2026-10-01T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-10-01T10:31:10.165474+00:00",
+    "processed": false
+  },
+  {
+    "id": "406b0364b421ff86",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D2229: Council Implementing Decision (EU) 2026/2229 of 24 September 2026 amending Implementing Decision (EU) 2024/1447 as regards the additional financial contribution from Norway",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2229",
+    "pubblicato": "2026-10-02T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-10-02T10:06:11.547848+00:00",
+    "processed": false
+  },
+  {
+    "id": "e077f7ced73440f3",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D2231: Council Decision (CFSP) 2026/2231 of 1 October 2026 on an assistance measure under the European Peace Facility to support the Balkan Medical Task Force",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2231",
+    "pubblicato": "2026-10-02T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-10-02T10:06:11.547975+00:00",
+    "processed": false
+  },
+  {
+    "id": "58308b780516c588",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D2223: Council Decision (EU) 2026/2223 of 24 September 2026 on the position to be adopted on behalf of the European Union within the EEA Joint Committee concerning the amendment of Annex IV (Energy) to the EEA Agreement (Network code on capacity allocation mechanisms in gas transmission systems) (Text with EEA relevance)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2223",
+    "pubblicato": "2026-10-02T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-10-02T10:06:11.548085+00:00",
+    "processed": false
+  },
+  {
+    "id": "4e3753cffeba4b32",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R2227: Commission Implementing Regulation (EU) 2026/2227 of 1 October 2026 amending Annexes V and XIV to Implementing Regulation (EU) 2021/404 as regards the entries for Canada and the United States in the lists of third countries, territories, or zones thereof authorised for the entry into the Union of consignments of poultry and germinal products of poultry, and of fresh meat of poultry and game birds",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2227",
+    "pubblicato": "2026-10-02T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-10-02T10:06:11.548192+00:00",
+    "processed": false
+  },
+  {
+    "id": "fe539593c66e0088",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D2233: Council Decision (EU) 2026/2233 of 28 September 2026 on the position to be taken on behalf of the European Union on the amendments to the Annexes to the Agreement concerning the International Carriage of Dangerous Goods by Road (ADR) and to the Regulations annexed to the European Agreement concerning the International Carriage of Dangerous Goods by Inland Waterways (ADN)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2233",
+    "pubblicato": "2026-10-02T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-10-02T10:06:11.548295+00:00",
+    "processed": false
+  },
+  {
+    "id": "ed451f5d8a5b6985",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D2225: Council Decision (EU) 2026/2225 of 28 September 2026 appointing a member and an alternate member, proposed by the Republic of Estonia, of the Committee of the Regions",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2225",
+    "pubblicato": "2026-10-02T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-10-02T10:06:11.548396+00:00",
+    "processed": false
+  },
+  {
+    "id": "b5a1ae74bd2fbdcf",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R2220: Commission Implementing Regulation (EU) 2026/2220 of 1 October 2026 amending Annex I to Implementing Regulation (EU) 2023/594 laying down special disease control measures for African swine fever",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2220",
+    "pubblicato": "2026-10-02T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-10-02T10:06:11.548498+00:00",
+    "processed": false
+  },
+  {
+    "id": "bdd11f9deeb7f8af",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R2188: Commission Implementing Regulation (EU) 2026/2188 of 1 October 2026 amending Annexes II and IV to Implementing Regulation (EU) 2021/404 as regards the entries for Egypt, the United Kingdom and Uruguay in the lists of third countries or territories, or zones thereof, authorised for the entry into the Union of consignments of certain ungulates and certain categories of equine animals",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2188",
+    "pubblicato": "2026-10-02T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-10-02T10:06:11.548601+00:00",
+    "processed": false
+  },
+  {
+    "id": "37b9b7c7f95e14f3",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D2211: Commission Implementing Decision (EU) 2026/2211 of 1 October 2026 amending Commission Implementing Decision (EU) 2025/165 as regards harmonised standards for refrigerating systems and heat pumps, LPG equipment, cryogenic vessels, and welding and brazing, drafted in support of Directive 2014/68/EU of the European Parliament and of the Council",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2211",
+    "pubblicato": "2026-10-02T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-10-02T10:06:11.548700+00:00",
+    "processed": false
+  },
+  {
+    "id": "9b21def8d6fd2e5e",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R2202: Regulation (EU) 2026/2202 of the European Parliament and of the Council of 16 September 2026 amending Regulation (EC) No 261/2004 of the European Parliament and of the Council establishing common rules on compensation and assistance to passengers in the event of denied boarding and of cancellation or long delay of flights and Council Regulation (EC) No 2027/97 on air carrier liability in respect of the carriage of passengers and their baggage by air (Text with EEA relevance)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2202",
+    "pubblicato": "2026-10-02T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-10-02T10:06:11.548818+00:00",
+    "processed": false
+  },
+  {
+    "id": "8e98ff5d9f9c9e6c",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D2209: Commission Decision (EU) 2026/2209 of 29 September 2026 amending Commission Decision 2008/312/Euratom establishing the standard document for the supervision and control of shipments of radioactive waste and spent fuel referred to in Council Directive 2006/117/Euratom",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2209",
+    "pubblicato": "2026-10-02T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-10-02T10:06:11.548926+00:00",
+    "processed": false
+  },
+  {
+    "id": "73cc2c5fde24ee2f",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32016R0399R(08)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32016R0399R(08)",
+    "pubblicato": "2026-10-02T00:00:00+02:00",
+    "summary_raw": "The corrigendum does not concern the English version.",
+    "fetched_at": "2026-10-02T10:06:11.549029+00:00",
     "processed": false
   }
 ]
