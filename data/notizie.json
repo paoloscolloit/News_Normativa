@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-02T10:27:28.157460+00:00",
-  "total": 50,
+  "last_updated": "2026-10-03T09:36:28.770032+00:00",
+  "total": 47,
   "items": [
     {
       "id": "a77e9dd8bf262dba",
@@ -271,6 +271,24 @@
       "url": "",
       "pubblicato": "2026-08-12T05:21:44.194863+00:00",
       "processed_at": "2026-09-30T10:13:40.398900+00:00"
+    },
+    {
+      "id": "54aaa77239ff69f6",
+      "titolo_popolare": "non specificato",
+      "titolo_originale": "Circolare numero 47 del 21-04-2026",
+      "riassunto_esteso": "non specificato",
+      "cosa_cambia": [],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "non specificato",
+      "data_vigenza": "in vigore dal 21 aprile 2026",
+      "categoria": "Lavoro e Previdenza",
+      "importanza": 2,
+      "fonte": "INPS — Circolari",
+      "paese": "IT",
+      "url": "",
+      "pubblicato": "2026-08-12T05:21:44.194845+00:00",
+      "processed_at": "2026-10-03T09:30:15.996700+00:00"
     },
     {
       "id": "881f8c623781f6f6",
@@ -944,89 +962,6 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690664",
       "pubblicato": "2026-08-05T00:00:00+02:00",
       "processed_at": "2026-09-26T09:07:01.993416+00:00"
-    },
-    {
-      "id": "42ce4906147abc79",
-      "titolo_popolare": "Atto UE non disponibile in inglese",
-      "titolo_originale": "OJ:L_202690660",
-      "riassunto_esteso": "Il documento indicato nella fonte non esiste nella versione inglese, quindi non è possibile conoscerne il contenuto dettagliato. Si tratta comunque di un atto pubblicato nella Gazzetta ufficiale dell'Unione europea, serie L, che normalmente contiene disposizioni di carattere normativo o amministrativo. Senza il testo completo non si possono indicare gli obblighi, i diritti o le scadenze che introduce. Per avere informazioni precise sarebbe necessario consultare la versione originale nella lingua ufficiale dell'atto o attendere una eventuale traduzione. In attesa di tali dettagli, si può ritenere che l'atto non abbia effetti immediati noti sui cittadini.",
-      "cosa_cambia": [
-        "Non specificato"
-      ],
-      "chi_interessa": "non specificato",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "non specificato",
-      "data_vigenza": "non specificato",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690660",
-      "pubblicato": "2026-08-04T00:00:00+02:00",
-      "processed_at": "2026-09-25T09:21:16.808281+00:00"
-    },
-    {
-      "id": "0c34f9660b0edae6",
-      "titolo_popolare": "Documento UE non disponibile in italiano",
-      "titolo_originale": "OJ:L_202690655",
-      "riassunto_esteso": "Il documento indicato nella fonte non risulta disponibile nella versione inglese, quindi non è possibile conoscerne il contenuto preciso. Non si hanno informazioni sulle disposizioni che contiene né sugli obiettivi che si propone di raggiungere. Probabilmente si tratta di un atto normativo dell'Unione Europea pubblicato nella Gazzetta Ufficiale, ma senza il testo non si possono descrivere le sue norme. Per questo motivo non è possibile spiegare cosa stabilisce né perché è stato adottato. L'assenza del testo impedisce qualsiasi analisi dettagliata.",
-      "cosa_cambia": [
-        "non specificato"
-      ],
-      "chi_interessa": "non specificato",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "non specificato",
-      "data_vigenza": "non specificato",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690655",
-      "pubblicato": "2026-08-04T00:00:00+02:00",
-      "processed_at": "2026-09-25T09:22:17.501917+00:00"
-    },
-    {
-      "id": "8729710ef11e00d3",
-      "titolo_popolare": "Correzione delle traduzioni UE dei farmaci",
-      "titolo_originale": "OJ:L_202600863: Commission Delegated Regulation (EU) 2026/863 of 20 April 2026 correcting certain language versions of Regulation (EC) No 1234/2008 concerning the examination of variations to the terms of marketing authorisations for medicinal products for human use",
-      "riassunto_esteso": "La Commissione europea ha adottato un regolamento delegato che corregge alcune versioni linguistiche del regolamento (CE) n. 1234/2008. Questo regolamento originale stabilisce le regole per esaminare le variazioni alle autorizzazioni di immissione in commercio dei medicinali per uso umano. Le correzioni riguardano solo le traduzioni ufficiali in diverse lingue dell'Unione, senza modificare il contenuto sostanziale delle norme. L'obiettivo è evitare discrepanze tra le versioni linguistiche che potrebbero portare a interpretazioni diverse. Il testo è stato pubblicato nella Gazzetta ufficiale dell'Unione europea il 20 aprile 2026.",
-      "cosa_cambia": [
-        "Nessun cambiamento concreto per i cittadini"
-      ],
-      "chi_interessa": "nessun gruppo specifico di cittadini",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "Garantisce che le informazioni sui farmaci siano identiche in tutte le lingue dell'UE, riducendo il rischio di confusione o errori di interpretazione. L'effetto pratico sui cittadini è trascurabile.",
-      "data_vigenza": "in vigore dal 20 aprile 2026",
-      "categoria": "Salute e Farmaci",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202600863",
-      "pubblicato": "2026-08-04T00:00:00+02:00",
-      "processed_at": "2026-09-25T09:23:56.217898+00:00"
-    },
-    {
-      "id": "2a8e6438bab57846",
-      "titolo_popolare": "Aggiornamento delle regole per licenze di pilota",
-      "titolo_originale": "OJ:L_202690653: Corrigendum to Commission Implementing Regulation (EU) 2019/1747 of 15 October 2019 amending Regulation (EU) No 1178/2011 as regards requirements for certain flight crew licences and certificates, rules on training organisations and competent authorities (OJ L 268, 22.10.2019)",
-      "riassunto_esteso": "Il corrigendum corregge alcuni errori presenti nel regolamento di esecuzione che modifica le norme sulle licenze di equipaggio di volo, sulle organizzazioni di formazione e sulle autorità competenti. Queste modifiche mirano a chiarire i requisiti per il rilascio e il rinnovo di determinate licenze e certificati di pilota, nonché a migliorare la vigilanza sulle scuole di volo. L'intervento è stato adottato per garantire una maggiore uniformità e sicurezza nel settore dell'aviazione civile in tutta l'Unione europea. In pratica, le norme diventano più precise e facili da applicare sia per i piloti che per gli enti di formazione. Questo contribuisce a incrementare la fiducia dei passeggeri e a facilitare la libera circolazione dei professionisti del volo dentro l'UE.",
-      "cosa_cambia": [
-        "I piloti devono rispettare nuovi requisiti di formazione e esperienza per il rinnovo di alcune licenze",
-        "Le organizzazioni di formazione devono aggiornare i loro programmi per allinearsi agli standard revisionati",
-        "Le autorità nazionali dell'aviazione devono verificare la conformità delle scuole e dei corsi aggiornati",
-        "I certificati di abilitazione ricevono chiarimenti sulle condizioni di validità e sui controlli periodici"
-      ],
-      "chi_interessa": "piloti, scuole di volo e autorità nazionali dell'aviazione civile",
-      "cosa_devi_fare": "Verificare i nuovi requisiti sulle licenze o sui corsi di formazione e adeguarsi entro i termini indicati dalle autorità nazionali",
-      "impatto": "Migliora la sicurezza del volo e armonizza le regole in Europa, aumentando la tutela dei passeggeri e la mobilità dei professionisti del settore",
-      "data_vigenza": "in vigore da subito",
-      "categoria": "Trasporti",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690653",
-      "pubblicato": "2026-08-04T00:00:00+02:00",
-      "processed_at": "2026-09-26T09:00:36.721824+00:00"
     },
     {
       "id": "bb68323283680c7d",
