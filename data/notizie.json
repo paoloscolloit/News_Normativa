@@ -1,7 +1,50 @@
 {
-  "last_updated": "2026-10-04T10:25:28.263896+00:00",
-  "total": 39,
+  "last_updated": "2026-10-05T11:06:47.285861+00:00",
+  "total": 32,
   "items": [
+    {
+      "id": "e2e5db12bc1ea042",
+      "titolo_popolare": "Italia riconosce una decisione presa all'estero",
+      "titolo_originale": "MINISTERO DEGLI AFFARI ESTERI E DELLA COOPERAZIONE INTERNAZIONALE - COMUNICATO",
+      "riassunto_esteso": "Il comunicato del Ministero degli Affari Esteri e della Cooperazione Internazionale annuncia il rilascio dell'exequatur per una sentenza straniera, ovvero il riconoscimento ufficiale in Italia di una decisione giudiziaria presa all'estero. Questo atto permette che la sentenza straniera abbia effetti giuridici sul territorio italiano, come se fosse stata emessa da un giudice italiano. L'exequatur viene concesso dopo verifiche di conformità con l'ordine pubblico italiano e con i principi fondamentali del diritto. Lo scopo è evitare che le parti interessate debbano intraprendere un nuovo processo in Italia per far valere i propri diritti derivanti dalla decisione straniera. In pratica, il provvedimento semplifica l'esecuzione di obblighi, risarcimenti o altre statuizioni provenienti da giurisdizioni estere.",
+      "cosa_cambia": [
+        "Chi ha ottenuto una sentenza straniera può chiedere che essa sia eseguita in Italia senza dover iniziare un nuovo giudizio",
+        "Le parti coinvolte possono far valere crediti, obblighi o altre statuizioni direttamente presso gli organi italiani competenti",
+        "È necessario presentare la domanda di exequatur presso la Corte d'appello territorialmente competente",
+        "La decisione straniera produce gli stessi effetti di una sentenza italiana, inclusa la possibilità di pignoramento o sequestro"
+      ],
+      "chi_interessa": "Chi ha ottenuto una sentenza straniera e vuole farla valere in Italia, ovvero creditori, debitori o parti di un giudizio internazionale",
+      "cosa_devi_fare": "Presentare domanda di exequatur presso la Corte d'appello competente, allegando la sentenza straniera e la traduzione ufficiale",
+      "impatto": "Consente di far eseguire in Italia diritti già riconosciuti all'estero, evitando duplicazioni di giudizi e riducendo tempi e costi per le parti coinvolte",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Giustizia e Diritti",
+      "importanza": 2,
+      "fonte": "Gazzetta Ufficiale",
+      "paese": "IT",
+      "url": "http://www.gazzettaufficiale.it/eli/id/2026/08/29/26A04323/SG",
+      "pubblicato": "2026-08-29T10:03:13+00:00",
+      "processed_at": "2026-10-05T11:04:39.698586+00:00"
+    },
+    {
+      "id": "921ce26d5f9c9172",
+      "titolo_popolare": "Riconoscimento ufficiale di un console straniero in Italia",
+      "titolo_originale": "MINISTERO DEGLI AFFARI ESTERI E DELLA COOPERAZIONE INTERNAZIONALE - COMUNICATO",
+      "riassunto_esteso": "Il Ministero degli Affari Esteri ha pubblicato un comunicato che concede l'exequatur a un console straniero, ovvero il riconoscimento ufficiale necessario affinché egli possa esercitare le proprie funzioni diplomatiche in Italia. Questo atto è una procedura standard prevista dalle convenzioni internazionali sulle relazioni consolari e serve a garantire che il console possa operare legalmente sul territorio italiano. Non introduce nuovi obblighi per i cittadini, ma conferma semplicemente la possibilità di continuare a usufruire dei servizi consolari offerti dallo Stato rappresentato. La pubblicazione in Gazzetta Ufficiale assicura la trasparenza della decisione rispetto al pubblico.",
+      "cosa_cambia": [
+        "Nessuna modifica diretta agli obblighi o ai diritti dei cittadini"
+      ],
+      "chi_interessa": "I cittadini che si rivolgono al console straniero per servizi come visti, documenti o assistenza consolare",
+      "cosa_devi_fare": "Nessuna azione richiesta",
+      "impatto": "Il consolato può continuare a operare regolarmente, garantendo assistenza ai propri connazionali e servizi ai cittadini stranieri presenti in Italia.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "Gazzetta Ufficiale",
+      "paese": "IT",
+      "url": "http://www.gazzettaufficiale.it/eli/id/2026/08/29/26A04447/SG",
+      "pubblicato": "2026-08-29T10:03:13+00:00",
+      "processed_at": "2026-10-05T11:05:05.901388+00:00"
+    },
     {
       "id": "a77e9dd8bf262dba",
       "titolo_popolare": "Atto normativo non disponibile in lingua italiana",
@@ -604,198 +647,6 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601934",
       "pubblicato": "2026-08-11T00:00:00+02:00",
       "processed_at": "2026-09-30T10:08:25.026028+00:00"
-    },
-    {
-      "id": "28b0a4286501c842",
-      "titolo_popolare": "Atto UE non disponibile in lingua inglese",
-      "titolo_originale": "OJ:L_202690668",
-      "riassunto_esteso": "Il documento indicato nella fonte non è disponibile in versione inglese, quindi non possiamo leggere il suo contenuto diretto. Tuttavia, trattandosi di un atto pubblicato nella Gazzetta ufficiale dell'Unione europea, esso contiene disposizioni normative adottate dalle istituzioni UE. Senza poter consultare il testo, non è possibile precisare quali siano le norme specifiche introdotte o gli obiettivi perseguiti. L'atto potrebbe riguardare qualsiasi materia di competenza dell'Unione, dal mercato interno alla politica ambientale. Per conoscere gli effetti concreti sarebbe necessario reperire la versione ufficiale nella lingua originale o una traduzione affidabile.",
-      "cosa_cambia": [
-        "non specificato"
-      ],
-      "chi_interessa": "tutti i cittadini dell'Unione europea",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "non possibile determinare l'impatto concreto senza conoscere il contenuto dell'atto.",
-      "data_vigenza": "non specificato",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690668",
-      "pubblicato": "2026-08-06T00:00:00+02:00",
-      "processed_at": "2026-09-26T09:07:27.351921+00:00"
-    },
-    {
-      "id": "f0365ca66f815c2a",
-      "titolo_popolare": "Documento UE non disponibile in italiano",
-      "titolo_originale": "OJ:L_202690669",
-      "riassunto_esteso": "Il documento indicato non risulta disponibile nelle banche dati ufficiali, quindi non è possibile conoscerne il contenuto. Probabilmente si tratta di un atto dell'Unione europea che non è stato pubblicato o è stato ritirato. Senza il testo non si possono indicare gli obblighi o le novità introdotte. Per avere informazioni sarebbe necessario consultare la fonte originale o verificare se esiste un numero di riferimento corretto.",
-      "cosa_cambia": [
-        "non specificato"
-      ],
-      "chi_interessa": "non specificato",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "non specificato",
-      "data_vigenza": "non specificato",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690669",
-      "pubblicato": "2026-08-06T00:00:00+02:00",
-      "processed_at": "2026-09-27T09:46:51.723815+00:00"
-    },
-    {
-      "id": "00bb15b8977d41f6",
-      "titolo_popolare": "Atto normativo non disponibile in lingua italiana",
-      "titolo_originale": "OJ:L_202690670",
-      "riassunto_esteso": "Il testo fornito indica che il documento non esiste in inglese. Non essendo disponibile una versione italiana, non possiamo conoscere le disposizioni contenute. Di conseguenza non è possibile spiegare cosa stabilisce l'atto né il motivo della sua adozione. L'assenza di informazioni impedisce qualsiasi analisi dettagliata. Si consiglia di verificare la fonte originale o cercare una traduzione ufficiale.",
-      "cosa_cambia": [
-        "Non specificato"
-      ],
-      "chi_interessa": "non specificato",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "non possibile valutare l'impatto a causa della mancata disponibilità del testo.",
-      "data_vigenza": "non specificato",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690670",
-      "pubblicato": "2026-08-06T00:00:00+02:00",
-      "processed_at": "2026-09-27T09:46:59.044089+00:00"
-    },
-    {
-      "id": "1d5d75fa6de93149",
-      "titolo_popolare": "Correzione della normativa sulla sicurezza informatica dei prodotti digitali",
-      "titolo_originale": "OJ:L_202690667:            Berichtigung der Verordnung (EU) 2024/2847 des Europäischen Parlaments und des Rates vom 23. Oktober 2024 über horizontale Cybersicherheitsanforderungen für Produkte mit digitalen Elementen und zur Änderung der Verordnungen (EU) Nr. 168/2013 und (EU) 2019/1020 und der Richtlinie (EU) 2020/1828 (Cyberresilienz-Verordnung) (ABl. L, 2024/2847, 20.11.2024)",
-      "riassunto_esteso": "Il documento è un corrigendum che corregge errori materiali presenti nel testo del regolamento (UE) 2024/2847 sulle richieste orizzontali di sicurezza informatica per i prodotti con elementi digitali. La correzione riguarda principalmente riferimenti normativi, numeri di articoli e alcune formule che erano state pubblicate in modo errato. L'intervento è stato adottato per evitare che tali refusi generassero incertezze giuridiche o difficoltà nell'applicazione della norma. Non introduce nuovi obblighi né modifica sostanzialmente il contenuto della regolamentazione.",
-      "cosa_cambia": [
-        "nessuna modifica sostanziale degli obblighi di sicurezza per i prodotti con elementi digitali"
-      ],
-      "chi_interessa": "produttori, importatori e distributori di prodotti con elementi digitali",
-      "cosa_devi_fare": "nessuna azione richiesta, la correzione non impone nuovi adempimenti",
-      "impatto": "garantisce che il testo della norma sia corretto, evitando possibili interpretazioni errate e mantenendo invariato il livello di sicurezza richiesto. Così si riduce il rischio di contenziosi dovuti a refusi.",
-      "data_vigenza": "in vigore da subito",
-      "categoria": "Digitale e Privacy",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690667",
-      "pubblicato": "2026-08-06T00:00:00+02:00",
-      "processed_at": "2026-09-27T09:48:05.224241+00:00"
-    },
-    {
-      "id": "d9a91bb157d9220b",
-      "titolo_popolare": "Anticipi finanziari per il settore vitivinicolo UE",
-      "titolo_originale": "OJ:L_202601160: Commission Delegated Regulation (EU) 2026/1160 of 28 May 2026 amending Delegated Regulation (EU) 2022/127 supplementing Regulation (EU) 2021/2116 of the European Parliament and of the Council, as regards payments of advances for interventions in the wine sector",
-      "riassunto_esteso": "La Commissione europea ha modificato una norma esistente per permettere il pagamento di anticipi agli interventi nel settore del vino. Questi anticipi sono destinati a sostenere i produttori di vino in caso di crisi di mercato o di necessità di interventi strutturali. La modifica semplifica le procedure di erogazione, riducendo i tempi di attesa per i fondi. L'obiettivo è migliorare la liquidità delle cantine e garantire la stabilità del mercato vitivinicolo nell'UE. La norma si inserisce nel quadro più ampio di sostegno all'agricoltura europea.",
-      "cosa_cambia": [
-        "Possibilità di ricevere anticipi finanziari prima della conclusione degli interventi nel settore vino",
-        "Procedure di domanda e rendicontazione più snelle per i beneficiari",
-        "Maggiore flessibilità nell'uso degli anticipi per far fronte a esigenze di liquidità",
-        "Chiarimento sui criteri di ammissibilità agli anticipi per le organizzazioni di produttori"
-      ],
-      "chi_interessa": "i produttori di vino e le loro organizzazioni nell'UE",
-      "cosa_devi_fare": "presentare la domanda di anticipo secondo le procedure nazionali di riferimento",
-      "impatto": "maggiore disponibilità di liquidità per le cantine, contribuendo a stabilizzare il settore vitivinicolo",
-      "data_vigenza": "in vigore dal 17 giugno 2026 (venti giorni dopo la pubblicazione nella Gazzetta Ufficiale dell'UE)",
-      "categoria": "Agricoltura e Alimentare",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601160",
-      "pubblicato": "2026-08-06T00:00:00+02:00",
-      "processed_at": "2026-09-28T10:22:31.323448+00:00"
-    },
-    {
-      "id": "ae63d90648a901af",
-      "titolo_popolare": "Accordo UE-Norvegia per condividere dati dei passeggeri aerei",
-      "titolo_originale": "OJ:L_202601916: Council Decision (EU) 2026/1916 of 4 June 2026 on the conclusion, on behalf of the Union, of the Agreement between the European Union and the Kingdom of Norway on the transfer of passenger name record (PNR) data to prevent, detect, investigate and prosecute terrorist offences and serious crime",
-      "riassunto_esteso": "Il decisione del Consiglio conclude un accordo tra l'Unione europea e il Regno di Norvegia per lo scambio dei dati PNR dei passeggeri aerei. L'obiettivo è migliorare la capacità di prevenire, individuare, indagare e perseguire reati di terrorismo e criminalità grave. L'accordo stabilisce quali informazioni possono essere trasferite, le garanzie di protezione dei dati e le autorità responsabili. Viene adottato per rafforzare la cooperazione transfrontaliera nella lotta alla sicurezza, rispettando al contempo le norme sulla privacy.",
-      "cosa_cambia": [
-        "I dati dei passeggeri dei voli tra UE e Norvegia saranno condivisi con le autorità di sicurezza norvegesi.",
-        "Le autorità UE potranno accedere ai dati PNR dei voli provenienti dalla Norvegia per indagini antiterrorismo.",
-        "Le compagnie aeree dovranno garantire il trasferimento dei dati secondo le nuove regole di sicurezza e privacy.",
-        "I passeggeri vedranno applicarsi le stesse garanzie di protezione dei dati previste dal regolamento UE."
-      ],
-      "chi_interessa": "tutti i passeggeri di voli commerciali tra UE e Norvegia, le compagnie aeree che operano su tali rotte e le autorità di polizia e sicurezza",
-      "cosa_devi_fare": "nessuna azione richiesta ai passeggeri; le compagnie aeree devono adeguare i propri sistemi di trasferimento dati",
-      "impatto": "Maggiore cooperazione nella prevenzione di terrorismo e crimine grave, con un equilibrio tra sicurezza e protezione dei dati personali.",
-      "data_vigenza": "in vigore da subito",
-      "categoria": "Digitale e Privacy",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601916",
-      "pubblicato": "2026-08-06T00:00:00+02:00",
-      "processed_at": "2026-09-28T10:23:40.284796+00:00"
-    },
-    {
-      "id": "62940038d38c5763",
-      "titolo_popolare": "Aggiornamento delle sanzioni UE contro la Russia",
-      "titolo_originale": "OJ:L_202690676: Corrigendum to Council Regulation (EU) 2026/1844 of 23 July 2026 amending Regulation (EU) No 269/2014 concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine (OJ L, 2026/1844, 23.7.2026)",
-      "riassunto_esteso": "Il documento è un corrigendum che corregge errori materiali presenti nel regolamento che modificava le sanzioni UE contro azioni che minacciano l'integrità territoriale dell'Ucraina. Non introduce nuove misure, ma si limita a rendere il testo giuridico preciso e coerente. La correzione è stata adottata per evitare che imprecisioni tecniche possano creare incertezze nell'applicazione delle sanzioni. In questo modo si garantisce che le misure restrittive siano applicate correttamente dagli Stati membri e dalle autorità competenti.",
-      "cosa_cambia": [
-        "Nessuna modifica diretta nelle obbligazioni quotidiane dei cittadini",
-        "Le imprese che già applicano le sanzioni devono verificare eventuali correzioni nei riferimenti normativi",
-        "Le autorità doganali aggiornano i controlli sulle merci in base al testo corretto",
-        "Gli operatori finanziari ricevono indicazioni più chiare sui soggetti e sulle transazioni vietate"
-      ],
-      "chi_interessa": "Le imprese che operano con la Russia o l'Ucraina, le autorità doganali e gli operatori finanziari",
-      "cosa_devi_fare": "Verificare che la propria attività rispetti le sanzioni aggiornate; nessuna azione richiesta se già in conformità",
-      "impatto": "Assicura che le sanzioni siano applicate correttamente, evitando errori legali che ne potrebbero ridurre l'efficacia. Questo contribuisce a mantenere la pressione sulle azioni che minacciano l'integrità dell'Ucraina.",
-      "data_vigenza": "in vigore da subito",
-      "categoria": "Altro",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690676",
-      "pubblicato": "2026-08-06T00:00:00+02:00",
-      "processed_at": "2026-09-28T10:25:10.780526+00:00"
-    },
-    {
-      "id": "0d9be2a28b27abf3",
-      "titolo_popolare": "Documento UE non disponibile",
-      "titolo_originale": "OJ:L_202690666",
-      "riassunto_esteso": "Il documento indicato non è reperibile nelle banche dati ufficiali, quindi non è possibile conoscere il suo contenuto preciso. Probabilmente si tratta di un atto normativo europeo pubblicato nella Gazzetta Ufficiale dell'Unione Europea, serie L, con riferimento OJ:L_202690666. Senza il testo ufficiale non si possono descrivere gli obblighi o le novità introdotte. Per avere informazioni certe sarebbe necessario consultare la fonte originale o attendere una versione tradotta. Nel frattempo, si consiglia di verificare eventuali comunicazioni ufficiali delle istituzioni europee.",
-      "cosa_cambia": [
-        "non specificato"
-      ],
-      "chi_interessa": "non specificato",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "non specificato",
-      "data_vigenza": "non specificato",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690666",
-      "pubblicato": "2026-08-06T00:00:00+02:00",
-      "processed_at": "2026-09-28T10:26:06.737488+00:00"
-    },
-    {
-      "id": "796da0b4f096bc44",
-      "titolo_popolare": "Accordo UE-Islanda sui dati dei passeggeri per la sicurezza",
-      "titolo_originale": "OJ:L_202601919: Agreement between the European Union and Iceland on the Transfer of Passenger Name Record (PNR) Data for the Prevention, Detection, Investigation and Prosecution of Terrorist Offences and Serious Crime",
-      "riassunto_esteso": "L'accordo stabilisce che l'Unione Europea e l'Islanda condividano i dati PNR (Passenger Name Record) dei passeggeri dei voli tra le loro territori. Questi dati comprendono informazioni come nome, itinerario, dati di pagamento e contatti, e vengono trasferiti alle autorità competenti per prevenire, individuare, indagare e perseguire reati di terrorismo e criminalità grave. L'intesa prevede anche garanzie di protezione dei dati, limitando l'uso esclusivo a finalità di sicurezza e prevedendo controlli indipendenti. È stato adottato per rafforzare la cooperazione nella lotta contro minacce transfrontaliere, migliorando la capacità di risposta delle forze dell'ordine. L'accordo si applica a tutti i voli commerciali che collegano l'UE e l'Islanda.",
-      "cosa_cambia": [
-        "I dati dei passeggeri dei voli UE-Islanda saranno trasferiti alle autorità di sicurezza di entrambe le parti",
-        "Le autorità potranno analizzare questi dati per individuare possibili minacce terroristiche o criminali",
-        "I passeggeri potrebbero subire controlli più approfonditi basati sull'analisi dei loro dati PNR",
-        "Le compagnie aeree dovranno garantire il trasferimento sicuro e conforme dei dati secondo le norme concordate"
-      ],
-      "chi_interessa": "tutti i passeggeri che viaggiano in aereo tra l'Unione Europea e l'Islanda e le compagnie aeree che operano tali rotte",
-      "cosa_devi_fare": "nessuna azione richiesta ai passeggeri; le compagnie aeree devono adeguare i propri sistemi di trasferimento dati",
-      "impatto": "Maggiore capacità di prevenire e contrastare terrorismo e criminalità grave, con un possibile impatto sulla privacy dei dati personali dei viaggiatori",
-      "data_vigenza": "non specificato",
-      "categoria": "Digitale e Privacy",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601919",
-      "pubblicato": "2026-08-06T00:00:00+02:00",
-      "processed_at": "2026-09-30T10:03:33.421628+00:00"
     },
     {
       "id": "bb68323283680c7d",
