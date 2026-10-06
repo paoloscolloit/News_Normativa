@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-10-05T11:06:47.285861+00:00",
-  "total": 32,
+  "last_updated": "2026-10-06T11:02:40.703854+00:00",
+  "total": 35,
   "items": [
+    {
+      "id": "c642b38da39d961a",
+      "titolo_popolare": "L'UE decide la sua posizione per il comitato sanitario internazionale",
+      "titolo_originale": "CELEX:32026D1966: Council Decision (EU) 2026/1966 of 27 August 2026 on the position to be taken on behalf of the European Union at the first meeting of the States Parties Committee for the Implementation of the International Health Regulations (2005)",
+      "riassunto_esteso": "Il Consiglio dell'Unione europea ha adottato una decisione che stabilisce la posizione che l'UE dovrà rappresentare alla prima riunione del comitato degli Stati parti per l'attuazione del Regolamento sanitario internazionale (2005). Questo atto serve a coordinare la voce dell'UE in un forum globale che si occupa di preparazione e risposta a rischi sanitari transfrontalieri. La decisione non introduce nuovi obblighi per i cittadini o le imprese, ma definisce semplicemente come l'UE dovrà intervenire nelle discussioni internazionali sulla salute. È stata presa il 27 agosto 2026 e entra in vigore subito dopo l'adozione. L'obiettivo è garantire che l'UE parli con una posizione unita e coerente nelle questioni di salute pubblica a livello mondiale.",
+      "cosa_cambia": [
+        "nessun cambiamento diretto per i cittadini"
+      ],
+      "chi_interessa": "nessun gruppo specifico di cittadini; riguarda principalmente le istituzioni UE",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "nessun impatto diretto sulla vita quotidiana dei cittadini; serve solo a coordinare la posizione dell'UE in ambito sanitario internazionale.",
+      "data_vigenza": "in vigore dal 27 agosto 2026",
+      "categoria": "Salute e Farmaci",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1966",
+      "pubblicato": "2026-09-02T00:00:00+02:00",
+      "processed_at": "2026-10-06T11:02:06.204682+00:00"
+    },
+    {
+      "id": "74f7adf078e4ab4f",
+      "titolo_popolare": "Correzione tecnica al regolamento sulle imprese di investimento",
+      "titolo_originale": "CELEX:32017R0565R(09):            Rectificatif au règlement délégué (UE) 2017/565 de la Commission du 25 avril 2016 complétant la directive 2014/65/UE du Parlement européen et du Conseil en ce qui concerne les exigences organisationnelles et les conditions d’exercice applicables aux entreprises d’investissement et la définition de certains termes aux fins de ladite directive (JO L 87 du 31.3.2017)",
+      "riassunto_esteso": "Il documento è un corrigendum al regolamento delegato (UE) 2017/565, che integra la direttiva MiFID II fissando requisiti organizzativi e condizioni di esercizio per le imprese di investimento. Il corrigendum si limita a correggere errori di lingua nella versione francese del testo, senza modificare alcun contenuto sostanziale. Non introduce nuovi obblighi né cambia le regole già in vigore. L'obiettivo è garantire che tutte le versioni linguistiche del regolamento siano coerenti e evitare possibili confusioni dovute a refusi. L'atto è stato pubblicato nella Gazzetta ufficiale dell'Unione europea e entra in vigore subito dopo la pubblicazione.",
+      "cosa_cambia": [
+        "Nessuna modifica sostanziale alle regole per imprese o cittadini"
+      ],
+      "chi_interessa": "imprese di investimento e intermediari finanziari",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "L'atto corregge solo errori di lingua, quindi non ha effetti pratici sui cittadini o sulle imprese.",
+      "data_vigenza": "in vigore dal 31 marzo 2017",
+      "categoria": "Banche e Finanza",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32017R0565R(09)",
+      "pubblicato": "2026-09-01T00:00:00+02:00",
+      "processed_at": "2026-10-06T11:00:52.462533+00:00"
+    },
     {
       "id": "e2e5db12bc1ea042",
       "titolo_popolare": "Italia riconosce una decisione presa all'estero",
@@ -44,6 +84,29 @@
       "url": "http://www.gazzettaufficiale.it/eli/id/2026/08/29/26A04447/SG",
       "pubblicato": "2026-08-29T10:03:13+00:00",
       "processed_at": "2026-10-05T11:05:05.901388+00:00"
+    },
+    {
+      "id": "3ea997abe8a3502d",
+      "titolo_popolare": "Proroga gestione del comune di Aprilia",
+      "titolo_originale": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 luglio 2026",
+      "riassunto_esteso": "Il decreto proroga l'affidamento della gestione del consiglio comunale di Aprilia, mantenendo in carica gli attuali amministratori oltre la scadenza prevista. Questa misura è stata adottata per evitare un vuoto amministrativo mentre si prepara una nuova procedura di affidamento tramite gara o nomina ordinaria. Grazie alla proroga, il comune può continuare a svolgere le sue funzioni essenziali, come l'approvazione del bilancio e la erogazione dei servizi ai cittadini. L'obiettivo è garantire continuità e stabilità operativa per residenti, imprese e dipendenti comunali durante il periodo transitorio. La disposizione è temporanea e resterà in vigore fino a quando non sarà effettuato il nuovo affidamento secondo le norme ordinarie.",
+      "cosa_cambia": [
+        "Continuita' dei servizi comunali senza interruzioni per i cittadini",
+        "Gli amministratori attuali restano in carica oltre la scadenza originale",
+        "Non e' necessario indire nuove elezioni o nomine immediate",
+        "Nessuna modifica immediata a tasse o tributi locali"
+      ],
+      "chi_interessa": "tutti i residenti, le imprese e i dipendenti del comune di Aprilia",
+      "cosa_devi_fare": "nessuna azione richiesta dai cittadini",
+      "impatto": "Assicura che i servizi municipali proseguano normalmente, evitando disagi amministrativi e garantendo stabilita' alla comunita' locale.",
+      "data_vigenza": "in vigore dal 28 luglio 2026",
+      "categoria": "Iter Legislativo",
+      "importanza": 2,
+      "fonte": "Gazzetta Ufficiale",
+      "paese": "IT",
+      "url": "http://www.gazzettaufficiale.it/eli/id/2026/08/29/26A04297/SG",
+      "pubblicato": "2026-08-29T10:03:12+00:00",
+      "processed_at": "2026-10-06T10:52:43.596346+00:00"
     },
     {
       "id": "a77e9dd8bf262dba",
