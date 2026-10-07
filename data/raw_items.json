@@ -1,125 +1,5 @@
 [
   {
-    "id": "a77e9dd8bf262dba",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202690706",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690706",
-    "pubblicato": "2026-08-20T00:00:00+02:00",
-    "summary_raw": "This document does not exist in English.",
-    "fetched_at": "2026-08-20T04:24:36.559177+00:00",
-    "processed": true
-  },
-  {
-    "id": "fd194511b04bd4de",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "OJ:L_202690703",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690703",
-    "pubblicato": "2026-08-20T00:00:00+02:00",
-    "summary_raw": "This document does not exist in English.",
-    "fetched_at": "2026-08-20T04:24:36.559255+00:00",
-    "processed": true
-  },
-  {
-    "id": "9db567da2463ae61",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:42026X1534: UN Regulation No. 129 - Uniform provisions concerning the approval of Enhanced Child Restraint Systems used on board of motor vehicles [2026/1534]",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:42026X1534",
-    "pubblicato": "2026-08-28T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-08-28T15:44:13.084719+00:00",
-    "processed": false
-  },
-  {
-    "id": "98348005f55d776a",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026R1310: Commission Delegated Regulation (EU) 2026/1310 of 11 June 2026 supplementing Regulation (EU) 2024/3110 of the European Parliament and of the Council by establishing the applicable assessment and verification systems for product families and categories",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1310",
-    "pubblicato": "2026-08-28T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-08-28T15:44:13.084853+00:00",
-    "processed": false
-  },
-  {
-    "id": "7889439d37992f2c",
-    "source_id": "inps_circolari",
-    "fonte": "INPS — Circolari",
-    "paese": "IT",
-    "titolo_originale": "Circolare numero 90 del 28-08-2026",
-    "url": "https://www.inps.it/it/it/inps-comunica/atti/circolari-messaggi-e-normativa/dettaglio.circolari-e-messaggi.2026.08.circolare-numero-90-del-28-08-2026_15358.html",
-    "pubblicato": "2026-08-28T00:00:00",
-    "summary_raw": "Convenzione fra l’INPS e l’Organizzazione sindacale NURSIND (NURSIND) per la riscossione dei contributi sindacali sulle prestazioni pensionistiche ai sensi della legge 11 agosto 1972, n. 485. Istruzioni operative e contabili. Variazioni al piano dei conti",
-    "fetched_at": "2026-08-28T15:44:13.981132+00:00",
-    "processed": false
-  },
-  {
-    "id": "743517127f47045c",
-    "source_id": "agenzia_entrate",
-    "fonte": "Agenzia delle Entrate",
-    "paese": "IT",
-    "titolo_originale": "Disposizioni attuative dell’articolo 54-bis.1 del decreto del Presidente della Repubblica 26 ottobre 1972, n. 633, riguardante la liquidazione dell’imposta sul valore aggiunto nel caso di dichiarazioni omesse (provvedimento)",
-    "url": "https://www.agenziaentrate.gov.it/portale/documents/20143/10266323/Provvedimento+liquidazione+IVA+omessa+art.+54-bis.1+dPR+633-72_28.08.26/ea907e5f-f713-c173-ac41-ac7f5bc3f15f",
-    "pubblicato": "2026-08-28T00:00:00+00:00",
-    "summary_raw": "",
-    "fetched_at": "2026-08-28T15:44:14.524188+00:00",
-    "processed": false
-  },
-  {
-    "id": "3ea997abe8a3502d",
-    "source_id": "gu_serie_generale",
-    "fonte": "Gazzetta Ufficiale",
-    "paese": "IT",
-    "titolo_originale": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 luglio 2026",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/08/29/26A04297/SG",
-    "pubblicato": "2026-08-29T10:03:12+00:00",
-    "summary_raw": "Proroga dell'affidamento della gestione del consiglio comunale di Aprilia. (26A04297)",
-    "fetched_at": "2026-08-29T10:31:12.999186+00:00",
-    "processed": true
-  },
-  {
-    "id": "3f3ed33bd129731c",
-    "source_id": "gu_serie_generale",
-    "fonte": "Gazzetta Ufficiale",
-    "paese": "IT",
-    "titolo_originale": "MINISTERO DELLA DIFESA - DECRETO 4 agosto 2026",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/08/29/26A04449/SG",
-    "pubblicato": "2026-08-29T10:03:14+00:00",
-    "summary_raw": "Aggiornamento annuale delle paghe nette giornaliere spettanti, a decorrere dal 1° luglio 2026, agli allievi delle Scuole militari. (26A04449)",
-    "fetched_at": "2026-08-29T10:31:12.999336+00:00",
-    "processed": false
-  },
-  {
-    "id": "70d5154ddaa97636",
-    "source_id": "gu_serie_generale",
-    "fonte": "Gazzetta Ufficiale",
-    "paese": "IT",
-    "titolo_originale": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - DECRETO 28 luglio 2026",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/08/29/26A04448/SG",
-    "pubblicato": "2026-08-29T10:03:13+00:00",
-    "summary_raw": "Programmazione fondi per bandi Brevetti+, Marchi+ e Disegni+. (26A04448)",
-    "fetched_at": "2026-08-29T10:31:12.999499+00:00",
-    "processed": false
-  },
-  {
-    "id": "22f60092af45ba67",
-    "source_id": "gu_serie_generale",
-    "fonte": "Gazzetta Ufficiale",
-    "paese": "IT",
-    "titolo_originale": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - DECRETO 30 luglio 2026",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/08/29/26A04199/SG",
-    "pubblicato": "2026-08-29T10:03:09+00:00",
-    "summary_raw": "Sostituzione del commissario liquidatore della «Consorzio provinciale produttori latte Ferrara - Lattestense - Societa' cooperativa agricola in liquidazione», in Ferrara. (26A04199)",
-    "fetched_at": "2026-08-29T10:31:12.999624+00:00",
-    "processed": false
-  },
-  {
     "id": "f6036c1e077dc2d4",
     "source_id": "gu_serie_generale",
     "fonte": "Gazzetta Ufficiale",
@@ -357,7 +237,7 @@
     "pubblicato": "2026-09-01T00:00:00+02:00",
     "summary_raw": "The corrigendum does not concern the English version.",
     "fetched_at": "2026-09-01T08:57:08.300369+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "a2014c3c163e7701",
@@ -393,7 +273,7 @@
     "pubblicato": "2026-09-02T00:00:00+02:00",
     "summary_raw": "The corrigendum does not concern the English version.",
     "fetched_at": "2026-09-02T08:11:07.886263+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "116866e07714653b",
@@ -405,7 +285,7 @@
     "pubblicato": "2026-09-02T00:00:00+02:00",
     "summary_raw": "The corrigendum does not concern the English version.",
     "fetched_at": "2026-09-02T08:11:07.886388+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "9137e98ddf50e843",
@@ -417,7 +297,7 @@
     "pubblicato": "2026-09-02T00:00:00+02:00",
     "summary_raw": "The corrigendum does not concern the English version.",
     "fetched_at": "2026-09-02T08:11:07.886498+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "32c492cfef67d1a2",
@@ -429,7 +309,7 @@
     "pubblicato": "2026-09-02T00:00:00+02:00",
     "summary_raw": "The corrigendum does not concern the English version.",
     "fetched_at": "2026-09-02T08:11:07.886604+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "4aaec2391a2c0a86",
@@ -453,7 +333,7 @@
     "pubblicato": "2026-09-02T00:00:00+02:00",
     "summary_raw": "The corrigendum does not concern the English version.",
     "fetched_at": "2026-09-02T08:11:07.886813+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "3981fc2384b5cd9a",
@@ -501,7 +381,7 @@
     "pubblicato": "2026-09-03T00:00:00+02:00",
     "summary_raw": "The corrigendum does not concern the English version.",
     "fetched_at": "2026-09-03T08:20:26.926119+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "1e63a146a421d249",
@@ -513,7 +393,7 @@
     "pubblicato": "2026-09-03T00:00:00+02:00",
     "summary_raw": "The corrigendum does not concern the English version.",
     "fetched_at": "2026-09-03T08:20:26.926198+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "477ac4e0f684aee9",
@@ -5997,6 +5877,126 @@
     "pubblicato": "2026-10-06T00:00:00+00:00",
     "summary_raw": "",
     "fetched_at": "2026-10-06T10:50:54.169267+00:00",
+    "processed": false
+  },
+  {
+    "id": "7a5dca550e550cef",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32024R1739R(01)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32024R1739R(01)",
+    "pubblicato": "2026-10-07T00:00:00+02:00",
+    "summary_raw": "The corrigendum does not concern the English version.",
+    "fetched_at": "2026-10-07T10:37:56.535045+00:00",
+    "processed": false
+  },
+  {
+    "id": "256e589cfad2ec9b",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32024L1799R(03): Corrigendum to Directive (EU) 2024/1799 of the European Parliament and of the Council of 13 June 2024 on common rules promoting the repair of goods and amending Regulation (EU) 2017/2394 and Directives (EU) 2019/771 and (EU) 2020/1828 (OJ L, 2024/1799, 10.7.2024)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32024L1799R(03)",
+    "pubblicato": "2026-10-07T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-10-07T10:37:56.535131+00:00",
+    "processed": false
+  },
+  {
+    "id": "4ef1153bebde2e83",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32008L0115R(05)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32008L0115R(05)",
+    "pubblicato": "2026-10-07T00:00:00+02:00",
+    "summary_raw": "The corrigendum does not concern the English version.",
+    "fetched_at": "2026-10-07T10:37:56.535204+00:00",
+    "processed": false
+  },
+  {
+    "id": "3bf33a49a03d4b40",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32017R0392R(03)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32017R0392R(03)",
+    "pubblicato": "2026-10-07T00:00:00+02:00",
+    "summary_raw": "The corrigendum does not concern the English version.",
+    "fetched_at": "2026-10-07T10:37:56.535270+00:00",
+    "processed": false
+  },
+  {
+    "id": "b0093efa205b8e3a",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D1347R(01): Corrigendum to Council Decision (EU) 2026/1347 of 4 June 2026 on the conclusion, on behalf of the European Union, of the United Nations Convention against Cybercrime; Strengthening International Cooperation for Combating Certain Crimes Committed by Means of Information and Communications Technology Systems and for the Sharing of Evidence in Electronic Form of Serious Crimes (OJ L, 2026/1347, 19.6.2026)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1347R(01)",
+    "pubblicato": "2026-10-07T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-10-07T10:37:56.535333+00:00",
+    "processed": false
+  },
+  {
+    "id": "bbd5a3ce285763e2",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D2251: Council Decision (EU) 2026/2251 of 1 October 2026 on the signing of the Agreement between the European Union and the Republic of Korea on the transfer of Passenger Name Record (PNR) data for the prevention, detection, investigation and prosecution of terrorist offences and serious crime",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2251",
+    "pubblicato": "2026-10-07T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-10-07T10:37:56.535395+00:00",
+    "processed": false
+  },
+  {
+    "id": "53dda4de9f038cd4",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32014L0059R(20)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32014L0059R(20)",
+    "pubblicato": "2026-10-07T00:00:00+02:00",
+    "summary_raw": "The corrigendum does not concern the English version.",
+    "fetched_at": "2026-10-07T10:37:56.535455+00:00",
+    "processed": false
+  },
+  {
+    "id": "47aed3f634f1cacc",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D2255: Council Decision (EU) 2026/2255 of 24 September 2026 on the position to be adopted on behalf of the European Union within the EEA Joint Committee concerning the amendment of Annex IV (Energy) to the EEA Agreement (Network Code on Gas Balancing of Transmission Networks) (Text with EEA relevance)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2255",
+    "pubblicato": "2026-10-07T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-10-07T10:37:56.535514+00:00",
+    "processed": false
+  },
+  {
+    "id": "48c8377c1547bf8f",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D2204: Political and Security Committee Decision (CFSP) 2026/2204 of 24 September 2026 on the appointment of the EU Force Commander for the European Union military operation to contribute to maritime security in the West Indian Ocean and in the Red Sea (EUNAVFOR ATALANTA), and repealing Decision (CFSP) 2026/1060 (EUNAVFOR ATALANTA/3/2026)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2204",
+    "pubblicato": "2026-10-07T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-10-07T10:37:56.535574+00:00",
+    "processed": false
+  },
+  {
+    "id": "3ae09016c519e203",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D2244: Council Decision (EU) 2026/2244 of 28 September 2026 appointing two European Prosecutors of the European Public Prosecutor’s Office",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2244",
+    "pubblicato": "2026-10-07T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-10-07T10:37:56.535650+00:00",
     "processed": false
   }
 ]

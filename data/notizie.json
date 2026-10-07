@@ -1,7 +1,47 @@
 {
-  "last_updated": "2026-10-06T11:02:40.703854+00:00",
-  "total": 35,
+  "last_updated": "2026-10-07T10:50:41.096556+00:00",
+  "total": 43,
   "items": [
+    {
+      "id": "a73feb60d23b2734",
+      "titolo_popolare": "Correzione tecnica di un atto UE",
+      "titolo_originale": "CELEX:32019D0086R(01)",
+      "riassunto_esteso": "Il documento è un corrigendum, cioè una correzione di eventuali errori materiali presenti nelle versioni linguistiche di un atto dell'Unione europea. Non riguarda la versione inglese, quindi si limita a sistemare possibili refusi o imprecisioni nelle altre lingue ufficiali. L'adozione di questo corrigendum serve a garantire che tutti i testi ufficiali siano coerenti e privi di refusi, senza modificare il contenuto sostanziale dell'atto originale. Non introduce nuovi obblighi, diritti o cambiamenti pratici per i cittadini o le imprese. Si tratta dunque di un intervento puramente formale e di routine.",
+      "cosa_cambia": [
+        "Nessuna modifica sostanziale per i cittadini, imprese o altri soggetti"
+      ],
+      "chi_interessa": "nessun gruppo specifico (nessun impatto diretto)",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "Nessun effetto concreto sui cittadini; serve solo a correggere eventuali refusi nelle versioni linguistiche dell'atto.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32019D0086R(01)",
+      "pubblicato": "2026-09-03T00:00:00+02:00",
+      "processed_at": "2026-10-07T10:49:56.692298+00:00"
+    },
+    {
+      "id": "1e63a146a421d249",
+      "titolo_popolare": "Correzione di errori nelle versioni non inglesi di un atto UE",
+      "titolo_originale": "CELEX:32024D2875R(01)",
+      "riassunto_esteso": "Il documento è un corrigendum, cioè una correzione ufficiale di un atto dell'Unione Europea. Essa si limita a sistemare errori di stampa o di traduzione presenti nelle versioni linguistiche diverse dall'inglese. Non introduce alcuna modifica sostanziale al contenuto normativo dell'atto originale. Lo scopo è garantire che tutti i testi ufficiali nelle varie lingue siano coerenti e privi di refusi. La correzione è stata adottata per evitare confusione nell'applicazione della norma nei diversi Stati membri.",
+      "cosa_cambia": [
+        "Nessuna modifica sostanziale per i cittadini"
+      ],
+      "chi_interessa": "tutti",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "Nessun impatto pratico sui diritti o doveri dei cittadini; serve solo a uniformare le traduzioni.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32024D2875R(01)",
+      "pubblicato": "2026-09-03T00:00:00+02:00",
+      "processed_at": "2026-10-07T10:50:05.998392+00:00"
+    },
     {
       "id": "c642b38da39d961a",
       "titolo_popolare": "L'UE decide la sua posizione per il comitato sanitario internazionale",
@@ -23,6 +63,106 @@
       "processed_at": "2026-10-06T11:02:06.204682+00:00"
     },
     {
+      "id": "4079aef544e8b9fd",
+      "titolo_popolare": "Correzione di testi non inglesi della direttiva plastica",
+      "titolo_originale": "CELEX:32019L0904R(04)",
+      "riassunto_esteso": "Il documento è un corrigendum che corregge errori presenti nelle versioni non inglesi della direttiva UE sulla riduzione dell'impatto di alcuni prodotti di plastica monouso sull'ambiente. Non modifica il contenuto sostanziale della direttiva, né introduce nuovi obblighi o diritti. La correzione serve soltanto a uniformare i testi delle altre lingue ufficiali all'inglese, che è la versione di riferimento. Per i cittadini italiani non ci sono cambiamenti pratici da osservare. L'atto entra in vigore subito dopo la sua pubblicazione nella Gazzetta ufficiale dell'Unione europea.",
+      "cosa_cambia": [
+        "Nessuna modifica sostanziale per i cittadini riguardo all'uso della plastica monouso",
+        "Nessun nuovo obbligo o diritto introdotto per i consumatori"
+      ],
+      "chi_interessa": "nessun gruppo specifico di cittadini",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "nessun impatto pratico diretto sui cittadini. La correzione riguarda solo le versioni linguistiche non inglesi della direttiva.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Ambiente e Energia",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32019L0904R(04)",
+      "pubblicato": "2026-09-02T00:00:00+02:00",
+      "processed_at": "2026-10-07T10:46:47.826630+00:00"
+    },
+    {
+      "id": "116866e07714653b",
+      "titolo_popolare": "Correzione alla raccomandazione sui alcaloidi nell'alimento per animali",
+      "titolo_originale": "CELEX:32026H1243R(01):            Rectificatif à la recommandation (UE) 2026/1243 de la Commission du 11 juin 2026 sur la surveillance de la présence d’alcaloïdes de l’ergot dans les aliments pour animaux (JO L, 2026/1243, 15.6.2026)",
+      "riassunto_esteso": "La Commissione europea ha pubblicato un corrigendum alla sua raccomandazione del 11 giugno 2026 sul monitoraggio della presenza di alcaloidi dell'ergot nei mangimi per animali. Questo atto corregge errori di traduzione presenti nelle versioni linguistiche diverse dall'inglese del testo originale. Non introduce nuove regole né modifica i contenuti sostanziali della raccomandazione. L'obiettivo è assicurare che tutti gli Stati membri recepiscano correttamente le indicazioni per il controllo degli alcaloidi, sostanze potenzialmente pericolose per il bestiame. In pratica, il corrigendum serve a uniformare le informazioni ufficiali nelle varie lingue dell'UE.",
+      "cosa_cambia": [
+        "Correzione di errori di traduzione nelle versioni non inglesi della raccomandazione",
+        "Aggiornamento dei riferimenti testuali nelle copie ufficiali in francese, tedesco e altre lingue"
+      ],
+      "chi_interessa": "produttori di mangimi, allevatori e autorità di controllo nazionali",
+      "cosa_devi_fare": "nessuna azione richiesta direttamente dai cittadini",
+      "impatto": "Garantisce che le indicazioni sul monitoraggio degli alcaloidi siano corrette, contribuendo alla sicurezza dei mangimi e della catena alimentare.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Agricoltura e Alimentare",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026H1243R(01)",
+      "pubblicato": "2026-09-02T00:00:00+02:00",
+      "processed_at": "2026-10-07T10:47:01.075350+00:00"
+    },
+    {
+      "id": "9137e98ddf50e843",
+      "titolo_popolare": "Correzione tecnica di una direttiva europea",
+      "titolo_originale": "CELEX:32014L0023R(08)",
+      "riassunto_esteso": "Il documento è un corrigendum, cioè una correzione tecnica, della direttiva UE 2014/23 sui contratti di concessione. Non modifica il contenuto sostanziale della direttiva, ma corregge errori di traduzione presenti nelle versioni linguistiche diverse dall'inglese. È stato adottato per garantire che tutti i testi ufficiali dell'Unione siano accurati e coerenti nelle varie lingue. La correzione è stata pubblicata nella Gazzetta ufficiale dell'Unione europea e entra in vigore immediatamente. Non introduce nuovi obblighi o diritti per i cittadini.",
+      "cosa_cambia": [
+        "Nessuna modifica sostanziale per i cittadini"
+      ],
+      "chi_interessa": "nessun cittadino direttamente interessato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "Nessun impatto pratico sui cittadini; serve solo a correggere i testi giuridici nelle altre lingue ufficiali dell'UE.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Appalti Pubblici",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32014L0023R(08)",
+      "pubblicato": "2026-09-02T00:00:00+02:00",
+      "processed_at": "2026-10-07T10:47:26.182782+00:00"
+    },
+    {
+      "id": "32c492cfef67d1a2",
+      "titolo_popolare": "Correzione tecnica di un atto UE sulle lingue",
+      "titolo_originale": "CELEX:32014L0065R(19)",
+      "riassunto_esteso": "Il documento è un corrigendum, cioè una correzione di errori materiali presenti nelle versioni non inglesi di un atto dell'Unione Europea. Non modifica il contenuto sostanziale dell'atto, ma si limita a sistemare refusi o imprecisioni di traduzione nelle altre lingue ufficiali. Questo tipo di atto viene pubblicato per garantire che tutti i testi ufficiali siano coerenti tra le diverse versioni linguistiche. Non introduce nuovi obblighi, diritti o cambiamenti pratici per i cittadini o le imprese. La sua funzione è puramente tecnica e di armonizzazione linguistica.",
+      "cosa_cambia": [
+        "nessuna modifica sostanziale per i cittadini"
+      ],
+      "chi_interessa": "nessun impatto diretto sui cittadini",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "nessun effetto pratico significativo; l'atto si limita a correggere traduzioni.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Imprese e Mercato",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32014L0065R(19)",
+      "pubblicato": "2026-09-02T00:00:00+02:00",
+      "processed_at": "2026-10-07T10:47:58.290915+00:00"
+    },
+    {
+      "id": "be17adacfdc60869",
+      "titolo_popolare": "Correzione di testi UE in lingua non inglese",
+      "titolo_originale": "CELEX:32023R0827R(01)",
+      "riassunto_esteso": "Il documento è un corrigendum, cioè una correzione ufficiale, adottata dall'Unione Europea per sistemare errori presenti nelle versioni non inglesi di un atto normativo. Non riguarda la versione inglese, che rimane invariata. Lo scopo è garantire che tutti i testi ufficiali nelle varie lingue siano coerenti e privi di refusi. Questa correzione non introduce nuove regole né modifica sostanzialmente il contenuto della norma. È un intervento puramente tecnico di forma.",
+      "cosa_cambia": [],
+      "chi_interessa": "nessun cittadino direttamente interessato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "Nessun impatto diretto sui cittadini; serve solo a uniformare i testi giuridici nelle lingue ufficiali non inglesi.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32023R0827R(01)",
+      "pubblicato": "2026-09-02T00:00:00+02:00",
+      "processed_at": "2026-10-07T10:48:36.137089+00:00"
+    },
+    {
       "id": "74f7adf078e4ab4f",
       "titolo_popolare": "Correzione tecnica al regolamento sulle imprese di investimento",
       "titolo_originale": "CELEX:32017R0565R(09):            Rectificatif au règlement délégué (UE) 2017/565 de la Commission du 25 avril 2016 complétant la directive 2014/65/UE du Parlement européen et du Conseil en ce qui concerne les exigences organisationnelles et les conditions d’exercice applicables aux entreprises d’investissement et la définition de certains termes aux fins de ladite directive (JO L 87 du 31.3.2017)",
@@ -41,6 +181,24 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32017R0565R(09)",
       "pubblicato": "2026-09-01T00:00:00+02:00",
       "processed_at": "2026-10-06T11:00:52.462533+00:00"
+    },
+    {
+      "id": "c210359f6705d59e",
+      "titolo_popolare": "Correzione di errori nelle versioni non inglesi",
+      "titolo_originale": "CELEX:32026R0557R(01)",
+      "riassunto_esteso": "L'atto è un corrigendum pubblicato nella Gazzetta ufficiale dell'Unione europea. Esso corregge errori materiali presenti nelle versioni linguistiche diverse dall'originale inglese. Non modifica il contenuto sostanziale della norma di riferimento. La correzione si limita a refusi o imprecisioni di traduzione. Pertanto non introduce nuovi obblighi o diritti per i cittadini.",
+      "cosa_cambia": [],
+      "chi_interessa": "nessun cittadino direttamente interessato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "nessun impatto pratico sui cittadini",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R0557R(01)",
+      "pubblicato": "2026-09-01T00:00:00+02:00",
+      "processed_at": "2026-10-07T10:45:48.648760+00:00"
     },
     {
       "id": "e2e5db12bc1ea042",
