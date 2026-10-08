@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-07T10:50:41.096556+00:00",
-  "total": 43,
+  "last_updated": "2026-10-08T11:12:50.300650+00:00",
+  "total": 51,
   "items": [
     {
       "id": "a73feb60d23b2734",
@@ -41,6 +41,127 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32024D2875R(01)",
       "pubblicato": "2026-09-03T00:00:00+02:00",
       "processed_at": "2026-10-07T10:50:05.998392+00:00"
+    },
+    {
+      "id": "2bef5992358e6f6c",
+      "titolo_popolare": "Correzione tecnica di un regolamento UE",
+      "titolo_originale": "CELEX:32026R1384R(01)",
+      "riassunto_esteso": "Il documento è un corrigendum, cioè una correzione di errori materiali presenti nel testo originale di un regolamento europeo. Non modifica il contenuto sostanziale della norma, ma si limita a sistemare refusi, riferimenti errati o incongruenze di forma. Tale intervento è necessario per garantire che il testo ufficiale pubblicato nella Gazzetta UE sia accurato e utilizzabile da tutti gli operatori. Poiché la correzione non riguarda la versione inglese, probabilmente riguarda le altre lingue ufficiali dell'Unione. In pratica, non introduce nuovi obblighi o diritti per i cittadini.",
+      "cosa_cambia": [
+        "Nessuna modifica sostanziale per i cittadini; si tratta solo di correggere errori di stampa o di riferimento."
+      ],
+      "chi_interessa": "non specificato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "L'atto non cambia diritti o obblighi dei cittadini; serve a garantire che il testo ufficiale sia corretto. Quindi non ci sono effetti pratici diretti.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1384R(01)",
+      "pubblicato": "2026-09-03T00:00:00+02:00",
+      "processed_at": "2026-10-08T11:06:37.023679+00:00"
+    },
+    {
+      "id": "48247c547279b351",
+      "titolo_popolare": "Correzione tecnica al regolamento UE",
+      "titolo_originale": "CELEX:32015R2120R(03)",
+      "riassunto_esteso": "Il documento è un corrigendum, cioè una correzione di errori materiali presenti in alcune versioni linguistiche di un regolamento europeo. La correzione non riguarda la versione inglese, quindi lascia invariato il testo già pubblicato in quella lingua. L'obiettivo è allineare le altre versioni linguistiche al contenuto corretto, garantendo uniformità nel diritto dell'Unione. Questo tipo di atto serve a evitare interpretazioni divergenti dovute a refusi o imprecisioni di traduzione. Non introduce nuove disposizioni né modifica sostanzialmente il contenuto del regolamento.",
+      "cosa_cambia": [
+        "nessuna modifica diretta per i cittadini"
+      ],
+      "chi_interessa": "nessun cittadino direttamente interessato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "nessun effetto pratico sulla vita quotidiana; serve solo a correggere i testi giuridici nelle altre lingue ufficiali.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32015R2120R(03)",
+      "pubblicato": "2026-09-03T00:00:00+02:00",
+      "processed_at": "2026-10-08T11:07:10.949021+00:00"
+    },
+    {
+      "id": "a67e7d6204be57d7",
+      "titolo_popolare": "Correzione minore al testo UE in italiano",
+      "titolo_originale": "CELEX:32019L0130R(04)",
+      "riassunto_esteso": "Il documento è un corrigendum, cioè una correzione di errori materiali presenti in alcune versioni linguistiche di un atto europeo. La correzione riguarda solo le versioni non inglesi, lasciando invariato il testo originale in inglese. Non introduce nuove disposizioni né modifica sostanzialmente il contenuto dell'atto. Pertanto, per i cittadini e le imprese non ci sono effetti pratici da tenere in considerazione.",
+      "cosa_cambia": [
+        "nessuna modifica sostanziale per i cittadini"
+      ],
+      "chi_interessa": "nessun cittadino direttamente interessato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "nessun impatto concreto sui cittadini; l'atto serve solo a correggere refusi linguistici.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32019L0130R(04)",
+      "pubblicato": "2026-09-03T00:00:00+02:00",
+      "processed_at": "2026-10-08T11:08:19.481753+00:00"
+    },
+    {
+      "id": "337e04d6059ee242",
+      "titolo_popolare": "Correzione tecnica di un atto UE",
+      "titolo_originale": "CELEX:32011L0070R(03)",
+      "riassunto_esteso": "Questo atto è un corrigendum, cioè una correzione di errori materiali, pubblicato nella Gazzetta ufficiale dell'Unione europea. Si riferisce a una direttiva precedente e si limita a modificare le versioni in lingue diverse dall'inglese. Non introduce nuove disposizioni né cambia il contenuto sostanziale della norma. Lo scopo è semplicemente allineare i testi delle varie lingue ufficiali dell'UE. Pertanto, per i cittadini non ci sono effetti pratici diretti.",
+      "cosa_cambia": [
+        "Nessuna modifica sostanziale per i cittadini"
+      ],
+      "chi_interessa": "nessun cittadino direttamente interessato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "nessun impatto concreto sui cittadini; serve solo a correggere testi in altre lingue dell'UE",
+      "data_vigenza": "non specificato",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32011L0070R(03)",
+      "pubblicato": "2026-09-03T00:00:00+02:00",
+      "processed_at": "2026-10-08T11:08:55.318160+00:00"
+    },
+    {
+      "id": "4cb1f10694a6784d",
+      "titolo_popolare": "Correzione tecnica di un atto UE",
+      "titolo_originale": "CELEX:32019L2161R(01)",
+      "riassunto_esteso": "Il documento è un corrigendum, cioè una correzione di errori materiali presenti nel testo originale di un atto dell'Unione europea. La correzione riguarda esclusivamente le versioni linguistiche diverse dall'inglese, quindi non altera il contenuto sostanziale della norma. Non introduce nuovi obblighi, diritti o modifiche operative per i cittadini o le imprese. Il suo scopo è semplicemente garantire che tutte le versioni linguistiche dell'atto siano coerenti e prive di refusi. Pertanto, l'atto non produce effetti pratici diretti sui destinatari della norma.",
+      "cosa_cambia": [
+        "Nessuna modifica sostanziale delle norme applicabili ai cittadini",
+        "Eventuali correzioni di refusi nelle versioni linguistiche non inglesi dell'atto"
+      ],
+      "chi_interessa": "nessun gruppo specifico, atto puramente tecnico",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "nessun impatto concreto sui cittadini; serve solo a correggere errori di testo nelle versioni linguistiche dell'atto.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32019L2161R(01)",
+      "pubblicato": "2026-09-03T00:00:00+02:00",
+      "processed_at": "2026-10-08T11:10:01.988623+00:00"
+    },
+    {
+      "id": "7e45f8b98c5175b4",
+      "titolo_popolare": "Correzione tecnica senza effetti sulla versione inglese",
+      "titolo_originale": "CELEX:32009F0299R(02)",
+      "riassunto_esteso": "Il documento è un corrigendum, cioè una correzione tecnica di un atto normativo europeo. Questa correzione riguarda solo alcune versioni linguistiche dell'atto e non riguarda la versione inglese. Poiché la versione italiana non è interessata dalle modifiche, il contenuto sostanziale della norma rimane invariato per i cittadini italiani. Quindi, dal punto di vista pratico, non ci sono cambiamenti da osservare o applicare.",
+      "cosa_cambia": [
+        "Nessuna modifica sostanziale per i cittadini italiani"
+      ],
+      "chi_interessa": "nessun gruppo specifico di cittadini",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "Nessun impatto pratico; la correzione riguarda solo versioni linguistiche non utilizzate in Italia.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32009F0299R(02)",
+      "pubblicato": "2026-09-03T00:00:00+02:00",
+      "processed_at": "2026-10-08T11:12:50.297425+00:00"
     },
     {
       "id": "c642b38da39d961a",
@@ -201,6 +322,26 @@
       "processed_at": "2026-10-07T10:45:48.648760+00:00"
     },
     {
+      "id": "09d74124305e3428",
+      "titolo_popolare": "Correzione tecnica di un regolamento UE",
+      "titolo_originale": "CELEX:32024R1681R(02)",
+      "riassunto_esteso": "Il documento è un corrigendum, cioè una correzione tecnica, di un atto normativo europeo. La correzione riguarda alcune versioni linguistiche del testo, ma non quella inglese. Poiché la versione inglese non è modificata, il contenuto sostanziale del regolamento rimane invariato. Questo tipo di atto serve solo a risolvere eventuali refusi o errori di traduzione. Non introduce nuovi obblighi o diritti per i cittadini.",
+      "cosa_cambia": [
+        "nessuna modifica diretta per i cittadini"
+      ],
+      "chi_interessa": "nessun cittadino direttamente interessato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "nessun impatto concreto sui cittadini, perché il testo sostanziale non cambia.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32024R1681R(02)",
+      "pubblicato": "2026-09-01T00:00:00+02:00",
+      "processed_at": "2026-10-08T11:03:11.285945+00:00"
+    },
+    {
       "id": "e2e5db12bc1ea042",
       "titolo_popolare": "Italia riconosce una decisione presa all'estero",
       "titolo_originale": "MINISTERO DEGLI AFFARI ESTERI E DELLA COOPERAZIONE INTERNAZIONALE - COMUNICATO",
@@ -265,6 +406,29 @@
       "url": "http://www.gazzettaufficiale.it/eli/id/2026/08/29/26A04297/SG",
       "pubblicato": "2026-08-29T10:03:12+00:00",
       "processed_at": "2026-10-06T10:52:43.596346+00:00"
+    },
+    {
+      "id": "36e1ad4f842848d2",
+      "titolo_popolare": "Aggiornamento mappa rischio inondazioni a Forni di Sopra",
+      "titolo_originale": "AUTORITA' DI BACINO DISTRETTUALE DELLE ALPI ORIENTALI - COMUNICATO",
+      "riassunto_esteso": "L'Autorità di Bacino Distrettuale delle Alpi Orientali ha pubblicato un comunicato che aggiorna la classificazione della pericolosità idraulica nel territorio del Comune di Forni di Sopra. L'aggiornamento si basa su nuovi studi e rilievi che hanno modificato le zone ritenute a rischio di inondazione. Questo serve a migliorare la pianificazione territoriale e la sicurezza dei cittadini, fornendo informazioni più precise su dove è possibile costruire e dove sono necessarie misure di protezione. Il comunicato è rivolto principalmente a residenti, proprietari di immobili e tecnici del settore edilizio. L'obiettivo è prevenire danni futuri e facilitare l'accesso a eventuali contributi o assicurazioni legati al rischio idraulico.",
+      "cosa_cambia": [
+        "Nuova mappa di pericolosità idraulica pubblicata, che sostituisce la precedente versione.",
+        "Possibile revisione dei limiti di edificabilità nelle aree ora classificate a rischio più alto.",
+        "Aggiornamento dei requisiti per stipulare assicurazioni contro le inondazioni negli immobili interessati.",
+        "Obbligo per progettisti e tecnici di tenere conto della nuova pericolosità nei progetti di costruzione o ristrutturazione."
+      ],
+      "chi_interessa": "residenti e proprietari di immobili nel Comune di Forni di Sopra",
+      "cosa_devi_fare": "verificare se il proprio immobile rientra in una zona di rischio aggiornata e adeguare eventuali pratiche edilizie o assicurative.",
+      "impatto": "Maggiori tutele contro le inondazioni e informazioni più chiare su dove è sicuro costruire. Questo può influire sui valori immobiliari e sui costi di assicurazione.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Ambiente e Energia",
+      "importanza": 2,
+      "fonte": "Gazzetta Ufficiale",
+      "paese": "IT",
+      "url": "http://www.gazzettaufficiale.it/eli/id/2026/08/29/26A04299/SG",
+      "pubblicato": "2026-08-29T10:03:12+00:00",
+      "processed_at": "2026-10-08T11:00:05.970889+00:00"
     },
     {
       "id": "a77e9dd8bf262dba",
