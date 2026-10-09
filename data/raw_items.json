@@ -1,101 +1,5 @@
 [
   {
-    "id": "0e09e56a1dd1f9a2",
-    "source_id": "gu_serie_generale",
-    "fonte": "Gazzetta Ufficiale",
-    "paese": "IT",
-    "titolo_originale": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/08/29/26A04452/SG",
-    "pubblicato": "2026-08-29T10:03:14+00:00",
-    "summary_raw": "Autorizzazione all'importazione parallela del medicinale per uso umano «Emla» (26A04452)",
-    "fetched_at": "2026-08-29T10:31:13.000446+00:00",
-    "processed": false
-  },
-  {
-    "id": "36e1ad4f842848d2",
-    "source_id": "gu_serie_generale",
-    "fonte": "Gazzetta Ufficiale",
-    "paese": "IT",
-    "titolo_originale": "AUTORITA' DI BACINO DISTRETTUALE DELLE ALPI ORIENTALI - COMUNICATO",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/08/29/26A04299/SG",
-    "pubblicato": "2026-08-29T10:03:12+00:00",
-    "summary_raw": "Aggiornamento della pericolosita' idraulica nel Comune di Forni di Sopra (26A04299)",
-    "fetched_at": "2026-08-29T10:31:13.000553+00:00",
-    "processed": true
-  },
-  {
-    "id": "721c24e5040b5673",
-    "source_id": "gu_serie_generale",
-    "fonte": "Gazzetta Ufficiale",
-    "paese": "IT",
-    "titolo_originale": "MINISTERO DEGLI AFFARI ESTERI E DELLA COOPERAZIONE INTERNAZIONALE - COMUNICATO",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/08/29/26A04322/SG",
-    "pubblicato": "2026-08-29T10:03:13+00:00",
-    "summary_raw": "Rilascio di exequatur (26A04322)",
-    "fetched_at": "2026-08-29T10:31:13.000649+00:00",
-    "processed": false
-  },
-  {
-    "id": "e2e5db12bc1ea042",
-    "source_id": "gu_serie_generale",
-    "fonte": "Gazzetta Ufficiale",
-    "paese": "IT",
-    "titolo_originale": "MINISTERO DEGLI AFFARI ESTERI E DELLA COOPERAZIONE INTERNAZIONALE - COMUNICATO",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/08/29/26A04323/SG",
-    "pubblicato": "2026-08-29T10:03:13+00:00",
-    "summary_raw": "Rilascio di exequatur (26A04323)",
-    "fetched_at": "2026-08-29T10:31:13.000745+00:00",
-    "processed": true
-  },
-  {
-    "id": "921ce26d5f9c9172",
-    "source_id": "gu_serie_generale",
-    "fonte": "Gazzetta Ufficiale",
-    "paese": "IT",
-    "titolo_originale": "MINISTERO DEGLI AFFARI ESTERI E DELLA COOPERAZIONE INTERNAZIONALE - COMUNICATO",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/08/29/26A04447/SG",
-    "pubblicato": "2026-08-29T10:03:13+00:00",
-    "summary_raw": "Rilascio di exequatur (26A04447)",
-    "fetched_at": "2026-08-29T10:31:13.000838+00:00",
-    "processed": true
-  },
-  {
-    "id": "2f419536e53f130b",
-    "source_id": "gu_serie_generale",
-    "fonte": "Gazzetta Ufficiale",
-    "paese": "IT",
-    "titolo_originale": "MINISTERO DELL'UNIVERSITA' E DELLA RICERCA - COMUNICATO",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/08/29/26A04549/SG",
-    "pubblicato": "2026-08-29T10:03:15+00:00",
-    "summary_raw": "Avviso relativo all'emanazione del decreto 30 gennaio 2026, recante modifiche al decreto 14 novembre 2025, di istituzione dell'elenco degli enti certificatori della lingua italiana come seconda lingua (L2) e definizione delle procedure di accreditamento, verifica e monitoraggio. (26A04549)",
-    "fetched_at": "2026-08-29T10:31:13.000938+00:00",
-    "processed": false
-  },
-  {
-    "id": "ab101bcda4280853",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026R1963: Commission Implementing Regulation (EU) 2026/1963 of 28 August 2026 on determining the type of evidence to be provided by importers to prove the country of melt and pour",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1963",
-    "pubblicato": "2026-08-31T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-08-31T10:10:45.977155+00:00",
-    "processed": false
-  },
-  {
-    "id": "49069680af654db2",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026R1119: Commission Delegated Regulation (EU) 2026/1119 of 26 May 2026 supplementing Regulation (EU) 2024/3005 of the European Parliament and of the Council with regard to regulatory technical standards specifying the information to be included in the application for authorisation as an ESG rating provider and in the application for recognition of an ESG rating provider",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1119",
-    "pubblicato": "2026-09-01T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-09-01T08:57:08.299838+00:00",
-    "processed": false
-  },
-  {
     "id": "09d74124305e3428",
     "source_id": "eurlex_oj_l",
     "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
@@ -141,7 +45,7 @@
     "pubblicato": "2026-09-01T00:00:00+02:00",
     "summary_raw": "The corrigendum does not concern the English version.",
     "fetched_at": "2026-09-01T08:57:08.300210+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "74f7adf078e4ab4f",
@@ -369,7 +273,7 @@
     "pubblicato": "2026-09-03T00:00:00+02:00",
     "summary_raw": "The corrigendum does not concern the English version.",
     "fetched_at": "2026-09-03T08:20:26.926512+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "a67e7d6204be57d7",
@@ -441,7 +345,7 @@
     "pubblicato": "2026-09-03T00:00:00+02:00",
     "summary_raw": "The corrigendum does not concern the English version.",
     "fetched_at": "2026-09-03T08:20:26.926956+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "9d1c09fa5df5284c",
@@ -465,7 +369,7 @@
     "pubblicato": "2026-09-03T00:00:00+02:00",
     "summary_raw": "The corrigendum does not concern the English version.",
     "fetched_at": "2026-09-03T08:20:26.927128+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "9a037a4b85363302",
@@ -5997,6 +5901,102 @@
     "pubblicato": "2026-10-08T00:00:00+02:00",
     "summary_raw": "The corrigendum does not concern the English version.",
     "fetched_at": "2026-10-08T10:59:17.516621+00:00",
+    "processed": false
+  },
+  {
+    "id": "97999b5689aee037",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R2287: Commission Implementing Regulation (EU) 2026/2287 of 8 October 2026 amending for the 362nd time Council Regulation (EC) No 881/2002 imposing certain specific restrictive measures directed against certain persons and entities associated with the ISIL (Da'esh) and Al-Qaida organisations",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2287",
+    "pubblicato": "2026-10-09T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-10-09T10:57:56.650729+00:00",
+    "processed": false
+  },
+  {
+    "id": "035b1fefe5e621f9",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32019L0879R(11)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32019L0879R(11)",
+    "pubblicato": "2026-10-09T00:00:00+02:00",
+    "summary_raw": "The corrigendum does not concern the English version.",
+    "fetched_at": "2026-10-09T10:57:56.650857+00:00",
+    "processed": false
+  },
+  {
+    "id": "ef53207ab7b1ec1f",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R2269: Regulation (EU) 2026/2269 of the European Parliament and of the Council of 7 October 2026 on temporary trade-liberalisation measures applicable to certain products originating in the Republic of Armenia",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2269",
+    "pubblicato": "2026-10-09T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-10-09T10:57:56.650968+00:00",
+    "processed": false
+  },
+  {
+    "id": "6e326be49f4c718d",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R2265: Commission Implementing Regulation (EU) 2026/2265 of 6 October 2026 concerning the classification of certain goods in the Combined Nomenclature",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2265",
+    "pubblicato": "2026-10-09T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-10-09T10:57:56.651073+00:00",
+    "processed": false
+  },
+  {
+    "id": "be847f24185c8ccd",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32024R2847R(08)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32024R2847R(08)",
+    "pubblicato": "2026-10-09T00:00:00+02:00",
+    "summary_raw": "The corrigendum does not concern the English version.",
+    "fetched_at": "2026-10-09T10:57:56.651199+00:00",
+    "processed": false
+  },
+  {
+    "id": "ea923be7fbbc636c",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32002L0047R(02)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32002L0047R(02)",
+    "pubblicato": "2026-10-09T00:00:00+02:00",
+    "summary_raw": "The corrigendum does not concern the English version.",
+    "fetched_at": "2026-10-09T10:57:56.651316+00:00",
+    "processed": false
+  },
+  {
+    "id": "2112a1ddba359c3b",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R2241: Commission Implementing Regulation (EU) 2026/2241 of 8 October 2026 amending Implementing Regulation (EU) 2024/2746 laying down rules for the application of Council Regulation (EC) No 1217/2009 setting up the Farm Sustainability Data Network and repealing Commission Implementing Regulation (EU) 2015/220",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2241",
+    "pubblicato": "2026-10-09T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-10-09T10:57:56.651420+00:00",
+    "processed": false
+  },
+  {
+    "id": "637d9b0063031512",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R2245: Commission Implementing Regulation (EU) 2026/2245 of 8 October 2026 making imports of certain polyvinyl alcohols originating in the People’s Republic of China subject to registration with a view to allowing the levy of anti-dumping duties on the imports subject to registration",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2245",
+    "pubblicato": "2026-10-09T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-10-09T10:57:56.651528+00:00",
     "processed": false
   }
 ]

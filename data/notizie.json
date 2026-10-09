@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-08T11:12:50.300650+00:00",
-  "total": 51,
+  "last_updated": "2026-10-09T11:08:42.039490+00:00",
+  "total": 55,
   "items": [
     {
       "id": "a73feb60d23b2734",
@@ -162,6 +162,64 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32009F0299R(02)",
       "pubblicato": "2026-09-03T00:00:00+02:00",
       "processed_at": "2026-10-08T11:12:50.297425+00:00"
+    },
+    {
+      "id": "59cfd5774547c239",
+      "titolo_popolare": "Correzione tecnica a un regolamento europeo",
+      "titolo_originale": "CELEX:32026R1824R(01)",
+      "riassunto_esteso": "Questo atto è un corrigendum, cioè una correzione tecnica, adottata dall'Unione Europea per sistemare errori di forma presenti nelle versioni linguistiche di un regolamento precedente. La correzione non riguarda la versione inglese, ma si limita ad altre lingue ufficiali dell'UE. Non introduce nuove disposizioni né modifica sostanzialmente il contenuto del regolamento originale. Lo scopo è garantire che tutti i testi ufficiali siano coerenti e privi di refusi che potrebbero generare confusione. Poiché si tratta solo di una revisione formale, non ci sono effetti pratici per i cittadini o le imprese.",
+      "cosa_cambia": [
+        "Nessuna modifica sostanziale per i cittadini"
+      ],
+      "chi_interessa": "nessun cittadino direttamente interessato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "nessun impatto concreto sui cittadini; serve solo a uniformare i testi giuridici dell'UE.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1824R(01)",
+      "pubblicato": "2026-09-03T00:00:00+02:00",
+      "processed_at": "2026-10-09T11:02:12.158020+00:00"
+    },
+    {
+      "id": "691b18ef97673b3a",
+      "titolo_popolare": "Correzione tecnica al regolamento UE 2024/1735",
+      "titolo_originale": "CELEX:32024R1735R(04)",
+      "riassunto_esteso": "Il documento è un corrigendum, cioè una correzione di errori materiali presenti nel testo originale del regolamento UE 2024/1735. La correzione riguarda le versioni ufficiali in tutte le lingue dell'Unione, tranne quella inglese, che risultava già corretta. L'obiettivo è garantire che il testo della norma sia identico e privo di refusi in tutte le lingue, evitando interpretazioni divergenti. Questo tipo di atto è routine e serve a mantenere la chiarezza e l'uniformità della legislazione europea.",
+      "cosa_cambia": [
+        "nessuna modifica sostanziale per i cittadini"
+      ],
+      "chi_interessa": "nessun gruppo specifico di cittadini",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "L'atto corregge eventuali errori di testo, garantendo la corretta applicazione della norma negli altri linguaggi ufficiali. Questo aumenta la certezza giuridica senza cambiare sostanzialmente i diritti o gli obblighi delle persone.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32024R1735R(04)",
+      "pubblicato": "2026-09-03T00:00:00+02:00",
+      "processed_at": "2026-10-09T11:03:20.889013+00:00"
+    },
+    {
+      "id": "0e87d9f385c7d65a",
+      "titolo_popolare": "Correzione di un atto UE nelle altre lingue",
+      "titolo_originale": "CELEX:32026R1386R(01)",
+      "riassunto_esteso": "Questo atto è un corrigendum, cioè una correzione di errori materiali presenti nelle versioni non inglesi di un precedente regolamento europeo. La correzione si limita a modifiche di testo nelle traduzioni in francese, tedesco, spagnolo e altre lingue ufficiali dell'Unione, senza toccare la versione inglese. È stato adottato per garantire che tutti i testi ufficiali abbiano lo stesso contenuto e evitino incoerenze linguistiche che potrebbero creare confusione negli Stati membri. Non introduce nuove disposizioni né modifica sostanzialmente il contenuto originale del regolamento. Pertanto, per i cittadini e le imprese non ci sono effetti pratici diretti.",
+      "cosa_cambia": [],
+      "chi_interessa": "nessun cittadino direttamente interessato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "nessun impatto concreto sui cittadini",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1386R(01)",
+      "pubblicato": "2026-09-03T00:00:00+02:00",
+      "processed_at": "2026-10-09T11:03:52.843988+00:00"
     },
     {
       "id": "c642b38da39d961a",
@@ -340,6 +398,27 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32024R1681R(02)",
       "pubblicato": "2026-09-01T00:00:00+02:00",
       "processed_at": "2026-10-08T11:03:11.285945+00:00"
+    },
+    {
+      "id": "a2ebf59465b253ce",
+      "titolo_popolare": "Correzione di testi normativi in altre lingue UE",
+      "titolo_originale": "CELEX:32023R0594R(05)",
+      "riassunto_esteso": "Il documento è un corrigendum, cioè una correzione formale, adottata dall'Unione Europea per sistemare errori di stampa o di traduzione presenti nelle versioni non inglesi di un regolamento. Non modifica alcun contenuto sostanziale della norma, ma si limita a uniformare i testi nelle diverse lingue ufficiali. L'obiettivo è evitare confusione o interpretazioni divergenti dovute a refusi linguistici. Il corrigendum è stato pubblicato nella Gazzetta UE e entra in vigore immediatamente. Per i cittadini non cambia nulla in termini di diritti o obblighi.",
+      "cosa_cambia": [
+        "nessuna modifica sostanziale dei diritti o degli obblighi per i cittadini",
+        "testi delle norme in lingue diverse dall'inglese corretti per refusi"
+      ],
+      "chi_interessa": "tutti i cittadini che consultano le versioni non inglesi delle norme UE",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "nessun effetto pratico sui diritti o sugli obblighi; migliora soltanto la chiarezza linguistica delle norme in altre lingue",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32023R0594R(05)",
+      "pubblicato": "2026-09-01T00:00:00+02:00",
+      "processed_at": "2026-10-09T10:58:58.908077+00:00"
     },
     {
       "id": "e2e5db12bc1ea042",
