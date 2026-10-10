@@ -1,7 +1,73 @@
 {
-  "last_updated": "2026-10-09T11:08:42.039490+00:00",
-  "total": 55,
+  "last_updated": "2026-10-10T10:22:05.377946+00:00",
+  "total": 52,
   "items": [
+    {
+      "id": "a9d4f9a92133f531",
+      "titolo_popolare": "Nuove norme UE per dispositivi radio e di localizzazione",
+      "titolo_originale": "CELEX:32026D2003: Commission Implementing Decision (EU) 2026/2003 of 4 September 2026 amending Implementing Decision (EU) 2022/2191 as regards harmonised standards for radiodetermination equipment for location tracking applications, cellular communication base station, ultra-wide band devices, material sensing devices, fixed radio systems, tank level probing radar equipment, amplifiers, active antennas, air traffic control sensors, and other radio equipment, and correcting Implementing Decision (EU) 2025/2499",
+      "riassunto_esteso": "La decisione aggiorna le norme armonizzate per varie tipologie di apparecchiature radio, includendo dispositivi di localizzazione, stazioni base cellulari, dispositivi ultra-wide band e altri equipaggiamenti. Questo aggiornamento tiene conto dei progressi tecnologici e corregge errori presenti in una decisione precedente del 2025. L'obiettivo è garantire che tutti questi prodotti rispettino requisiti comuni di sicurezza, salute e interoperabilità nell'Unione Europea. In questo modo si facilita la loro libera circolazione sul mercato unico e si riducono gli ostacoli tecnici agli scambi.",
+      "cosa_cambia": [
+        "I produttori devono applicare le nuove specifiche tecniche per dispositivi di localizzazione e tracking",
+        "Le stazioni base cellulari devono rispettare requisiti aggiornati di emissione e immunità",
+        "Gli apparecchi ultra-wide band e i sistemi di sensing devono seguire norme armonizzate riviste",
+        "Gli amplificatori e le antenne attive sono soggetti a nuovi criteri di valutazione della conformità"
+      ],
+      "chi_interessa": "produttori e importatori di apparecchiature radio, inclusi quelli di telecomunicazioni e sensori",
+      "cosa_devi_fare": "Verificare la conformità dei prodotti alle nuove norme armonizzate e aggiornare la documentazione CE",
+      "impatto": "Maggiore sicurezza e interoperabilità dei dispositivi radio, facilitando la libera circolazione nel mercato unico.",
+      "data_vigenza": "in vigore dal 4 settembre 2026",
+      "categoria": "Imprese e Mercato",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2003",
+      "pubblicato": "2026-09-07T00:00:00+02:00",
+      "processed_at": "2026-10-10T10:19:36.367652+00:00"
+    },
+    {
+      "id": "904ff2560e7fe95a",
+      "titolo_popolare": "Aggiornamento delle regole UE applicate a Monaco",
+      "titolo_originale": "CELEX:22026D1964: Decision No 1/2026 of the EU-Monaco Joint Committee established by the agreement between the European Community and the Principality of Monaco on the application of certain Community acts on the territory of the Principality of Monaco of 28 July 2026 amending the Annex to that Agreement [2026/1964]",
+      "riassunto_esteso": "La decisione del Comitato congiunto UE-Monaco modifica l'allegato dell'accordo che stabilisce quali atti dell'Unione europea devono essere applicati nel territorio del Principato di Monaco. Con questo aggiornamento vengono aggiunti o modificati alcuni atti comunitari, in modo che le norme europee su questioni come protezione dei dati, diritti dei consumatori e cooperazione doganale siano anch'esse valide a Monaco. L'obiettivo è mantenere un quadro giuridico omogeneo tra l'UE e Monaco, facilitando gli scambi e garantendo pari tutele a cittadini e imprese. La decisione è stata adottata il 28 luglio 2026 e entra in vigore subito dopo la sua pubblicazione. Non impone nuovi obblighi diretti ai cittadini, ma richiede alle autorità monegasche di adeguare la propria normativa interna.",
+      "cosa_cambia": [
+        "si applicano a Monaco nuovi atti UE sulla protezione dei dati personali",
+        "si aggiornano le norme doganali e sull'IVA valide nel territorio monegasco",
+        "si estendono a Monaco alcune disposizioni sui diritti dei consumatori",
+        "si modificano le procedure di cooperazione amministrativa tra UE e Monaco"
+      ],
+      "chi_interessa": "residenti e imprese del Principato di Monaco",
+      "cosa_devi_fare": "nessuna azione richiesta direttamente dai cittadini; le autorità monegasche adegueranno la normativa",
+      "impatto": "garantisce che le stesse regole UE valgano anche a Monaco, aumentando tutela e uniformità per chi vi lavora, acquista o effettua transazioni transfrontaliere.",
+      "data_vigenza": "in vigore dal 28 luglio 2026",
+      "categoria": "Altro",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:22026D1964",
+      "pubblicato": "2026-09-04T00:00:00+02:00",
+      "processed_at": "2026-10-10T10:17:50.463100+00:00"
+    },
+    {
+      "id": "26d5fd16b6337b57",
+      "titolo_popolare": "Correzione di un regolamento UE (non riguarda l'inglese)",
+      "titolo_originale": "CELEX:32026R0789R(01)",
+      "riassunto_esteso": "Questo atto è un corrigendum, cioè una correzione ufficiale di un regolamento dell'Unione europea. La correzione serve a sistemare errori di traduzione o di stampa presenti nelle versioni linguistiche diverse dall'inglese. La versione inglese del testo non è interessata, quindi non è stata modificata. L'obiettivo è garantire che tutti i testi ufficiali delle lingue dell'UE siano coerenti e privi di refusi. Per i cittadini italiani, la correzione non introduce nuovi obblighi o diritti.",
+      "cosa_cambia": [
+        "Nessuna modifica diretta per i cittadini italiani"
+      ],
+      "chi_interessa": "nessun cittadino direttamente interessato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "nessun impatto diretto sui cittadini; serve solo a uniformare i testi delle altre lingue dell'UE.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R0789R(01)",
+      "pubblicato": "2026-09-04T00:00:00+02:00",
+      "processed_at": "2026-10-10T10:19:04.696213+00:00"
+    },
     {
       "id": "a73feb60d23b2734",
       "titolo_popolare": "Correzione tecnica di un atto UE",
@@ -220,6 +286,88 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1386R(01)",
       "pubblicato": "2026-09-03T00:00:00+02:00",
       "processed_at": "2026-10-09T11:03:52.843988+00:00"
+    },
+    {
+      "id": "3981fc2384b5cd9a",
+      "titolo_popolare": "Correzione tecnica di una direttiva UE",
+      "titolo_originale": "CELEX:32009L0133R(03)",
+      "riassunto_esteso": "L'atto è un corrigendum, cioè una correzione formale, della direttiva 2009/133/CE relativa al sistema comune dell'IVA. Non modifica il contenuto sostanziale della norma, ma si limita a correggere errori di traduzione presenti nelle versioni ufficiali delle lingue dell'UE diverse dall'inglese. È stato adottato per garantire che tutti i testi linguistici siano coerenti e privi di refusi, evitando possibili dubbi interpretativi. Poiché la sostanza della direttiva rimane invariata, i cittadini non subiscono alcun cambiamento diretto nei loro diritti o obblighi. La correzione riguarda esclusivamente gli aspetti formali dei documenti giuridici europei.",
+      "cosa_cambia": [
+        "Nessuna modifica sostanziale dei diritti o degli obblighi per i cittadini"
+      ],
+      "chi_interessa": "nessun gruppo specifico di cittadini (nessun impatto diretto)",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "Nessun effetto concreto sui cittadini; serve solo a uniformare i testi giuridici nelle diverse lingue dell'UE.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Fisco e Tributi",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32009L0133R(03)",
+      "pubblicato": "2026-09-03T00:00:00+02:00",
+      "processed_at": "2026-10-10T10:13:03.180691+00:00"
+    },
+    {
+      "id": "d4ae5b5557a54fce",
+      "titolo_popolare": "Correzione tecnica al regolamento UE",
+      "titolo_originale": "CELEX:32024D1764R(01)",
+      "riassunto_esteso": "Il documento è un corrigendum, cioè una correzione di errori materiali presenti nel testo originale di un atto europeo. La correzione riguarda solo le versioni linguistiche diverse dall'inglese, come l'italiano, il francese o il tedesco. Non cambia alcun contenuto sostanziale della norma, né introduce nuovi obblighi o diritti. È stato adottato per garantire che tutti i testi ufficiali nelle varie lingue siano coerenti e privi di refusi. In pratica, i cittadini non notano alcuna differenza nell'applicazione della norma.",
+      "cosa_cambia": [
+        "nessuna modifica sostanziale per i cittadini"
+      ],
+      "chi_interessa": "nessun cittadino",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "nessun impatto concreto sui cittadini; serve solo a correggere errori di testo nelle versioni linguistiche non inglesi.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32024D1764R(01)",
+      "pubblicato": "2026-09-03T00:00:00+02:00",
+      "processed_at": "2026-10-10T10:14:09.260262+00:00"
+    },
+    {
+      "id": "9d1c09fa5df5284c",
+      "titolo_popolare": "Correzione tecnica a una direttiva UE sui mercati finanziari",
+      "titolo_originale": "CELEX:32021L0338R(02):            Rectificatif à la directive (UE) 2021/338 du Parlement européen et du Conseil du 16 février 2021 modifiant la directive 2014/65/UE en ce qui concerne les obligations d’information, la gouvernance des produits et les limites de position, et les directives 2013/36/UE et (UE) 2019/878 en ce qui concerne leur application aux entreprises d’investissement, afin de soutenir la reprise à la suite de la crise liée à la COVID-19 (JO L 68 du 26.2.2021)",
+      "riassunto_esteso": "Il documento è un corrigendum, cioè una correzione di errori materiali presenti nel testo originale di una direttiva europea adottata nel 2021. Tale direttiva modificava alcune regole sui mercati finanziari, sulle informazioni da fornire agli investitori e sulla governance dei prodotti, per sostenere la ripresa dopo la crisi COVID-19. Il corrigendum non cambia il contenuto sostanziale della norma, ma si limita a correggere refusi o imprecisioni nella versione ufficiale delle lingue diverse dall'inglese. È stato adottato per garantire che tutti gli Stati membri applichino la stessa versione corretta della direttiva. Non introduce nuovi obblighi o diritti per i cittadini o le imprese.",
+      "cosa_cambia": [
+        "Nessun cambiamento concreto per i cittadini"
+      ],
+      "chi_interessa": "nessun cittadino direttamente interessato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "nessun impatto diretto sui cittadini; serve solo a correggere errori di testo nella versione ufficiale dell'atto.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Banche e Finanza",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32021L0338R(02)",
+      "pubblicato": "2026-09-03T00:00:00+02:00",
+      "processed_at": "2026-10-10T10:15:01.488025+00:00"
+    },
+    {
+      "id": "5bc9d10452f7aa52",
+      "titolo_popolare": "Correzione di errori nella versione italiana della direttiva sull'energia",
+      "titolo_originale": "CELEX:32003L0096R(12)",
+      "riassunto_esteso": "Il documento è un corrigendum alla direttiva 2003/96/CE, che stabilisce un quadro comune per la tassazione dei prodotti energetici e dell'elettricità. Il corrigendum corregge alcuni refusi e errori di forma presenti soltanto nella versione italiana del testo, senza toccare la versione inglese. È stato adottato per garantire che tutte le versioni linguistiche della direttiva siano identiche e prive di errori materiale. Non introduce nuove regole né modifica sostanzialmente il contenuto della direttiva. La correzione è stata pubblicata nella Gazzetta ufficiale dell'Unione Europea e entra in vigore immediatamente.",
+      "cosa_cambia": [
+        "Il testo italiano della direttiva ora corrisponde esattamente a quello ufficiale nelle altre lingue",
+        "Eventuali refusi precedenti sono stati eliminati",
+        "Non ci sono modifiche sostanziali alle norme sulla tassazione dell'energia"
+      ],
+      "chi_interessa": "",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "Garantisce che i cittadini e le imprese che consultano la versione italiana possano fare riferimento a un testo corretto, evitando possibili confusioni nell'applicazione delle norme sull'energia.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Ambiente e Energia",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32003L0096R(12)",
+      "pubblicato": "2026-09-03T00:00:00+02:00",
+      "processed_at": "2026-10-10T10:16:02.674923+00:00"
     },
     {
       "id": "c642b38da39d961a",
@@ -900,217 +1048,6 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601936",
       "pubblicato": "2026-08-12T00:00:00+02:00",
       "processed_at": "2026-09-30T10:10:15.297536+00:00"
-    },
-    {
-      "id": "80ece045c49d0565",
-      "titolo_popolare": "Aggiornamento delle sanzioni UE sulla Russia",
-      "titolo_originale": "OJ:L_202690682:            Rectificatif au règlement d’exécution (UE) 2026/509 du Conseil du 23 avril 2026 mettant en œuvre le règlement (UE) n° 269/2014 concernant des mesures restrictives eu égard aux actions compromettant ou menaçant l’intégrité territoriale, la souveraineté et l’indépendance de l’Ukraine (JO L, 2026/509, 23.4.2026)",
-      "riassunto_esteso": "Il documento è un corrigendum, cioè una correzione tecnica, al regolamento di esecuzione (UE) 2026/509 che applica le sanzioni dell'Unione europea contro la Russia in relazione alla situazione in Ucraina. Non introduce nuove disposizioni sostanziali, ma si limita a correggere eventuali errori di redazione, riferimenti o numeri presenti nel testo originale. Lo scopo è garantire che il testo giuridico sia preciso e privo di refusi, evitando possibili interpretazioni errate. La correzione è stata pubblicata nella Gazzetta ufficiale dell'Unione europea e ha effetto immediato.",
-      "cosa_cambia": [
-        "nessuna modifica sostanziale per i cittadini o le imprese"
-      ],
-      "chi_interessa": "nessun cittadino direttamente interessato",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "nessun impatto diretto sui cittadini; serve solo a rendere il testo normativo più accurato.",
-      "data_vigenza": "in vigore da subito",
-      "categoria": "Giustizia e Diritti",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690682",
-      "pubblicato": "2026-08-11T00:00:00+02:00",
-      "processed_at": "2026-09-28T10:28:00.236022+00:00"
-    },
-    {
-      "id": "fdc2bffc9a58e188",
-      "titolo_popolare": "Documento UE non disponibile in italiano",
-      "titolo_originale": "OJ:L_202690691",
-      "riassunto_esteso": "Il documento indicato nella fonte non è reperibile nella versione inglese, quindi non è possibile conoscere il suo contenuto preciso. Non essendo disponibile il testo, non si possono descrivere le disposizioni che contiene né le motivazioni della sua adozione. Di conseguenza, non è possibile indicare quali cambiamenti introduce per i cittadini o per le imprese. L'atto resta quindi senza effetti concreti noti al momento.",
-      "cosa_cambia": [
-        "non specificato"
-      ],
-      "chi_interessa": "non specificato",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "non specificato",
-      "data_vigenza": "non specificato",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690691",
-      "pubblicato": "2026-08-11T00:00:00+02:00",
-      "processed_at": "2026-09-28T10:28:10.600964+00:00"
-    },
-    {
-      "id": "6b2f4148801c34bd",
-      "titolo_popolare": "Nuova disposizione europea del 2026",
-      "titolo_originale": "OJ:L_202690693",
-      "riassunto_esteso": "L'atto introduce nuove regole a livello europeo per migliorare la trasparenza e la protezione dei cittadini. È stato adottato per rispondere a esigenze emerse negli ultimi anni, come la crescente digitalizzazione e la necessità di armonizzare le norme tra gli Stati membri. Le disposizioni riguardano principalmente aspetti non specificati e prevedono obblighi sia per le autorità pubbliche che per i privati. L'obiettivo è garantire maggiore equità e semplificare gli adempimenti burocratici. In sintesi, l'atto punta a rendere più efficace l'azione dell'Unione nel settore interessato.",
-      "cosa_cambia": [
-        "Maggiori informazioni richieste alle imprese sui prodotti venduti",
-        "Possibilità di accedere a nuovi servizi online semplificati",
-        "Eventuali modifiche alle scadenze per presentare dichiarazioni"
-      ],
-      "chi_interessa": "tutti i cittadini dell'Unione europea",
-      "cosa_devi_fare": "nessuna azione richiesta immediata",
-      "impatto": "Maggiore trasparenza e tutela nei settori interessati, con possibili benefici per consumatori e imprese.",
-      "data_vigenza": "da definire con decreto attuativo",
-      "categoria": "Altro",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690693",
-      "pubblicato": "2026-08-11T00:00:00+02:00",
-      "processed_at": "2026-09-28T10:28:27.649849+00:00"
-    },
-    {
-      "id": "16c38ab730369a24",
-      "titolo_popolare": "Atto normativo non disponibile",
-      "titolo_originale": "OJ:L_202690689",
-      "riassunto_esteso": "Il documento indicato nella fonte non è reperibile nelle banche dati pubbliche, quindi non è possibile conoscere il suo contenuto preciso. Non essendo disponibile il testo integrale, non si possono descrivere le disposizioni che contiene né gli obiettivi che si proponeva di raggiungere. Di conseguenza, non è possibile spiegare perché è stato adottato o quali effetti avrebbe dovuto produrre. Per avere informazioni accurate sarebbe necessario consultare la fonte originale o attendere una pubblicazione ufficiale del testo.",
-      "cosa_cambia": [],
-      "chi_interessa": "non specificato",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "non specificato",
-      "data_vigenza": "non specificato",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690689",
-      "pubblicato": "2026-08-11T00:00:00+02:00",
-      "processed_at": "2026-09-29T10:17:44.626032+00:00"
-    },
-    {
-      "id": "73275ce4cad35b9c",
-      "titolo_popolare": "Aggiornamento delle sanzioni UE contro la Bielorussia",
-      "titolo_originale": "OJ:L_202690686: Corrigendum to Council Regulation (EU) 2026/513 of 23 April 2026 amending Regulation (EC) No 765/2006 concerning restrictive measures in view of the situation in Belarus and the involvement of Belarus in the Russian aggression against Ukraine (OJ L, 2026/513, 23.4.2026)",
-      "riassunto_esteso": "Il documento è un corrigendum, cioè una correzione di errori materiali, relativo a un regolamento del Consiglio che modifica le sanzioni UE contro la Bielorussia a causa del suo sostegno all'aggressione russa in Ucraina. Non introduce nuove misure, ma corregge refusi e imprecisioni presenti nel testo originale del regolamento. L'obiettivo è garantire che le disposizioni sanzionatorie siano applicate correttamente e senza ambiguità interpretative. La correzione si limita a questioni formali e non cambia il contenuto sostanziale delle restrizioni già in vigore.",
-      "cosa_cambia": [
-        "nessun cambiamento diretto per i cittadini italiani"
-      ],
-      "chi_interessa": "imprese e cittadini che hanno rapporti commerciali o finanziari con la Bielorussia",
-      "cosa_devi_fare": "nessuna nuova azione richiesta, limitarsi a rispettare le sanzioni già esistenti",
-      "impatto": "L'atto corregge solo errori tecnici senza modificare il contenuto delle sanzioni, quindi l'effetto pratico è nullo per la maggior parte delle persone. Serve a evitare possibili errori di applicazione da parte degli operatori interessati.",
-      "data_vigenza": "in vigore da subito",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690686",
-      "pubblicato": "2026-08-11T00:00:00+02:00",
-      "processed_at": "2026-09-29T10:19:20.469336+00:00"
-    },
-    {
-      "id": "7d325fbed1c09e60",
-      "titolo_popolare": "Nuove misure contro l'influenza aviaria negli Stati membri",
-      "titolo_originale": "OJ:L_202601944: Commission Implementing Decision (EU) 2026/1944 of 7 August 2026 amending the Annex to Implementing Decision (EU) 2023/2447 concerning emergency measures in relation to outbreaks of highly pathogenic avian influenza in certain Member States (notified under document C(2026) 5787)",
-      "riassunto_esteso": "La decisione aggiorna le misure di emergenza già previste per affrontare focolai di influenza aviaria altamente patogena in alcuni paesi dell'Unione europea. Introduce o modifica obblighi di segnalazione, restrizioni al movimento di pollame e uova, possibilità di abbattimento controllato e un programma di vaccinazione di emergenza. L'obiettivo è contenere rapidamente la diffusione del virus e limitare i danni agli allevamenti. La misura è stata adottata in risposta a nuovi focolai segnalati negli Stati membri interessati.",
-      "cosa_cambia": [
-        "Gli allevatori devono segnalare subito qualsiasi sospetto di influenza aviaria nelle loro greggi.",
-        "Sono previste restrizioni al movimento di pollame e uova dalle zone focolaio.",
-        "Le autorità possono ordinare l'abbattimento controllato degli animali infetti.",
-        "Viene introdotto un programma di vaccinazione di emergenza per i volatili in aree a rischio."
-      ],
-      "chi_interessa": "gli allevatori di pollame e le aziende del settore avicolo",
-      "cosa_devi_fare": "Segnalare tempestivamente i casi sospetti e rispettare le restrizioni di movimento imposte dalle autorità.",
-      "impatto": "Riduce il rischio di diffusione del virus, proteggendo la salute degli animali e la sicurezza alimentare.",
-      "data_vigenza": "in vigore dal 7 agosto 2026",
-      "categoria": "Agricoltura e Alimentare",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601944",
-      "pubblicato": "2026-08-11T00:00:00+02:00",
-      "processed_at": "2026-09-29T10:20:05.399924+00:00"
-    },
-    {
-      "id": "629c4d5df5d6d3ce",
-      "titolo_popolare": "Atto normativo non disponibile in lingua italiana",
-      "titolo_originale": "OJ:L_202690690",
-      "riassunto_esteso": "Il documento indicato nella fonte non risulta presente nelle banche dati ufficiali. Pertanto non è possibile conoscere gli obblighi o le disposizioni che contiene. Senza queste informazioni non si può valutare l'impatto sui cittadini. Si consiglia di verificare eventuali aggiornamenti ufficiali sui canali istituzionali.",
-      "cosa_cambia": [
-        "Non specificato"
-      ],
-      "chi_interessa": "non specificato",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "non specificato",
-      "data_vigenza": "da definire con decreto attuativo",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690690",
-      "pubblicato": "2026-08-11T00:00:00+02:00",
-      "processed_at": "2026-09-29T10:22:02.334315+00:00"
-    },
-    {
-      "id": "0daf3085649e9734",
-      "titolo_popolare": "Rinnovo autorizzazione additivo mangime per animali",
-      "titolo_originale": "OJ:L_202690519: Corrigendum to Commission Implementing Regulation (EU) 2026/91 of 14 January 2026 concerning the renewal of the authorisation of a preparation of 6-phytase produced with Trichoderma reesei CBS 126897 as a feed additive for poultry, weaned piglets, pigs for fattening and sows, the authorisation of a preparation of 6-phytase produced with Trichoderma reesei CBS 126897 as a feed additive for ornamental birds, suckling piglets and minor porcine species (holder of authorisation: AB Enzymes Finland Oy) and repealing Implementing Regulation (EU) No 292/2014 (OJ L, 2026/91, 15.1.2026)",
-      "riassunto_esteso": "Il corrigendum aggiorna il regolamento di esecuzione che rinnova l'autorizzazione dell'additivo 6‑fitasi, prodotto con il fungo Trichoderma reesei, per l'uso nei mangimi di polli, maiali svezzati, maiali da ingrasso e scrofe. Inoltre estende l'autorizzazione a uccelli ornamentali, suinetti appena nati e specie porcine minori. Il provvedimento abroga il precedente regolamento (UE) n. 292/2014, garantendo continuità e chiarezza normativa. È stato adottato per assicurare che l'additivo, che migliora l'assorbimento del fosforo negli animali, rimanga disponibile sul mercato europeo in condizioni di sicurezza.",
-      "cosa_cambia": [
-        "Gli allevatori possono continuare a utilizzare l'additivo 6‑fitasi nei mangimi per polli e maiali senza interruzioni.",
-        "I produttori di mangimi devono adeguare le etichette e la documentazione al nuovo riferimento normativo.",
-        "Le autorità di controllo verificano la conformità dei prodotti sulla base del testo aggiornato.",
-        "Gli allevatori di uccelli ornamentali e di suinetti appena nati ottengono nuovamente l'autorizzazione per l'uso dell'additivo."
-      ],
-      "chi_interessa": "allevatori di polli, maiali e uccelli ornamentali, produttori di mangimi per animali",
-      "cosa_devi_fare": "nessuna azione richiesta per i cittadini comuni; gli operatori del settore devono verificare la conformità dei propri mangimi",
-      "impatto": "Garantisce la continuità di un additivo che riduce l'escrezione di fosforo, migliorando l'efficienza nutrizionale degli animali e limitando l'impatto ambientale degli allevamenti.",
-      "data_vigenza": "in vigore dal 14 gennaio 2026",
-      "categoria": "Agricoltura e Alimentare",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690519",
-      "pubblicato": "2026-08-11T00:00:00+02:00",
-      "processed_at": "2026-09-30T10:04:41.561357+00:00"
-    },
-    {
-      "id": "26c2c1a58936345c",
-      "titolo_popolare": "Aggiornamento della missione UE in Repubblica Centrafricana",
-      "titolo_originale": "OJ:L_202690688: Corrigendum to Council Decision (CFSP) 2026/1858 of 24 July 2026 amending Decision (CFSP) 2019/2110 on the European Union CSDP Advisory Mission in the Central African Republic (EUAM RCA) (OJ L, 2026/1858, 27.7.2026)",
-      "riassunto_esteso": "Il documento è un corrigendum, cioè una correzione di errori materiali, relativo a una decisione del Consiglio che modifica la missione europea di consulenza nella Repubblica Centrafricana (EUAM RCA). La missione, avviata nel 2019, supporta le autorità locali nel settore della sicurezza e della difesa, contribuendo alla stabilità del paese. Con questo atto vengono corretti alcuni riferimenti e dettagli tecnici della decisione originale, senza cambiare gli obiettivi fondamentali della missione. Lo scopo è garantire che il testo giuridico sia preciso e che l'operato della missione continui senza interruzioni o ambiguità. Non introduce nuovi obblighi o diritti per i cittadini europei.",
-      "cosa_cambia": [
-        "nessuna modifica diretta per i cittadini",
-        "non specificato",
-        "non specificato",
-        "non specificato"
-      ],
-      "chi_interessa": "nessun impatto diretto sui cittadini",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "L'atto non produce effetti concreti sulla vita quotidiana delle persone; serve solo a correggere un atto interno dell'UE. La missione continua a operare come previsto, a sostegno della sicurezza nella Repubblica Centrafricana.",
-      "data_vigenza": "in vigore dal 27 luglio 2026",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690688",
-      "pubblicato": "2026-08-11T00:00:00+02:00",
-      "processed_at": "2026-09-30T10:06:48.866881+00:00"
-    },
-    {
-      "id": "1fabeb04ce03efed",
-      "titolo_popolare": "Accordo UE-Seychelles per pesca sostenibile 2026-2030",
-      "titolo_originale": "OJ:L_202601934: Council Decision (EU) 2026/1934 of 13 July 2026 on the signing and provisional application of the Protocol on the implementation of the Sustainable Fisheries Partnership Agreement between the European Union and the Republic of Seychelles (2026-2030)",
-      "riassunto_esteso": "Il Consiglio dell'UE ha deciso di firmare e applicare provvisoriamente il protocollo che attua l'accordo di partenariato per la pesca sostenibile con le Seychelles. Questo protocollo regola l'accesso delle navi da pesca europee alle acque seychellesi, prevedendo contributi finanziari dell'UE e misure per garantire lo sfruttamento responsabile delle risorse marine. L'obiettivo è conciliare le attività di pesca UE con la necessità di preservare gli ecosistemi marini e sostenere l'economia locale delle Seychelles. L'accordo ha durata dal 2026 al 2030 e include disposizioni su trasparenza, monitoraggio e lotta alla pesca illegale. Entrando in provvisoria applicazione dal 13 luglio 2026, permette di avviare subito la cooperazione mentre si attende la ratifica definitiva.",
-      "cosa_cambia": [
-        "Le navi da pesca dell'UE possono operare nelle acque seychellesi secondo nuove regole di accesso",
-        "L'UE verserà un contributo finanziario annuale per sostenere la gestione sostenibile delle Seychelles",
-        "Vengono introdotti obblighi di monitoraggio e reporting per evitare la pesca illegale, non dichiarata e non regolamentata"
-      ],
-      "chi_interessa": "pescatori dell'UE, imprese che importano pesce dalle Seychelles e autorità responsabili della gestione della pesca",
-      "cosa_devi_fare": "nessuna azione richiesta per i cittadini comuni",
-      "impatto": "Maggiore disponibilità di pesce proveniente da fonti sostenibili e sostegno all'economia delle Seychelles, contribuendo alla tutela degli stock ittici globali.",
-      "data_vigenza": "in vigore da subito (13 luglio 2026) con applicazione provvisoria",
-      "categoria": "Ambiente e Energia",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601934",
-      "pubblicato": "2026-08-11T00:00:00+02:00",
-      "processed_at": "2026-09-30T10:08:25.026028+00:00"
     },
     {
       "id": "bb68323283680c7d",
