@@ -21,7 +21,7 @@
     "pubblicato": "2026-09-01T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-09-01T08:57:08.300045+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "5672cdb22d1ba5ab",
@@ -237,7 +237,7 @@
     "pubblicato": "2026-09-03T00:00:00+02:00",
     "summary_raw": "The corrigendum does not concern the English version.",
     "fetched_at": "2026-09-03T08:20:26.926278+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "48247c547279b351",
@@ -393,7 +393,7 @@
     "pubblicato": "2026-09-03T00:00:00+02:00",
     "summary_raw": "The corrigendum does not concern the English version.",
     "fetched_at": "2026-09-03T08:20:26.927276+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "7e45f8b98c5175b4",
@@ -489,7 +489,7 @@
     "pubblicato": "2026-09-04T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-09-04T08:16:24.050837+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "e5d6eb56183507e3",
@@ -501,7 +501,7 @@
     "pubblicato": "2026-09-04T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-09-04T08:16:24.050905+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "26d5fd16b6337b57",
@@ -561,7 +561,7 @@
     "pubblicato": "2026-09-07T00:00:00+02:00",
     "summary_raw": "The corrigendum does not concern the English version.",
     "fetched_at": "2026-09-07T08:41:31.790309+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "d46976abec059406",
@@ -573,7 +573,7 @@
     "pubblicato": "2026-09-07T00:00:00+02:00",
     "summary_raw": "The corrigendum does not concern the English version.",
     "fetched_at": "2026-09-07T08:41:31.790401+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "a6065bba5ddd9a46",
@@ -645,7 +645,7 @@
     "pubblicato": "2026-09-08T00:00:00+02:00",
     "summary_raw": "The corrigendum does not concern the English version.",
     "fetched_at": "2026-09-08T08:23:03.338256+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "4daadd3e7237e361",
@@ -681,7 +681,7 @@
     "pubblicato": "2026-09-08T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-09-08T08:23:03.338402+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "83f81a97e85b662e",

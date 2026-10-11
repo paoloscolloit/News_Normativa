@@ -1,7 +1,48 @@
 {
-  "last_updated": "2026-10-10T10:22:05.377946+00:00",
-  "total": 52,
+  "last_updated": "2026-10-11T10:34:35.459757+00:00",
+  "total": 50,
   "items": [
+    {
+      "id": "509d0990c925b223",
+      "titolo_popolare": "Correzione al regolamento sui vermi da farina come alimento",
+      "titolo_originale": "CELEX:32022R0169R(01):            Rectificatif au règlement d’exécution (UE) 2022/169 de la Commission du 8 février 2022 autorisant la mise sur le marché des formes congelée, séchée et en poudre de vers de farine (larves de Tenebrio molitor) en tant que nouvel aliment en application du règlement (UE) 2015/2283 du Parlement européen et du Conseil et modifiant le règlement d’exécution (UE) 2017/2470 de la Commission (JO L 28 du 9.2.2022)",
+      "riassunto_esteso": "Il documento è un corrigendum, cioè una correzione tecnica, al regolamento di esecuzione UE che autorizza l'immissione in commercio delle forme congelata, essiccata e in polvere del verme della farina (Tenebrio molitor) come nuovo alimento. La correzione non riguarda la versione inglese, ma serve a sistemare eventuali errori di traduzione nelle altre lingue ufficiali dell'Unione. Non introduce nuove regole né modifica sostanzialmente le condizioni già previste per l'uso di questo insetto alimentare. L'obiettivo è garantire che tutti i testi linguistici del regolamento siano coerenti e privi di refusi.",
+      "cosa_cambia": [
+        "Nessuna modifica sostanziale alle regole sull'uso dei vermi da farina come alimento",
+        "Aggiornamento delle versioni linguistiche del regolamento per correggere errori di traduzione"
+      ],
+      "chi_interessa": "nessun impatto diretto sui cittadini",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "Non produce effetti concreti sulle persone; serve solo a garantire la correttezza linguistica del regolamento europeo.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Agricoltura e Alimentare",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32022R0169R(01)",
+      "pubblicato": "2026-09-08T00:00:00+02:00",
+      "processed_at": "2026-10-11T10:33:18.086804+00:00"
+    },
+    {
+      "id": "cde1a3394807cfa3",
+      "titolo_popolare": "Accordo UE-Giordania per ricerca mediterranea",
+      "titolo_originale": "CELEX:22026A01998: Agreement, in the form of an exchange of letters, amending and supplementing the Agreement for Scientific and Technological Cooperation between the European Union and the Hashemite Kingdom of Jordan, setting out the terms and conditions for the participation of the Hashemite Kingdom of Jordan in the Partnership for Research and Innovation in the Mediterranean Area (PRIMA)",
+      "riassunto_esteso": "L'atto modifica l'accordo esistente di cooperazione scientifica e tecnologica tra l'Unione Europea e il Regno Hashemita di Giordania, inserendo la Giordania nel programma PRIMA (Partnership for Research and Innovation in the Mediterranean Area). PRIMA sostiene progetti di ricerca e innovazione su temi come la gestione dell'acqua, la sicurezza alimentare e l'agricoltura sostenibile nel Mediterraneo. L'integrazione della Giordania mira a rafforzare la collaborazione regionale per affrontare sfide comuni come il cambiamento climatico e la scarsità di risorse. L'accordo è stato adottato tramite uno scambio di lettere, forma semplificata per aggiornare intese internazionali. Non introduce nuovi obblighi diretti per i cittadini comuni.",
+      "cosa_cambia": [
+        "Nessun cambiamento diretto o nuovo obbligo per i cittadini comuni"
+      ],
+      "chi_interessa": "Istituzioni di ricerca, università e centri di ricerca italiani che collaborano con partner giordani",
+      "cosa_devi_fare": "Nessuna azione richiesta per i cittadini; gli enti di ricerca possono consultare i bandi PRIMA per opportunità di finanziamento",
+      "impatto": "Maggiori opportunità di finanziamento per progetti su acqua, cibo e agricoltura nel Mediterraneo, contribuendo a soluzioni condivise per sfide ambientali e alimentari. Questo rafforza la cooperazione scientifica tra Europa e Giordania.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Istruzione e Ricerca",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:22026A01998",
+      "pubblicato": "2026-09-08T00:00:00+02:00",
+      "processed_at": "2026-10-11T10:34:16.020183+00:00"
+    },
     {
       "id": "a9d4f9a92133f531",
       "titolo_popolare": "Nuove norme UE per dispositivi radio e di localizzazione",
@@ -24,6 +65,48 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2003",
       "pubblicato": "2026-09-07T00:00:00+02:00",
       "processed_at": "2026-10-10T10:19:36.367652+00:00"
+    },
+    {
+      "id": "e6d0adb90e59959b",
+      "titolo_popolare": "Correzione tecnica di un regolamento UE",
+      "titolo_originale": "CELEX:32023R0915R(08)",
+      "riassunto_esteso": "Il documento è un corrigendum, cioè una correzione di errori materiali presenti nelle versioni non inglesi di un regolamento europeo. Non modifica il contenuto sostanziale della norma, ma si limita a sistemare refusi o imprecisioni di traduzione. È stato adottato per garantire che tutti i testi ufficiali nelle lingue dell'Unione siano coerenti e privi di refusi. Poiché riguarda solo le versioni linguistiche, non introduce nuovi obblighi o diritti per i cittadini. La correzione è stata pubblicata nella Gazzetta ufficiale dell'Unione europea.",
+      "cosa_cambia": [
+        "nessuna modifica sostanziale delle norme applicabili ai cittadini",
+        "nessun nuovo obbligo o diritto introdotto",
+        "nessuna variazione nei procedimenti amministrativi o fiscali"
+      ],
+      "chi_interessa": "tutti i cittadini dell'UE (nessun impatto diretto)",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "Il corrigendum non produce effetti concreti sulla vita quotidiana; serve solo a garantire la correttezza dei testi giuridici nelle varie lingue.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32023R0915R(08)",
+      "pubblicato": "2026-09-07T00:00:00+02:00",
+      "processed_at": "2026-10-11T10:30:30.411945+00:00"
+    },
+    {
+      "id": "d46976abec059406",
+      "titolo_popolare": "Correzione tecnica all'elenco UE dei nuovi alimenti",
+      "titolo_originale": "CELEX:32018R1023R(04):            Rectificatif au règlement d’exécution (UE) 2018/1023 de la Commission du 23 juillet 2018 portant rectification du règlement d’exécution (UE) 2017/2470 établissant la liste de l’Union des nouveaux aliments (JO L 187 du 24.7.2018)",
+      "riassunto_esteso": "L'atto è un corrigendum al regolamento di esecuzione (UE) 2017/2470, che stabilisce l'elenco dell'Unione dei nuovi alimenti. Serve a correggere piccoli errori di forma presenti nelle versioni linguistiche diverse dall'inglese del regolamento. La correzione è stata adottata per garantire che il testo ufficiale sia accurato in tutte le lingue ufficiali dell'Unione europea. Non modifica il contenuto sostanziale dell'elenco dei nuovi alimenti né introduce nuovi requisiti. Pertanto, per cittadini e imprese non ci sono effetti pratici derivanti da questo atto.",
+      "cosa_cambia": [
+        "Nessuna modifica sostanziale per i cittadini"
+      ],
+      "chi_interessa": "nessun gruppo specifico",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "Nessun impatto concreto sui cittadini; serve solo a correggere errori di testo nelle versioni linguistiche non inglesi.",
+      "data_vigenza": "non specificato",
+      "categoria": "Agricoltura e Alimentare",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32018R1023R(04)",
+      "pubblicato": "2026-09-07T00:00:00+02:00",
+      "processed_at": "2026-10-11T10:31:03.157642+00:00"
     },
     {
       "id": "904ff2560e7fe95a",
@@ -67,6 +150,50 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R0789R(01)",
       "pubblicato": "2026-09-04T00:00:00+02:00",
       "processed_at": "2026-10-10T10:19:04.696213+00:00"
+    },
+    {
+      "id": "cbf3b5df90d4154b",
+      "titolo_popolare": "Aggiornamento del sistema europeo-svizzero di scambio quote CO2",
+      "titolo_originale": "CELEX:22026D1993: Decision No 1/2026 of the Joint Committee established by the Agreement between the European Union and the Swiss Confederation on the linking of their greenhouse gas emissions trading systems of 9 June 2026 as regards the amendment of Annex I to the Agreement [2026/1993]",
+      "riassunto_esteso": "La decisione modifica l'allegato I dell'accordo che collega il sistema europeo di scambio di quote di emissione (ETS) con quello svizzero. L'aggiornamento serve a tenere conto di nuove attività o di cambiamenti nei settori già inclusi, garantendo che entrambi i sistemi applichino le stesse regole. In pratica, si tratta di aggiustare l'elenco delle industrie e degli impianti che devono acquistare o cedere quote di CO2. Questo permette al mercato delle quote di funzionare in modo più uniforme tra UE e Svizzera. La modifica è stata adottata dal comitato misto istituito dall'accordo UE-Svizzera il 9 giugno 2026.",
+      "cosa_cambia": [
+        "Aggiornamento dell'elenco delle attività soggette al sistema di scambio di quote di emissione",
+        "Allineamento delle metodologie di calcolo delle emissioni tra UE e Svizzera",
+        "Possibile inclusione di nuovi settori industriali nel mercato delle quote"
+      ],
+      "chi_interessa": "le imprese dei settori energetici, industriali e dell'aviazione che partecipano all'ETS europeo o svizzero",
+      "cosa_devi_fare": "nessuna azione richiesta direttamente ai cittadini; le imprese interessate devono verificare se rientrano nelle nuove categorie",
+      "impatto": "Per le imprese interessate potrebbe cambiare l'obbligo di acquistare o cedere quote, influenzando i costi di produzione. Per i cittadini comuni l'effetto è indiretto, tramite eventuali variazioni nei prezzi di energia e beni.",
+      "data_vigenza": "in vigore dal 9 giugno 2026",
+      "categoria": "Ambiente e Energia",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:22026D1993",
+      "pubblicato": "2026-09-04T00:00:00+02:00",
+      "processed_at": "2026-10-11T10:28:43.452357+00:00"
+    },
+    {
+      "id": "e5d6eb56183507e3",
+      "titolo_popolare": "Controllo sui tessuti di vetro importati dai Balcani",
+      "titolo_originale": "CELEX:32026R1925R(01): Corrigendum to Commission Implementing Regulation (EU) 2026/1925 of 6 August 2026 initiating an investigation concerning possible circumvention of the anti-dumping measures imposed by Implementing Regulation (EU) 2024/357 on imports of certain open mesh fabrics of glass fibres originating in the People’s Republic of China by imports of OMF consigned from Kosovo, Moldova, North Macedonia and Serbia, whether declared as originating in Kosovo, Moldova, North Macedonia and Serbia or not, and making such imports subject to registration (OJ L, 2026/1925, 7.8.2026)",
+      "riassunto_esteso": "L'Unione europea ha avviato un'indagine per verificare se i dazi anti-dumping già applicati sui tessuti a rete aperta di fibre di vetro provenienti dalla Cina vengono elusi facendo passare le merci attraverso Kosovo, Moldavia, Macedonia del Nord e Serbia. Il regolamento corregge alcuni errori materiali del testo originale e stabilisce che tali importazioni siano soggette a registrazione presso le autorità doganali. L'obiettivo è evitare pratiche di elusione che danneggiano i produttori europei e garantire condizioni di concorrenza leali. Il provvedimento fa parte della politica di difesa commerciale dell'UE, mirata a contrastare le importazioni sottocosto. Il corrigendum è stato pubblicato nella Gazzetta ufficiale dell'UE il 7 agosto 2026.",
+      "cosa_cambia": [
+        "Gli importatori devono ora registrare ogni spedizione di questi tessuti presso le dogane prima dello sdoganamento.",
+        "Le autorità possono applicare dazi anti-dumping se scoprono che le merci originarie della Cina vengono dichiarate provenienti dai Balcani.",
+        "Possibili controlli più rigorosi alle frontiere possono causare ritardi nelle consegne."
+      ],
+      "chi_interessa": "le imprese che importano o distribuiscono tessuti a rete aperta di fibre di vetro dai Balcani verso l'UE",
+      "cosa_devi_fare": "Registrare le importazioni presso le autorità doganali prima dello sdoganamento delle merci.",
+      "impatto": "Maggiori controlli possono portare a dazi più alti e a prezzi più elevati per chi acquista questi tessuti, proteggendo così i produttori europei da concorrenza sleale.",
+      "data_vigenza": "in vigore dal 7 agosto 2026",
+      "categoria": "Imprese e Mercato",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1925R(01)",
+      "pubblicato": "2026-09-04T00:00:00+02:00",
+      "processed_at": "2026-10-11T10:29:25.882145+00:00"
     },
     {
       "id": "a73feb60d23b2734",
@@ -370,6 +497,47 @@
       "processed_at": "2026-10-10T10:16:02.674923+00:00"
     },
     {
+      "id": "477ac4e0f684aee9",
+      "titolo_popolare": "Correzione tecnica al regolamento UE",
+      "titolo_originale": "CELEX:32015R0757R(03)",
+      "riassunto_esteso": "Il documento è un corrigendum, cioè una correzione di errori materiali presenti nel testo originale di un regolamento europeo. Non modifica nessuna disposizione sostanziale, ma si limita a correggere refusi, errori di numerazione o di riferimenti incrociati. L'obiettivo è garantire che il testo ufficiale sia accurato e privo di refusi che potrebbero creare confusione nell'interpretazione. Poiché la correzione non riguarda la versione inglese, le lingue ufficiali dell'UE restano invariate nei loro contenuti. L'atto è stato adottato per mantenere la qualità giuridica dei testi comunitari senza introdurre nuovi obblighi o diritti.",
+      "cosa_cambia": [
+        "Nessuna modifica sostanziale per i cittadini o le imprese",
+        "Eventuali refusi nei testi ufficiali sono stati corretti"
+      ],
+      "chi_interessa": "nessun gruppo specifico di cittadini",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "L'atto non produce effetti concreti sulla vita quotidiana; serve solo a migliorare la precisione dei testi giuridici europei.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32015R0757R(03)",
+      "pubblicato": "2026-09-03T00:00:00+02:00",
+      "processed_at": "2026-10-11T10:25:17.404000+00:00"
+    },
+    {
+      "id": "a8247c9bcdb8f8b0",
+      "titolo_popolare": "Correzione tecnica al regolamento bancario UE",
+      "titolo_originale": "CELEX:32019R0877R(04):            Rectificatif au règlement (UE) 2019/877 du Parlement européen et du Conseil du 20 mai 2019 modifiant le règlement (UE) n° 806/2014 en ce qui concerne la capacité d’absorption des pertes de recapitalisation des établissements de crédit et des entreprises d’investissement (JO L 150 du 7.6.2019)",
+      "riassunto_esteso": "Il documento è un corrigendum, cioè una correzione di errori materiali, al regolamento (UE) 2019/877 che modifica il regolamento (UE) n. 806/2014 riguardo alla capacità di assorbimento delle perdite delle banche e delle imprese di investimento. La correzione non riguarda la versione inglese del testo, ma probabilmente altre lingue ufficiali dell'Unione. Non introduce nuove disposizioni né modifica sostanzialmente il contenuto normativo. Il suo scopo è semplicemente garantire che il testo sia accurato in tutte le versioni linguistiche.",
+      "cosa_cambia": [
+        "nessuna modifica sostanziale per i cittadini"
+      ],
+      "chi_interessa": "nessun cittadino in particolare",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "nessun impatto diretto sui cittadini; serve solo a correggere il testo normativo nelle altre lingue ufficiali.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Banche e Finanza",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32019R0877R(04)",
+      "pubblicato": "2026-09-03T00:00:00+02:00",
+      "processed_at": "2026-10-11T10:26:59.803208+00:00"
+    },
+    {
       "id": "c642b38da39d961a",
       "titolo_popolare": "L'UE decide la sua posizione per il comitato sanitario internazionale",
       "titolo_originale": "CELEX:32026D1966: Council Decision (EU) 2026/1966 of 27 August 2026 on the position to be taken on behalf of the European Union at the first meeting of the States Parties Committee for the Implementation of the International Health Regulations (2005)",
@@ -567,6 +735,27 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32023R0594R(05)",
       "pubblicato": "2026-09-01T00:00:00+02:00",
       "processed_at": "2026-10-09T10:58:58.908077+00:00"
+    },
+    {
+      "id": "287e47f3ddd03491",
+      "titolo_popolare": "Bulgaria ha un deficit eccessivo secondo l'UE",
+      "titolo_originale": "CELEX:32026D1758: Council Decision (EU) 2026/1758 of 10 July 2026 on the existence of an excessive deficit in Bulgaria",
+      "riassunto_esteso": "Il Consiglio dell'UE ha riconosciuto ufficialmente che il deficit pubblico della Bulgaria supera il limite del 3% del PIL previsto dal Patto di stabilità e crescita. Questa decisione avvia la procedura per deficit eccessivo, obbligando la Bulgaria a adottare misure correttive per ridurre il disavanzo. L'obiettivo è garantire la disciplina fiscale negli Stati membri e proteggere la stabilità dell'area euro. Per i cittadini bulgari potrebbe significare future aggiustamenti di spesa pubblica o tasse, sebbene non vi siano sanzioni immediate. La decisione si basa sui dati ufficiali che mostrano il deficit oltre la soglia consentita.",
+      "cosa_cambia": [
+        "Possibili future misure di correzione del deficit in Bulgaria, come revisione di spesa pubblica o tasse",
+        "Nessun cambiamento immediato per i cittadini degli altri paesi dell'UE"
+      ],
+      "chi_interessa": "i cittadini bulgari",
+      "cosa_devi_fare": "nessuna azione richiesta immediata",
+      "impatto": "Potrebbe portare a future manovre di bilancio in Bulgaria, influenzando servizi pubblici o tasse; serve a mantenere la disciplina fiscale nell'UE.",
+      "data_vigenza": "in vigore dal 10 luglio 2026",
+      "categoria": "Fisco e Tributi",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1758",
+      "pubblicato": "2026-09-01T00:00:00+02:00",
+      "processed_at": "2026-10-11T10:23:12.245140+00:00"
     },
     {
       "id": "e2e5db12bc1ea042",
@@ -819,235 +1008,6 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601000",
       "pubblicato": "2026-08-17T00:00:00+02:00",
       "processed_at": "2026-10-01T10:40:38.159272+00:00"
-    },
-    {
-      "id": "ef3e7b7bdfb6c828",
-      "titolo_popolare": "Circolare INPS 42/2026: indicazioni operative",
-      "titolo_originale": "Circolare numero 42 del 03-04-2026",
-      "riassunto_esteso": "non specificato",
-      "cosa_cambia": [
-        "non specificato"
-      ],
-      "chi_interessa": "non specificato",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "non specificato",
-      "data_vigenza": "in vigore dal 3 aprile 2026",
-      "categoria": "Lavoro e Previdenza",
-      "importanza": 2,
-      "fonte": "INPS — Circolari",
-      "paese": "IT",
-      "url": "",
-      "pubblicato": "2026-08-12T05:21:44.194944+00:00",
-      "processed_at": "2026-10-01T10:38:50.019597+00:00"
-    },
-    {
-      "id": "910bda148aad71ab",
-      "titolo_popolare": "Nuove regole per l'indennità di disoccupazione",
-      "titolo_originale": "Circolare numero 40 del 03-04-2026",
-      "riassunto_esteso": "La circolare INPS numero 40 del 3 aprile 2026 fornisce chiarimenti sulle condizioni per accedere all'indennità di disoccupazione NASpI, aggiornando i requisiti di contribuzione e la durata del beneficio. Spiega inoltre come presentare la domanda tramite il portale telematico dell'INPS e quali documenti sono necessari per evitare ritardi. Le indicazioni mirano a semplificare l'accesso al sostegno al reddito per chi perde il lavoro involontariamente, garantendo tempi di erogazione più rapidi. Infine, la circolare prevede un monitoraggio più stretto delle pratiche per ridurre gli errori di pagamento.",
-      "cosa_cambia": [
-        "Il requisito minimo di contributi richiesti passa da 13 settimane negli ultimi 4 anni a 12 settimane negli ultimi 3 anni.",
-        "La durata massima dell'indennità aumenta da 24 a 26 mesi per chi ha almeno 50 anni di età.",
-        "È obbligatorio allegare il modello SR163 compilato dal datore di lavoro per attestare la cessazione del rapporto."
-      ],
-      "chi_interessa": "lavoratori dipendenti che hanno perso il lavoro involontariamente",
-      "cosa_devi_fare": "presentare la domanda online entro 68 giorni dalla data di cessazione del rapporto lavorativo",
-      "impatto": "Maggiore accesso al sostegno al reddito e tempi di pagamento più rapidi, riducendo il periodo di difficoltà economica dopo la perdita del lavoro.",
-      "data_vigenza": "in vigore dal 3 aprile 2026",
-      "categoria": "Lavoro e Previdenza",
-      "importanza": 2,
-      "fonte": "INPS — Circolari",
-      "paese": "IT",
-      "url": "",
-      "pubblicato": "2026-08-12T05:21:44.194928+00:00",
-      "processed_at": "2026-10-01T10:38:28.349636+00:00"
-    },
-    {
-      "id": "5d027ed01dd583cf",
-      "titolo_popolare": "Circolare INPS 43/2026",
-      "titolo_originale": "Circolare numero 43 del 07-04-2026",
-      "riassunto_esteso": "La circolare numero 43 dell'INPS, pubblicata il 7 aprile 2026, fornisce chiarimenti sulle procedure operative relative a una specifica prestazione previdenziale. Il documento nasce dall'esigenza di uniformare l'applicazione delle norme sul territorio nazionale, rispondendo a dubbi sollevati dagli uffici periferici e dagli utenti. Vengono dettagliati i requisiti di accesso, la documentazione necessaria e i tempi di lavorazione delle domande. Inoltre, si precisano le modalità di comunicazione degli esiti e i canali di assistenza disponibili. L'obiettivo è garantire maggiore trasparenza e ridurre i tempi di attesa per i beneficiari.",
-      "cosa_cambia": [
-        "Chiarimento sui documenti richiesti per presentare la domanda",
-        "Definizione più precisa dei tempi di elaborazione della pratica",
-        "Indicazione dei nuovi canali di assistenza online e telefonici"
-      ],
-      "chi_interessa": "tutti i cittadini che intendono richiedere prestazioni INPS",
-      "cosa_devi_fare": "verificare la documentazione richiesta secondo le nuove indicazioni prima di presentare la domanda",
-      "impatto": "Maggiore chiarezza sulle procedure, che dovrebbe ridurre errori e ritardi nell'erogazione delle prestazioni.",
-      "data_vigenza": "dal 7 aprile 2026",
-      "categoria": "Lavoro e Previdenza",
-      "importanza": 2,
-      "fonte": "INPS — Circolari",
-      "paese": "IT",
-      "url": "",
-      "pubblicato": "2026-08-12T05:21:44.194912+00:00",
-      "processed_at": "2026-09-30T10:15:01.854181+00:00"
-    },
-    {
-      "id": "08bef5118931c2d8",
-      "titolo_popolare": "...",
-      "titolo_originale": "Circolare numero 45 del 10-04-2026",
-      "riassunto_esteso": "...",
-      "cosa_cambia": [
-        "..."
-      ],
-      "chi_interessa": "...",
-      "cosa_devi_fare": "...",
-      "impatto": "...",
-      "data_vigenza": "...",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "INPS — Circolari",
-      "paese": "IT",
-      "url": "",
-      "pubblicato": "2026-08-12T05:21:44.194880+00:00",
-      "processed_at": "2026-09-30T10:14:30.167036+00:00"
-    },
-    {
-      "id": "8ddd484fc0e6e5be",
-      "titolo_popolare": "Nuove istruzioni INPS sulle prestazioni",
-      "titolo_originale": "Circolare numero 46 del 15-04-2026",
-      "riassunto_esteso": "La circolare numero 46 del 15 aprile 2026 dell'INPS fornisce chiarimenti operativi sulle modalità di accesso e di erogazione di alcune prestazioni previdenziali, aggiornando le procedure già in vigore. Il documento è stato adottato per uniformare l'applicazione delle norme sul territorio nazionale e ridurre i tempi di risposta alle richieste dei cittadini. Spiega quali documenti sono necessari, come compilare le domande online e quali sono i termini di risposta previsti. Inoltre, indica le eventuali sanzioni in caso di dichiarazioni mendaci e i canali di assistenza disponibili.",
-      "cosa_cambia": [
-        "Le domande devono essere presentate esclusivamente tramite il nuovo portale telematico INPS",
-        "È richiesto l'allegato di un documento di identità in formato digitale",
-        "I tempi di elaborazione sono ridotti da 30 a 20 giorni lavorativi",
-        "Viene introdotto un sistema di notifiche via SMS per lo stato della pratica"
-      ],
-      "chi_interessa": "tutti i cittadini che richiedono prestazioni INPS (disoccupazione, maternità, invalidità, ecc.)",
-      "cosa_devi_fare": "accedere al portale INPS con SPID e seguire la guida passo passo per inviare la domanda",
-      "impatto": "Le pratiche saranno più veloci e trasparenti, riducendo attese e errori nella presentazione delle domande.",
-      "data_vigenza": "dal 15 aprile 2026",
-      "categoria": "Lavoro e Previdenza",
-      "importanza": 2,
-      "fonte": "INPS — Circolari",
-      "paese": "IT",
-      "url": "",
-      "pubblicato": "2026-08-12T05:21:44.194863+00:00",
-      "processed_at": "2026-09-30T10:13:40.398900+00:00"
-    },
-    {
-      "id": "54aaa77239ff69f6",
-      "titolo_popolare": "non specificato",
-      "titolo_originale": "Circolare numero 47 del 21-04-2026",
-      "riassunto_esteso": "non specificato",
-      "cosa_cambia": [],
-      "chi_interessa": "non specificato",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "non specificato",
-      "data_vigenza": "in vigore dal 21 aprile 2026",
-      "categoria": "Lavoro e Previdenza",
-      "importanza": 2,
-      "fonte": "INPS — Circolari",
-      "paese": "IT",
-      "url": "",
-      "pubblicato": "2026-08-12T05:21:44.194845+00:00",
-      "processed_at": "2026-10-03T09:30:15.996700+00:00"
-    },
-    {
-      "id": "881f8c623781f6f6",
-      "titolo_popolare": "Aggiornamenti sulle prestazioni INPS del 2026",
-      "titolo_originale": "Circolare numero 50 del 28-04-2026",
-      "riassunto_esteso": "La circolare fornisce indicazioni operative sulle nuove modalità di richiesta di alcune prestazioni INPS, spiegando chi può accedere e quali documenti servono. È stata adottata per uniformare le procedure sul territorio nazionale e ridurre i tempi di elaborazione delle domande. Inoltre chiarisce alcuni dubbi sollevati dagli utenti e dagli operatori degli sportelli. Infine, prevede l'aggiornamento delle linee guida per gli uffici territoriali.",
-      "cosa_cambia": [
-        "non specificato"
-      ],
-      "chi_interessa": "tutti i cittadini che richiedono prestazioni INPS",
-      "cosa_devi_fare": "nessuna azione richiesta, salvo verificare le nuove istruzioni sul sito INPS",
-      "impatto": "semplifica l'accesso alle prestazioni e riduce i tempi di attesa, migliorando il servizio per gli utenti",
-      "data_vigenza": "dal 28 aprile 2026",
-      "categoria": "Lavoro e Previdenza",
-      "importanza": 2,
-      "fonte": "INPS — Circolari",
-      "paese": "IT",
-      "url": "",
-      "pubblicato": "2026-08-12T05:21:44.194795+00:00",
-      "processed_at": "2026-09-30T10:12:32.980569+00:00"
-    },
-    {
-      "id": "2d7e33c1d65e37d4",
-      "titolo_popolare": "non specificato",
-      "titolo_originale": "Circolare numero 53 del 07-05-2026",
-      "riassunto_esteso": "non specificato",
-      "cosa_cambia": [],
-      "chi_interessa": "non specificato",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "non specificato",
-      "data_vigenza": "dal 7 maggio 2026",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "INPS — Circolari",
-      "paese": "IT",
-      "url": "",
-      "pubblicato": "2026-08-12T05:21:44.194740+00:00",
-      "processed_at": "2026-10-02T10:07:33.124324+00:00"
-    },
-    {
-      "id": "40dfeea762b30ae4",
-      "titolo_popolare": "Circolare INPS sulle nuove regole di contribuzione",
-      "titolo_originale": "Circolare numero 54 del 13-05-2026",
-      "riassunto_esteso": "La circolare numero 54 del 13 maggio 2026 dell'INPS fornisce chiarimenti sulle modalità di calcolo e versamento dei contributi previdenziali per determinate categorie di lavoratori. È stata adottata per uniformare l'applicazione della normativa dopo le recenti modifiche legislative e ridurre i rischi di errori da parte dei datori di lavoro. Il documento spiega quali sono le aliquote aggiornate, i termini di pagamento e le eventuali sanzioni in caso di mancato rispetto. Inoltre, indica le procedure da seguire per richiedere eventuali regolarizzazioni o rimborsi. Infine, prevede l'aggiornamento dei modelli telematici da utilizzare per la denuncia contributiva.",
-      "cosa_cambia": [
-        "Le aliquote contributive per alcuni lavoratori atipici sono state riviste",
-        "I termini di versamento dei contributi sono stati allineati al mese successivo",
-        "È obbligatorio utilizzare il nuovo modello telematico UNIEMENS aggiornato",
-        "Le sanzioni per ritardo o omissione sono state rimodulate"
-      ],
-      "chi_interessa": "datori di lavoro e consulenti del lavoro che gestiscono contributi INPS",
-      "cosa_devi_fare": "Aggiornare i software di paghe e verificare le nuove aliquote entro il prossimo mese di paga",
-      "impatto": "Garantisce maggiore uniformità nei versamenti e riduce il rischio di contenziosi con l'INPS, migliorando la correttezza delle contribuzioni.",
-      "data_vigenza": "in vigore dal 13 maggio 2026",
-      "categoria": "Lavoro e Previdenza",
-      "importanza": 2,
-      "fonte": "INPS — Circolari",
-      "paese": "IT",
-      "url": "",
-      "pubblicato": "2026-08-12T05:21:44.194720+00:00",
-      "processed_at": "2026-09-30T10:11:02.930311+00:00"
-    },
-    {
-      "id": "76787dd244bce14f",
-      "titolo_popolare": "Atto normativo non disponibile",
-      "titolo_originale": "OJ:L_202690695",
-      "riassunto_esteso": "Il testo fornito indica che il documento non esiste nella versione inglese. Pertanto non è possibile conoscere le disposizioni normative contenute. Senza informazioni sul contenuto, non si possono descrivere gli effetti pratici. Si consiglia di verificare la fonte originale per ottenere il testo completo.",
-      "cosa_cambia": [
-        "Non specificato"
-      ],
-      "chi_interessa": "non specificato",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "non specificato",
-      "data_vigenza": "non specificato",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690695",
-      "pubblicato": "2026-08-12T00:00:00+02:00",
-      "processed_at": "2026-09-29T10:22:12.718466+00:00"
-    },
-    {
-      "id": "b69a1ff3a63631b2",
-      "titolo_popolare": "Nuove regole per importare animali dalla Nuova Zelanda",
-      "titolo_originale": "OJ:L_202601936: Commission Implementing Decision (EU) 2026/1936 of 5 August 2026 laying down certification rules and a model health certificate for entry into the Union of consignments of live animals and products of animal origin determined as equivalent to Union standards from New Zealand and repealing Implementing Decision (EU) 2015/1901",
-      "riassunto_esteso": "La decisione stabilisce quali certificati sanitari devono accompagnare gli animali vivi e i prodotti di origine animale provenienti dalla Nuova Zelanda quando entrano nell'Unione Europea. Viene introdotto un modello unico di certificato che sostituisce le varie forme precedenti, garantendo che i controlli siano uniformi in tutti gli Stati membri. La decisione abroga anche il precedente atto del 2015, aggiornando le regole in linea con gli attuali standard UE. L'obiettivo è mantenere alto il livello di sicurezza alimentare e sanitaria per i consumatori europei, facilitando al contempo gli scambi commerciali con la Nuova Zelanda.",
-      "cosa_cambia": [
-        "Gli importatori devono usare il nuovo modello unico di certificato sanitario per ogni partita proveniente dalla Nuova Zelanda.",
-        "Le autorità di controllo alle frontiere applicano le stesse regole di verifica in tutta l'UE, sostituendo le precedenti disposizioni del 2015.",
-        "Vengono definiti chiaramente i requisiti di equivalenza degli standard neozelandesi rispetto a quelli dell'Unione.",
-        "Le procedure di certificazione sono semplificate, riducendo la varietà di documenti richiesti."
-      ],
-      "chi_interessa": "imprese che importano animali vivi o prodotti animali dalla Nuova Zelanda e le autorità doganali e sanitarie alle frontiere",
-      "cosa_devi_fare": "le imprese devono adottare il nuovo modello di certificato e rispettare le nuove regole; nessun adempimento richiesto ai cittadini comuni",
-      "impatto": "garantisce che gli animali e i prodotti importati rispettino gli stessi standard di sicurezza alimentare dell'UE, aumentando la tutela dei consumatori e semplificando gli scambi commerciali.",
-      "data_vigenza": "in vigore dal 5 agosto 2026",
-      "categoria": "Agricoltura e Alimentare",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202601936",
-      "pubblicato": "2026-08-12T00:00:00+02:00",
-      "processed_at": "2026-09-30T10:10:15.297536+00:00"
     },
     {
       "id": "bb68323283680c7d",
