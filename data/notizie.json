@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-11T10:34:35.459757+00:00",
-  "total": 50,
+  "last_updated": "2026-10-12T11:38:02.486662+00:00",
+  "total": 53,
   "items": [
     {
       "id": "509d0990c925b223",
@@ -42,6 +42,47 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:22026A01998",
       "pubblicato": "2026-09-08T00:00:00+02:00",
       "processed_at": "2026-10-11T10:34:16.020183+00:00"
+    },
+    {
+      "id": "0049fcbd61d3c5d9",
+      "titolo_popolare": "Correzione di errori nel testo italiano di un regolamento UE",
+      "titolo_originale": "CELEX:32026R1848R(02)",
+      "riassunto_esteso": "Il documento è un corrigendum, cioè una correzione ufficiale, adottata per sistemare alcuni refusi presenti nelle versioni linguistiche non inglesi di un regolamento europeo. Non introduce nuove norme né modifica il contenuto sostanziale del regolamento, ma si limita a rendere uniforme il testo nelle diverse lingue ufficiali. L'adozione del corrigendum serve a evitare interpretazioni divergenti dovute a errori di stampa o di traduzione. Per i cittadini non ci sono cambiamenti pratici da osservare.",
+      "cosa_cambia": [
+        "Nessuna modifica sostanziale delle norme applicabili ai cittadini",
+        "Eventuali correzioni riguardano solo refusi nelle versioni linguistiche del regolamento"
+      ],
+      "chi_interessa": "nessun gruppo specifico",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "Nessun impatto concreto sulle persone; serve solo a correggere errori di stampa nelle versioni linguistiche del regolamento.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1848R(02)",
+      "pubblicato": "2026-09-08T00:00:00+02:00",
+      "processed_at": "2026-10-12T11:34:25.466963+00:00"
+    },
+    {
+      "id": "381eafe3b7d0e6e2",
+      "titolo_popolare": "Correzione tecnica al regolamento sulle locuste commestibili",
+      "titolo_originale": "CELEX:32021R1975R(02):            Rectificatif au règlement d’exécution (UE) 2021/1975 de la Commission du 12 novembre 2021 autorisant la mise sur le marché de formes congelée, séchée et en poudre de Locusta migratoria en tant que nouvel aliment en application du règlement (UE) 2015/2283 du Parlement européen et du Conseil et modifiant le règlement d’exécution (UE) 2017/2470 de la Commission (JO L 402 du 15.11.2021)",
+      "riassunto_esteso": "Il regolamento di esecuzione (UE) 2021/1975 autorizza l'immissione in commercio di forme congelate, essiccate e in polvere della locusta migratoria come nuovo alimento. Questo atto è un corrigendum che corregge eventuali errori materiali presenti nelle versioni linguistiche diverse dall'inglese del regolamento. Lo scopo è garantire che tutti i testi ufficiali siano coerenti e privi di refusi, senza modificare il contenuto sostanziale dell'autorizzazione. Si tratta quindi di un intervento puramente tecnico di revisione del testo giuridico.",
+      "cosa_cambia": [
+        "Nessuna modifica sostanziale per i consumatori o le imprese"
+      ],
+      "chi_interessa": "nessun impatto diretto sui cittadini",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "L'atto non produce effetti pratici; serve solo a correggere il testo giuridico per evitare incoerenze linguistiche tra le versioni ufficiali.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32021R1975R(02)",
+      "pubblicato": "2026-09-08T00:00:00+02:00",
+      "processed_at": "2026-10-12T11:36:02.082794+00:00"
     },
     {
       "id": "a9d4f9a92133f531",
@@ -107,6 +148,28 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32018R1023R(04)",
       "pubblicato": "2026-09-07T00:00:00+02:00",
       "processed_at": "2026-10-11T10:31:03.157642+00:00"
+    },
+    {
+      "id": "a742100c9a8e692e",
+      "titolo_popolare": "Aggiornamento norme di sicurezza per macchinari",
+      "titolo_originale": "CELEX:32026D2015: Commission Implementing Decision (EU) 2026/2015 of 4 September 2026 amending and repealing Commission Implementing Decision (EU) 2023/1586 as regards harmonised standards for machinery drafted in support of Directive 2006/42/EC of the European Parliament and of the Council",
+      "riassunto_esteso": "La decisione aggiorna l'elenco delle norme armonizzate che i fabbricanti possono utilizzare per dimostrare che le loro macchine rispettano i requisiti di sicurezza della direttiva macchine. Sostituisce la decisione del 2023, introducendo nuove norme tecniche e ritirando quelle ormai obsolete. Questo adeguamento tiene conto dei progressi tecnologici e delle lezioni apprese dall'applicazione precedente. L'obiettivo è migliorare la sicurezza delle macchine immesse sul mercato e facilitare gli scambi commerciali nell'UE. Il cambiamento riguarda principalmente produttori, importatori e le autorità di vigilanza del mercato.",
+      "cosa_cambia": [
+        "I fabbricanti devono fare riferimento alle nuove norme armonizzate per la dichiarazione di conformità delle macchine.",
+        "Gli importatori devono verificare che le macchine provenienti da fuori l'UE rispettino le norme aggiornate.",
+        "Le autorità di controllo del mercato applicano i nuovi criteri quando verificano la sicurezza delle macchine in circolazione."
+      ],
+      "chi_interessa": "produttori, importatori e responsabili della messa in servizio di macchinari nell'UE",
+      "cosa_devi_fare": "Verificare che le proprie macchine rispettino le nuove norme armonizzate e aggiornare la documentazione di conformità.",
+      "impatto": "Le macchine in uso saranno più sicure, riducendo il rischio di incidenti sul lavoro e nella vita quotidiana. Questo aumenta la fiducia dei consumatori e tutela i lavoratori.",
+      "data_vigenza": "in vigore dal 4 settembre 2026",
+      "categoria": "Imprese e Mercato",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2015",
+      "pubblicato": "2026-09-07T00:00:00+02:00",
+      "processed_at": "2026-10-12T11:31:13.816194+00:00"
     },
     {
       "id": "904ff2560e7fe95a",
