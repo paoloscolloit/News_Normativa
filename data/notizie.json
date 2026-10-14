@@ -1,7 +1,167 @@
 {
-  "last_updated": "2026-10-13T11:28:27.108720+00:00",
-  "total": 55,
+  "last_updated": "2026-10-14T09:19:51.419247+00:00",
+  "total": 66,
   "items": [
+    {
+      "id": "75371b979d4100ed",
+      "titolo_popolare": "Parlamento UE approva l'uso dei fondi dell'Agenzia Ambiente",
+      "titolo_originale": "CELEX:32026B1617: Decision (EU) 2026/1617 of the European Parliament of 29 April 2026 on discharge in respect of the implementation of the budget of the European Environment Agency for the financial year 2024",
+      "riassunto_esteso": "La decisione del Parlamento europeo concede lo scarico (discharge) all'Agenzia europea dell'ambiente per l'esecuzione del suo bilancio relativo all'anno finanziario 2024. Con questo atto il Parlamento conferma che l'agenzia ha utilizzato i fondi assegnati in conformità alle norme UE e che la gestione finanziaria è stata corretta. Lo scarico è una fase ordinaria del controllo di bilancio dell'Unione, che serve a garantire trasparenza e responsabilità nell'uso delle risorse pubbliche. Non introduce nuovi obblighi né modifiche dirette per cittadini, imprese o altri soggetti. Si basa sulle relazioni della Corte dei conti europea e chiude formalmente l'esercizio finanziario 2024 dell'agenzia.",
+      "cosa_cambia": [
+        "nessuna modifica diretta per i cittadini"
+      ],
+      "chi_interessa": "nessun gruppo specifico",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "Non produce effetti concreti sulle persone; serve solo a verificare che i fondi UE siano stati spesi correttamente e a mantenere la catena di responsabilità finanziaria.",
+      "data_vigenza": "in vigore dal 29 aprile 2026",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026B1617",
+      "pubblicato": "2026-09-10T00:00:00+02:00",
+      "processed_at": "2026-10-14T09:12:38.094010+00:00"
+    },
+    {
+      "id": "dc315247babb2728",
+      "titolo_popolare": "Approvazione del bilancio 2024 di Europe's Rail",
+      "titolo_originale": "CELEX:32026B1672: Decision (EU) 2026/1672 of the European Parliament of 29 April 2026 on discharge in respect of the implementation of the budget of the Europe’s Rail Joint Undertaking for the financial year 2024",
+      "riassunto_esteso": "Il Parlamento europeo ha adottato la decisione di discharge relativa al bilancio dell'Europe's Rail Joint Undertaking per l'anno finanziario 2024. Con questo atto il Parlamento conferma che le spese sono state realizzate correttamente e in conformità alle norme UE. Si tratta di una procedura di controllo routinaria che serve a garantire la trasparenza e la responsabilità nell'uso dei fondi pubblici. La decisione non introduce nuovi diritti o obblighi per i cittadini, ma chiude formalmente l'esercizio finanziario dell'organizzazione. Si basa sulla relazione della Corte dei conti europea e permette all'ente di proseguire con il bilancio successivo.",
+      "cosa_cambia": [
+        "Nessuna modifica diretta per i cittadini comuni"
+      ],
+      "chi_interessa": "nessun cittadino direttamente interessato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "Conferma la corretta gestione dei fondi UE per Europe's Rail, aumentando la trasparenza e la fiducia nell'uso del denaro pubblico. Questo contribuisce a mantenere alto il livello di accountability delle istituzioni europee.",
+      "data_vigenza": "in vigore dal 29 aprile 2026",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026B1672",
+      "pubblicato": "2026-09-10T00:00:00+02:00",
+      "processed_at": "2026-10-14T09:14:50.523576+00:00"
+    },
+    {
+      "id": "eaa08ca3f456e739",
+      "titolo_popolare": "Chiusura dei conti del progetto europeo Bio-based 2024",
+      "titolo_originale": "CELEX:32026B1669: Decision (EU) 2026/1669 of the European Parliament of 29 April 2026 on the closure of the accounts of the Circular Bio-based Europe Joint Undertaking for the financial year 2024",
+      "riassunto_esteso": "Il Parlamento europeo ha adottato una decisione che chiude ufficialmente i conti del Circular Bio-based Europe Joint Undertaking per l'anno finanziario 2024. Questo atto conferma che tutte le risorse assegnate sono state utilizzate e sottoposte a controllo contabile. Si tratta di una procedura di routine richiesta dalle norme finanziarie dell'UE per garantire trasparenza e responsabilità nell'uso dei fondi pubblici. La decisione non introduce nuovi obblighi per cittadini o imprese, ma serve semplicemente a registrare la conclusione delle attività finanziarie dell'anno. È stata pubblicata il 29 aprile 2026 ed entra in vigore dalla stessa data.",
+      "cosa_cambia": [
+        "Nessuna modifica diretta per cittadini o imprese"
+      ],
+      "chi_interessa": "nessun cittadino o impresa in particolare",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "Nessun impatto diretto sui cittadini; la decisione serve solo a garantire la trasparenza dei fondi UE.",
+      "data_vigenza": "in vigore dal 29 aprile 2026",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026B1669",
+      "pubblicato": "2026-09-10T00:00:00+02:00",
+      "processed_at": "2026-10-14T09:15:37.786035+00:00"
+    },
+    {
+      "id": "f0a2aa9ba53ec2fd",
+      "titolo_popolare": "Parlamento UE approva i conti di Europol per il 2024",
+      "titolo_originale": "CELEX:32026B1657: Decision (EU) 2026/1657 of the European Parliament of 29 April 2026 on discharge in respect of the implementation of the budget of the European Union Agency for Law Enforcement Cooperation for the financial year 2024",
+      "riassunto_esteso": "Il Parlamento europeo ha votato per dare il discharge all'Agenzia europea per la cooperazione nell'applicazione della legge (Europol) riguardo all'esecuzione del suo bilancio per l'anno finanziario 2024. Questo atto conferma che Europol ha utilizzato le risorse assegnate nel rispetto delle norme finanziarie dell'UE. Il discharge è una procedura di controllo abituale che serve a garantire trasparenza e responsabilità nella gestione dei fondi pubblici. La decisione arriva dopo l'esame della Corte dei conti europea e della commissione per il controllo di bilancio del Parlamento. Non introduce nuovi obblighi per cittadini o imprese, ma semplicemente ratifica che la gestione finanziaria di Europol è stata soddisfacente.",
+      "cosa_cambia": [
+        "nessuna modifica diretta per i cittadini"
+      ],
+      "chi_interessa": "nessun impatto diretto sui cittadini",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "nessun effetto concreto sui cittadini; serve solo a garantire la trasparenza dei conti di Europol.",
+      "data_vigenza": "in vigore dal 29 aprile 2026",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026B1657",
+      "pubblicato": "2026-09-10T00:00:00+02:00",
+      "processed_at": "2026-10-14T09:16:10.634049+00:00"
+    },
+    {
+      "id": "ae253fb50a3f71e8",
+      "titolo_popolare": "Approvazione del bilancio 2024 dell'agenzia della ricerca europea",
+      "titolo_originale": "CELEX:32026B1571: Decision (EU, Euratom) 2026/1571 of the European Parliament of 29 April 2026 on discharge in respect of the implementation of the budget of the European Research Council Executive Agency for the financial year 2024",
+      "riassunto_esteso": "Il Parlamento europeo ha concesso lo scarico (discharge) al Consiglio europeo della ricerca per l'esecuzione del bilancio relativo all'anno finanziario 2024. Questo atto conferma che l'agenzia ha gestito le proprie risorse in conformità alle norme UE e alle raccomandazioni della Corte dei conti europea. Lo scarico è una procedura di controllo interno che chiude l'esercizio finanziario e segnala fiducia nella gestione finanziaria dell'agenzia. Non introduce nuovi obblighi né modifiche per cittadini o imprese. Serve principalmente a garantire la trasparenza e la responsabilità nell'uso dei fondi europei.",
+      "cosa_cambia": [
+        "Nessuna modifica diretta per cittadini o imprese"
+      ],
+      "chi_interessa": "nessun cittadino o impresa direttamente interessato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "Nessun impatto diretto sui cittadini; l'atto serve solo a garantire la trasparenza interna del bilancio UE.",
+      "data_vigenza": "in vigore dal 29 aprile 2026",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026B1571",
+      "pubblicato": "2026-09-10T00:00:00+02:00",
+      "processed_at": "2026-10-14T09:16:23.393668+00:00"
+    },
+    {
+      "id": "4505015e2501e0ef",
+      "titolo_popolare": "Parlamento UE approva gestione bilancio EIT 2024",
+      "titolo_originale": "CELEX:32026B1627: Decision (EU) 2026/1627 of the European Parliament of 29 April 2026 on discharge in respect of the implementation of the budget of the European Institute of Innovation and Technology for the financial year 2024",
+      "riassunto_esteso": "Il Parlamento europeo ha votato per dare lo scarico (discharge) all'Istituto europeo di innovazione e tecnologia (EIT) riguardo all'uso del suo bilancio per l'anno finanziario 2024. Questo atto conferma che il Parlamento considera corretta e conforme alle norme la gestione delle risorse dell'EIT per quell'anno. Lo scarico è una procedura normale di controllo del bilancio UE, volta a garantire trasparenza e responsabilità nell'uso dei fondi pubblici. Non introduce nuovi obblighi, diritti o modifiche che riguardano direttamente cittadini, imprese o lavoratori. Serve principalmente a chiudere il ciclo di rendicontazione finanziaria dell'istituto per il 2024.",
+      "cosa_cambia": [
+        "Nessun cambiamento diretto per cittadini, imprese o lavoratori"
+      ],
+      "chi_interessa": "nessun gruppo specifico di cittadini",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "Non ci sono effetti concreti sulle persone; l'atto serve solo a garantire la trasparenza del bilancio europeo.",
+      "data_vigenza": "in vigore dal 29 aprile 2026",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026B1627",
+      "pubblicato": "2026-09-10T00:00:00+02:00",
+      "processed_at": "2026-10-14T09:17:56.857808+00:00"
+    },
+    {
+      "id": "f87507ce38f255f3",
+      "titolo_popolare": "Approvazione del bilancio 2024 dell'agenzia europea dell'energia",
+      "titolo_originale": "CELEX:32026B1600: Decision (EU) 2026/1600 of the European Parliament of 29 April 2026 on the closure of the accounts of the European Union Agency for the Cooperation of Energy Regulators for the financial year 2024",
+      "riassunto_esteso": "Il Parlamento europeo ha adottato una decisione che chiude ufficialmente i conti dell'Agenzia europea per la cooperazione dei regolatori dell'energia (ACER) relativo all'esercizio finanziario 2024. Con questo atto si conferma che la rendicontazione finanziaria dell'agenzia è stata verificata e ritenuta corretta, permettendo l'archiviazione definitiva dei documenti contabili. La decisione serve a garantire la trasparenza e il corretto uso dei fondi dell'Unione europea nelle attività dell'agenzia. Non introduce nuovi obblighi né diritti per cittadini, imprese o altri soggetti esterni. È un provvedimento prevalentemente amministrativo, volto a completare il ciclo di gestione finanziaria interna dell'ACER.",
+      "cosa_cambia": [
+        "nessuna modifica diretta per i cittadini"
+      ],
+      "chi_interessa": "nessun cittadino o impresa direttamente interessato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "Non produce effetti concreti sulla vita quotidiana delle persone; serve solo a garantire la corretta gestione dei fondi UE dell'agenzia.",
+      "data_vigenza": "in vigore dal 29 aprile 2026",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026B1600",
+      "pubblicato": "2026-09-10T00:00:00+02:00",
+      "processed_at": "2026-10-14T09:18:08.949860+00:00"
+    },
+    {
+      "id": "0c63602ed6403177",
+      "titolo_popolare": "Approvazione del bilancio 2024 dell'Autorità europea delle assicurazioni",
+      "titolo_originale": "CELEX:32026B1626: Decision (EU) 2026/1626 of the European Parliament of 29 April 2026 on the closure of the accounts of the European Insurance and Occupational Pensions Authority for the financial year 2024",
+      "riassunto_esteso": "Il Parlamento europeo ha adottato una decisione che chiude ufficialmente i conti dell'European Insurance and Occupational Pensions Authority (EIOPA) relativi all'esercizio finanziario 2024. Con questo atto si conferma che l'agenzia ha utilizzato le risorse assegnate in conformità al bilancio approvato e si dà formalmente quietanza al suo responsabile finanziario. La decisione rientra nelle procedure ordinarie di controllo interno delle istituzioni UE, volte a garantire trasparenza e corretta gestione dei fondi pubblici. Non introduce nuove norme né obblighi per cittadini o imprese, ma semplicemente registra l'esito positivo della verifica contabile.",
+      "cosa_cambia": [
+        "nessuna modifica diretta per i cittadini"
+      ],
+      "chi_interessa": "nessun cittadino specifico",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "L'atto non produce effetti concreti sulla vita quotidiana delle persone; serve solo a completare la routine di rendicontazione finanziaria dell'EIOPA.",
+      "data_vigenza": "in vigore dal 29 aprile 2026",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026B1626",
+      "pubblicato": "2026-09-10T00:00:00+02:00",
+      "processed_at": "2026-10-14T09:18:31.731238+00:00"
+    },
     {
       "id": "660290b0b8cd7dda",
       "titolo_popolare": "Correzione alla direttiva sulle piante ornamentali",
@@ -21,6 +181,28 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:31998L0056R(01)",
       "pubblicato": "2026-09-09T00:00:00+02:00",
       "processed_at": "2026-10-13T11:26:36.711590+00:00"
+    },
+    {
+      "id": "5fed936762e16fbb",
+      "titolo_popolare": "Registrazione UE del formaggio Brânză frământată de Teaca",
+      "titolo_originale": "CELEX:32026R2017: Commission Implementing Regulation (EU) 2026/2017 of 2 September 2026 on the registration of the geographical indication Brânză frământată de Teaca (PGI) in the Union register of geographical indications pursuant to Regulation (EU) 2024/1143 of the European Parliament and of the Council",
+      "riassunto_esteso": "L'Unione Europea ha ufficialmente riconosciuto il formaggio Brânză frământată de Teaca come Indicazione Geografica Protetta (PGI). Questo significa che solo il formaggio prodotto nella zona di Teaca, rispettando il disciplinare specifico, può portare quel nome. L'obiettivo è tutelare i produttori locali da imitazioni e garantire ai consumatori l'autenticità e la qualità del prodotto. La registrazione entra a far parte del registro europeo delle indicazioni geografiche, offrendo una protezione legale a livello UE. Così si valorizza il patrimonio caseario rumeno e si promuove la trasparenza sul mercato.",
+      "cosa_cambia": [
+        "I produttori del formaggio Teaca possono ora usare il marchio PGI sulle loro confezioni",
+        "Devono rispettare le regole di produzione, trasformazione e origine indicate nel disciplinare",
+        "I consumatori trovano più facilmente il prodotto autentico grazie al riconoscimento ufficiale"
+      ],
+      "chi_interessa": "i produttori di formaggio Brânză frământată de Teaca e i consumatori di prodotti lattiero-caseari",
+      "cosa_devi_fare": "I produttori devono seguire il disciplinare e possono richiedere l'uso del marchio PGI; i consumatori non devono compiere alcuna azione",
+      "impatto": "I produttori locali otteneguardia contro le contraffazioni e possono valorizzare meglio il loro prodotto, mentre i consumatori hanno maggiore certezza sull'origine e sulla qualità del formaggio che acquistano.",
+      "data_vigenza": "in vigore dal 2 settembre 2026",
+      "categoria": "Agricoltura e Alimentare",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2017",
+      "pubblicato": "2026-09-09T00:00:00+02:00",
+      "processed_at": "2026-10-14T09:10:17.080409+00:00"
     },
     {
       "id": "509d0990c925b223",
@@ -124,6 +306,49 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32020R0484R(01)",
       "pubblicato": "2026-09-08T00:00:00+02:00",
       "processed_at": "2026-10-13T11:21:13.262421+00:00"
+    },
+    {
+      "id": "84746b35acf63834",
+      "titolo_popolare": "Correzione al regolamento sui grilli commestibili",
+      "titolo_originale": "CELEX:32022R0188R(01):            Rectificatif au règlement d’exécution (UE) 2022/188 de la Commission du 10 février 2022 autorisant la mise sur le marché de formes congelée, séchée et en poudre d’Acheta domesticus en tant que nouvel aliment en application du règlement (UE) 2015/2283 du Parlement européen et du Conseil et modifiant le règlement d’exécution (UE) 2017/2470 de la Commission (JO L 30 du 11.2.2022)",
+      "riassunto_esteso": "Il documento è un corrigendum, cioè una correzione, al regolamento di esecuzione che autorizza l'immissione in commercio di forme congelate, essiccate e in polvere di Acheta domesticus, il grillo domestico, come nuovo alimento. Questa correzione non riguarda la versione inglese del testo, ma serve a sistemare eventuali errori di traduzione o di formulazione nelle altre lingue ufficiali dell'Unione europea. L'obiettivo è garantire che tutti i versioni linguistiche del regolamento siano coerenti e prive di refusi che potrebbero creare confusione. Non introduce nuovi requisiti né modifica sostanzialmente le disposizioni già in vigore. Si tratta quindi di un intervento puramente tecnico di miglioramento della qualità giuridica del testo.",
+      "cosa_cambia": [
+        "nessuna modifica sostanziale per i cittadini o le imprese"
+      ],
+      "chi_interessa": "nessun impatto diretto sui cittadini",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "nessun effetto pratico sulla vita quotidiana; serve solo a correggere i testi normativi in alcune lingue.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32022R0188R(01)",
+      "pubblicato": "2026-09-08T00:00:00+02:00",
+      "processed_at": "2026-10-14T09:06:19.442791+00:00"
+    },
+    {
+      "id": "a7055f5dacdc59d4",
+      "titolo_popolare": "Rinnovo dell'autorizzazione del fosfino come pesticida",
+      "titolo_originale": "CELEX:32026R1968: Commission Implementing Regulation (EU) 2026/1968 of 7 September 2026 renewing the approval of the active substance phosphine in accordance with Regulation (EC) No 1107/2009 of the European Parliament and of the Council, and amending Commission Implementing Regulation (EU) No 540/2011",
+      "riassunto_esteso": "La Commissione europea ha rinnovato l'approvazione del fosfino, sostanza attiva utilizzata come fumigante nei prodotti fitosanitari, in linea con il regolamento sui pesticidi. Questa decisione permette agli agricoltori e agli operatori dello stoccaggio di continuare a usare il fosfino per proteggere i raccolti immagazzinati da insetti e parassiti. Il rinnovo è basato su una nuova valutazione di sicurezza che conferma che il prodotto può essere usato rispettando determinate condizioni d'uso. L'atto modifica inoltre il precedente regolamento di attuazione per aggiornare le disposizioni relative al fosfino.",
+      "cosa_cambia": [
+        "Gli utilizzatori possono continuare ad acquistare e applicare prodotti a base di fosfino secondo le nuove condizioni indicate in etichetta",
+        "È necessario rispettare eventuali limiti di dose e tempi di attesa aggiornati per garantire la sicurezza alimentare",
+        "Le etichette dei prodotti devono riportare le nuove avvertenze e le istruzioni d'uso aggiornate",
+        "I controlli ufficiali potranno verificare il rispetto delle nuove condizioni di utilizzo"
+      ],
+      "chi_interessa": "agricoltori e gestori di magazzini che utilizzano fumiganti a base di fosfino per la protezione dei prodotti agricoli",
+      "cosa_devi_fare": "verificare che i prodotti fosfino utilizzati siano autorizzati e rispettare le nuove indicazioni d'uso riportate in etichetta",
+      "impatto": "Garantisce la continuità di un efficace fumigante per proteggere i raccolti immagazzinati, mantenendo alti standard di sicurezza per gli alimenti e l'ambiente.",
+      "data_vigenza": "in vigore dal 7 settembre 2026",
+      "categoria": "Agricoltura e Alimentare",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1968",
+      "pubblicato": "2026-09-08T00:00:00+02:00",
+      "processed_at": "2026-10-14T09:07:48.690331+00:00"
     },
     {
       "id": "a9d4f9a92133f531",
