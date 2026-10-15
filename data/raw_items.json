@@ -1,197 +1,5 @@
 [
   {
-    "id": "0049fcbd61d3c5d9",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026R1848R(02)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1848R(02)",
-    "pubblicato": "2026-09-08T00:00:00+02:00",
-    "summary_raw": "The corrigendum does not concern the English version.",
-    "fetched_at": "2026-09-08T08:23:03.338543+00:00",
-    "processed": true
-  },
-  {
-    "id": "1282bd4543cd5bb6",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32025R1988R(03): Corrigendum to Commission Regulation (EU) 2025/1988 of 2 October 2025 amending Annex XVII to Regulation (EC) No 1907/2006 of the European Parliament and of the Council as regards per- and polyfluoroalkyl substances in firefighting foams (OJ L, 2025/1988, 3.10.2025)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32025R1988R(03)",
-    "pubblicato": "2026-09-08T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-09-08T08:23:03.338588+00:00",
-    "processed": false
-  },
-  {
-    "id": "84746b35acf63834",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32022R0188R(01):            Rectificatif au règlement d’exécution (UE) 2022/188 de la Commission du 10 février 2022 autorisant la mise sur le marché de formes congelée, séchée et en poudre d’Acheta domesticus en tant que nouvel aliment en application du règlement (UE) 2015/2283 du Parlement européen et du Conseil et modifiant le règlement d’exécution (UE) 2017/2470 de la Commission (JO L 30 du 11.2.2022)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32022R0188R(01)",
-    "pubblicato": "2026-09-08T00:00:00+02:00",
-    "summary_raw": "The corrigendum does not concern the English version.",
-    "fetched_at": "2026-09-08T08:23:03.338635+00:00",
-    "processed": true
-  },
-  {
-    "id": "381eafe3b7d0e6e2",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32021R1975R(02):            Rectificatif au règlement d’exécution (UE) 2021/1975 de la Commission du 12 novembre 2021 autorisant la mise sur le marché de formes congelée, séchée et en poudre de Locusta migratoria en tant que nouvel aliment en application du règlement (UE) 2015/2283 du Parlement européen et du Conseil et modifiant le règlement d’exécution (UE) 2017/2470 de la Commission (JO L 402 du 15.11.2021)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32021R1975R(02)",
-    "pubblicato": "2026-09-08T00:00:00+02:00",
-    "summary_raw": "The corrigendum does not concern the English version.",
-    "fetched_at": "2026-09-08T08:23:03.338685+00:00",
-    "processed": true
-  },
-  {
-    "id": "d5a2164de0df5a67",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026D1717R(01): Corrigendum to Commission Implementing Decision (EU) 2026/1717 of 20 July 2026 on the harmonised standards for gas water heaters drafted in support of Regulation (EU) No 814/2013 and of Delegated Regulation (EU) No 812/2013 (OJ L, 2026/1717, 23.7.2026)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1717R(01)",
-    "pubblicato": "2026-09-08T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-09-08T08:23:03.338731+00:00",
-    "processed": false
-  },
-  {
-    "id": "4a11d2aff0b74f94",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32025R1528R(02):            Rectificatif au règlement d’exécution (UE) 2025/1528 de la Commission du 30 juillet 2025 autorisant la mise sur le marché de l’huile extraite de Cyperus esculentus (noix tigrée) en tant que nouvel aliment et modifiant le règlement d’exécution (UE) 2017/2470 (JO L, 2025/1528, 31.7.2025)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32025R1528R(02)",
-    "pubblicato": "2026-09-08T00:00:00+02:00",
-    "summary_raw": "The corrigendum does not concern the English version.",
-    "fetched_at": "2026-09-08T08:23:03.338789+00:00",
-    "processed": false
-  },
-  {
-    "id": "a7055f5dacdc59d4",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026R1968: Commission Implementing Regulation (EU) 2026/1968 of 7 September 2026 renewing the approval of the active substance phosphine in accordance with Regulation (EC) No 1107/2009 of the European Parliament and of the Council, and amending Commission Implementing Regulation (EU) No 540/2011",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1968",
-    "pubblicato": "2026-09-08T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-09-08T08:23:03.338833+00:00",
-    "processed": true
-  },
-  {
-    "id": "a94bee606c40351d",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32023R0961R(01):            Rectificatif au règlement d’exécution (UE) 2023/961 de la Commission du 12 mai 2023 modifiant le règlement d’exécution (UE) 2017/2470 en ce qui concerne les conditions d’utilisation du nouvel aliment lacto-N-néotétraose (JO L 129 du 16.5.2023)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32023R0961R(01)",
-    "pubblicato": "2026-09-08T00:00:00+02:00",
-    "summary_raw": "The corrigendum does not concern the English version.",
-    "fetched_at": "2026-09-08T08:23:03.338877+00:00",
-    "processed": false
-  },
-  {
-    "id": "d2d9d50095e99c80",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026R1975: Commission Implementing Regulation (EU) 2026/1975 of 8 September 2026 authorising an exemption pursuant to Regulation (EU) 2024/573 of the European Parliament and of the Council, with regards to the use of fluorinated greenhouse gases in certain equipment used for drying compressed air",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1975",
-    "pubblicato": "2026-09-09T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-09-09T08:27:55.116132+00:00",
-    "processed": false
-  },
-  {
-    "id": "56eced8432e228f9",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026R1974: Commission Implementing Regulation (EU) 2026/1974 of 8 September 2026 granting a Union authorisation for the single biocidal product ERO MN in accordance with Regulation (EU) No 528/2012 of the European Parliament and of the Council",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1974",
-    "pubblicato": "2026-09-09T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-09-09T08:27:55.116249+00:00",
-    "processed": false
-  },
-  {
-    "id": "5fed936762e16fbb",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026R2017: Commission Implementing Regulation (EU) 2026/2017 of 2 September 2026 on the registration of the geographical indication Brânză frământată de Teaca (PGI) in the Union register of geographical indications pursuant to Regulation (EU) 2024/1143 of the European Parliament and of the Council",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2017",
-    "pubblicato": "2026-09-09T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-09-09T08:27:55.116354+00:00",
-    "processed": true
-  },
-  {
-    "id": "1b9e33af96fd58dc",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026D1977: Commission Implementing Decision (EU) 2026/1977 of 8 September 2026 laying down the final import response on behalf of the Union concerning the future import of carbosulfan and of fenthion (ultra-low-volume formulations at or above 640 g active ingredient/L) pursuant to Regulation (EU) No 649/2012 of the European Parliament and of the Council",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1977",
-    "pubblicato": "2026-09-09T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-09-09T08:27:55.116457+00:00",
-    "processed": false
-  },
-  {
-    "id": "660290b0b8cd7dda",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:31998L0056R(01):            Rectificatif à la directive 98/56/CE du Conseil du 20 juillet 1998 concernant la commercialisation des matériels de multiplication des plantes ornementales (JO L 226 du 13.8.1998)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:31998L0056R(01)",
-    "pubblicato": "2026-09-09T00:00:00+02:00",
-    "summary_raw": "The corrigendum does not concern the English version.",
-    "fetched_at": "2026-09-09T08:27:55.116543+00:00",
-    "processed": true
-  },
-  {
-    "id": "db26209f9102745d",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026R1976: Commission Implementing Regulation (EU) 2026/1976 of 8 September 2026 renewing the approval of the active substance pyraclostrobin in accordance with Regulation (EC) No 1107/2009 of the European Parliament and of the Council, and amending Commission Implementing Regulation (EU) No 540/2011",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1976",
-    "pubblicato": "2026-09-09T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-09-09T08:27:55.116626+00:00",
-    "processed": false
-  },
-  {
-    "id": "2a50486302ba8d11",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026D1978: Commission Implementing Decision (EU) 2026/1978 of 8 September 2026 setting up the European Digital Infrastructure Consortium for Agri-Food (EDIC for Agri-Food)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1978",
-    "pubblicato": "2026-09-09T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-09-09T08:27:55.116710+00:00",
-    "processed": false
-  },
-  {
-    "id": "c1f91454bfd7b289",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026B1601: Decision (EU) 2026/1601 of the European Parliament of 29 April 2026 on discharge in respect of the implementation of the budget of the Agency for Support for BEREC for the financial year 2024",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026B1601",
-    "pubblicato": "2026-09-10T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-09-10T08:27:17.548820+00:00",
-    "processed": false
-  },
-  {
     "id": "75371b979d4100ed",
     "source_id": "eurlex_oj_l",
     "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
@@ -381,7 +189,7 @@
     "pubblicato": "2026-09-10T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-09-10T08:27:17.550518+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "c76aa738711e4736",
@@ -393,7 +201,7 @@
     "pubblicato": "2026-09-10T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-09-10T08:27:17.550614+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "f15eda2017414137",
@@ -405,7 +213,7 @@
     "pubblicato": "2026-09-10T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-09-10T08:27:17.550710+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "8191c855734314fe",
@@ -465,7 +273,7 @@
     "pubblicato": "2026-09-10T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-09-10T08:27:17.551193+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "588bc588cfaef410",
@@ -477,7 +285,7 @@
     "pubblicato": "2026-09-10T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-09-10T08:27:17.551311+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "350cc7c37122d0b4",
@@ -525,7 +333,7 @@
     "pubblicato": "2026-09-10T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-09-10T08:27:17.551695+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "d7cc3efda7c3860c",
@@ -537,7 +345,7 @@
     "pubblicato": "2026-09-10T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-09-10T08:27:17.551788+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "8f8cd2d05a7119c8",
@@ -633,7 +441,7 @@
     "pubblicato": "2026-09-10T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-09-10T08:27:17.552566+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "a0b17b01a960ef0c",
@@ -5997,6 +5805,198 @@
     "pubblicato": "2026-10-14T00:00:00+02:00",
     "summary_raw": "The corrigendum does not concern the English version.",
     "fetched_at": "2026-10-14T09:05:09.515024+00:00",
+    "processed": false
+  },
+  {
+    "id": "948e9c62cab4e2b0",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R2293: Commission Implementing Regulation (EU) 2026/2293 of 8 October 2026 entering the geographical indication Capocollo di Martina Franca (PGI) in the Union register of geographical indications pursuant to Regulation (EU) 2024/1143 of the European Parliament and of the Council",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2293",
+    "pubblicato": "2026-10-15T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-10-15T08:38:26.583739+00:00",
+    "processed": false
+  },
+  {
+    "id": "406eb864d87d91fc",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32023R2147R(02)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32023R2147R(02)",
+    "pubblicato": "2026-10-15T00:00:00+02:00",
+    "summary_raw": "The corrigendum does not concern the English version.",
+    "fetched_at": "2026-10-15T08:38:26.583882+00:00",
+    "processed": false
+  },
+  {
+    "id": "5fd7ac652e7cfe01",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D2315: Council Decision (EU) 2026/2315 of 12 October 2026 on the position to be taken on behalf of the European Union within the Trade and Development Committee established by the Economic Partnership Agreement between the European Union and its Member States, of the one part, and the SADC EPA States, of the other part, on the replacement of the list of arbitrators",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2315",
+    "pubblicato": "2026-10-15T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-10-15T08:38:26.583996+00:00",
+    "processed": false
+  },
+  {
+    "id": "3cf10b5daa6a8e59",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R2301: Commission Implementing Regulation (EU) 2026/2301 of 8 October 2026 on the registration of the geographical indication Café Antigua (PGI) in the Union register of geographical indications pursuant to Regulation (EU) 2024/1143 of the European Parliament and of the Council",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2301",
+    "pubblicato": "2026-10-15T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-10-15T08:38:26.584104+00:00",
+    "processed": false
+  },
+  {
+    "id": "ff7baf663f178ca9",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32020R0359R(11)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32020R0359R(11)",
+    "pubblicato": "2026-10-15T00:00:00+02:00",
+    "summary_raw": "The corrigendum does not concern the English version.",
+    "fetched_at": "2026-10-15T08:38:26.584211+00:00",
+    "processed": false
+  },
+  {
+    "id": "6706a4535575d37f",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32014R0910R(13)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32014R0910R(13)",
+    "pubblicato": "2026-10-15T00:00:00+02:00",
+    "summary_raw": "The corrigendum does not concern the English version.",
+    "fetched_at": "2026-10-15T08:38:26.584317+00:00",
+    "processed": false
+  },
+  {
+    "id": "ca8c5c3ac7f02087",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R2280: Regulation (EU) 2026/2280 of the European Parliament and of the Council of 7 October 2026 establishing a common system for the return of third-country nationals staying illegally in the Union, and repealing Directive 2008/115/EC of the European Parliament and of the Council, Council Directive 2001/40/EC and Council Decision 2004/191/EC",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2280",
+    "pubblicato": "2026-10-15T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-10-15T08:38:26.584421+00:00",
+    "processed": false
+  },
+  {
+    "id": "bb69e741d4a56cbf",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R2302: Commission Implementing Regulation (EU) 2026/2302 of 8 October 2026 on the registration of the geographical indication Miel des Landes (PGI) in the Union register of geographical indications pursuant to Regulation (EU) 2024/1143 of the European Parliament and of the Council",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2302",
+    "pubblicato": "2026-10-15T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-10-15T08:38:26.584525+00:00",
+    "processed": false
+  },
+  {
+    "id": "213eb35b382e0bb2",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32018L0851R(07)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32018L0851R(07)",
+    "pubblicato": "2026-10-15T00:00:00+02:00",
+    "summary_raw": "The corrigendum does not concern the English version.",
+    "fetched_at": "2026-10-15T08:38:26.584627+00:00",
+    "processed": false
+  },
+  {
+    "id": "9950d22183522a91",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32017L2397R(03): Corrigendum to Directive (EU) 2017/2397 of the European Parliament and of the Council of 12 December 2017 on the recognition of professional qualifications in inland navigation and repealing Council Directives 91/672/EEC and 96/50/EC (OJ L 345, 27.12.2017)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32017L2397R(03)",
+    "pubblicato": "2026-10-15T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-10-15T08:38:26.584753+00:00",
+    "processed": false
+  },
+  {
+    "id": "c15d8057cfeb5ac0",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32019R1148R(05)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32019R1148R(05)",
+    "pubblicato": "2026-10-15T00:00:00+02:00",
+    "summary_raw": "The corrigendum does not concern the English version.",
+    "fetched_at": "2026-10-15T08:38:26.584857+00:00",
+    "processed": false
+  },
+  {
+    "id": "08008c19f4476b21",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32002L0056R(01)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32002L0056R(01)",
+    "pubblicato": "2026-10-15T00:00:00+02:00",
+    "summary_raw": "The corrigendum does not concern the English version.",
+    "fetched_at": "2026-10-15T08:38:26.584959+00:00",
+    "processed": false
+  },
+  {
+    "id": "ff0d4c0d92e0eb06",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R1563R(02)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1563R(02)",
+    "pubblicato": "2026-10-15T00:00:00+02:00",
+    "summary_raw": "The corrigendum does not concern the English version.",
+    "fetched_at": "2026-10-15T08:38:26.585063+00:00",
+    "processed": false
+  },
+  {
+    "id": "a7300d8904a168a6",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R2228: Commission Implementing Regulation (EU) 2026/2228 of 14 October 2026 amending Implementing Regulation (EU) 2021/405 as regards the lists of third countries or regions thereof authorised for the entry into the Union of consignments of certain animals and goods intended for human consumption in accordance with Regulation (EU) 2017/625 of the European Parliament and of the Council",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2228",
+    "pubblicato": "2026-10-15T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-10-15T08:38:26.585164+00:00",
+    "processed": false
+  },
+  {
+    "id": "68f4140c16b36c94",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R2290: Commission Implementing Regulation (EU) 2026/2290 of 8 October 2026 on the registration of the geographical indication Banski kestenov med (PDO) in the Union register of geographical indications pursuant to Regulation (EU) 2024/1143 of the European Parliament and of the Council",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2290",
+    "pubblicato": "2026-10-15T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-10-15T08:38:26.585261+00:00",
+    "processed": false
+  },
+  {
+    "id": "44e7f06aecb9dd6b",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R2307: Commission Implementing Regulation (EU) 2026/2307 of 8 October 2026 on the registration of the geographical indication Čepinski kupus (PDO) in the Union register of geographical indications pursuant to Regulation (EU) 2024/1143 of the European Parliament and of the Council",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2307",
+    "pubblicato": "2026-10-15T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-10-15T08:38:26.585359+00:00",
     "processed": false
   }
 ]

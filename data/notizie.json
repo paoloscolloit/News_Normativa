@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-14T09:19:51.419247+00:00",
-  "total": 66,
+  "last_updated": "2026-10-15T09:08:29.032261+00:00",
+  "total": 74,
   "items": [
     {
       "id": "75371b979d4100ed",
@@ -161,6 +161,165 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026B1626",
       "pubblicato": "2026-09-10T00:00:00+02:00",
       "processed_at": "2026-10-14T09:18:31.731238+00:00"
+    },
+    {
+      "id": "a131171f12b8ad44",
+      "titolo_popolare": "Approvazione del bilancio 2024 dell'agenzia ferroviaria UE",
+      "titolo_originale": "CELEX:32026B1639: Decision (EU) 2026/1639 of the European Parliament of 29 April 2026 on discharge in respect of the implementation of the budget of the European Union Agency for Railways for the financial year 2024",
+      "riassunto_esteso": "Il Parlamento europeo ha adottato una decisione che concede lo scarico, cioè l'approvazione, dell'attuazione del bilancio dell'Agenzia ferroviaria dell'Unione europea per l'anno finanziario 2024. Questo atto conferma che l'agenzia ha utilizzato le risorse assegnate in conformità con le regole UE e che non ci sono irregolarità significative da segnalare. La decisione è parte della procedura annuale di controllo democratico sui conti delle agenzie europee. Serve a garantire trasparenza e responsabilità nell'uso dei fondi pubblici dell'UE. Non introduce nuovi obblighi o diritti per i cittadini, ma chiude formalmente il ciclo di bilancio per quell'anno.",
+      "cosa_cambia": [],
+      "chi_interessa": "nessun cittadino direttamente",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "nessun impatto diretto sui cittadini; si tratta di un atto interno di controllo dei conti dell'UE.",
+      "data_vigenza": "dal 29 aprile 2026",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026B1639",
+      "pubblicato": "2026-09-10T00:00:00+02:00",
+      "processed_at": "2026-10-15T08:47:17.797360+00:00"
+    },
+    {
+      "id": "c76aa738711e4736",
+      "titolo_popolare": "Parlamento UE approva gestione bilancio agenzia educazione",
+      "titolo_originale": "CELEX:32026B1569: Decision (EU, Euratom) 2026/1569 of the European Parliament of 29 April 2026 on discharge in respect of the implementation of the budget of the European Education and Culture Executive Agency for the financial year 2024",
+      "riassunto_esteso": "Il Parlamento europeo ha adottato una decisione di discharge riguardo all'attuazione del bilancio dell'Agenzia esecutiva europea per l'istruzione e la cultura per l'anno finanziario 2024. Con questo atto, il Parlamento conferma che l'agenzia ha utilizzato le risorse assegnate in conformità alle regole UE, liberandola da eventuali responsabilità finanziarie per quel periodo. La decisione rientra nella procedura annuale di controllo del bilancio delle istituzioni europee. Non introduce nuovi obblighi o diritti per i cittadini, ma serve a garantire trasparenza e corretta gestione dei fondi UE. È un passaggio formale che chiude il ciclo di rendicontazione finanziaria per l'agenzia.",
+      "cosa_cambia": [
+        "nessuna modifica diretta per i cittadini"
+      ],
+      "chi_interessa": "nessun cittadino direttamente interessato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "nessun impatto concreto sui cittadini; si tratta di una procedura interna di verifica del bilancio UE.",
+      "data_vigenza": "in vigore dal 29 aprile 2026",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026B1569",
+      "pubblicato": "2026-09-10T00:00:00+02:00",
+      "processed_at": "2026-10-15T08:47:58.149356+00:00"
+    },
+    {
+      "id": "f15eda2017414137",
+      "titolo_popolare": "Parlamento UE approva gestione bilancio EPPO 2024",
+      "titolo_originale": "CELEX:52026BP1598: Resolution (EU) 2026/1598 of the European Parliament of 29 April 2026 with observations forming an integral part of the decision on discharge in respect of the implementation of the budget of the European Public Prosecutor’s Office for the financial year 2024",
+      "riassunto_esteso": "Il Parlamento europeo ha adottato una risoluzione che concede lo scarico (discharge) al bilancio dell'Ufficio europeo del pubblico ministero per l'anno finanziario 2024, approvando così come sono stati utilizzati i fondi assegnati. Nella stessa risoluzione sono incluse osservazioni sulle prestazioni dell'ufficio e suggerimenti per migliorare la gestione futura. Questo atto rientra nella procedura annuale di controllo del bilancio dell'UE, volta a garantire trasparenza e responsabilità nell'uso delle risorse comunitarie. Non introduce nuovi diritti o obblighi per i cittadini, ma serve a verificare che l'EPPO abbia operato correttamente. La risoluzione è parte integrante del processo di decisione sullo scarico del bilancio.",
+      "cosa_cambia": [
+        "Nessuna modifica diretta per i cittadini"
+      ],
+      "chi_interessa": "nessun cittadino in particolare",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "L'atto non cambia direttamente la vita dei cittadini, ma serve a verificare che l'Ufficio europeo del pubblico ministero abbia usato correttamente i fondi UE, aumentando la trasparenza.",
+      "data_vigenza": "in vigore dal 29 aprile 2026",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:52026BP1598",
+      "pubblicato": "2026-09-10T00:00:00+02:00",
+      "processed_at": "2026-10-15T08:48:23.647060+00:00"
+    },
+    {
+      "id": "710bcde30bcff8a8",
+      "titolo_popolare": "Approvazione del bilancio dell'idrogeno pulito 2024",
+      "titolo_originale": "CELEX:32026B1670: Decision (EU) 2026/1670 of the European Parliament of 29 April 2026 on discharge in respect of the implementation of the budget of the Clean Hydrogen Joint Undertaking for the financial year 2024",
+      "riassunto_esteso": "Il Parlamento europeo ha adottato una decisione di discharge riguardo all'esecuzione del bilancio della Clean Hydrogen Joint Undertaking per l'anno finanziario 2024. Con questo atto il Parlamento conferma che le spese sono state realizzate conformemente al budget approvato e rilascia il discharge agli organi responsabili. La decisione serve a garantire la trasparenza e la corretta gestione dei fondi UE destinati all'idrogeno pulito. Non introduce nuovi obblighi né diritti per i cittadini, ma chiude formalmente la procedura di controllo finanziario.",
+      "cosa_cambia": [
+        "Nessuna modifica diretta per i cittadini"
+      ],
+      "chi_interessa": "nessun cittadino in particolare",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "Non ha effetti diretti sui cittadini, ma conferma che i fondi UE per l'idrogeno sono stati usati correttamente, aumentando la fiducia nella gestione dei finanziamenti pubblici.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026B1670",
+      "pubblicato": "2026-09-10T00:00:00+02:00",
+      "processed_at": "2026-10-15T08:52:38.590296+00:00"
+    },
+    {
+      "id": "588bc588cfaef410",
+      "titolo_popolare": "Chiusura dei conti di un progetto UE sulle reti intelligenti",
+      "titolo_originale": "CELEX:32026B1689: Decision (EU) 2026/1689 of the European Parliament of 29 April 2026 on the closure of the accounts of the Smart Networks and Services Joint Undertaking for the financial year 2024",
+      "riassunto_esteso": "Il Parlamento europeo ha adottato una decisione che chiude ufficialmente i conti dello Smart Networks and Services Joint Undertaking relativo all'esercizio finanziario 2024. Questo atto serve a confermare che tutte le spese e le entrate del progetto sono state rendicontate correttamente. La chiusura dei conti è necessaria per garantire la trasparenza e la corretta gestione dei fondi europei assegnati all'iniziativa. Senza questa approvazione, il progetto non potrebbe considerarsi concluso dal punto di vista contabile. La decisione rientra nelle procedure ordinarie di controllo finanziario dell'Unione europea.",
+      "cosa_cambia": [
+        "nessuna modifica diretta per i cittadini"
+      ],
+      "chi_interessa": "nessun cittadino direttamente interessato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "nessun impatto diretto sui cittadini; serve a garantire la corretta gestione dei fondi UE e la trasparenza finanziaria.",
+      "data_vigenza": "in vigore dal 29 aprile 2026",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026B1689",
+      "pubblicato": "2026-09-10T00:00:00+02:00",
+      "processed_at": "2026-10-15T08:53:11.014976+00:00"
+    },
+    {
+      "id": "1f1c8dd9ee56ac4b",
+      "titolo_popolare": "Chiusura dei conti del Centro europeo formazione professionale 2024",
+      "titolo_originale": "CELEX:32026B1606: Decision (EU) 2026/1606 of the European Parliament of 29 April 2026 on the closure of the accounts of the European Centre for the Development of Vocational Training for the financial year 2024",
+      "riassunto_esteso": "Il Parlamento europeo ha adottato una decisione che chiude i conti del Centro europeo per lo sviluppo della formazione professionale (Cedefop) relativo all'esercizio finanziario 2024. Questo atto conferma che il bilancio dell'agenzia per quell'anno è stato completamente eseguito e sottoposto a controllo, con eventuali residui regolarmente chiusi. Si tratta di una procedura di routine prevista dalle norme finanziarie dell'UE per garantire trasparenza e responsabilità nella gestione dei fondi. Con la chiusura dei conti, il Cedefop può avviare il nuovo ciclo di bilancio senza ostacoli amministrativi. La decisione non crea nuovi diritti o obblighi per cittadini, imprese o lavoratori.",
+      "cosa_cambia": [
+        "Nessuna modifica diretta per cittadini, imprese o lavoratori"
+      ],
+      "chi_interessa": "nessun cittadino o impresa in particolare",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "Non produce effetti concreti sui cittadini; serve solo a garantire la trasparenza interna dell'UE nelle sue agenzie.",
+      "data_vigenza": "in vigore dal 29 aprile 2026",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026B1606",
+      "pubblicato": "2026-09-10T00:00:00+02:00",
+      "processed_at": "2026-10-15T08:56:50.818634+00:00"
+    },
+    {
+      "id": "d7cc3efda7c3860c",
+      "titolo_popolare": "Approvazione del bilancio 2024 dell'Istituto europeo per l'uguaglianza di genere",
+      "titolo_originale": "CELEX:32026B1624: Decision (EU) 2026/1624 of the European Parliament of 29 April 2026 on the closure of the accounts of the European Institute for Gender Equality for the financial year 2024",
+      "riassunto_esteso": "Il Parlamento europeo ha adottato una decisione che chiude ufficialmente i conti dell'Istituto per l'uguaglianza di genere relativo all'esercizio finanziario 2024. Con questo atto si conferma che le risorse assegnate all'Istituto sono state utilizzate correttamente e secondo le norme UE. La decisione serve a garantire trasparenza e responsabilità nella gestione dei fondi pubblici a livello europeo. Essa rientra nelle procedure ordinarie di controllo di bilancio delle istituzioni comunitarie.",
+      "cosa_cambia": [
+        "Nessuna modifica diretta per i cittadini"
+      ],
+      "chi_interessa": "Istituzioni europee (Parlamento europeo e Istituto per l'uguaglianza di genere)",
+      "cosa_devi_fare": "Nessuna azione richiesta",
+      "impatto": "Conferma la corretta gestione dei fondi UE per l'uguaglianza di genere, aumentando la trasparenza verso i cittadini e le istituzioni.",
+      "data_vigenza": "in vigore dal 29 aprile 2026",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026B1624",
+      "pubblicato": "2026-09-10T00:00:00+02:00",
+      "processed_at": "2026-10-15T08:57:53.527760+00:00"
+    },
+    {
+      "id": "b8834a76a6d30ba3",
+      "titolo_popolare": "Approvazione dei conti del Centro europeo per la prevenzione delle malattie",
+      "titolo_originale": "CELEX:32026B1614: Decision (EU) 2026/1614 of the European Parliament of 29 April 2026 on the closure of the accounts of the European Centre for Disease Prevention and Control for the financial year 2024",
+      "riassunto_esteso": "Il Parlamento europeo ha approvato la chiusura dei conti del Centro europeo per la prevenzione e il controllo delle malattie (ECDC) relativo all'esercizio finanziario 2024. Con questa decisione viene confermato che le spese dell'agenzia hanno rispettato il budget previsto e che tutte le operazioni finanziarie sono state regolari. L'atto fa parte della procedura ordinaria di controllo dei conti delle istituzioni UE, volta a garantire trasparenza e corretto uso dei fondi pubblici. Con la chiusura dei conti, il Parlamento dà formalmente scarico alla direzione dell'ECDC, sollevandola da responsabilità finanziarie per quell'anno. La decisione non introduce nuovi obblighi per cittadini o imprese, ma rafforza la fiducia nella gestione finanziaria delle agenzie europee della salute.",
+      "cosa_cambia": [
+        "Nessuna modifica diretta per i cittadini",
+        "Nessun nuovo obbligo per le imprese"
+      ],
+      "chi_interessa": "nessun cittadino o impresa direttamente interessato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "Rafforza la trasparenza dei conti dell'agenzia europea della salute, aumentando la fiducia nell'uso dei fondi UE.",
+      "data_vigenza": "in vigore dal 29 aprile 2026",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026B1614",
+      "pubblicato": "2026-09-10T00:00:00+02:00",
+      "processed_at": "2026-10-15T09:08:21.609377+00:00"
     },
     {
       "id": "660290b0b8cd7dda",
