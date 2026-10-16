@@ -1,173 +1,5 @@
 [
   {
-    "id": "75371b979d4100ed",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026B1617: Decision (EU) 2026/1617 of the European Parliament of 29 April 2026 on discharge in respect of the implementation of the budget of the European Environment Agency for the financial year 2024",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026B1617",
-    "pubblicato": "2026-09-10T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-09-10T08:27:17.548953+00:00",
-    "processed": true
-  },
-  {
-    "id": "7d781bd32e8d3da9",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026B1620: Decision (EU) 2026/1620 of the European Parliament of 29 April 2026 on the closure of the accounts of the European Fisheries Control Agency for the financial year 2024",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026B1620",
-    "pubblicato": "2026-09-10T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-09-10T08:27:17.549062+00:00",
-    "processed": false
-  },
-  {
-    "id": "3ed7d0479fe3c087",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026B1648: Decision (EU) 2026/1648 of the European Parliament of 29 April 2026 on the closure of the accounts of European Union Agency for Asylum for the financial year 2024",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026B1648",
-    "pubblicato": "2026-09-10T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-09-10T08:27:17.549167+00:00",
-    "processed": false
-  },
-  {
-    "id": "31705b4d8c5643a3",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026B1567: Decision (EU, Euratom) 2026/1567 of the European Parliament of 29 April 2026 on discharge in respect of the implementation of the general budget of the European Union for the financial year 2024, Section III – Commission and executive agencies and the ninth, tenth and eleventh European Development Funds",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026B1567",
-    "pubblicato": "2026-09-10T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-09-10T08:27:17.549294+00:00",
-    "processed": false
-  },
-  {
-    "id": "c11526a47586d196",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026B1676: Decision (EU) 2026/1676 of the European Parliament of 29 April 2026 on discharge in respect of the implementation of the budget of the European High Performance Computing Joint Undertaking for the financial year 2024",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026B1676",
-    "pubblicato": "2026-09-10T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-09-10T08:27:17.549407+00:00",
-    "processed": false
-  },
-  {
-    "id": "dc315247babb2728",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026B1672: Decision (EU) 2026/1672 of the European Parliament of 29 April 2026 on discharge in respect of the implementation of the budget of the Europe’s Rail Joint Undertaking for the financial year 2024",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026B1672",
-    "pubblicato": "2026-09-10T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-09-10T08:27:17.549520+00:00",
-    "processed": true
-  },
-  {
-    "id": "ba2c811fde7305d3",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026B1570: Decision (EU, Euratom) 2026/1570 of the European Parliament of 29 April 2026 on discharge in respect of the implementation of the budget of the European Innovation Council and SMEs Executive Agency for the financial year 2024",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026B1570",
-    "pubblicato": "2026-09-10T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-09-10T08:27:17.549621+00:00",
-    "processed": false
-  },
-  {
-    "id": "eaa08ca3f456e739",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026B1669: Decision (EU) 2026/1669 of the European Parliament of 29 April 2026 on the closure of the accounts of the Circular Bio-based Europe Joint Undertaking for the financial year 2024",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026B1669",
-    "pubblicato": "2026-09-10T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-09-10T08:27:17.549719+00:00",
-    "processed": true
-  },
-  {
-    "id": "f0a2aa9ba53ec2fd",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026B1657: Decision (EU) 2026/1657 of the European Parliament of 29 April 2026 on discharge in respect of the implementation of the budget of the European Union Agency for Law Enforcement Cooperation for the financial year 2024",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026B1657",
-    "pubblicato": "2026-09-10T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-09-10T08:27:17.549816+00:00",
-    "processed": true
-  },
-  {
-    "id": "ae253fb50a3f71e8",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026B1571: Decision (EU, Euratom) 2026/1571 of the European Parliament of 29 April 2026 on discharge in respect of the implementation of the budget of the European Research Council Executive Agency for the financial year 2024",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026B1571",
-    "pubblicato": "2026-09-10T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-09-10T08:27:17.549913+00:00",
-    "processed": true
-  },
-  {
-    "id": "f8ba6f0c85fd05ab",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026B1685: Decision (EU) 2026/1685 of the European Parliament of 29 April 2026 on the closure of the accounts of the Chips Joint Undertaking for the financial year 2024",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026B1685",
-    "pubblicato": "2026-09-10T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-09-10T08:27:17.550009+00:00",
-    "processed": false
-  },
-  {
-    "id": "4505015e2501e0ef",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026B1627: Decision (EU) 2026/1627 of the European Parliament of 29 April 2026 on discharge in respect of the implementation of the budget of the European Institute of Innovation and Technology for the financial year 2024",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026B1627",
-    "pubblicato": "2026-09-10T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-09-10T08:27:17.550106+00:00",
-    "processed": true
-  },
-  {
-    "id": "f87507ce38f255f3",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026B1600: Decision (EU) 2026/1600 of the European Parliament of 29 April 2026 on the closure of the accounts of the European Union Agency for the Cooperation of Energy Regulators for the financial year 2024",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026B1600",
-    "pubblicato": "2026-09-10T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-09-10T08:27:17.550201+00:00",
-    "processed": true
-  },
-  {
-    "id": "0c63602ed6403177",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026B1626: Decision (EU) 2026/1626 of the European Parliament of 29 April 2026 on the closure of the accounts of the European Insurance and Occupational Pensions Authority for the financial year 2024",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026B1626",
-    "pubblicato": "2026-09-10T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-09-10T08:27:17.550321+00:00",
-    "processed": true
-  },
-  {
     "id": "40652faccca30892",
     "source_id": "eurlex_oj_l",
     "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
@@ -261,7 +93,7 @@
     "pubblicato": "2026-09-10T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-09-10T08:27:17.551095+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "710bcde30bcff8a8",
@@ -321,7 +153,7 @@
     "pubblicato": "2026-09-10T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-09-10T08:27:17.551602+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "1f1c8dd9ee56ac4b",
@@ -357,7 +189,7 @@
     "pubblicato": "2026-09-10T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-09-10T08:27:17.551881+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "d36d4202a261051d",
@@ -369,7 +201,7 @@
     "pubblicato": "2026-09-10T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-09-10T08:27:17.551973+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "f7f0e51ffb59a080",
@@ -381,7 +213,7 @@
     "pubblicato": "2026-09-10T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-09-10T08:27:17.552065+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "b477058fa23a476d",
@@ -417,7 +249,7 @@
     "pubblicato": "2026-09-10T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-09-10T08:27:17.552370+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "8bdf44048b074335",
@@ -561,7 +393,7 @@
     "pubblicato": "2026-09-10T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-09-10T08:27:17.553541+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "71ceb239b386123d",
@@ -573,7 +405,7 @@
     "pubblicato": "2026-09-10T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-09-10T08:27:17.553637+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "56e2a1105b6c1768",
@@ -5997,6 +5829,174 @@
     "pubblicato": "2026-10-15T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-10-15T08:38:26.585359+00:00",
+    "processed": false
+  },
+  {
+    "id": "c2329c96b3104157",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R2299: Commission Regulation (EU) 2026/2299 of 15 October 2026 amending Annexes II and III to Regulation (EC) No 396/2005 of the European Parliament and of the Council as regards maximum residue levels for difenoconazole in or on certain products",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2299",
+    "pubblicato": "2026-10-16T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-10-16T08:33:24.097168+00:00",
+    "processed": false
+  },
+  {
+    "id": "3b0f949182782d51",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32018L2001R(14)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32018L2001R(14)",
+    "pubblicato": "2026-10-16T00:00:00+02:00",
+    "summary_raw": "The corrigendum does not concern the English version.",
+    "fetched_at": "2026-10-16T08:33:24.097259+00:00",
+    "processed": false
+  },
+  {
+    "id": "034fd07ff28f92d0",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D2316: Commission Implementing Decision (EU) 2026/2316 of 15 October 2026 on the recognition of the Roundtable on Sustainable Biomaterials (RSB) EU RED voluntary scheme for demonstrating compliance with the requirements for biofuels, bioliquids, biomass fuels, renewable fuels of non-biological origin and recycled carbon fuels set out in Directive (EU) 2018/2001 of the European Parliament and of the Council, and repealing Commission Implementing Decision (EU) 2022/607",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2316",
+    "pubblicato": "2026-10-16T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-10-16T08:33:24.097330+00:00",
+    "processed": false
+  },
+  {
+    "id": "5c620975795dd3a6",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D2321: Commission Implementing Decision (EU) 2026/2321 of 14 October 2026 amending Implementing Decision (EU) 2026/1108 concerning certain emergency measures relating to sheep pox and goat pox in Romania (notified under document C(2026) 7327)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2321",
+    "pubblicato": "2026-10-16T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-10-16T08:33:24.097409+00:00",
+    "processed": false
+  },
+  {
+    "id": "f90ca3c721e58e41",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D2260: Commission Implementing Decision (EU) 2026/2260 of 8 October 2026 laying down rules for the application of Directive 2010/75/EU of the European Parliament and of the Council as regards uniform conditions for operating rules for rearing of poultry and pigs (notified under document C(2026) 6899)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2260",
+    "pubblicato": "2026-10-16T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-10-16T08:33:24.097473+00:00",
+    "processed": false
+  },
+  {
+    "id": "ce868d9225bab652",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D2308: Commission Implementing Decision (EU) 2026/2308 of 6 October 2026 on the request for registration, pursuant to Regulation (EU) 2019/788 of the European Parliament and of the Council, of the European citizens’ initiative entitled Creation of a European Digital Space (.IA) for Sovereign AI Governance (notified under document C(2026) 7098)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2308",
+    "pubblicato": "2026-10-16T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-10-16T08:33:24.097535+00:00",
+    "processed": false
+  },
+  {
+    "id": "359a6b029f155d06",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D2331: Political and Security Committee Decision (CFSP) 2026/2331 of 13 October 2026 on the appointment of the Head of the Civilian Pillar of the European Union Support Mission in Lebanon (EUSM Lebanon) (EUSM Lebanon/1/2026)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2331",
+    "pubblicato": "2026-10-16T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-10-16T08:33:24.097593+00:00",
+    "processed": false
+  },
+  {
+    "id": "f92af85f9303bd5b",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32000L0078R(08)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32000L0078R(08)",
+    "pubblicato": "2026-10-16T00:00:00+02:00",
+    "summary_raw": "The corrigendum does not concern the English version.",
+    "fetched_at": "2026-10-16T08:33:24.097654+00:00",
+    "processed": false
+  },
+  {
+    "id": "2e92da9f518293eb",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R2289: Commission Regulation (EU) 2026/2289 of 15 October 2026 amending Annex II to Regulation (EC) No 396/2005 of the European Parliament and of the Council as regards maximum residue levels for acequinocyl, deltamethrin, dodine, maleic hydrazide, pinoxaden and prothioconazole in or on certain products",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2289",
+    "pubblicato": "2026-10-16T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-10-16T08:33:24.097713+00:00",
+    "processed": false
+  },
+  {
+    "id": "ba905c2f3d642695",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32025L0001R(01)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32025L0001R(01)",
+    "pubblicato": "2026-10-16T00:00:00+02:00",
+    "summary_raw": "The corrigendum does not concern the English version.",
+    "fetched_at": "2026-10-16T08:33:24.097770+00:00",
+    "processed": false
+  },
+  {
+    "id": "888eae4b5b8d174d",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R2270: Commission Implementing Regulation (EU) 2026/2270 of 15 October 2026 amending Implementing Regulation (EU) 2025/2351 imposing a definitive safeguard measure with regard to imports of certain ferro-alloying elements",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2270",
+    "pubblicato": "2026-10-16T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-10-16T08:33:24.097824+00:00",
+    "processed": false
+  },
+  {
+    "id": "c6d7f72149a95694",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R1383R(01):            Berichtigung der Verordnung (EU) 2026/1383 der Kommission vom 22. Juni 2026 zur Änderung der Verordnung (EG) Nr. 338/97 des Rates zur Berücksichtigung der auf der 20. Tagung der Konferenz der Vertragsparteien angenommenen Änderungen des Übereinkommens über den internationalen Handel mit gefährdeten Arten frei lebender Tiere und Pflanzen (CITES) und anderer von der Wissenschaftlichen Prüfgruppe vereinbarter Änderungen (ABl. L, 2026/1383, 26.6.2026)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1383R(01)",
+    "pubblicato": "2026-10-16T00:00:00+02:00",
+    "summary_raw": "The corrigendum does not concern the English version.",
+    "fetched_at": "2026-10-16T08:33:24.097883+00:00",
+    "processed": false
+  },
+  {
+    "id": "09fdd37aa27ab83d",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D2320: Political and Security Committee Decision (CFSP) 2026/2320 of 13 October 2026 on the appointment of the Head of the Civilian Command and Support Cell of the European Union Security and Defence Initiative in support of West African countries of the Gulf of Guinea (EUSDI Gulf of Guinea) (EUSDI/2/2026)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2320",
+    "pubblicato": "2026-10-16T00:00:00+02:00",
+    "summary_raw": "",
+    "fetched_at": "2026-10-16T08:33:24.097940+00:00",
+    "processed": false
+  },
+  {
+    "id": "5240d2c23ea29c80",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32009R0703R(01)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32009R0703R(01)",
+    "pubblicato": "2026-10-16T00:00:00+02:00",
+    "summary_raw": "The corrigendum does not concern the English version.",
+    "fetched_at": "2026-10-16T08:33:24.097996+00:00",
     "processed": false
   }
 ]
