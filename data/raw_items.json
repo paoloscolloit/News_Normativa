@@ -9,7 +9,7 @@
     "pubblicato": "2026-09-10T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-09-10T08:27:17.550421+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "a131171f12b8ad44",
@@ -57,7 +57,7 @@
     "pubblicato": "2026-09-10T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-09-10T08:27:17.550805+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "a76a05a1b16b8365",
@@ -81,7 +81,7 @@
     "pubblicato": "2026-09-10T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-09-10T08:27:17.550997+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "a737fac226fc7425",
@@ -357,7 +357,7 @@
     "pubblicato": "2026-09-10T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-09-10T08:27:17.553227+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "692d26dd9dc7daa5",
@@ -381,7 +381,7 @@
     "pubblicato": "2026-09-10T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-09-10T08:27:17.553442+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "fca72db47509545d",

@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-16T09:03:17.202101+00:00",
-  "total": 81,
+  "last_updated": "2026-10-17T08:29:17.441229+00:00",
+  "total": 83,
   "items": [
     {
       "id": "75371b979d4100ed",
@@ -480,6 +480,106 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026B1682",
       "pubblicato": "2026-09-10T00:00:00+02:00",
       "processed_at": "2026-10-16T08:57:57.286049+00:00"
+    },
+    {
+      "id": "40652faccca30892",
+      "titolo_popolare": "Approvazione del bilancio 2024 dell'Istituto europeo per l'uguaglianza di genere",
+      "titolo_originale": "CELEX:32026B1623: Decision (EU) 2026/1623 of the European Parliament of 29 April 2026 on discharge in respect of the implementation of the budget of the European Institute for Gender Equality for the financial year 2024",
+      "riassunto_esteso": "Il Parlamento europeo ha adottato una decisione che concede lo scarico (discharge) al bilancio dell'Istituto europeo per l'uguaglianza di genere relativo all'anno finanziario 2024. Con questo atto il Parlamento conferma che le risorse sono state utilizzate correttamente e in conformità alle regole UE. Lo scarico è una procedura formale che libera i responsabili dell'esecuzione di qualsiasi responsabilità finanziaria per quell'anno. La decisione non introduce nuove norme né obblighi per i cittadini, ma serve a chiudere il ciclo contabile dell'istituto. È stata pubblicata nella Gazzetta ufficiale dell'Unione europea il 29 aprile 2026.",
+      "cosa_cambia": [
+        "nessuna modifica diretta per i cittadini"
+      ],
+      "chi_interessa": "nessun impatto diretto sui cittadini",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "L'atto non produce effetti concreti sulle persone; è un procedimento interno dell'UE per chiudere il bilancio dell'istituto.",
+      "data_vigenza": "dal 29 aprile 2026",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026B1623",
+      "pubblicato": "2026-09-10T00:00:00+02:00",
+      "processed_at": "2026-10-17T08:05:50.005948+00:00"
+    },
+    {
+      "id": "8191c855734314fe",
+      "titolo_popolare": "Chiusura dei conti dell'agenzia UE sui diritti fondamentali",
+      "titolo_originale": "CELEX:32026B1662: Decision (EU) 2026/1662 of the European Parliament of 29 April 2026 on the closure of the accounts of the European Union Agency for Fundamental Rights for the financial year 2024",
+      "riassunto_esteso": "Il Parlamento europeo ha adottato la decisione di chiudere i conti dell'Agenzia dell'Unione europea per i diritti fondamentali relativa all'esercizio finanziario 2024. Questo atto formalmente approva la gestione finanziaria dell'agenzia per quell'anno, confermando che le spese e le entrate sono state rendicontate correttamente. Si tratta di una procedura di routine prevista dal regolamento finanziario dell'UE, necessaria per garantire trasparenza e corretta utilizzazione dei fondi pubblici. La decisione non crea nuovi diritti o obblighi per i cittadini, ma serve a chiudere il ciclo contabile dell'agenzia. Viene adottata per rispettare le norme UE sulla responsabilità finanziaria e fornire un quadro chiaro agli organi di controllo e ai contribuenti.",
+      "cosa_cambia": [
+        "Nessuna modifica diretta nei diritti o negli obblighi dei cittadini"
+      ],
+      "chi_interessa": "nessun gruppo specifico di cittadini; riguarda principalmente le istituzioni UE e l'agenzia stessa",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "L'atto non ha effetti concreti sulla vita quotidiana delle persone; serve solo a garantire la corretta gestione finanziaria dell'agenzia UE.",
+      "data_vigenza": "in vigore dal 29 aprile 2026",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026B1662",
+      "pubblicato": "2026-09-10T00:00:00+02:00",
+      "processed_at": "2026-10-17T08:06:42.930734+00:00"
+    },
+    {
+      "id": "4087c28270b8a783",
+      "titolo_popolare": "Chiusura dei conti dell'agenzia UE per IT sicurezza",
+      "titolo_originale": "CELEX:32026B1650: Decision (EU) 2026/1650 of the European Parliament of 29 April 2026 on the closure of the accounts of the European Union Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice for the financial year 2024",
+      "riassunto_esteso": "Il Parlamento europeo ha adottato la decisione di chiudere i conti dell'agenzia che gestisce i grandi sistemi informatici nel settore della libertà, sicurezza e giustizia per l'esercizio finanziario 2024. Questo atto fa parte della procedura annuale di verifica che le spese dell'agenzia corrispondano al budget approvato e di scarico della responsabilità finanziaria. La chiusura conferma che tutte le entrate e le uscite sono state correttamente registrate e che eventuali discrepanze sono state risolte. Con questa decisione il Parlamento garantisce trasparenza e responsabilità nell'uso dei fondi UE. L'atto non introduce nuovi obblighi per cittadini o imprese, essendo principalmente un provvedimento amministrativo interno. È stato adottato il 29 aprile 2026 e diventa efficace dopo la pubblicazione nella Gazzetta ufficiale dell'Unione europea.",
+      "cosa_cambia": [
+        "Nessuna modifica diretta per cittadini o imprese"
+      ],
+      "chi_interessa": "nessun cittadino o impresa in particolare",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "Nessun impatto diretto sui cittadini; l'atto serve solo a garantire la corretta gestione interna dei fondi UE.",
+      "data_vigenza": "in vigore da subito dopo la pubblicazione in Gazzetta UE",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026B1650",
+      "pubblicato": "2026-09-10T00:00:00+02:00",
+      "processed_at": "2026-10-17T08:08:02.555066+00:00"
+    },
+    {
+      "id": "c8fdca038477290b",
+      "titolo_popolare": "Approvazione del bilancio 2024 dell'Ufficio europeo del pubblico ministero",
+      "titolo_originale": "CELEX:32026B1597: Decision (EU) 2026/1597 of the European Parliament of 29 April 2026 on the closure of the accounts of the European Public Prosecutor’s Office for the financial year 2024",
+      "riassunto_esteso": "La decisione del Parlamento europeo del 29 aprile 2026 chiude formalmente i conti dell'European Public Prosecutor’s Office (EPPO) relativi all'esercizio finanziario 2024. Con questo atto il Parlamento dà formalmente discharge, cioè approva l'uso dei fondi UE da parte dell'EPPO per quell'anno. La chiusura dei conti è un passaggio necessario per garantire la trasparenza e la corretta gestione delle risorse pubbliche a livello europeo. La decisione rientra nella procedura di controllo democratico sul bilancio delle istituzioni UE.",
+      "cosa_cambia": [
+        "Nessuna modifica diretta per i cittadini"
+      ],
+      "chi_interessa": "nessun cittadino in particolare",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "Garantisce la trasparenza dell'uso dei fondi UE dell'EPPO, aumentando la fiducia nelle istituzioni europee. Non produce effetti concreti sulla vita quotidiana delle persone.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026B1597",
+      "pubblicato": "2026-09-10T00:00:00+02:00",
+      "processed_at": "2026-10-17T08:19:14.503289+00:00"
+    },
+    {
+      "id": "c1b06f2dabf0e3b3",
+      "titolo_popolare": "Chiusura dei conti dell'Autorità europea del lavoro 2024",
+      "titolo_originale": "CELEX:32026B1630: Decision (EU) 2026/1630 of the European Parliament of 29 April 2026 on the closure of the accounts of the European Labour Authority for the financial year 2024",
+      "riassunto_esteso": "Il Parlamento europeo ha adottato una decisione che chiude ufficialmente i conti dell'Autorità europea del lavoro per l'anno finanziario 2024. Questo atto conferma che la gestione finanziaria dell'agenzia per quel periodo è stata corretta e completa, secondo le norme UE sul controllo di bilancio. Si tratta di una procedura di routine necessaria per garantire la trasparenza e la responsabilità delle agenzie europee. Con la chiusura dei conti, l'autorità può passare al prossimo esercizio finanziario senza ostacoli amministrativi. La decisione non crea nuovi diritti o obblighi per cittadini o imprese, essendo principalmente un atto interno di controllo.",
+      "cosa_cambia": [
+        "nessuna modifica diretta per i cittadini"
+      ],
+      "chi_interessa": "nessun gruppo specifico di cittadini",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "nessun impatto concreto sui cittadini; si tratta di un atto interno di controllo finanziario dell'UE.",
+      "data_vigenza": "in vigore dal 29 aprile 2026",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026B1630",
+      "pubblicato": "2026-09-10T00:00:00+02:00",
+      "processed_at": "2026-10-17T08:20:57.611077+00:00"
     },
     {
       "id": "660290b0b8cd7dda",
@@ -1573,66 +1673,6 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690705",
       "pubblicato": "2026-08-19T00:00:00+02:00",
       "processed_at": "2026-10-02T10:20:13.475649+00:00"
-    },
-    {
-      "id": "688590ae69628d7c",
-      "titolo_popolare": "Documento europeo non specificato",
-      "titolo_originale": "OJ:L_202690704",
-      "riassunto_esteso": "Il documento indicato nella fonte non è disponibile in lingua inglese e non fornisce dettagli sul suo contenuto. Pertanto non è possibile descrivere precisamente le disposizioni che contiene né le motivazioni che hanno portato alla sua adozione. Si tratta probabilmente di un atto normativo dell'Unione Europea pubblicato nella Gazzetta Ufficiale, serie L, ma senza ulteriori informazioni non si può sapere a quale materia si riferisca. Per questo motivo la spiegazione rimane generica e basata sulle sole informazioni reperibili.",
-      "cosa_cambia": [
-        "non specificato"
-      ],
-      "chi_interessa": "non specificato",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "non specificato",
-      "data_vigenza": "non specificato",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690704",
-      "pubblicato": "2026-08-18T00:00:00+02:00",
-      "processed_at": "2026-10-01T10:42:00.820684+00:00"
-    },
-    {
-      "id": "f799b6278676b5c0",
-      "titolo_popolare": "Atto dell'Unione Europea non meglio specificato",
-      "titolo_originale": "OJ:L_202690698",
-      "riassunto_esteso": "L'atto è stato pubblicato nella Gazzetta ufficiale dell'Unione europea, serie L, con il numero OJ:L_202690698. Purtroppo il testo completo non è disponibile in inglese e non è possibile consultarne i dettagli direttamente. Non essendo noto il contenuto preciso, non si possono descrivere le disposizioni specifiche che introduce né le motivazioni che hanno portato alla sua adozione. Si tratta comunque di un atto normativo europeo che, una volta entrato in vigore, produce effetti giuridici negli Stati membri.",
-      "cosa_cambia": [
-        "non specificato"
-      ],
-      "chi_interessa": "non specificato",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "non specificato",
-      "data_vigenza": "non specificato",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690698",
-      "pubblicato": "2026-08-18T00:00:00+02:00",
-      "processed_at": "2026-10-01T10:43:06.431015+00:00"
-    },
-    {
-      "id": "2a5bdd7707384daa",
-      "titolo_popolare": "Atto normativo non disponibile",
-      "titolo_originale": "OJ:L_202690699",
-      "riassunto_esteso": "Il documento indicato nella fonte non risulta disponibile in lingua inglese e non è possibile consultarne il contenuto diretto. Pertanto non si possono descrivere con precisione le disposizioni che contiene né gli obiettivi che ha perseguito. Si tratta probabilmente di un atto dell'Unione Europea pubblicato nella Gazzetta Ufficiale UE, serie L, ma senza ulteriori dettagli non è possibile sapere a quale settore si riferisca. Per comprendere il suo impatto sarebbe necessario reperire il testo originale o una traduzione affidabile.",
-      "cosa_cambia": [
-        "non specificato"
-      ],
-      "chi_interessa": "non specificato",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "non specificato",
-      "data_vigenza": "non specificato",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690699",
-      "pubblicato": "2026-08-18T00:00:00+02:00",
-      "processed_at": "2026-10-01T10:43:35.096788+00:00"
     },
     {
       "id": "bb68323283680c7d",
