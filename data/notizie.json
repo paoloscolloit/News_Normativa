@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-17T08:29:17.441229+00:00",
-  "total": 83,
+  "last_updated": "2026-10-18T08:48:20.443880+00:00",
+  "total": 86,
   "items": [
     {
       "id": "75371b979d4100ed",
@@ -580,6 +580,106 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026B1630",
       "pubblicato": "2026-09-10T00:00:00+02:00",
       "processed_at": "2026-10-17T08:20:57.611077+00:00"
+    },
+    {
+      "id": "350cc7c37122d0b4",
+      "titolo_popolare": "Approvazione del bilancio 2024 di Eurofound",
+      "titolo_originale": "CELEX:32026B1653: Decision (EU) 2026/1653 of the European Parliament of 29 April 2026 on discharge in respect of the implementation of the budget of the European Foundation for the Improvement of Living and Working Conditions for the financial year 2024",
+      "riassunto_esteso": "Il Parlamento europeo ha adottato una decisione che concede lo scarico (discharge) riguardo all'esecuzione del bilancio della Fondazione europea per il miglioramento delle condizioni di vita e di lavoro (Eurofound) per l'anno finanziario 2024. Questo atto conferma che le risorse sono state utilizzate correttamente e in conformità alle norme europee. Lo scarico è una procedura routinaria che serve a verificare la trasparenza e la responsabilità nella gestione dei fondi UE. Con questa decisione il Parlamento chiude formalmente il controllo sul bilancio di Eurofound per il 2024.",
+      "cosa_cambia": [
+        "nessuna modifica diretta per i cittadini"
+      ],
+      "chi_interessa": "nessun cittadino, riguarda solo le istituzioni europee (Parlamento europeo e Eurofound)",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "Non ci sono effetti concreti sui cittadini; la decisione serve a garantire la trasparenza e la corretta gestione dei fondi europei.",
+      "data_vigenza": "in vigore dal 29 aprile 2026",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026B1653",
+      "pubblicato": "2026-09-10T00:00:00+02:00",
+      "processed_at": "2026-10-18T08:24:23.228275+00:00"
+    },
+    {
+      "id": "6577a0bf768984be",
+      "titolo_popolare": "Parlamento UE approva gestione bilancio Agenzia sicurezza marittima",
+      "titolo_originale": "CELEX:32026B1635: Decision (EU) 2026/1635 of the European Parliament of 29 April 2026 on discharge in respect of the implementation of the budget of the European Maritime Safety Agency for the financial year 2024",
+      "riassunto_esteso": "Il Parlamento europeo ha adottato una decisione che concede lo scarico (discharge) all'Agenzia europea per la sicurezza marittima (EMSA) per l'esecuzione del suo bilancio relativo all'anno finanziario 2024. Questo atto conferma che l'agenzia ha utilizzato i fondi UE in modo corretto e conforme alle norme finanziarie dell'Unione. Lo scarico è un passaggio formale del controllo di bilancio, che segue le relazioni della Corte dei conti europea e le relative raccomandazioni. Concedendo lo scarico, il Parlamento manifesta fiducia nella gestione finanziaria dell'agenzia e chiude il ciclo contabile dell'anno 2024, permettendo all'agenzia di proseguire con il bilancio successivo. La decisione non introduce nuovi obblighi o diritti per cittadini o imprese.",
+      "cosa_cambia": [
+        "nessuna modifica diretta per i cittadini o le imprese"
+      ],
+      "chi_interessa": "nessun cittadino o impresa in particolare",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "Non ci sono effetti concreti sui cittadini; l'atto serve solo a confermare la corretta gestione dei fondi UE dell'agenzia.",
+      "data_vigenza": "in vigore dal 29 aprile 2026",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026B1635",
+      "pubblicato": "2026-09-10T00:00:00+02:00",
+      "processed_at": "2026-10-18T08:33:12.666499+00:00"
+    },
+    {
+      "id": "3314d025f046583e",
+      "titolo_popolare": "Chiusura dei conti del centro traduzioni UE 2024",
+      "titolo_originale": "CELEX:32026B1604: Decision (EU) 2026/1604 of the European Parliament of 29 April 2026 on the closure of the accounts of the Translation Centre for the Bodies of the European Union for the financial year 2024",
+      "riassunto_esteso": "Il Parlamento europeo ha adottato una decisione che approva la chiusura dei conti del Translation Centre for the Bodies of the European Union relativo all'esercizio finanziario 2024. Questo atto conferma che le spese e le entrate del centro per quell'anno sono state regolarmente rendicontate e possono essere considerate chiuse. La decisione serve a garantire la trasparenza e la corretta gestione delle risorse finanziarie delle istituzioni europee. Non introduce nuovi obblighi o diritti per i cittadini, essendo un provvedimento interno amministrativo. Viene presa nell'ambito delle procedure di controllo di bilancio dell'UE.",
+      "cosa_cambia": [
+        "Nessuna modifica diretta per i cittadini"
+      ],
+      "chi_interessa": "Istituzioni dell'Unione europea",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "Nessun impatto diretto sui cittadini; serve solo a chiudere formalmente i conti del centro traduzioni UE per il 2024.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026B1604",
+      "pubblicato": "2026-09-10T00:00:00+02:00",
+      "processed_at": "2026-10-18T08:44:45.352658+00:00"
+    },
+    {
+      "id": "b71179b071191045",
+      "titolo_popolare": "Approvazione del bilancio dell'agenzia UE per l'asilo 2024",
+      "titolo_originale": "CELEX:32026B1647: Decision (EU) 2026/1647 of the European Parliament of 29 April 2026 on discharge in respect of the implementation of the budget of European Union Agency for Asylum for the financial year 2024",
+      "riassunto_esteso": "Il Parlamento europeo ha adottato una decisione che concede lo scarico (discharge) al bilancio dell'Agenzia europea per l'asilo relativo all'esercizio finanziario 2024. Con questo atto il Parlamento conferma, dopo le verifiche della Corte dei conti e delle relazioni di controllo, che l'agenzia ha utilizzato le risorse assegnate in conformità alle norme UE. Lo scarico è una procedura di responsabilità politica che serve a garantire trasparenza e corretta gestione dei fondi pubblici. La decisione è stata presa il 29 aprile 2026 e si basa sulle relazioni di audit che non hanno rilevato irregolarità significative. In pratica, nessun cittadino è direttamente coinvolto, ma l'atto rafforza il controllo democratico sull'uso dei soldi dell'Unione.",
+      "cosa_cambia": [
+        "Nessuna modifica diretta per i cittadini"
+      ],
+      "chi_interessa": "nessun gruppo specifico di cittadini",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "nessun impatto diretto sui cittadini; serve a garantire la trasparenza dell'uso dei fondi UE dell'agenzia per l'asilo.",
+      "data_vigenza": "in vigore dal 29 aprile 2026",
+      "categoria": "Altro",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026B1647",
+      "pubblicato": "2026-09-10T00:00:00+02:00",
+      "processed_at": "2026-10-18T08:45:58.355858+00:00"
+    },
+    {
+      "id": "a4ad6aa5065b343e",
+      "titolo_popolare": "Chiusura dei conti dell'agenzia UE sulla giustizia penale",
+      "titolo_originale": "CELEX:32026B1656: Decision (EU) 2026/1656 of the European Parliament of 29 April 2026 on the closure of the accounts of the European Union Agency for Criminal Justice Cooperation for the financial year 2024",
+      "riassunto_esteso": "Il Parlamento europeo ha adottato la decisione di chiudere i conti dell'agenzia UE per la cooperazione in materia di giustizia penale relativa all'esercizio finanziario 2024. Questo atto fa parte della procedura annuale di verifica e approvazione dei bilanci delle agenzie europee. Con la chiusura dei conti si conferma che tutte le entrate e le uscite sono state correttamente registrate e che eventuali discrepanze sono state risolte. Lo scopo è garantire la trasparenza e la corretta utilizzazione dei fondi pubblici dell'Unione. La decisione non introduce nuovi obblighi per cittadini o imprese.",
+      "cosa_cambia": [
+        "nessuna modifica diretta per i cittadini"
+      ],
+      "chi_interessa": "nessun cittadino o impresa direttamente interessato",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "L'atto non ha effetti concreti sulla vita quotidiana delle persone; serve solo a garantire la corretta gestione dei fondi UE dell'agenzia.",
+      "data_vigenza": "in vigore dal 29 aprile 2026",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026B1656",
+      "pubblicato": "2026-09-10T00:00:00+02:00",
+      "processed_at": "2026-10-18T08:47:17.580182+00:00"
     },
     {
       "id": "660290b0b8cd7dda",
@@ -1633,46 +1733,6 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690703",
       "pubblicato": "2026-08-20T00:00:00+02:00",
       "processed_at": "2026-10-02T10:21:59.694712+00:00"
-    },
-    {
-      "id": "73c80f55c5e5e10d",
-      "titolo_popolare": "Atto normativo non disponibile in lingua italiana",
-      "titolo_originale": "OJ:L_202690702",
-      "riassunto_esteso": "Il documento richiesto non è disponibile nella lingua richiesta, quindi non è possibile conoscere il suo contenuto preciso. Probabilmente si tratta di una norma UE pubblicata nella Gazzetta ufficiale, serie L, con il numero indicativo. Senza il testo ufficiale non si possono indicare gli effetti specifici né le motivazioni di adozione. Si consiglia di consultare la fonte originale EUR-Lex per verificare il contenuto e le eventuali disposizioni.",
-      "cosa_cambia": [
-        "Non specificato"
-      ],
-      "chi_interessa": "non specificato",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "non possibile valutare l'impatto concreto senza il testo del documento",
-      "data_vigenza": "non specificato",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690702",
-      "pubblicato": "2026-08-19T00:00:00+02:00",
-      "processed_at": "2026-10-01T10:45:02.367648+00:00"
-    },
-    {
-      "id": "05f4c915635be9af",
-      "titolo_popolare": "Atto europeo non disponibile in lingua italiana",
-      "titolo_originale": "OJ:L_202690705",
-      "riassunto_esteso": "Il documento indicato nella fonte non è reperibile in lingua inglese, quindi non è possibile conoscerne il contenuto preciso. Non avendo il testo completo, non si possono descrivere gli obblighi o le novità che introduce. Probabilmente si tratta di un atto di routine o di un atto ancora in fase di pubblicazione. In assenza di informazioni, si può solo affermare che non produce effetti immediati conosciuti dai cittadini.",
-      "cosa_cambia": [
-        "non specificato"
-      ],
-      "chi_interessa": "non specificato",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "non specificato",
-      "data_vigenza": "non specificato",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=OJ:L_202690705",
-      "pubblicato": "2026-08-19T00:00:00+02:00",
-      "processed_at": "2026-10-02T10:20:13.475649+00:00"
     },
     {
       "id": "bb68323283680c7d",
