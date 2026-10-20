@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-19T09:54:37.289752+00:00",
-  "total": 93,
+  "last_updated": "2026-10-20T09:01:38.613862+00:00",
+  "total": 96,
   "items": [
     {
       "id": "75371b979d4100ed",
@@ -863,6 +863,69 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026B1642",
       "pubblicato": "2026-09-10T00:00:00+02:00",
       "processed_at": "2026-10-19T09:53:55.529280+00:00"
+    },
+    {
+      "id": "bdf40c9d6faa29e3",
+      "titolo_popolare": "Approvazione dei conti 2024 per l'Agenzia UE sistemi IT sicurezza",
+      "titolo_originale": "CELEX:32026B1649: Decision (EU) 2026/1649 of the European Parliament of 29 April 2026 on discharge in respect of the implementation of the budget of the European Union Agency for the Operational Management of Large-Scale IT Systems in the Area of Freedom, Security and Justice for the financial year 2024",
+      "riassunto_esteso": "Il Parlamento Europeo ha esaminato e approvato la gestione del budget per l'anno 2024 di un'agenzia specifica che gestisce i grandi sistemi informatici per la libertà, la sicurezza e la giustizia. Questo processo, chiamato scarico, serve a verificare che i soldi pubblici siano stati spesi correttamente e secondo le regole stabilite. In pratica, l'Unione Europea conferma che l'agenzia ha gestito le proprie risorse in modo trasparente e legale. È un atto di controllo amministrativo standard che avviene ogni anno per tutte le agenzie europee. Questo garantisce che i fondi destinati alla sicurezza e alla giustizia siano stati utilizzati per gli scopi previsti.",
+      "cosa_cambia": [
+        "Viene formalmente approvato il bilancio dell'agenzia per l'anno 2024",
+        "L'agenzia riceve l'attestazione di aver gestito correttamente i fondi pubblici"
+      ],
+      "chi_interessa": "L'Agenzia UE per la gestione dei sistemi IT in ambito sicurezza e giustizia",
+      "cosa_devi_fare": "Nessuna azione richiesta per i cittadini.",
+      "impatto": "Garantisce maggiore trasparenza e controllo sull'uso dei soldi dei contribuenti a livello europeo.",
+      "data_vigenza": "In vigore da subito",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026B1649",
+      "pubblicato": "2026-09-10T00:00:00+02:00",
+      "processed_at": "2026-10-20T08:57:53.080184+00:00"
+    },
+    {
+      "id": "70f949d1d0c23471",
+      "titolo_popolare": "Chiusura bilancio 2024 per il fondo europeo salute globale EDCTP3",
+      "titolo_originale": "CELEX:32026B1681: Decision (EU) 2026/1681 of the European Parliament of 29 April 2026 on the closure of the accounts of the Global Health EDCTP3 Joint Undertaking for the financial year 2024",
+      "riassunto_esteso": "Il Parlamento Europeo ha approvato la chiusura ufficiale dei conti per l'anno finanziario 2024 di un organismo specifico chiamato EDCTP3. Questo ente si occupa di finanziare la ricerca per combattere le malattie infettive e migliorare la salute globale. L'atto rappresenta un passaggio amministrativo standard per confermare che i fondi siano stati gestiti correttamente. In pratica, l'Europa dichiara di aver verificato le spese e i ricavi dell'ente per quell'anno. Questo processo garantisce trasparenza sull'uso dei soldi dei contribuenti europei.",
+      "cosa_cambia": [
+        "Viene formalmente approvato il bilancio 2024 dell'ente EDCTP3",
+        "Si conclude l'iter di controllo contabile per l'anno di riferimento"
+      ],
+      "chi_interessa": "Amministratori dell'ente EDCTP3 e organi di controllo europei",
+      "cosa_devi_fare": "Nessuna azione richiesta per i cittadini.",
+      "impatto": "Garantisce la trasparenza finanziaria nell'uso dei fondi pubblici destinati alla ricerca sanitaria.",
+      "data_vigenza": "In vigore da subito",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026B1681",
+      "pubblicato": "2026-09-10T00:00:00+02:00",
+      "processed_at": "2026-10-20T08:59:13.292398+00:00"
+    },
+    {
+      "id": "f154dac56002b1b2",
+      "titolo_popolare": "Approvazione dei conti 2024 dell'Agenzia Frontex",
+      "titolo_originale": "CELEX:32026B1664: Decision (EU) 2026/1664 of the European Parliament of 29 April 2026 on the closure of the accounts of the European Border and Coast Guard Agency for the financial year 2024",
+      "riassunto_esteso": "Questo atto è una decisione formale del Parlamento Europeo che chiude ufficialmente i conti dell'Agenzia europea per la guardia e la frontiera, meglio conosciuta come Frontex, per l'anno finanziario 2024. In pratica, il Parlamento ha esaminato come l'agenzia ha speso i suoi fondi e ha confermato che la gestione del budget è stata corretta. Questo passaggio è un obbligo di trasparenza per tutte le agenzie dell'Unione Europea. Serve a garantire che i soldi dei contribuenti europei siano stati usati secondo le regole stabilite. Una volta approvato il bilancio, l'esercizio finanziario di quell'anno viene considerato concluso.",
+      "cosa_cambia": [
+        "Viene ufficialmente approvato il bilancio 2024 di Frontex",
+        "Si conferma la regolarità della gestione finanziaria dell'agenzia per l'anno indicato"
+      ],
+      "chi_interessa": "tutti i cittadini dell'Unione Europea",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "Garantisce maggiore trasparenza e controllo sull'uso dei fondi pubblici europei destinati alla gestione delle frontiere.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026B1664",
+      "pubblicato": "2026-09-10T00:00:00+02:00",
+      "processed_at": "2026-10-20T09:01:11.849893+00:00"
     },
     {
       "id": "660290b0b8cd7dda",
