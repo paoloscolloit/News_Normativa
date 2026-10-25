@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-20T09:01:38.613862+00:00",
-  "total": 96,
+  "last_updated": "2026-10-25T08:50:37.577538+00:00",
+  "total": 99,
   "items": [
     {
       "id": "75371b979d4100ed",
@@ -926,6 +926,67 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026B1664",
       "pubblicato": "2026-09-10T00:00:00+02:00",
       "processed_at": "2026-10-20T09:01:11.849893+00:00"
+    },
+    {
+      "id": "56e2a1105b6c1768",
+      "titolo_popolare": "Approvazione della gestione economica del Comitato Economico e Sociale Europeo 2024",
+      "titolo_originale": "CELEX:32026B1588: Decision (EU) 2026/1588 of the European Parliament of 29 April 2026 on discharge in respect of the implementation of the general budget of the European Union for the financial year 2024, Section VI – European Economic and Social Committee",
+      "riassunto_esteso": "Questo atto è una decisione formale con cui il Parlamento Europeo chiude i conti del 2024 per quanto riguarda il Comitato Economico e Sociale Europeo. In pratica, il Parlamento ha controllato come sono stati spesi i soldi pubblici assegnati a questo organismo e ha stabilito che la gestione è stata corretta. Questo processo, chiamato scarico, serve a garantire che i fondi dell'Unione Europea siano usati in modo trasparente e legale. È un passaggio burocratico fondamentale per la responsabilità finanziaria di tutte le istituzioni europee.",
+      "cosa_cambia": [
+        "Viene ufficialmente approvato il bilancio del Comitato Economico e Sociale Europeo per l'anno 2024"
+      ],
+      "chi_interessa": "Istituzioni europee e cittadini interessati alla trasparenza dei fondi UE",
+      "cosa_devi_fare": "Nessuna azione richiesta",
+      "impatto": "Conferma che i fondi pubblici sono stati gestiti correttamente, garantendo trasparenza e controllo sulle spese dell'UE.",
+      "data_vigenza": "In vigore da subito",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026B1588",
+      "pubblicato": "2026-09-10T00:00:00+02:00",
+      "processed_at": "2026-10-25T08:46:44.536200+00:00"
+    },
+    {
+      "id": "3c124c6f2f664a5c",
+      "titolo_popolare": "Chiusura bilancio 2024 per il progetto europeo sulla fusione nucleare",
+      "titolo_originale": "CELEX:32026B1679: Decision (EU, Euratom) 2026/1679 of the European Parliament of 29 April 2026 on the closure of the accounts of the European Joint Undertaking for ITER and the Development of Fusion Energy for the financial year 2024",
+      "riassunto_esteso": "Il Parlamento Europeo ha approvato la chiusura ufficiale dei conti per l'anno finanziario 2024 relativi all'organizzazione che gestisce ITER, il grande progetto internazionale per lo sviluppo dell'energia da fusione. Questo atto è un passaggio amministrativo necessario per confermare che i fondi pubblici siano stati spesi correttamente e secondo le regole. In pratica, l'Unione Europea verifica e approva il rendiconto delle spese effettuate per far avanzare la ricerca sull'energia pulita. Si tratta di una procedura di controllo standard che avviene ogni anno per garantire la trasparenza della gestione finanziaria europea.",
+      "cosa_cambia": [
+        "Viene formalmente approvato il bilancio 2024 del progetto ITER",
+        "Si conferma la corretta gestione dei fondi europei destinati alla fusione nucleare"
+      ],
+      "chi_interessa": "Istituzioni europee e partner del progetto ITER",
+      "cosa_devi_fare": "Nessuna azione richiesta per i cittadini.",
+      "impatto": "Garantisce la trasparenza nell'uso dei soldi pubblici per la ricerca energetica di domani.",
+      "data_vigenza": "In vigore da subito",
+      "categoria": "Ambiente e Energia",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026B1679",
+      "pubblicato": "2026-09-10T00:00:00+02:00",
+      "processed_at": "2026-10-25T08:47:12.168015+00:00"
+    },
+    {
+      "id": "843e517d9ef7d9fa",
+      "titolo_popolare": "Approvazione della gestione dei fondi europei per lo sviluppo 2024",
+      "titolo_originale": "CELEX:32026B1574: Decision (EU) 2026/1574 of the European Parliament of 29 April 2026 on discharge in respect of the implementation of the budget of the ninth, tenth and eleventh European Development Funds for the financial year 2024",
+      "riassunto_esteso": "Il Parlamento Europeo ha esaminato come sono stati spesi i soldi dei nono, decimo e undicesimo Fondi Europei di Sviluppo durante l'anno 2024. Attraverso questo atto, l'Europa dichiara che la gestione di questi fondi è stata corretta e regolare. Si tratta di una procedura di controllo standard chiamata scarico del bilancio. Questo processo serve a garantire che i fondi destinati ai paesi in via di sviluppo siano stati usati per gli scopi previsti. In pratica, il Parlamento dà il suo via libera finale alla rendicontazione finanziaria di quell'anno.",
+      "cosa_cambia": [
+        "Viene ufficialmente chiusa la rendicontazione finanziaria dei fondi di sviluppo per l'anno 2024"
+      ],
+      "chi_interessa": "Istituzioni europee e organismi che gestiscono i fondi per lo sviluppo",
+      "cosa_devi_fare": "Nessuna azione richiesta per i cittadini",
+      "impatto": "Garantisce trasparenza e controllo sull'uso dei soldi pubblici europei destinati alla cooperazione internazionale.",
+      "data_vigenza": "In vigore da subito",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026B1574",
+      "pubblicato": "2026-09-10T00:00:00+02:00",
+      "processed_at": "2026-10-25T08:48:10.716028+00:00"
     },
     {
       "id": "660290b0b8cd7dda",

@@ -1,17 +1,5 @@
 [
   {
-    "id": "c8fdca038477290b",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026B1597: Decision (EU) 2026/1597 of the European Parliament of 29 April 2026 on the closure of the accounts of the European Public Prosecutor’s Office for the financial year 2024",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026B1597",
-    "pubblicato": "2026-09-10T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-09-10T08:27:17.553227+00:00",
-    "processed": true
-  },
-  {
     "id": "692d26dd9dc7daa5",
     "source_id": "eurlex_oj_l",
     "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
@@ -69,7 +57,7 @@
     "pubblicato": "2026-09-10T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-09-10T08:27:17.553731+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "7303d8d947158b3f",
@@ -129,7 +117,7 @@
     "pubblicato": "2026-09-10T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-09-10T08:27:17.554197+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "3854fc4052457732",
@@ -249,7 +237,7 @@
     "pubblicato": "2026-09-10T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-09-10T08:27:17.555160+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "70f949d1d0c23471",
@@ -5997,6 +5985,18 @@
     "pubblicato": "2026-10-20T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-10-20T08:57:08.991985+00:00",
+    "processed": false
+  },
+  {
+    "id": "fd2875ccf70bd19e",
+    "source_id": "inps_circolari",
+    "fonte": "INPS — Circolari",
+    "paese": "IT",
+    "titolo_originale": "",
+    "url": "",
+    "pubblicato": "2026-10-25T08:46:27.638135+00:00",
+    "summary_raw": "",
+    "fetched_at": "2026-10-25T08:46:27.638214+00:00",
     "processed": false
   }
 ]
