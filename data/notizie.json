@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-25T08:50:37.577538+00:00",
+  "last_updated": "2026-10-29T10:34:08.143112+00:00",
   "total": 99,
   "items": [
     {
@@ -989,6 +989,89 @@
       "processed_at": "2026-10-25T08:48:10.716028+00:00"
     },
     {
+      "id": "44a8e5af5a5a9367",
+      "titolo_popolare": "Controllo e approvazione delle spese delle agenzie europee per il 2024",
+      "titolo_originale": "CELEX:52026BP1665: Resolution (EU) 2026/1665 of the European Parliament of 29 April 2026 with observations forming an integral part of the decisions on discharge in respect of the implementation of the budget of the European Union agencies for the financial year 2024",
+      "riassunto_esteso": "Questo atto è una risoluzione con cui il Parlamento Europeo esamina come le agenzie dell'Unione Europea hanno speso i soldi pubblici durante l'anno 2024. Il Parlamento verifica che il budget sia stato utilizzato correttamente e in linea con le regole stabilite, approvando o meno la gestione finanziaria. Attraverso questo documento vengono date indicazioni e suggerimenti per migliorare la trasparenza e l'efficienza delle spese future. Si tratta di un passaggio fondamentale per garantire che i fondi europei siano gestiti in modo onesto e responsabile.",
+      "cosa_cambia": [
+        "Viene formalizzato il controllo sulle spese effettuate dalle agenzie UE nel 2024",
+        "Le agenzie ricevono raccomandazioni per spendere meglio i fondi in futuro"
+      ],
+      "chi_interessa": "Istituzioni europee e agenzie dell'Unione Europea",
+      "cosa_devi_fare": "Nessuna azione richiesta per i cittadini.",
+      "impatto": "Maggiore trasparenza e controllo su come vengono usate le tasse dei cittadini europei a livello amministrativo.",
+      "data_vigenza": "In vigore da subito",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:52026BP1665",
+      "pubblicato": "2026-09-10T00:00:00+02:00",
+      "processed_at": "2026-10-29T10:30:26.778107+00:00"
+    },
+    {
+      "id": "6f7dc411ae359f6b",
+      "titolo_popolare": "Correzione tecnica di un documento europeo",
+      "titolo_originale": "CELEX:32006D0146R(02)",
+      "riassunto_esteso": "Questo atto è un semplice correttivo, chiamato corrigendum, che serve a rettificare errori materiali in un documento precedentemente pubblicato. In questo caso specifico, l'atto chiarisce che la correzione non riguarda la versione in lingua inglese. Si tratta di un'operazione di manutenzione formale per garantire che i testi legali siano accurati in tutte le lingue ufficiali. Non introduce nuove norme né modifica i diritti dei cittadini.",
+      "cosa_cambia": [
+        "Viene corretta una svista formale in una delle versioni linguistiche del documento"
+      ],
+      "chi_interessa": "esperti legali e traduttori di testi normativi",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "L'impatto è nullo per il cittadino comune poiché si tratta di una rettifica testuale tecnica.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32006D0146R(02)",
+      "pubblicato": "2026-09-10T00:00:00+02:00",
+      "processed_at": "2026-10-29T10:32:22.658064+00:00"
+    },
+    {
+      "id": "dd6a6dab5db01b3f",
+      "titolo_popolare": "Controllo europeo sulle spese delle società comuni UE per il 2024",
+      "titolo_originale": "CELEX:52026BP1690: Resolution (EU) 2026/1690 of the European Parliament of 29 April 2026 with observations forming an integral part of the decisions on discharge in respect of the implementation of the budget of the EU Joint Undertakings for the financial year 2024",
+      "riassunto_esteso": "Il Parlamento Europeo ha analizzato come sono stati spesi i soldi pubblici dalle cosiddette Joint Undertakings, ovvero enti creati tra l'UE e partner esterni per progetti di ricerca e innovazione. Attraverso questa risoluzione, il Parlamento approva la gestione del bilancio per l'anno 2024, ma inserisce una serie di osservazioni e critiche. L'obiettivo è garantire che i fondi europei siano usati in modo trasparente, efficiente e senza sprechi. In pratica, si tratta di un rendiconto finale che serve a migliorare la gestione dei soldi dei contribuenti in futuro.",
+      "cosa_cambia": [
+        "Viene formalmente approvato il bilancio 2024 di questi enti",
+        "Vengono segnalate aree di miglioramento nella gestione dei fondi",
+        "Si richiede maggiore trasparenza nei prossimi investimenti"
+      ],
+      "chi_interessa": "Enti di ricerca, partner industriali e amministratori delle Joint Undertakings UE",
+      "cosa_devi_fare": "Nessuna azione richiesta per il cittadino comune.",
+      "impatto": "Maggiore controllo e trasparenza sull'uso dei fondi pubblici europei destinati alla ricerca e all'innovazione.",
+      "data_vigenza": "In vigore da subito",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:52026BP1690",
+      "pubblicato": "2026-09-10T00:00:00+02:00",
+      "processed_at": "2026-10-29T10:32:35.686557+00:00"
+    },
+    {
+      "id": "c45f63cf64414a27",
+      "titolo_popolare": "Approvazione del bilancio 2024 del Centro europeo per la cybersicurezza",
+      "titolo_originale": "CELEX:32026B1675: Decision (EU) 2026/1675 of the European Parliament of 29 April 2026 on the closure of the accounts of the European Cybersecurity Industrial, Technology and Research Competence Centre for the financial year 2024",
+      "riassunto_esteso": "Il Parlamento Europeo ha approvato ufficialmente la chiusura dei conti del Centro di competenza europeo per la cybersicurezza relativa all'anno finanziario 2024. Questo atto rappresenta un passaggio amministrativo standard per verificare che i fondi siano stati spesi correttamente e secondo le regole. Attraverso questa decisione, l'Unione Europea conferma che la gestione finanziaria dell'ente è stata regolare. L'obiettivo è garantire trasparenza sull'uso dei soldi pubblici destinati alla ricerca e alla tecnologia per la sicurezza informatica. Si tratta quindi di un atto di controllo contabile necessario per la gestione delle agenzie europee.",
+      "cosa_cambia": [
+        "Viene formalmente approvato il rendiconto delle spese effettuate dal Centro nel 2024"
+      ],
+      "chi_interessa": "Istituzioni europee e addetti ai lavori della cybersicurezza",
+      "cosa_devi_fare": "Nessuna azione richiesta per i cittadini.",
+      "impatto": "Garantisce che i fondi per la cybersicurezza europea siano stati gestiti in modo trasparente e legale.",
+      "data_vigenza": "In vigore da subito",
+      "categoria": "Digitale e Privacy",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026B1675",
+      "pubblicato": "2026-09-10T00:00:00+02:00",
+      "processed_at": "2026-10-29T10:33:22.247925+00:00"
+    },
+    {
       "id": "660290b0b8cd7dda",
       "titolo_popolare": "Correzione alla direttiva sulle piante ornamentali",
       "titolo_originale": "CELEX:31998L0056R(01):            Rectificatif à la directive 98/56/CE du Conseil du 20 juillet 1998 concernant la commercialisation des matériels de multiplication des plantes ornementales (JO L 226 du 13.8.1998)",
@@ -1911,95 +1994,6 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1758",
       "pubblicato": "2026-09-01T00:00:00+02:00",
       "processed_at": "2026-10-11T10:23:12.245140+00:00"
-    },
-    {
-      "id": "e2e5db12bc1ea042",
-      "titolo_popolare": "Italia riconosce una decisione presa all'estero",
-      "titolo_originale": "MINISTERO DEGLI AFFARI ESTERI E DELLA COOPERAZIONE INTERNAZIONALE - COMUNICATO",
-      "riassunto_esteso": "Il comunicato del Ministero degli Affari Esteri e della Cooperazione Internazionale annuncia il rilascio dell'exequatur per una sentenza straniera, ovvero il riconoscimento ufficiale in Italia di una decisione giudiziaria presa all'estero. Questo atto permette che la sentenza straniera abbia effetti giuridici sul territorio italiano, come se fosse stata emessa da un giudice italiano. L'exequatur viene concesso dopo verifiche di conformità con l'ordine pubblico italiano e con i principi fondamentali del diritto. Lo scopo è evitare che le parti interessate debbano intraprendere un nuovo processo in Italia per far valere i propri diritti derivanti dalla decisione straniera. In pratica, il provvedimento semplifica l'esecuzione di obblighi, risarcimenti o altre statuizioni provenienti da giurisdizioni estere.",
-      "cosa_cambia": [
-        "Chi ha ottenuto una sentenza straniera può chiedere che essa sia eseguita in Italia senza dover iniziare un nuovo giudizio",
-        "Le parti coinvolte possono far valere crediti, obblighi o altre statuizioni direttamente presso gli organi italiani competenti",
-        "È necessario presentare la domanda di exequatur presso la Corte d'appello territorialmente competente",
-        "La decisione straniera produce gli stessi effetti di una sentenza italiana, inclusa la possibilità di pignoramento o sequestro"
-      ],
-      "chi_interessa": "Chi ha ottenuto una sentenza straniera e vuole farla valere in Italia, ovvero creditori, debitori o parti di un giudizio internazionale",
-      "cosa_devi_fare": "Presentare domanda di exequatur presso la Corte d'appello competente, allegando la sentenza straniera e la traduzione ufficiale",
-      "impatto": "Consente di far eseguire in Italia diritti già riconosciuti all'estero, evitando duplicazioni di giudizi e riducendo tempi e costi per le parti coinvolte",
-      "data_vigenza": "in vigore da subito",
-      "categoria": "Giustizia e Diritti",
-      "importanza": 2,
-      "fonte": "Gazzetta Ufficiale",
-      "paese": "IT",
-      "url": "http://www.gazzettaufficiale.it/eli/id/2026/08/29/26A04323/SG",
-      "pubblicato": "2026-08-29T10:03:13+00:00",
-      "processed_at": "2026-10-05T11:04:39.698586+00:00"
-    },
-    {
-      "id": "921ce26d5f9c9172",
-      "titolo_popolare": "Riconoscimento ufficiale di un console straniero in Italia",
-      "titolo_originale": "MINISTERO DEGLI AFFARI ESTERI E DELLA COOPERAZIONE INTERNAZIONALE - COMUNICATO",
-      "riassunto_esteso": "Il Ministero degli Affari Esteri ha pubblicato un comunicato che concede l'exequatur a un console straniero, ovvero il riconoscimento ufficiale necessario affinché egli possa esercitare le proprie funzioni diplomatiche in Italia. Questo atto è una procedura standard prevista dalle convenzioni internazionali sulle relazioni consolari e serve a garantire che il console possa operare legalmente sul territorio italiano. Non introduce nuovi obblighi per i cittadini, ma conferma semplicemente la possibilità di continuare a usufruire dei servizi consolari offerti dallo Stato rappresentato. La pubblicazione in Gazzetta Ufficiale assicura la trasparenza della decisione rispetto al pubblico.",
-      "cosa_cambia": [
-        "Nessuna modifica diretta agli obblighi o ai diritti dei cittadini"
-      ],
-      "chi_interessa": "I cittadini che si rivolgono al console straniero per servizi come visti, documenti o assistenza consolare",
-      "cosa_devi_fare": "Nessuna azione richiesta",
-      "impatto": "Il consolato può continuare a operare regolarmente, garantendo assistenza ai propri connazionali e servizi ai cittadini stranieri presenti in Italia.",
-      "data_vigenza": "in vigore da subito",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "Gazzetta Ufficiale",
-      "paese": "IT",
-      "url": "http://www.gazzettaufficiale.it/eli/id/2026/08/29/26A04447/SG",
-      "pubblicato": "2026-08-29T10:03:13+00:00",
-      "processed_at": "2026-10-05T11:05:05.901388+00:00"
-    },
-    {
-      "id": "3ea997abe8a3502d",
-      "titolo_popolare": "Proroga gestione del comune di Aprilia",
-      "titolo_originale": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 28 luglio 2026",
-      "riassunto_esteso": "Il decreto proroga l'affidamento della gestione del consiglio comunale di Aprilia, mantenendo in carica gli attuali amministratori oltre la scadenza prevista. Questa misura è stata adottata per evitare un vuoto amministrativo mentre si prepara una nuova procedura di affidamento tramite gara o nomina ordinaria. Grazie alla proroga, il comune può continuare a svolgere le sue funzioni essenziali, come l'approvazione del bilancio e la erogazione dei servizi ai cittadini. L'obiettivo è garantire continuità e stabilità operativa per residenti, imprese e dipendenti comunali durante il periodo transitorio. La disposizione è temporanea e resterà in vigore fino a quando non sarà effettuato il nuovo affidamento secondo le norme ordinarie.",
-      "cosa_cambia": [
-        "Continuita' dei servizi comunali senza interruzioni per i cittadini",
-        "Gli amministratori attuali restano in carica oltre la scadenza originale",
-        "Non e' necessario indire nuove elezioni o nomine immediate",
-        "Nessuna modifica immediata a tasse o tributi locali"
-      ],
-      "chi_interessa": "tutti i residenti, le imprese e i dipendenti del comune di Aprilia",
-      "cosa_devi_fare": "nessuna azione richiesta dai cittadini",
-      "impatto": "Assicura che i servizi municipali proseguano normalmente, evitando disagi amministrativi e garantendo stabilita' alla comunita' locale.",
-      "data_vigenza": "in vigore dal 28 luglio 2026",
-      "categoria": "Iter Legislativo",
-      "importanza": 2,
-      "fonte": "Gazzetta Ufficiale",
-      "paese": "IT",
-      "url": "http://www.gazzettaufficiale.it/eli/id/2026/08/29/26A04297/SG",
-      "pubblicato": "2026-08-29T10:03:12+00:00",
-      "processed_at": "2026-10-06T10:52:43.596346+00:00"
-    },
-    {
-      "id": "36e1ad4f842848d2",
-      "titolo_popolare": "Aggiornamento mappa rischio inondazioni a Forni di Sopra",
-      "titolo_originale": "AUTORITA' DI BACINO DISTRETTUALE DELLE ALPI ORIENTALI - COMUNICATO",
-      "riassunto_esteso": "L'Autorità di Bacino Distrettuale delle Alpi Orientali ha pubblicato un comunicato che aggiorna la classificazione della pericolosità idraulica nel territorio del Comune di Forni di Sopra. L'aggiornamento si basa su nuovi studi e rilievi che hanno modificato le zone ritenute a rischio di inondazione. Questo serve a migliorare la pianificazione territoriale e la sicurezza dei cittadini, fornendo informazioni più precise su dove è possibile costruire e dove sono necessarie misure di protezione. Il comunicato è rivolto principalmente a residenti, proprietari di immobili e tecnici del settore edilizio. L'obiettivo è prevenire danni futuri e facilitare l'accesso a eventuali contributi o assicurazioni legati al rischio idraulico.",
-      "cosa_cambia": [
-        "Nuova mappa di pericolosità idraulica pubblicata, che sostituisce la precedente versione.",
-        "Possibile revisione dei limiti di edificabilità nelle aree ora classificate a rischio più alto.",
-        "Aggiornamento dei requisiti per stipulare assicurazioni contro le inondazioni negli immobili interessati.",
-        "Obbligo per progettisti e tecnici di tenere conto della nuova pericolosità nei progetti di costruzione o ristrutturazione."
-      ],
-      "chi_interessa": "residenti e proprietari di immobili nel Comune di Forni di Sopra",
-      "cosa_devi_fare": "verificare se il proprio immobile rientra in una zona di rischio aggiornata e adeguare eventuali pratiche edilizie o assicurative.",
-      "impatto": "Maggiori tutele contro le inondazioni e informazioni più chiare su dove è sicuro costruire. Questo può influire sui valori immobiliari e sui costi di assicurazione.",
-      "data_vigenza": "in vigore da subito",
-      "categoria": "Ambiente e Energia",
-      "importanza": 2,
-      "fonte": "Gazzetta Ufficiale",
-      "paese": "IT",
-      "url": "http://www.gazzettaufficiale.it/eli/id/2026/08/29/26A04299/SG",
-      "pubblicato": "2026-08-29T10:03:12+00:00",
-      "processed_at": "2026-10-08T11:00:05.970889+00:00"
     },
     {
       "id": "bb68323283680c7d",
