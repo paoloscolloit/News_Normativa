@@ -1,7 +1,29 @@
 {
-  "last_updated": "2026-11-03T11:30:16.893725+00:00",
-  "total": 72,
+  "last_updated": "2026-11-04T11:44:36.822631+00:00",
+  "total": 76,
   "items": [
+    {
+      "id": "d7f89ca737b46a9f",
+      "titolo_popolare": "Nuove norme di sicurezza per i giocattoli e i kit di chimica",
+      "titolo_originale": "CELEX:32026D2032: Commission Implementing Decision (EU) 2026/2032 of 11 September 2026 amending Implementing Decision (EU) 2023/740 as regards harmonised standards for experimental sets for chemistry and related activities, formamide in foam toy materials and certain chlorinated phosphorus flame retardants in toy materials",
+      "riassunto_esteso": "L'Unione Europea ha aggiornato le norme tecniche per rendere i giocattoli più sicuri per i bambini. L'atto modifica i criteri di sicurezza per i set sperimentali di chimica e introduce limiti più severi su alcune sostanze chimiche pericolose. In particolare, vengono regolamentate la formammide presente nei giocattoli in schiuma e alcuni ritardanti di fiamma a base di fosforo clorurato. L'obiettivo è prevenire rischi per la salute dei più piccoli eliminando o limitando materiali tossici. Queste regole servono a garantire che i prodotti venduti nel mercato europeo rispettino standard di sicurezza uniformi.",
+      "cosa_cambia": [
+        "Vengono aggiornati gli standard di sicurezza per i kit di esperimenti chimici per bambini",
+        "Vengono imposti nuovi limiti alla formammide nei giocattoli realizzati in schiuma",
+        "Vengono limitati l'uso di specifici ritardanti di fiamma clorurati nei materiali dei giocattoli"
+      ],
+      "chi_interessa": "produttori, importatori e distributori di giocattoli",
+      "cosa_devi_fare": "i produttori devono adeguare i materiali e i test di sicurezza dei prodotti",
+      "impatto": "maggiore sicurezza per i bambini grazie alla riduzione di sostanze chimiche tossiche nei giocattoli",
+      "data_vigenza": "dal 11 settembre 2026",
+      "categoria": "Altro",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2032",
+      "pubblicato": "2026-09-14T00:00:00+02:00",
+      "processed_at": "2026-11-04T11:44:11.159451+00:00"
+    },
     {
       "id": "65dc4895b161b8bb",
       "titolo_popolare": "Autorizzazione europea per il prodotto biocida ELOCLEAR",
@@ -85,6 +107,68 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2036",
       "pubblicato": "2026-09-11T00:00:00+02:00",
       "processed_at": "2026-11-03T11:29:59.438544+00:00"
+    },
+    {
+      "id": "1d37440ee2e10bf1",
+      "titolo_popolare": "Correzione tecnica di un regolamento europeo",
+      "titolo_originale": "CELEX:32024R0249R(06)",
+      "riassunto_esteso": "Questo atto è un cosiddetto corrigendum, ovvero un documento che serve a correggere errori materiali o refusi presenti in un testo normativo precedentemente pubblicato. In questo caso specifico, l'intervento riguarda esclusivamente le versioni linguistiche non inglesi del regolamento. L'obiettivo è garantire che il testo sia scritto correttamente per evitare malintesi nell'applicazione della norma. Non vengono introdotte nuove regole né modificate le sostanze delle leggi esistenti. Si tratta di un'operazione di manutenzione formale del testo legale.",
+      "cosa_cambia": [
+        "Vengono corretti errori di scrittura o refusi nel testo della norma",
+        "Il testo ufficiale diventa più preciso nelle lingue diverse dall'inglese"
+      ],
+      "chi_interessa": "tutti coloro che applicano o consultano il regolamento in questione",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "Maggiore chiarezza formale del testo normativo per evitare errori di interpretazione.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32024R0249R(06)",
+      "pubblicato": "2026-09-11T00:00:00+02:00",
+      "processed_at": "2026-11-04T11:42:13.297857+00:00"
+    },
+    {
+      "id": "76cc6c16c7c5eb40",
+      "titolo_popolare": "Correzione tecnica di un regolamento europeo",
+      "titolo_originale": "CELEX:32015R1843R(02)",
+      "riassunto_esteso": "Questo atto è un cosiddetto corrigendum, ovvero un documento utilizzato per correggere refusi o errori materiali in un testo normativo precedentemente pubblicato. In questo caso specifico, l'intervento serve a rettificare il testo originale per renderlo più preciso o corretto. È un'operazione puramente tecnica che non modifica la sostanza delle regole stabilite. L'atto specifica inoltre che tali correzioni non riguardano la versione in lingua inglese. Questo tipo di aggiornamenti assicura che tutte le lingue ufficiali dell'UE siano coerenti tra loro.",
+      "cosa_cambia": [
+        "Vengono corretti errori di scrittura o refusi nel testo originale",
+        "Il testo normativo diventa più preciso dal punto di vista formale"
+      ],
+      "chi_interessa": "tutti coloro che applicano il regolamento originale",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "L'impatto è minimo poiché si tratta di correzioni formali che non cambiano i diritti o i doveri dei cittadini.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32015R1843R(02)",
+      "pubblicato": "2026-09-11T00:00:00+02:00",
+      "processed_at": "2026-11-04T11:43:12.554571+00:00"
+    },
+    {
+      "id": "5303d2c52bb94280",
+      "titolo_popolare": "Invio dati pagamenti della Camera dei Deputati all'Agenzia delle Entrate",
+      "titolo_originale": "Trasmissione all’Agenzia delle entrate degli elenchi dei percipienti somme e valori soggetti a ritenuta d’acconto corrisposti nel periodo di imposta 2025 dall’Amministrazione della Camera dei Deputati (provvedimento)",
+      "riassunto_esteso": "Questo provvedimento stabilisce le modalità con cui la Camera dei Deputati deve comunicare all'Agenzia delle Entrate l'elenco delle persone che hanno ricevuto pagamenti soggetti a ritenuta d'acconto nel 2025. L'obiettivo è permettere al fisco di sapere esattamente chi ha ricevuto somme di denaro e quante tasse sono state trattenute alla fonte. Si tratta di un'operazione tecnica di scambio dati tra due amministrazioni pubbliche per garantire la correttezza delle dichiarazioni dei redditi. In questo modo l'Agenzia delle Entrate può incrociare i dati e prevenire l'evasione fiscale.",
+      "cosa_cambia": [
+        "La Camera dei Deputati invierà i dati dei pagamenti effettuati nel 2025 direttamente al fisco"
+      ],
+      "chi_interessa": "Chi ha ricevuto compensi o pagamenti dalla Camera dei Deputati nel 2025",
+      "cosa_devi_fare": "Nessuna azione richiesta, l'invio dei dati è automatico tra enti.",
+      "impatto": "Maggiore precisione nei dati fiscali e facilitazione nel precompilato della dichiarazione dei redditi.",
+      "data_vigenza": "Periodo di imposta 2025",
+      "categoria": "Fisco e Tributi",
+      "importanza": 2,
+      "fonte": "Agenzia delle Entrate",
+      "paese": "IT",
+      "url": "https://www.agenziaentrate.gov.it/portale/documents/20143/10288340/Provvedimento+Camera+dei+Deputati.del+10+settembre+2026/9a4d613f-a1ac-57ea-56a6-a7bdbc66cbaa",
+      "pubblicato": "2026-09-11T00:00:00+00:00",
+      "processed_at": "2026-11-04T11:43:45.223585+00:00"
     },
     {
       "id": "75371b979d4100ed",
