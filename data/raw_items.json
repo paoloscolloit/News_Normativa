@@ -57,7 +57,7 @@
     "pubblicato": "2026-09-11T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-09-11T08:23:59.879053+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "c878c3e741dc6279",
@@ -165,7 +165,7 @@
     "pubblicato": "2026-09-11T00:00:00+02:00",
     "summary_raw": "The corrigendum does not concern the English version.",
     "fetched_at": "2026-09-11T08:23:59.880190+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "fad5156485db36fa",
@@ -237,7 +237,7 @@
     "pubblicato": "2026-09-11T00:00:00+02:00",
     "summary_raw": "The corrigendum does not concern the English version.",
     "fetched_at": "2026-09-11T08:23:59.880818+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "04fc7d7d057a3e9e",
@@ -405,7 +405,7 @@
     "pubblicato": "2026-09-14T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-09-14T09:18:56.690211+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "6fbe92ddf70640b4",

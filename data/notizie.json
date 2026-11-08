@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-04T11:44:36.822631+00:00",
-  "total": 76,
+  "last_updated": "2026-11-08T10:53:42.486828+00:00",
+  "total": 67,
   "items": [
     {
       "id": "d7f89ca737b46a9f",
@@ -23,6 +23,27 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2032",
       "pubblicato": "2026-09-14T00:00:00+02:00",
       "processed_at": "2026-11-04T11:44:11.159451+00:00"
+    },
+    {
+      "id": "c9a385188968590c",
+      "titolo_popolare": "Autorizzazione europea per prodotti a base di perossido di idrogeno P&G",
+      "titolo_originale": "CELEX:32026R2051: Commission Implementing Regulation (EU) 2026/2051 of 11 September 2026 granting a Union authorisation for the biocidal product family Hydrogen peroxide product family P &amp;amp; G in accordance with Regulation (EU) No 528/2012 of the European Parliament and of the Council",
+      "riassunto_esteso": "La Commissione Europea ha rilasciato un'autorizzazione ufficiale per una specifica linea di prodotti biocidi a base di perossido di idrogeno prodotti da P&G. Questi prodotti sono sostanze utilizzate per eliminare o ridurre organismi nocivi, come batteri o funghi. L'atto serve a garantire che tali prodotti siano sicuri per l'uomo e per l'ambiente prima di essere venduti nel mercato unico. L'autorizzazione segue le rigide norme europee sui biocidi per assicurare standard di qualità uniformi in tutti gli Stati membri. In pratica, l'UE conferma che questa specifica famiglia di prodotti rispetta i requisiti di sicurezza previsti dalla legge.",
+      "cosa_cambia": [
+        "I prodotti a base di perossido di idrogeno della famiglia P&G possono essere legalmente commercializzati nell'UE",
+        "Viene garantita la conformità di questi specifici prodotti agli standard di sicurezza europei"
+      ],
+      "chi_interessa": "Aziende che producono o vendono biocidi e consumatori finali",
+      "cosa_devi_fare": "Nessuna azione richiesta per il cittadino comune.",
+      "impatto": "Maggiore sicurezza nell'acquisto di prodotti biocidi e certezza legale per l'azienda produttrice.",
+      "data_vigenza": "In vigore da subito",
+      "categoria": "Salute e Farmaci",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2051",
+      "pubblicato": "2026-09-14T00:00:00+02:00",
+      "processed_at": "2026-11-08T10:53:12.324443+00:00"
     },
     {
       "id": "65dc4895b161b8bb",
@@ -149,6 +170,67 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32015R1843R(02)",
       "pubblicato": "2026-09-11T00:00:00+02:00",
       "processed_at": "2026-11-04T11:43:12.554571+00:00"
+    },
+    {
+      "id": "edc0b29c21fbc3c9",
+      "titolo_popolare": "Nuovi responsabili BCE per il controllo dei rischi bancari",
+      "titolo_originale": "CELEX:32026D2040: Decision (EU) 2026/2040 of the European Central Bank of 1 September 2026 nominating heads of work units to adopt delegated decisions on material changes to rating systems for calculating own funds requirements for credit risk (ECB/2026/24)",
+      "riassunto_esteso": "La Banca Centrale Europea ha deciso di nominare i responsabili di alcune unità di lavoro interne. Queste persone avranno il compito di prendere decisioni delegate riguardanti le modifiche sostanziali ai sistemi di rating usati dalle banche. Tali sistemi servono a calcolare quanto capitale le banche devono tenere da parte per coprire i rischi legati ai prestiti concessi. L'obiettivo è rendere più efficiente e rapido il processo di approvazione di questi cambiamenti tecnici. In questo modo la BCE assicura che le banche rimangano solide e sicure.",
+      "cosa_cambia": [
+        "Vengono stabiliti i dirigenti BCE autorizzati a firmare decisioni su sistemi di rating bancari",
+        "Il processo di approvazione delle modifiche ai calcoli del rischio credito diventa più snello"
+      ],
+      "chi_interessa": "Banche e istituti di credito soggetti alla vigilanza della BCE",
+      "cosa_devi_fare": "Nessuna azione richiesta per i cittadini comuni.",
+      "impatto": "Migliora la gestione della vigilanza bancaria europea, garantendo che le banche calcolino correttamente i propri rischi.",
+      "data_vigenza": "dal 1 settembre 2026",
+      "categoria": "Banche e Finanza",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2040",
+      "pubblicato": "2026-09-11T00:00:00+02:00",
+      "processed_at": "2026-11-08T10:50:10.078589+00:00"
+    },
+    {
+      "id": "759fb87f836f0411",
+      "titolo_popolare": "Correzione tecnica di un regolamento europeo",
+      "titolo_originale": "CELEX:32026R0131R(03)",
+      "riassunto_esteso": "Questo atto è un rettificativo, ovvero un documento che serve a correggere errori materiali presenti in un testo normativo precedentemente pubblicato. In questo caso specifico, l'intervento riguarda esclusivamente le versioni linguistiche diverse dall'inglese. L'obiettivo è garantire che il testo della legge sia scritto correttamente in tutte le lingue ufficiali dell'Unione Europea. Non vengono introdotte nuove regole o modifiche al contenuto della norma originale. Si tratta di un'operazione di manutenzione formale del testo legale.",
+      "cosa_cambia": [
+        "Vengono corretti refusi o errori di scrittura nel testo della norma"
+      ],
+      "chi_interessa": "tutti coloro che consultano la norma nelle lingue diverse dall'inglese",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "Maggiore chiarezza e precisione nella lettura della norma nelle diverse lingue europee.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R0131R(03)",
+      "pubblicato": "2026-09-11T00:00:00+02:00",
+      "processed_at": "2026-11-08T10:51:08.921829+00:00"
+    },
+    {
+      "id": "8ebe7510e5c0fd13",
+      "titolo_popolare": "Correzione tecnica di un atto europeo",
+      "titolo_originale": "CELEX:32026R1782R(02)",
+      "riassunto_esteso": "Questo documento è un rettificativo, ovvero una correzione di errori materiali contenuti in un atto normativo precedentemente pubblicato. In questo caso specifico, l'intervento serve a sistemare refusi o imprecisioni nel testo originale per garantirne la corretta interpretazione. È un'operazione puramente tecnica che non modifica la sostanza della norma ma ne cura la forma. Il documento specifica inoltre che tali correzioni non riguardano la versione in lingua inglese.",
+      "cosa_cambia": [
+        "Vengono corretti errori di scrittura o refusi nel testo della norma"
+      ],
+      "chi_interessa": "Chiunque applichi o consulti l'atto normativo originale",
+      "cosa_devi_fare": "Nessuna azione richiesta",
+      "impatto": "Maggiore chiarezza e precisione del testo legale per evitare errori di interpretazione.",
+      "data_vigenza": "In vigore da subito",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1782R(02)",
+      "pubblicato": "2026-09-11T00:00:00+02:00",
+      "processed_at": "2026-11-08T10:51:45.453507+00:00"
     },
     {
       "id": "5303d2c52bb94280",
@@ -1258,281 +1340,6 @@
       "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026B1658",
       "pubblicato": "2026-09-10T00:00:00+02:00",
       "processed_at": "2026-11-01T10:53:13.915401+00:00"
-    },
-    {
-      "id": "660290b0b8cd7dda",
-      "titolo_popolare": "Correzione alla direttiva sulle piante ornamentali",
-      "titolo_originale": "CELEX:31998L0056R(01):            Rectificatif à la directive 98/56/CE du Conseil du 20 juillet 1998 concernant la commercialisation des matériels de multiplication des plantes ornementales (JO L 226 du 13.8.1998)",
-      "riassunto_esteso": "L'atto è una correzione tecnica alla direttiva UE che regola la vendita dei materiali per moltiplicare le piante ornamentali. Non cambia il contenuto sostanziale della norma, ma corregge refusi o errori di traduzione presenti nelle versioni linguistiche diverse dall'inglese. È stato adottato per garantire che tutti i testi ufficiali nelle lingue dell'UE siano coerenti e privi di errori. Questo tipo di atto è comune quando si scoprono refusi dopo la pubblicazione della direttiva. Non introduce nuovi obblighi per cittadini o imprese.",
-      "cosa_cambia": [
-        "Nessuna modifica sostanziale per cittadini o imprese"
-      ],
-      "chi_interessa": "nessun impatto diretto su cittadini o imprese",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "L'atto non produce effetti concreti sulla vita quotidiana; serve solo a correggere errori di testo nelle versioni linguistiche della direttiva.",
-      "data_vigenza": "in vigore da subito",
-      "categoria": "Agricoltura e Alimentare",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:31998L0056R(01)",
-      "pubblicato": "2026-09-09T00:00:00+02:00",
-      "processed_at": "2026-10-13T11:26:36.711590+00:00"
-    },
-    {
-      "id": "5fed936762e16fbb",
-      "titolo_popolare": "Registrazione UE del formaggio Brânză frământată de Teaca",
-      "titolo_originale": "CELEX:32026R2017: Commission Implementing Regulation (EU) 2026/2017 of 2 September 2026 on the registration of the geographical indication Brânză frământată de Teaca (PGI) in the Union register of geographical indications pursuant to Regulation (EU) 2024/1143 of the European Parliament and of the Council",
-      "riassunto_esteso": "L'Unione Europea ha ufficialmente riconosciuto il formaggio Brânză frământată de Teaca come Indicazione Geografica Protetta (PGI). Questo significa che solo il formaggio prodotto nella zona di Teaca, rispettando il disciplinare specifico, può portare quel nome. L'obiettivo è tutelare i produttori locali da imitazioni e garantire ai consumatori l'autenticità e la qualità del prodotto. La registrazione entra a far parte del registro europeo delle indicazioni geografiche, offrendo una protezione legale a livello UE. Così si valorizza il patrimonio caseario rumeno e si promuove la trasparenza sul mercato.",
-      "cosa_cambia": [
-        "I produttori del formaggio Teaca possono ora usare il marchio PGI sulle loro confezioni",
-        "Devono rispettare le regole di produzione, trasformazione e origine indicate nel disciplinare",
-        "I consumatori trovano più facilmente il prodotto autentico grazie al riconoscimento ufficiale"
-      ],
-      "chi_interessa": "i produttori di formaggio Brânză frământată de Teaca e i consumatori di prodotti lattiero-caseari",
-      "cosa_devi_fare": "I produttori devono seguire il disciplinare e possono richiedere l'uso del marchio PGI; i consumatori non devono compiere alcuna azione",
-      "impatto": "I produttori locali otteneguardia contro le contraffazioni e possono valorizzare meglio il loro prodotto, mentre i consumatori hanno maggiore certezza sull'origine e sulla qualità del formaggio che acquistano.",
-      "data_vigenza": "in vigore dal 2 settembre 2026",
-      "categoria": "Agricoltura e Alimentare",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2017",
-      "pubblicato": "2026-09-09T00:00:00+02:00",
-      "processed_at": "2026-10-14T09:10:17.080409+00:00"
-    },
-    {
-      "id": "509d0990c925b223",
-      "titolo_popolare": "Correzione al regolamento sui vermi da farina come alimento",
-      "titolo_originale": "CELEX:32022R0169R(01):            Rectificatif au règlement d’exécution (UE) 2022/169 de la Commission du 8 février 2022 autorisant la mise sur le marché des formes congelée, séchée et en poudre de vers de farine (larves de Tenebrio molitor) en tant que nouvel aliment en application du règlement (UE) 2015/2283 du Parlement européen et du Conseil et modifiant le règlement d’exécution (UE) 2017/2470 de la Commission (JO L 28 du 9.2.2022)",
-      "riassunto_esteso": "Il documento è un corrigendum, cioè una correzione tecnica, al regolamento di esecuzione UE che autorizza l'immissione in commercio delle forme congelata, essiccata e in polvere del verme della farina (Tenebrio molitor) come nuovo alimento. La correzione non riguarda la versione inglese, ma serve a sistemare eventuali errori di traduzione nelle altre lingue ufficiali dell'Unione. Non introduce nuove regole né modifica sostanzialmente le condizioni già previste per l'uso di questo insetto alimentare. L'obiettivo è garantire che tutti i testi linguistici del regolamento siano coerenti e privi di refusi.",
-      "cosa_cambia": [
-        "Nessuna modifica sostanziale alle regole sull'uso dei vermi da farina come alimento",
-        "Aggiornamento delle versioni linguistiche del regolamento per correggere errori di traduzione"
-      ],
-      "chi_interessa": "nessun impatto diretto sui cittadini",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "Non produce effetti concreti sulle persone; serve solo a garantire la correttezza linguistica del regolamento europeo.",
-      "data_vigenza": "in vigore da subito",
-      "categoria": "Agricoltura e Alimentare",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32022R0169R(01)",
-      "pubblicato": "2026-09-08T00:00:00+02:00",
-      "processed_at": "2026-10-11T10:33:18.086804+00:00"
-    },
-    {
-      "id": "cde1a3394807cfa3",
-      "titolo_popolare": "Accordo UE-Giordania per ricerca mediterranea",
-      "titolo_originale": "CELEX:22026A01998: Agreement, in the form of an exchange of letters, amending and supplementing the Agreement for Scientific and Technological Cooperation between the European Union and the Hashemite Kingdom of Jordan, setting out the terms and conditions for the participation of the Hashemite Kingdom of Jordan in the Partnership for Research and Innovation in the Mediterranean Area (PRIMA)",
-      "riassunto_esteso": "L'atto modifica l'accordo esistente di cooperazione scientifica e tecnologica tra l'Unione Europea e il Regno Hashemita di Giordania, inserendo la Giordania nel programma PRIMA (Partnership for Research and Innovation in the Mediterranean Area). PRIMA sostiene progetti di ricerca e innovazione su temi come la gestione dell'acqua, la sicurezza alimentare e l'agricoltura sostenibile nel Mediterraneo. L'integrazione della Giordania mira a rafforzare la collaborazione regionale per affrontare sfide comuni come il cambiamento climatico e la scarsità di risorse. L'accordo è stato adottato tramite uno scambio di lettere, forma semplificata per aggiornare intese internazionali. Non introduce nuovi obblighi diretti per i cittadini comuni.",
-      "cosa_cambia": [
-        "Nessun cambiamento diretto o nuovo obbligo per i cittadini comuni"
-      ],
-      "chi_interessa": "Istituzioni di ricerca, università e centri di ricerca italiani che collaborano con partner giordani",
-      "cosa_devi_fare": "Nessuna azione richiesta per i cittadini; gli enti di ricerca possono consultare i bandi PRIMA per opportunità di finanziamento",
-      "impatto": "Maggiori opportunità di finanziamento per progetti su acqua, cibo e agricoltura nel Mediterraneo, contribuendo a soluzioni condivise per sfide ambientali e alimentari. Questo rafforza la cooperazione scientifica tra Europa e Giordania.",
-      "data_vigenza": "in vigore da subito",
-      "categoria": "Istruzione e Ricerca",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:22026A01998",
-      "pubblicato": "2026-09-08T00:00:00+02:00",
-      "processed_at": "2026-10-11T10:34:16.020183+00:00"
-    },
-    {
-      "id": "0049fcbd61d3c5d9",
-      "titolo_popolare": "Correzione di errori nel testo italiano di un regolamento UE",
-      "titolo_originale": "CELEX:32026R1848R(02)",
-      "riassunto_esteso": "Il documento è un corrigendum, cioè una correzione ufficiale, adottata per sistemare alcuni refusi presenti nelle versioni linguistiche non inglesi di un regolamento europeo. Non introduce nuove norme né modifica il contenuto sostanziale del regolamento, ma si limita a rendere uniforme il testo nelle diverse lingue ufficiali. L'adozione del corrigendum serve a evitare interpretazioni divergenti dovute a errori di stampa o di traduzione. Per i cittadini non ci sono cambiamenti pratici da osservare.",
-      "cosa_cambia": [
-        "Nessuna modifica sostanziale delle norme applicabili ai cittadini",
-        "Eventuali correzioni riguardano solo refusi nelle versioni linguistiche del regolamento"
-      ],
-      "chi_interessa": "nessun gruppo specifico",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "Nessun impatto concreto sulle persone; serve solo a correggere errori di stampa nelle versioni linguistiche del regolamento.",
-      "data_vigenza": "in vigore da subito",
-      "categoria": "Iter Legislativo",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1848R(02)",
-      "pubblicato": "2026-09-08T00:00:00+02:00",
-      "processed_at": "2026-10-12T11:34:25.466963+00:00"
-    },
-    {
-      "id": "381eafe3b7d0e6e2",
-      "titolo_popolare": "Correzione tecnica al regolamento sulle locuste commestibili",
-      "titolo_originale": "CELEX:32021R1975R(02):            Rectificatif au règlement d’exécution (UE) 2021/1975 de la Commission du 12 novembre 2021 autorisant la mise sur le marché de formes congelée, séchée et en poudre de Locusta migratoria en tant que nouvel aliment en application du règlement (UE) 2015/2283 du Parlement européen et du Conseil et modifiant le règlement d’exécution (UE) 2017/2470 de la Commission (JO L 402 du 15.11.2021)",
-      "riassunto_esteso": "Il regolamento di esecuzione (UE) 2021/1975 autorizza l'immissione in commercio di forme congelate, essiccate e in polvere della locusta migratoria come nuovo alimento. Questo atto è un corrigendum che corregge eventuali errori materiali presenti nelle versioni linguistiche diverse dall'inglese del regolamento. Lo scopo è garantire che tutti i testi ufficiali siano coerenti e privi di refusi, senza modificare il contenuto sostanziale dell'autorizzazione. Si tratta quindi di un intervento puramente tecnico di revisione del testo giuridico.",
-      "cosa_cambia": [
-        "Nessuna modifica sostanziale per i consumatori o le imprese"
-      ],
-      "chi_interessa": "nessun impatto diretto sui cittadini",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "L'atto non produce effetti pratici; serve solo a correggere il testo giuridico per evitare incoerenze linguistiche tra le versioni ufficiali.",
-      "data_vigenza": "in vigore da subito",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32021R1975R(02)",
-      "pubblicato": "2026-09-08T00:00:00+02:00",
-      "processed_at": "2026-10-12T11:36:02.082794+00:00"
-    },
-    {
-      "id": "39c0582ea01a37f9",
-      "titolo_popolare": "Correzione all'autorizzazione del latto-N-tetrosio come nuovo alimento",
-      "titolo_originale": "CELEX:32020R0484R(01):            Rectificatif au règlement d’exécution (UE) 2020/484 de la Commission du 2 avril 2020 autorisant la mise sur le marché du lacto-N-tétraose en tant que nouvel aliment en application du règlement (UE) 2015/2283 du Parlement européen et du Conseil, et modifiant le règlement d’exécution (UE) 2017/2470 de la Commission (JO L 103 du 3.4.2020)",
-      "riassunto_esteso": "Il documento è un corrigendum, cioè una correzione tecnica, al regolamento di esecuzione UE che nel 2020 ha autorizzato l'uso del latto-N-tetrosio come nuovo alimento. La correzione riguarda soltanto le versioni linguistiche diverse dall'inglese, ad esempio quella francese, e serve a sistemare eventuali errori di testo senza modificare il contenuto sostanziale dell'autorizzazione. In pratica, il latto-N-tetrosio rimane autorizzato per essere impiegato nei prodotti alimentari, così come già previsto dal regolamento originale. L'adozione di questo corrigendum garantisce che tutti i testi ufficiali nelle varie lingue siano coerenti e privi di refusi. Non introduce nuovi obblighi né cambiamenti per i consumatori o le imprese.",
-      "cosa_cambia": [
-        "Nessuna modifica pratica per i consumatori o le imprese",
-        "Solo una correzione di testo nelle versioni linguistiche non inglesi del regolamento"
-      ],
-      "chi_interessa": "tutti i cittadini",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "Nessun impatto concreto sulla vita quotidiana; serve soltanto a garantire la correttezza giuridica dei testi normativi nelle diverse lingue.",
-      "data_vigenza": "in vigore da subito",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32020R0484R(01)",
-      "pubblicato": "2026-09-08T00:00:00+02:00",
-      "processed_at": "2026-10-13T11:21:13.262421+00:00"
-    },
-    {
-      "id": "84746b35acf63834",
-      "titolo_popolare": "Correzione al regolamento sui grilli commestibili",
-      "titolo_originale": "CELEX:32022R0188R(01):            Rectificatif au règlement d’exécution (UE) 2022/188 de la Commission du 10 février 2022 autorisant la mise sur le marché de formes congelée, séchée et en poudre d’Acheta domesticus en tant que nouvel aliment en application du règlement (UE) 2015/2283 du Parlement européen et du Conseil et modifiant le règlement d’exécution (UE) 2017/2470 de la Commission (JO L 30 du 11.2.2022)",
-      "riassunto_esteso": "Il documento è un corrigendum, cioè una correzione, al regolamento di esecuzione che autorizza l'immissione in commercio di forme congelate, essiccate e in polvere di Acheta domesticus, il grillo domestico, come nuovo alimento. Questa correzione non riguarda la versione inglese del testo, ma serve a sistemare eventuali errori di traduzione o di formulazione nelle altre lingue ufficiali dell'Unione europea. L'obiettivo è garantire che tutti i versioni linguistiche del regolamento siano coerenti e prive di refusi che potrebbero creare confusione. Non introduce nuovi requisiti né modifica sostanzialmente le disposizioni già in vigore. Si tratta quindi di un intervento puramente tecnico di miglioramento della qualità giuridica del testo.",
-      "cosa_cambia": [
-        "nessuna modifica sostanziale per i cittadini o le imprese"
-      ],
-      "chi_interessa": "nessun impatto diretto sui cittadini",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "nessun effetto pratico sulla vita quotidiana; serve solo a correggere i testi normativi in alcune lingue.",
-      "data_vigenza": "in vigore da subito",
-      "categoria": "Altro",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32022R0188R(01)",
-      "pubblicato": "2026-09-08T00:00:00+02:00",
-      "processed_at": "2026-10-14T09:06:19.442791+00:00"
-    },
-    {
-      "id": "a7055f5dacdc59d4",
-      "titolo_popolare": "Rinnovo dell'autorizzazione del fosfino come pesticida",
-      "titolo_originale": "CELEX:32026R1968: Commission Implementing Regulation (EU) 2026/1968 of 7 September 2026 renewing the approval of the active substance phosphine in accordance with Regulation (EC) No 1107/2009 of the European Parliament and of the Council, and amending Commission Implementing Regulation (EU) No 540/2011",
-      "riassunto_esteso": "La Commissione europea ha rinnovato l'approvazione del fosfino, sostanza attiva utilizzata come fumigante nei prodotti fitosanitari, in linea con il regolamento sui pesticidi. Questa decisione permette agli agricoltori e agli operatori dello stoccaggio di continuare a usare il fosfino per proteggere i raccolti immagazzinati da insetti e parassiti. Il rinnovo è basato su una nuova valutazione di sicurezza che conferma che il prodotto può essere usato rispettando determinate condizioni d'uso. L'atto modifica inoltre il precedente regolamento di attuazione per aggiornare le disposizioni relative al fosfino.",
-      "cosa_cambia": [
-        "Gli utilizzatori possono continuare ad acquistare e applicare prodotti a base di fosfino secondo le nuove condizioni indicate in etichetta",
-        "È necessario rispettare eventuali limiti di dose e tempi di attesa aggiornati per garantire la sicurezza alimentare",
-        "Le etichette dei prodotti devono riportare le nuove avvertenze e le istruzioni d'uso aggiornate",
-        "I controlli ufficiali potranno verificare il rispetto delle nuove condizioni di utilizzo"
-      ],
-      "chi_interessa": "agricoltori e gestori di magazzini che utilizzano fumiganti a base di fosfino per la protezione dei prodotti agricoli",
-      "cosa_devi_fare": "verificare che i prodotti fosfino utilizzati siano autorizzati e rispettare le nuove indicazioni d'uso riportate in etichetta",
-      "impatto": "Garantisce la continuità di un efficace fumigante per proteggere i raccolti immagazzinati, mantenendo alti standard di sicurezza per gli alimenti e l'ambiente.",
-      "data_vigenza": "in vigore dal 7 settembre 2026",
-      "categoria": "Agricoltura e Alimentare",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1968",
-      "pubblicato": "2026-09-08T00:00:00+02:00",
-      "processed_at": "2026-10-14T09:07:48.690331+00:00"
-    },
-    {
-      "id": "a9d4f9a92133f531",
-      "titolo_popolare": "Nuove norme UE per dispositivi radio e di localizzazione",
-      "titolo_originale": "CELEX:32026D2003: Commission Implementing Decision (EU) 2026/2003 of 4 September 2026 amending Implementing Decision (EU) 2022/2191 as regards harmonised standards for radiodetermination equipment for location tracking applications, cellular communication base station, ultra-wide band devices, material sensing devices, fixed radio systems, tank level probing radar equipment, amplifiers, active antennas, air traffic control sensors, and other radio equipment, and correcting Implementing Decision (EU) 2025/2499",
-      "riassunto_esteso": "La decisione aggiorna le norme armonizzate per varie tipologie di apparecchiature radio, includendo dispositivi di localizzazione, stazioni base cellulari, dispositivi ultra-wide band e altri equipaggiamenti. Questo aggiornamento tiene conto dei progressi tecnologici e corregge errori presenti in una decisione precedente del 2025. L'obiettivo è garantire che tutti questi prodotti rispettino requisiti comuni di sicurezza, salute e interoperabilità nell'Unione Europea. In questo modo si facilita la loro libera circolazione sul mercato unico e si riducono gli ostacoli tecnici agli scambi.",
-      "cosa_cambia": [
-        "I produttori devono applicare le nuove specifiche tecniche per dispositivi di localizzazione e tracking",
-        "Le stazioni base cellulari devono rispettare requisiti aggiornati di emissione e immunità",
-        "Gli apparecchi ultra-wide band e i sistemi di sensing devono seguire norme armonizzate riviste",
-        "Gli amplificatori e le antenne attive sono soggetti a nuovi criteri di valutazione della conformità"
-      ],
-      "chi_interessa": "produttori e importatori di apparecchiature radio, inclusi quelli di telecomunicazioni e sensori",
-      "cosa_devi_fare": "Verificare la conformità dei prodotti alle nuove norme armonizzate e aggiornare la documentazione CE",
-      "impatto": "Maggiore sicurezza e interoperabilità dei dispositivi radio, facilitando la libera circolazione nel mercato unico.",
-      "data_vigenza": "in vigore dal 4 settembre 2026",
-      "categoria": "Imprese e Mercato",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2003",
-      "pubblicato": "2026-09-07T00:00:00+02:00",
-      "processed_at": "2026-10-10T10:19:36.367652+00:00"
-    },
-    {
-      "id": "e6d0adb90e59959b",
-      "titolo_popolare": "Correzione tecnica di un regolamento UE",
-      "titolo_originale": "CELEX:32023R0915R(08)",
-      "riassunto_esteso": "Il documento è un corrigendum, cioè una correzione di errori materiali presenti nelle versioni non inglesi di un regolamento europeo. Non modifica il contenuto sostanziale della norma, ma si limita a sistemare refusi o imprecisioni di traduzione. È stato adottato per garantire che tutti i testi ufficiali nelle lingue dell'Unione siano coerenti e privi di refusi. Poiché riguarda solo le versioni linguistiche, non introduce nuovi obblighi o diritti per i cittadini. La correzione è stata pubblicata nella Gazzetta ufficiale dell'Unione europea.",
-      "cosa_cambia": [
-        "nessuna modifica sostanziale delle norme applicabili ai cittadini",
-        "nessun nuovo obbligo o diritto introdotto",
-        "nessuna variazione nei procedimenti amministrativi o fiscali"
-      ],
-      "chi_interessa": "tutti i cittadini dell'UE (nessun impatto diretto)",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "Il corrigendum non produce effetti concreti sulla vita quotidiana; serve solo a garantire la correttezza dei testi giuridici nelle varie lingue.",
-      "data_vigenza": "in vigore da subito",
-      "categoria": "Iter Legislativo",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32023R0915R(08)",
-      "pubblicato": "2026-09-07T00:00:00+02:00",
-      "processed_at": "2026-10-11T10:30:30.411945+00:00"
-    },
-    {
-      "id": "d46976abec059406",
-      "titolo_popolare": "Correzione tecnica all'elenco UE dei nuovi alimenti",
-      "titolo_originale": "CELEX:32018R1023R(04):            Rectificatif au règlement d’exécution (UE) 2018/1023 de la Commission du 23 juillet 2018 portant rectification du règlement d’exécution (UE) 2017/2470 établissant la liste de l’Union des nouveaux aliments (JO L 187 du 24.7.2018)",
-      "riassunto_esteso": "L'atto è un corrigendum al regolamento di esecuzione (UE) 2017/2470, che stabilisce l'elenco dell'Unione dei nuovi alimenti. Serve a correggere piccoli errori di forma presenti nelle versioni linguistiche diverse dall'inglese del regolamento. La correzione è stata adottata per garantire che il testo ufficiale sia accurato in tutte le lingue ufficiali dell'Unione europea. Non modifica il contenuto sostanziale dell'elenco dei nuovi alimenti né introduce nuovi requisiti. Pertanto, per cittadini e imprese non ci sono effetti pratici derivanti da questo atto.",
-      "cosa_cambia": [
-        "Nessuna modifica sostanziale per i cittadini"
-      ],
-      "chi_interessa": "nessun gruppo specifico",
-      "cosa_devi_fare": "nessuna azione richiesta",
-      "impatto": "Nessun impatto concreto sui cittadini; serve solo a correggere errori di testo nelle versioni linguistiche non inglesi.",
-      "data_vigenza": "non specificato",
-      "categoria": "Agricoltura e Alimentare",
-      "importanza": 1,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32018R1023R(04)",
-      "pubblicato": "2026-09-07T00:00:00+02:00",
-      "processed_at": "2026-10-11T10:31:03.157642+00:00"
-    },
-    {
-      "id": "a742100c9a8e692e",
-      "titolo_popolare": "Aggiornamento norme di sicurezza per macchinari",
-      "titolo_originale": "CELEX:32026D2015: Commission Implementing Decision (EU) 2026/2015 of 4 September 2026 amending and repealing Commission Implementing Decision (EU) 2023/1586 as regards harmonised standards for machinery drafted in support of Directive 2006/42/EC of the European Parliament and of the Council",
-      "riassunto_esteso": "La decisione aggiorna l'elenco delle norme armonizzate che i fabbricanti possono utilizzare per dimostrare che le loro macchine rispettano i requisiti di sicurezza della direttiva macchine. Sostituisce la decisione del 2023, introducendo nuove norme tecniche e ritirando quelle ormai obsolete. Questo adeguamento tiene conto dei progressi tecnologici e delle lezioni apprese dall'applicazione precedente. L'obiettivo è migliorare la sicurezza delle macchine immesse sul mercato e facilitare gli scambi commerciali nell'UE. Il cambiamento riguarda principalmente produttori, importatori e le autorità di vigilanza del mercato.",
-      "cosa_cambia": [
-        "I fabbricanti devono fare riferimento alle nuove norme armonizzate per la dichiarazione di conformità delle macchine.",
-        "Gli importatori devono verificare che le macchine provenienti da fuori l'UE rispettino le norme aggiornate.",
-        "Le autorità di controllo del mercato applicano i nuovi criteri quando verificano la sicurezza delle macchine in circolazione."
-      ],
-      "chi_interessa": "produttori, importatori e responsabili della messa in servizio di macchinari nell'UE",
-      "cosa_devi_fare": "Verificare che le proprie macchine rispettino le nuove norme armonizzate e aggiornare la documentazione di conformità.",
-      "impatto": "Le macchine in uso saranno più sicure, riducendo il rischio di incidenti sul lavoro e nella vita quotidiana. Questo aumenta la fiducia dei consumatori e tutela i lavoratori.",
-      "data_vigenza": "in vigore dal 4 settembre 2026",
-      "categoria": "Imprese e Mercato",
-      "importanza": 2,
-      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-      "paese": "EU",
-      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2015",
-      "pubblicato": "2026-09-07T00:00:00+02:00",
-      "processed_at": "2026-10-12T11:31:13.816194+00:00"
     },
     {
       "id": "bb68323283680c7d",
