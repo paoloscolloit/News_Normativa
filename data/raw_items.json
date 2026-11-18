@@ -1,137 +1,5 @@
 [
   {
-    "id": "68a98ae9f15d1221",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32024L1619R(03)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32024L1619R(03)",
-    "pubblicato": "2026-09-11T00:00:00+02:00",
-    "summary_raw": "The corrigendum does not concern the English version.",
-    "fetched_at": "2026-09-11T08:23:59.879835+00:00",
-    "processed": false
-  },
-  {
-    "id": "d6a6c8881514da35",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026R2026: Commission Implementing Regulation (EU) 2026/2026 of 10 September 2026 amending Implementing Regulation (EU) 2025/524 as regards administrative changes to the Union authorisation of the biocidal product family Sodium hypochlorite Liquid disinfectant biocidal product family",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2026",
-    "pubblicato": "2026-09-11T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-09-11T08:23:59.879979+00:00",
-    "processed": false
-  },
-  {
-    "id": "808effaa5b994b97",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026R1221: Commission Delegated Regulation (EU) 2026/1221 of 4 June 2026 amending Regulation (EU) No 575/2013 of the European Parliament and of the Council as regards temporary targeted operational relief measures and targeted multipliers for the calculation of an institution’s own funds requirements for market risk",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1221",
-    "pubblicato": "2026-09-11T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-09-11T08:23:59.880087+00:00",
-    "processed": false
-  },
-  {
-    "id": "759fb87f836f0411",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026R0131R(03)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R0131R(03)",
-    "pubblicato": "2026-09-11T00:00:00+02:00",
-    "summary_raw": "The corrigendum does not concern the English version.",
-    "fetched_at": "2026-09-11T08:23:59.880190+00:00",
-    "processed": true
-  },
-  {
-    "id": "fad5156485db36fa",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026R2025: Commission Implementing Regulation (EU) 2026/2025 of 10 September 2026 renewing the approval of the active substance mecoprop-P as a candidate for substitution in accordance with Regulation (EC) No 1107/2009 of the European Parliament and of the Council, and amending Commission Implementing Regulation (EU) No 540/2011",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2025",
-    "pubblicato": "2026-09-11T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-09-11T08:23:59.880293+00:00",
-    "processed": true
-  },
-  {
-    "id": "8f3d47d35ef2bec3",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026D2037: Decision (EU) 2026/2037 of the European Central Bank of 21 August 2026 amending Decision (EU) 2021/1442 on delegation of the power to adopt decisions on internal models and on extension of deadlines (ECB/2021/38) (ECB/2026/20)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2037",
-    "pubblicato": "2026-09-11T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-09-11T08:23:59.880394+00:00",
-    "processed": false
-  },
-  {
-    "id": "1757ade7d0f14fec",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026R1470: Commission Delegated Regulation (EU) 2026/1470 of 2 July 2026 amending Delegated Regulation (EU) 2022/2202 by updating the list of selected cross-border projects in the field of renewable energy",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1470",
-    "pubblicato": "2026-09-11T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-09-11T08:23:59.880492+00:00",
-    "processed": false
-  },
-  {
-    "id": "1d37440ee2e10bf1",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32024R0249R(06)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32024R0249R(06)",
-    "pubblicato": "2026-09-11T00:00:00+02:00",
-    "summary_raw": "The corrigendum does not concern the English version.",
-    "fetched_at": "2026-09-11T08:23:59.880593+00:00",
-    "processed": true
-  },
-  {
-    "id": "032a0f730e785925",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026R2022: Commission Implementing Regulation (EU) 2026/2022 of 10 September 2026 making imports of welded steel mesh originating in the People’s Republic of China and Türkiye subject to registration with a view to allowing the levy of anti-dumping duties on the imports subject to registration",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2022",
-    "pubblicato": "2026-09-11T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-09-11T08:23:59.880693+00:00",
-    "processed": false
-  },
-  {
-    "id": "8ebe7510e5c0fd13",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026R1782R(02)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1782R(02)",
-    "pubblicato": "2026-09-11T00:00:00+02:00",
-    "summary_raw": "The corrigendum does not concern the English version.",
-    "fetched_at": "2026-09-11T08:23:59.880818+00:00",
-    "processed": true
-  },
-  {
-    "id": "04fc7d7d057a3e9e",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026D2036: Decision (EU) 2026/2036 of the European Central Bank of 21 August 2026 on delegation of the power to adopt decisions on material changes to rating systems for calculating own funds requirements for credit risk (ECB/2026/19)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2036",
-    "pubblicato": "2026-09-11T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-09-11T08:23:59.880925+00:00",
-    "processed": true
-  },
-  {
     "id": "6c5ac2b3c7128265",
     "source_id": "eurlex_oj_l",
     "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
@@ -273,7 +141,7 @@
     "pubblicato": "2026-09-14T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-09-14T09:18:56.690163+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "c9a385188968590c",
@@ -369,7 +237,7 @@
     "pubblicato": "2026-09-14T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-09-14T09:18:56.690528+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "5cc305226ec067ce",
@@ -453,7 +321,7 @@
     "pubblicato": "2026-09-15T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-09-15T09:00:53.995916+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "b1f7a60f98abecfa",
@@ -549,7 +417,7 @@
     "pubblicato": "2026-09-16T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-09-16T08:53:23.675027+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "0f5177eba9bf5751",
@@ -5997,6 +5865,138 @@
     "pubblicato": "2026-11-17T00:00:00+01:00",
     "summary_raw": "",
     "fetched_at": "2026-11-17T12:34:10.701675+00:00",
+    "processed": false
+  },
+  {
+    "id": "db0c1e59098ad380",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D2552: Council Decision (EU) 2026/2552 of 9 November 2026 on the position to be taken on behalf of the European Union within the Committee on Customs established under the Free Trade Agreement between the European Union and the Republic of Singapore concerning the mutual recognition of the Secure Trade Partnership Plus Programme of Singapore and the Authorised Economic Operator Programme of the European Union",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2552",
+    "pubblicato": "2026-11-18T00:00:00+01:00",
+    "summary_raw": "",
+    "fetched_at": "2026-11-18T12:22:56.674376+00:00",
+    "processed": false
+  },
+  {
+    "id": "6c1c5ff0b4767884",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D2539: Commission Implementing Decision (EU) 2026/2539 of 17 November 2026 amending Implementing Decision (EU) 2024/2103 as regards harmonised standards for unmanned aircraft drafted in support of Delegated Regulation (EU) 2019/945",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2539",
+    "pubblicato": "2026-11-18T00:00:00+01:00",
+    "summary_raw": "",
+    "fetched_at": "2026-11-18T12:22:56.674485+00:00",
+    "processed": false
+  },
+  {
+    "id": "203d8d69cc3be05e",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D2582: Commission Implementing Decision (EU) 2026/2582 of 16 November 2026 amending the Annex to Implementing Decision (EU) 2023/2447 concerning emergency measures in relation to outbreaks of highly pathogenic avian influenza in certain Member States (notified under document C(2026) 8277)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2582",
+    "pubblicato": "2026-11-18T00:00:00+01:00",
+    "summary_raw": "",
+    "fetched_at": "2026-11-18T12:22:56.674571+00:00",
+    "processed": false
+  },
+  {
+    "id": "72455d2bb18e9ed4",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R2537: Commission Implementing Regulation (EU) 2026/2537 of 17 November 2026 establishing the standard data communication form in accordance with Article 29 of Directive (EU) 2019/1023 of the European Parliament and of the Council",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2537",
+    "pubblicato": "2026-11-18T00:00:00+01:00",
+    "summary_raw": "",
+    "fetched_at": "2026-11-18T12:22:56.674651+00:00",
+    "processed": false
+  },
+  {
+    "id": "bcfddc033356881d",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D2553: Council Decision (EU) 2026/2553 of 9 November 2026 on the position to be adopted on behalf of the European Union within the EEA Joint Committee concerning an amendment to Annex IX (Financial services) to the EEA Agreement (EMIR CCP) (Text with EEA relevance)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2553",
+    "pubblicato": "2026-11-18T00:00:00+01:00",
+    "summary_raw": "",
+    "fetched_at": "2026-11-18T12:22:56.674739+00:00",
+    "processed": false
+  },
+  {
+    "id": "4ea083ae9241f954",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R2538: Commission Implementing Regulation (EU) 2026/2538 of 17 November 2026 correcting Implementing Regulation (EU) 2025/1919 imposing a definitive anti-dumping duty and definitively collecting the provisional duty imposed on imports of certain hot-rolled flat products of iron, non-alloy or other alloy steel originating in Egypt, Japan and Vietnam, and terminating the investigation on imports thereof originating in India",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2538",
+    "pubblicato": "2026-11-18T00:00:00+01:00",
+    "summary_raw": "",
+    "fetched_at": "2026-11-18T12:22:56.674818+00:00",
+    "processed": false
+  },
+  {
+    "id": "3f4baac16f79180b",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D2555: Council Decision (EU) 2026/2555 of 9 November 2026 on the position to be taken on behalf of the European Union within the EU-Central America Association Council concerning an amendment to Decision No 2/2020 of the EU-Central America Association Council to replace the Explanatory Note to Article 19 of Annex II to the Agreement establishing an Association between the European Union and its Member States, on the one hand, and Central America on the other and to insert Explanatory Notes to Articles 22 and 27 of Annex II to that Agreement",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2555",
+    "pubblicato": "2026-11-18T00:00:00+01:00",
+    "summary_raw": "",
+    "fetched_at": "2026-11-18T12:22:56.674895+00:00",
+    "processed": false
+  },
+  {
+    "id": "87a3affebcac30c1",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32023R1230R(05):            Berichtigung der Verordnung (EU) 2023/1230 des Europäischen Parlaments und des Rates vom 14. Juni 2023 über Maschinen und zur Aufhebung der Richtlinie 2006/42/EG des Europäischen Parlaments und des Rates und der Richtlinie 73/361/EWG des Rates (ABl. L 165 vom 29.6.2023)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32023R1230R(05)",
+    "pubblicato": "2026-11-18T00:00:00+01:00",
+    "summary_raw": "The corrigendum does not concern the English version.",
+    "fetched_at": "2026-11-18T12:22:56.674977+00:00",
+    "processed": false
+  },
+  {
+    "id": "a82b5ac6e7b7cfbe",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D2542: Council Decision (EU) 2026/2542 of 9 November 2026 on the position to be taken on behalf of the European Union within the World Forum for Harmonization of Vehicle Regulations of the United Nations Economic Commission for Europe concerning the November 2026 proposals for UN regulations",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2542",
+    "pubblicato": "2026-11-18T00:00:00+01:00",
+    "summary_raw": "",
+    "fetched_at": "2026-11-18T12:22:56.675056+00:00",
+    "processed": false
+  },
+  {
+    "id": "2236c633fa8fe5e1",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R2035: Commission Delegated Regulation (EU) 2026/2035 of 11 September 2026 amending Regulation (EU) 2019/1021 of the European Parliament and of the Council as regards medium chain chlorinated paraffins",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2035",
+    "pubblicato": "2026-11-18T00:00:00+01:00",
+    "summary_raw": "",
+    "fetched_at": "2026-11-18T12:22:56.675134+00:00",
+    "processed": false
+  },
+  {
+    "id": "7c606ae2ddb9ed90",
+    "source_id": "agenzia_entrate",
+    "fonte": "Agenzia delle Entrate",
+    "paese": "IT",
+    "titolo_originale": "Interpello: Imposta sostitutiva dell'IRPEF, prevista per le persone fisiche titolari di redditi da pensione di fonte estera: adesione al piano pensionistico Self–Invested Personal Pension (SIPP), articolo 24–ter del d.P.R. 22 dicembre 1986, n. 917 (risposta n. 218)",
+    "url": "https://www.agenziaentrate.gov.it/portale/documents/20143/10443592/Risposta+n.+218_2026/3dd9e126-690b-7d4f-72da-ed7d2cf997fd",
+    "pubblicato": "2026-11-18T00:00:00+00:00",
+    "summary_raw": "",
+    "fetched_at": "2026-11-18T12:22:58.196088+00:00",
     "processed": false
   }
 ]
