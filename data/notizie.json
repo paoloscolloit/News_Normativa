@@ -1,7 +1,49 @@
 {
-  "last_updated": "2026-11-18T12:27:13.937705+00:00",
-  "total": 1,
+  "last_updated": "2026-11-19T12:21:02.950999+00:00",
+  "total": 3,
   "items": [
+    {
+      "id": "037c19604fb82baa",
+      "titolo_popolare": "Nuove regole per il monitoraggio delle malattie in Europa",
+      "titolo_originale": "CELEX:32026R2096: Commission Implementing Regulation (EU) 2026/2096 of 18 September 2026 establishing procedures for the operation of the network for epidemiological surveillance",
+      "riassunto_esteso": "L'Unione Europea ha stabilito nuove procedure per far funzionare la rete di sorveglianza epidemiologica. Questo regolamento serve a coordinare meglio come i vari Stati membri raccolgono e scambiano i dati sulle malattie. L'obiettivo è creare un sistema più rapido ed efficiente per individuare precocemente eventuali epidemie. In questo modo, l'Europa può reagire più velocemente per proteggere la salute pubblica. La norma definisce i passaggi tecnici e organizzativi per far dialogare i sistemi sanitari nazionali.",
+      "cosa_cambia": [
+        "I dati sulle malattie vengono scambiati tra i paesi UE in modo più standardizzato",
+        "Viene creata una procedura comune per monitorare la diffusione di nuovi virus o batteri",
+        "Il coordinamento tra le autorità sanitarie nazionali e l'Europa diventa più strutturato"
+      ],
+      "chi_interessa": "Autorità sanitarie, medici e istituzioni pubbliche della salute",
+      "cosa_devi_fare": "Nessuna azione richiesta per il singolo cittadino.",
+      "impatto": "Maggiore sicurezza sanitaria grazie a un sistema di allerta precoce contro le epidemie a livello europeo.",
+      "data_vigenza": "dal 18 settembre 2026",
+      "categoria": "Salute e Farmaci",
+      "importanza": 2,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2096",
+      "pubblicato": "2026-09-21T00:00:00+02:00",
+      "processed_at": "2026-11-19T12:19:16.209379+00:00"
+    },
+    {
+      "id": "fdfdf5cc0e47a32a",
+      "titolo_popolare": "Correzione tecnica di un atto europeo",
+      "titolo_originale": "CELEX:32026O0689R(03)",
+      "riassunto_esteso": "Questo documento è un corrigendum, ovvero una rettifica formale a un atto normativo precedentemente pubblicato. Serve a correggere errori materiali o refusi presenti nel testo originale per garantirne la precisione. In questo caso specifico, la correzione non riguarda la versione in lingua inglese. Si tratta di un intervento di manutenzione del testo legale per evitare ambiguità interpretative.",
+      "cosa_cambia": [
+        "Vengono corretti alcuni errori di scrittura nel testo dell'atto originale"
+      ],
+      "chi_interessa": "gli esperti legali e i soggetti che applicano l'atto originale",
+      "cosa_devi_fare": "nessuna azione richiesta",
+      "impatto": "Garantisce che il testo della legge sia scritto correttamente, evitando errori di interpretazione.",
+      "data_vigenza": "in vigore da subito",
+      "categoria": "Iter Legislativo",
+      "importanza": 1,
+      "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+      "paese": "EU",
+      "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026O0689R(03)",
+      "pubblicato": "2026-09-21T00:00:00+02:00",
+      "processed_at": "2026-11-19T12:20:09.014489+00:00"
+    },
     {
       "id": "bb68323283680c7d",
       "titolo_popolare": "Nuove regole sugli interessi per i contributi INPS",
