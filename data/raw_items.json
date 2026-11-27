@@ -1,173 +1,5 @@
 [
   {
-    "id": "2d1cec41ce970283",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026D1149R(01)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D1149R(01)",
-    "pubblicato": "2026-09-21T00:00:00+02:00",
-    "summary_raw": "The corrigendum does not concern the English version.",
-    "fetched_at": "2026-09-21T09:21:26.267365+00:00",
-    "processed": true
-  },
-  {
-    "id": "162b9ac3eb7543d7",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32024R1028R(01): Corrigendum to Regulation (EU) 2024/1028 of the European Parliament and of the Council of 11 April 2024 on data collection and sharing relating to short-term accommodation rental services and amending Regulation (EU) 2018/1724 (OJ L, 2024/1028, 29.4.2024)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32024R1028R(01)",
-    "pubblicato": "2026-09-22T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-09-22T08:51:12.615131+00:00",
-    "processed": false
-  },
-  {
-    "id": "2717b51473ca4c8a",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026R2149: Commission Implementing Regulation (EU) 2026/2149 of 21 September 2026 amending Annexes V and XIV to Implementing Regulation (EU) 2021/404 as regards the entries for the United States in the lists of third countries, territories, or zones thereof authorised for the entry into the Union of consignments of poultry and germinal products of poultry, and of fresh meat of poultry and game birds",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2149",
-    "pubblicato": "2026-09-22T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-09-22T08:51:12.615219+00:00",
-    "processed": false
-  },
-  {
-    "id": "5d4369f89f312c83",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32022R0692R(03)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32022R0692R(03)",
-    "pubblicato": "2026-09-22T00:00:00+02:00",
-    "summary_raw": "The corrigendum does not concern the English version.",
-    "fetched_at": "2026-09-22T08:51:12.615294+00:00",
-    "processed": false
-  },
-  {
-    "id": "b7fdf0c6e97d4ce7",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32023L2225R(03): Corrigendum to Directive (EU) 2023/2225 of the European Parliament and of the Council of 18 October 2023 on credit agreements for consumers and repealing Directive 2008/48/EC (OJ L, 2023/2225, 30.10.2023)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32023L2225R(03)",
-    "pubblicato": "2026-09-22T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-09-22T08:51:12.615361+00:00",
-    "processed": false
-  },
-  {
-    "id": "093291e35ffecb5c",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026R2099: Commission Implementing Regulation (EU) 2026/2099 of 21 September 2026 on an interoperable, cross-border identification and authentication mechanism for natural persons, health professionals and healthcare providers for the purposes of the cross-border exchange of personal electronic health data",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2099",
-    "pubblicato": "2026-09-22T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-09-22T08:51:12.615424+00:00",
-    "processed": false
-  },
-  {
-    "id": "9b940ac682d8fbc0",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026D2123: Commission Implementing Decision (EU) 2026/2123 of 17 September 2026 amending Implementing Decision (EU) 2024/2207 concerning certain emergency measures relating to sheep pox and goat pox in Greece (notified under document C(2026) 6699)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2123",
-    "pubblicato": "2026-09-22T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-09-22T08:51:12.615484+00:00",
-    "processed": false
-  },
-  {
-    "id": "a263764e69db712d",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32018R0669R(03):            Rectificatif au règlement (UE) 2018/669 de la Commission du 16 avril 2018 modifiant, aux fins de son adaptation au progrès technique et scientifique, le règlement (CE) no 1272/2008 du Parlement européen et du Conseil relatif à la classification, à l’étiquetage et à l’emballage des substances et des mélanges (JO L 115 du 4.5.2018)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32018R0669R(03)",
-    "pubblicato": "2026-09-22T00:00:00+02:00",
-    "summary_raw": "The corrigendum does not concern the English version.",
-    "fetched_at": "2026-09-22T08:51:12.615544+00:00",
-    "processed": true
-  },
-  {
-    "id": "7e981ac2e422bb17",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32024L1785R(01)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32024L1785R(01)",
-    "pubblicato": "2026-09-22T00:00:00+02:00",
-    "summary_raw": "The corrigendum does not concern the English version.",
-    "fetched_at": "2026-09-22T08:51:12.615605+00:00",
-    "processed": false
-  },
-  {
-    "id": "d542941debb1fc33",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026R2138: Council Implementing Regulation (EU) 2026/2138 of 22 September 2026 implementing Article 11(4) of Regulation (EU) No 753/2011 concerning restrictive measures directed against certain individuals, groups, undertakings and entities in view of the situation in Afghanistan",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2138",
-    "pubblicato": "2026-09-23T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-09-23T08:52:50.749351+00:00",
-    "processed": false
-  },
-  {
-    "id": "051ce24f53f71bb1",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026D2156: Council Decision (CFSP) 2026/2156 of 22 September 2026 amending Decision (CFSP) 2020/1465 on a European Union action in support of the United Nations Verification and Inspection Mechanism in Yemen",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2156",
-    "pubblicato": "2026-09-23T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-09-23T08:52:50.749472+00:00",
-    "processed": false
-  },
-  {
-    "id": "1837576e064aa8a5",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026D0075R(02):            Rectificatif à la décision d’exécution (UE) 2026/75 de la Commission du 12 janvier 2026 relative à l’équivalence des matériels de multiplication de plantes fruitières et des plantes fruitières destinées à la production de fruits produits dans certains pays tiers en ce qui concerne les obligations du fournisseur, l’identité, les caractères, les aspects phytosanitaires, le milieu de culture, les modalités d’inspection, l’étiquetage, la fermeture et l’emballage [notifiée sous le numéro C(2026) 30] (JO L, 2026/75, 14.1.2026)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D0075R(02)",
-    "pubblicato": "2026-09-23T00:00:00+02:00",
-    "summary_raw": "The corrigendum does not concern the English version.",
-    "fetched_at": "2026-09-23T08:52:50.749605+00:00",
-    "processed": false
-  },
-  {
-    "id": "1070671062881e47",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026R2107: Commission Implementing Regulation (EU) 2026/2107 of 22 September 2026 imposing a definitive countervailing duty on imports of continuous filament glass fibre products (GFR) originating in Egypt following an expiry review pursuant to Article 18 of Regulation (EU) 2016/1037 of the European Parliament and of the Council",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2107",
-    "pubblicato": "2026-09-23T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-09-23T08:52:50.749712+00:00",
-    "processed": false
-  },
-  {
-    "id": "b9c16a04a9160930",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026D2137: Council Implementing Decision (CFSP) 2026/2137 of 22 September 2026 implementing Decision 2011/486/CFSP concerning restrictive measures directed against certain individuals, groups, undertakings and entities in view of the situation in Afghanistan",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2137",
-    "pubblicato": "2026-09-23T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-09-23T08:52:50.749811+00:00",
-    "processed": true
-  },
-  {
     "id": "5a0655c02bc70c40",
     "source_id": "eurlex_oj_l",
     "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
@@ -177,7 +9,7 @@
     "pubblicato": "2026-09-23T00:00:00+02:00",
     "summary_raw": "The corrigendum does not concern the English version.",
     "fetched_at": "2026-09-23T08:52:50.749913+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "fc7af81ffcfcdd80",
@@ -273,7 +105,7 @@
     "pubblicato": "2026-09-23T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-09-23T08:52:50.750766+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "228a4032f7994bb8",
@@ -345,7 +177,7 @@
     "pubblicato": "2026-09-24T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-09-24T08:50:55.389285+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "852fcfb1c505aacd",
@@ -441,7 +273,7 @@
     "pubblicato": "2026-09-24T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-09-24T08:50:55.390015+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "9e130b033ea2a306",
@@ -525,7 +357,7 @@
     "pubblicato": "2026-09-24T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-09-24T08:50:55.390598+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "f4c2d3e2269777f8",
@@ -5997,6 +5829,174 @@
     "pubblicato": "2026-11-24T00:00:00+00:00",
     "summary_raw": "",
     "fetched_at": "2026-11-24T14:21:25.763345+00:00",
+    "processed": false
+  },
+  {
+    "id": "279f1a69f464706d",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R2534: Regulation (EU) 2026/2534 of the European Parliament and of the Council of 21 October 2026 amending Regulation (EU) 2017/2107 laying down management, conservation and control measures applicable in the Convention area of the International Commission for the Conservation of Atlantic Tunas (ICCAT), Regulation (EU) 2018/975 laying down management, conservation and control measures applicable in the South Pacific Regional Fisheries Management Organisation (SPRFMO) Convention Area, Regulation (EU) 2019/833 laying down conservation and enforcement measures applicable in the Regulatory Area of the Northwest Atlantic Fisheries Organisation, Regulation (EU) 2021/56 laying down management, conservation and control measures applicable in the Inter-American Tropical Tuna Convention, Regulation (EU) 2022/2056 laying down conservation and management measures applicable in the Western and Central Pacific Fisheries Convention Area, Regulation (EU) 2022/2343 laying down management, conservation and control measures applicable in the Indian Ocean Tuna Commission (IOTC) Area of Competence, and Regulation (EU) 2023/2053 establishing a multiannual management plan for bluefin tuna in the eastern Atlantic and the Mediterranean",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2534",
+    "pubblicato": "2026-11-27T00:00:00+01:00",
+    "summary_raw": "",
+    "fetched_at": "2026-11-27T13:14:56.763699+00:00",
+    "processed": false
+  },
+  {
+    "id": "e9f0d4084b414d7a",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32024D2840R(01)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32024D2840R(01)",
+    "pubblicato": "2026-11-27T00:00:00+01:00",
+    "summary_raw": "The corrigendum does not concern the English version.",
+    "fetched_at": "2026-11-27T13:14:56.763835+00:00",
+    "processed": false
+  },
+  {
+    "id": "b2b6a9d253170a2f",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D2296R(01)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2296R(01)",
+    "pubblicato": "2026-11-27T00:00:00+01:00",
+    "summary_raw": "The corrigendum does not concern the English version.",
+    "fetched_at": "2026-11-27T13:14:56.763948+00:00",
+    "processed": false
+  },
+  {
+    "id": "c821e0957e6eeb6e",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32024D1455R(01)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32024D1455R(01)",
+    "pubblicato": "2026-11-27T00:00:00+01:00",
+    "summary_raw": "The corrigendum does not concern the English version.",
+    "fetched_at": "2026-11-27T13:14:56.764055+00:00",
+    "processed": false
+  },
+  {
+    "id": "c7b93b9d449aa740",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D2611: Commission Implementing Decision (EU) 2026/2611 of 26 November 2026 amending Implementing Decision (EU) 2024/2944 as regards harmonised standards for domestic cooking appliances burning gas and automatic shut-off valves for gas burners and gas appliances, drafted in support of Regulation (EU) 2016/426 of the European Parliament and of the Council",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2611",
+    "pubblicato": "2026-11-27T00:00:00+01:00",
+    "summary_raw": "",
+    "fetched_at": "2026-11-27T13:14:56.764158+00:00",
+    "processed": false
+  },
+  {
+    "id": "37e2bb08837063f2",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R2092: Commission Delegated Regulation (EU) 2026/2092 of 18 September 2026 amending Delegated Regulation (EU) 2022/1644 as regards certain criteria for the selection of samples",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2092",
+    "pubblicato": "2026-11-27T00:00:00+01:00",
+    "summary_raw": "",
+    "fetched_at": "2026-11-27T13:14:56.764259+00:00",
+    "processed": false
+  },
+  {
+    "id": "792aacd57ac40ac8",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D2642: Political and Security Committee Decision (CFSP) 2026/2642 of 24 November 2026 on the reconfirmation of the authorisation of the European Union military operation in the Mediterranean (EUNAVFOR MED IRINI) (EUNAVFOR MED IRINI/5/2026)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2642",
+    "pubblicato": "2026-11-27T00:00:00+01:00",
+    "summary_raw": "",
+    "fetched_at": "2026-11-27T13:14:56.764359+00:00",
+    "processed": false
+  },
+  {
+    "id": "13c053db3386e487",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32025R0040R(08):            Berichtigung der Verordnung (EU) 2025/40 des Europäischen Parlaments und des Rates vom 19. Dezember 2024 über Verpackungen und Verpackungsabfälle, zur Änderung der Verordnung (EU) 2019/1020 und der Richtlinie (EU) 2019/904 sowie zur Aufhebung der Richtlinie 94/62/EG (ABl. L, 2025/40, 22.1.2025)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32025R0040R(08)",
+    "pubblicato": "2026-11-27T00:00:00+01:00",
+    "summary_raw": "The corrigendum does not concern the English version.",
+    "fetched_at": "2026-11-27T13:14:56.764463+00:00",
+    "processed": false
+  },
+  {
+    "id": "d3ee0df125e7907b",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026R2617: Commission Delegated Regulation (EU) 2026/2617 of 9 July 2026 supplementing Regulation (EU) 2024/3012 of the European Parliament and of the Council by establishing the certification methodologies for carbon farming activities",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R2617",
+    "pubblicato": "2026-11-27T00:00:00+01:00",
+    "summary_raw": "",
+    "fetched_at": "2026-11-27T13:14:56.764592+00:00",
+    "processed": false
+  },
+  {
+    "id": "e7b0c012f74e6d1a",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026D2602: Commission Implementing Decision (EU) 2026/2602 of 25 November 2026 renewing the authorisation for placing on the market of products containing, consisting of or produced from genetically modified soybean MON 87769 pursuant to Regulation (EC) No 1829/2003 of the European Parliament and of the Council (notified under document C(2026) 8329)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2602",
+    "pubblicato": "2026-11-27T00:00:00+01:00",
+    "summary_raw": "",
+    "fetched_at": "2026-11-27T13:14:56.764700+00:00",
+    "processed": false
+  },
+  {
+    "id": "5afb7ed8f031adf2",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32023R0956R(05)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32023R0956R(05)",
+    "pubblicato": "2026-11-27T00:00:00+01:00",
+    "summary_raw": "The corrigendum does not concern the English version.",
+    "fetched_at": "2026-11-27T13:14:56.764807+00:00",
+    "processed": false
+  },
+  {
+    "id": "b3cdae6c3ad93667",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32026L2610: Directive (EU) 2026/2610 of the European Parliament and of the Council of 25 November 2026 amending Directive 1999/62/EC as regards the variation of charges for heavy-duty vehicles based on their CO2 emissions and to clarify and simplify certain provisions (Text with EEA relevance)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026L2610",
+    "pubblicato": "2026-11-27T00:00:00+01:00",
+    "summary_raw": "",
+    "fetched_at": "2026-11-27T13:14:56.764907+00:00",
+    "processed": false
+  },
+  {
+    "id": "f14016e6604d5f68",
+    "source_id": "eurlex_oj_l",
+    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
+    "paese": "EU",
+    "titolo_originale": "CELEX:32024L0782R(01)",
+    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32024L0782R(01)",
+    "pubblicato": "2026-11-27T00:00:00+01:00",
+    "summary_raw": "The corrigendum does not concern the English version.",
+    "fetched_at": "2026-11-27T13:14:56.765006+00:00",
+    "processed": false
+  },
+  {
+    "id": "096ebb226abfa86c",
+    "source_id": "agenzia_entrate",
+    "fonte": "Agenzia delle Entrate",
+    "paese": "IT",
+    "titolo_originale": "Principio di diritto: Detrazione delle spese per interventi di recupero del patrimonio edilizio su parti comuni di un edificio sostenute per intero da un singolo condòmino - maggiorazione della percentuale di detrazione per interventi sull’unità immobiliare adibita ad abitazione principale – articolo 16-bis, comma 1, del d.P.R. n. 917 del 1986 – articolo 16, comma 1, del d.l. n. 63 del 2013 (risposta n. 4)",
+    "url": "https://www.agenziaentrate.gov.it/portale/documents/20143/10506302/PRINCIPIO+DI+DIRITTO_n.4_2026/c59d6498-08dc-8d87-6ef4-28d026138ab8",
+    "pubblicato": "2026-11-27T00:00:00+00:00",
+    "summary_raw": "",
+    "fetched_at": "2026-11-27T13:14:58.165396+00:00",
     "processed": false
   }
 ]
