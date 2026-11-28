@@ -1,209 +1,5 @@
 [
   {
-    "id": "5a0655c02bc70c40",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:22026D1964R(01):            Berichtigung des Beschlusses Nr. 1/2026 des Gemischten Ausschusses EU-Monaco der mit dem Abkommen zwischen der Europäischen Gemeinschaft und dem Fürstentum Monaco über die Anwendung bestimmter Rechtsakte der Gemeinschaft auf dem Gebiet des Fürstentums Monaco eingesetzt wurde vom 28. Juli 2026 zur Änderung des Anhangs jenes Abkommens [2026/1964] (ABl. L, 2026/1964, 4.9.2026)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:22026D1964R(01)",
-    "pubblicato": "2026-09-23T00:00:00+02:00",
-    "summary_raw": "The corrigendum does not concern the English version.",
-    "fetched_at": "2026-09-23T08:52:50.749913+00:00",
-    "processed": true
-  },
-  {
-    "id": "fc7af81ffcfcdd80",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026D2147: Political and Security Committee Decision (CFSP) 2026/2147 of 17 September 2026 on the appointment of the EU Mission Force Commander for the European Union military mission to contribute to the training of Somali security forces (EUTM Somalia), and repealing Decision (CFSP) 2026/236 (EUTM Somalia/2/2026)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2147",
-    "pubblicato": "2026-09-23T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-09-23T08:52:50.750012+00:00",
-    "processed": false
-  },
-  {
-    "id": "449ef663169f03b2",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026D2145: Council Decision (EU) 2026/2145 of 22 September 2026 amending Decision (EU) 2021/1875 concerning the position to be adopted on behalf of the European Union in the annual consultations with the United Kingdom to agree on total allowable catches",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2145",
-    "pubblicato": "2026-09-23T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-09-23T08:52:50.750111+00:00",
-    "processed": false
-  },
-  {
-    "id": "07a1346f2641654f",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026D2144: Council Decision (EU) 2026/2144 of 22 September 2026 amending Decision (EU) 2021/1765 on the position to be taken on behalf of the European Union, for the period 2021-2026, within the Specialised Committee on Fisheries established by the Trade and Cooperation Agreement between the European Union and the European Atomic Energy Community, of the one part, and the United Kingdom of Great Britain and Northern Ireland, of the other part",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2144",
-    "pubblicato": "2026-09-23T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-09-23T08:52:50.750205+00:00",
-    "processed": false
-  },
-  {
-    "id": "51727edd52f906d5",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32020R1182R(02)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32020R1182R(02)",
-    "pubblicato": "2026-09-23T00:00:00+02:00",
-    "summary_raw": "The corrigendum does not concern the English version.",
-    "fetched_at": "2026-09-23T08:52:50.750302+00:00",
-    "processed": false
-  },
-  {
-    "id": "f5dd7b4f6afa8e64",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:31993L0013R(13)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:31993L0013R(13)",
-    "pubblicato": "2026-09-23T00:00:00+02:00",
-    "summary_raw": "The corrigendum does not concern the English version.",
-    "fetched_at": "2026-09-23T08:52:50.750405+00:00",
-    "processed": true
-  },
-  {
-    "id": "37a3b33deec32ba2",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026D2136: Council Decision (CFSP) 2026/2136 of 22 September 2026 amending Decision (CFSP) 2025/1554 on an assistance measure under the European Peace Facility to support the Djibouti Armed Forces",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2136",
-    "pubblicato": "2026-09-23T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-09-23T08:52:50.750503+00:00",
-    "processed": false
-  },
-  {
-    "id": "7d172c59ff422092",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026R1139R(01)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1139R(01)",
-    "pubblicato": "2026-09-23T00:00:00+02:00",
-    "summary_raw": "The corrigendum does not concern the English version.",
-    "fetched_at": "2026-09-23T08:52:50.750659+00:00",
-    "processed": false
-  },
-  {
-    "id": "0ca77edd3e00afab",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026D2148: Commission Implementing Decision (EU) 2026/2148 of 21 September 2026 amending Implementing Decision (EU) 2026/820 concerning certain emergency measures relating to foot and mouth disease in Greece (notified under document C(2026) 6793)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2148",
-    "pubblicato": "2026-09-23T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-09-23T08:52:50.750766+00:00",
-    "processed": true
-  },
-  {
-    "id": "228a4032f7994bb8",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026R1753: Commission Delegated Regulation (EU) 2026/1753 of 13 July 2026 amending Regulation (EU) 2018/858 of the European Parliament and of the Council as regards the environmental performance and emission requirements for in-vehicle battery durability, brake particle emissions, electric vehicle system power, electric vehicle range at low temperature of vehicles produced in unlimited series and special purpose vehicles, and updating the list of UN Regulations recognised as alternative in Part II of Annex II to Regulation (EU) 2018/858",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026R1753",
-    "pubblicato": "2026-09-24T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-09-24T08:50:55.388766+00:00",
-    "processed": false
-  },
-  {
-    "id": "fdad094a8a3b4141",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:22026D2001: Decision of the EEA Joint Committee No 177/2026 of 5 June 2026 amending Annex IX (Financial services) to the EEA Agreement [2026/2001]",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:22026D2001",
-    "pubblicato": "2026-09-24T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-09-24T08:50:55.388894+00:00",
-    "processed": false
-  },
-  {
-    "id": "d53979c7cedb6a52",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026D2157: Political and Security Committee Decision (CFSP) 2026/2157 of 22 September 2026 extending the mandate of the Head of Mission of the European Union Border Assistance Mission for the Rafah Crossing Point (EU BAM Rafah) (EU BAM Rafah/2/2026)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2157",
-    "pubblicato": "2026-09-24T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-09-24T08:50:55.389006+00:00",
-    "processed": false
-  },
-  {
-    "id": "7a1d042c6675bf64",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:32026D2126: Council Decision (EU) 2026/2126 of 22 September 2026 on the signing of the Agreement between the People’s Democratic Republic of Algeria and the European Union on judicial cooperation in criminal matters between the competent authorities of the People’s Democratic Republic of Algeria and the European Union Agency for Criminal Justice Cooperation (Eurojust)",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:32026D2126",
-    "pubblicato": "2026-09-24T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-09-24T08:50:55.389101+00:00",
-    "processed": false
-  },
-  {
-    "id": "5ad98a488542c92b",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:22026D1983: Decision of the EEA Joint Committee No 160/2026 of 5 June 2026 amending Annex I (Veterinary and phytosanitary matters) to the EEA Agreement [2026/1983]",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:22026D1983",
-    "pubblicato": "2026-09-24T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-09-24T08:50:55.389194+00:00",
-    "processed": false
-  },
-  {
-    "id": "04a02c2631d438ce",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:22026D2009: Decision of the EEA Joint Committee No 170/2026 of 5 June 2026 amending Annex II (Technical regulations, standards, testing and certification) to the EEA Agreement [2026/2009]",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:22026D2009",
-    "pubblicato": "2026-09-24T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-09-24T08:50:55.389285+00:00",
-    "processed": true
-  },
-  {
-    "id": "852fcfb1c505aacd",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:22026D1987: Decision of the EEA Joint Committee No 183/2026 of 5 June 2026 amending Annex XX (Environment) to the EEA Agreement [2026/1987]",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:22026D1987",
-    "pubblicato": "2026-09-24T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-09-24T08:50:55.389378+00:00",
-    "processed": false
-  },
-  {
-    "id": "50619757a9443c84",
-    "source_id": "eurlex_oj_l",
-    "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
-    "paese": "EU",
-    "titolo_originale": "CELEX:22026D1989: Decision of the EEA Joint Committee No 186/2026 of 5 June 2026 amending Annex XXI (Statistics) to the EEA Agreement [2026/1989]",
-    "url": "https://eur-lex.europa.eu/./legal-content/AUTO/?uri=CELEX:22026D1989",
-    "pubblicato": "2026-09-24T00:00:00+02:00",
-    "summary_raw": "",
-    "fetched_at": "2026-09-24T08:50:55.389494+00:00",
-    "processed": false
-  },
-  {
     "id": "eeb28edc5cdb524c",
     "source_id": "eurlex_oj_l",
     "fonte": "EUR-Lex — Gazzetta UE (Serie L)",
@@ -249,7 +45,7 @@
     "pubblicato": "2026-09-24T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-09-24T08:50:55.389851+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "5c2f6e0a85342e3a",
@@ -345,7 +141,7 @@
     "pubblicato": "2026-09-24T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-09-24T08:50:55.390504+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "27d2dc4862999e1b",
@@ -441,7 +237,7 @@
     "pubblicato": "2026-09-24T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-09-24T08:50:55.391168+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "f7e73fd84389fea1",
@@ -525,7 +321,7 @@
     "pubblicato": "2026-09-24T00:00:00+02:00",
     "summary_raw": "",
     "fetched_at": "2026-09-24T08:50:55.391746+00:00",
-    "processed": false
+    "processed": true
   },
   {
     "id": "a967608e55c06902",
@@ -5997,6 +5793,210 @@
     "pubblicato": "2026-11-27T00:00:00+00:00",
     "summary_raw": "",
     "fetched_at": "2026-11-27T13:14:58.165396+00:00",
+    "processed": false
+  },
+  {
+    "id": "f11c33a3548c41f5",
+    "source_id": "gu_serie_generale",
+    "fonte": "Gazzetta Ufficiale",
+    "paese": "IT",
+    "titolo_originale": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - DECRETO 3 novembre 2026",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/28/26A06184/SG",
+    "pubblicato": "2026-11-28T10:50:51+00:00",
+    "summary_raw": "Criteri di priorita' per l'assegnazione del contributo compensativo a valere sul Fondo di solidarieta' nazionale della pesca e dell'acquacoltura. (26A06184)",
+    "fetched_at": "2026-11-28T12:30:34.722192+00:00",
+    "processed": false
+  },
+  {
+    "id": "50c481b2abf37d01",
+    "source_id": "gu_serie_generale",
+    "fonte": "Gazzetta Ufficiale",
+    "paese": "IT",
+    "titolo_originale": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - DECRETO 19 novembre 2026",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/28/26A06198/SG",
+    "pubblicato": "2026-11-28T10:50:53+00:00",
+    "summary_raw": "Dichiarazione dell'esistenza del carattere di eccezionalita' degli eventi calamitosi verificatisi nei territori della Regione Lombardia nei mesi di luglio e agosto 2026. (26A06198)",
+    "fetched_at": "2026-11-28T12:30:34.722299+00:00",
+    "processed": false
+  },
+  {
+    "id": "01dbf9959c42aa0f",
+    "source_id": "gu_serie_generale",
+    "fonte": "Gazzetta Ufficiale",
+    "paese": "IT",
+    "titolo_originale": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - DECRETO 2 novembre 2026",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/28/26A06179/SG",
+    "pubblicato": "2026-11-28T10:50:50+00:00",
+    "summary_raw": "Assegnazione del fondo a favore delle amministrazioni centrali dello Stato, per assicurare il finanziamento degli investimenti e lo sviluppo infrastrutturale del Paese, agli interventi del Ministero delle imprese e del made in Italy. (26A06179)",
+    "fetched_at": "2026-11-28T12:30:34.722393+00:00",
+    "processed": false
+  },
+  {
+    "id": "339e3a3a755282fc",
+    "source_id": "gu_serie_generale",
+    "fonte": "Gazzetta Ufficiale",
+    "paese": "IT",
+    "titolo_originale": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - DECRETO 17 novembre 2026",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/28/26A06191/SG",
+    "pubblicato": "2026-11-28T10:50:52+00:00",
+    "summary_raw": "Liquidazione coatta amministrativa della «Per Mano societa' cooperativa sociale», in Cuneo e nomina del commissario liquidatore. (26A06191)",
+    "fetched_at": "2026-11-28T12:30:34.722471+00:00",
+    "processed": false
+  },
+  {
+    "id": "9464cedb09261897",
+    "source_id": "gu_serie_generale",
+    "fonte": "Gazzetta Ufficiale",
+    "paese": "IT",
+    "titolo_originale": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - DECRETO 17 novembre 2026",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/28/26A06192/SG",
+    "pubblicato": "2026-11-28T10:50:52+00:00",
+    "summary_raw": "Liquidazione coatta amministrativa della «Primo Vere - Societa' cooperativa», in Pescara e nomina del commissario liquidatore. (26A06192)",
+    "fetched_at": "2026-11-28T12:30:34.722546+00:00",
+    "processed": false
+  },
+  {
+    "id": "d79d756aee637598",
+    "source_id": "gu_serie_generale",
+    "fonte": "Gazzetta Ufficiale",
+    "paese": "IT",
+    "titolo_originale": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - DECRETO 17 novembre 2026",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/28/26A06193/SG",
+    "pubblicato": "2026-11-28T10:50:52+00:00",
+    "summary_raw": "Liquidazione coatta amministrativa della «Societa' cooperativa consortile agricola - La Nuova Aurora», in Potenza e nomina del commissario liquidatore. (26A06193)",
+    "fetched_at": "2026-11-28T12:30:34.722621+00:00",
+    "processed": false
+  },
+  {
+    "id": "9c0c2fa2f5894b6d",
+    "source_id": "gu_serie_generale",
+    "fonte": "Gazzetta Ufficiale",
+    "paese": "IT",
+    "titolo_originale": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/28/26A06164/SG",
+    "pubblicato": "2026-11-28T10:50:49+00:00",
+    "summary_raw": "Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di paliperidone, «Paliperidone Viatris». (26A06164)",
+    "fetched_at": "2026-11-28T12:30:34.722688+00:00",
+    "processed": false
+  },
+  {
+    "id": "4afc8b746dd8204e",
+    "source_id": "gu_serie_generale",
+    "fonte": "Gazzetta Ufficiale",
+    "paese": "IT",
+    "titolo_originale": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/28/26A06165/SG",
+    "pubblicato": "2026-11-28T10:50:49+00:00",
+    "summary_raw": "Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di esomeprazolo, «Esomeprazolo Aurobindo Italia». (26A06165)",
+    "fetched_at": "2026-11-28T12:30:34.722784+00:00",
+    "processed": false
+  },
+  {
+    "id": "27c365ce3ad5ec9d",
+    "source_id": "gu_serie_generale",
+    "fonte": "Gazzetta Ufficiale",
+    "paese": "IT",
+    "titolo_originale": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/28/26A06166/SG",
+    "pubblicato": "2026-11-28T10:50:50+00:00",
+    "summary_raw": "Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di teduglutide, «Teduglutide Cipla». (26A06166)",
+    "fetched_at": "2026-11-28T12:30:34.722847+00:00",
+    "processed": false
+  },
+  {
+    "id": "b5ec9616695ab3da",
+    "source_id": "gu_serie_generale",
+    "fonte": "Gazzetta Ufficiale",
+    "paese": "IT",
+    "titolo_originale": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/28/26A06174/SG",
+    "pubblicato": "2026-11-28T10:50:50+00:00",
+    "summary_raw": "Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di fidaxomicina, «Fidaxomicina Sun». (26A06174)",
+    "fetched_at": "2026-11-28T12:30:34.722906+00:00",
+    "processed": false
+  },
+  {
+    "id": "7d52cee076ee68c8",
+    "source_id": "gu_serie_generale",
+    "fonte": "Gazzetta Ufficiale",
+    "paese": "IT",
+    "titolo_originale": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/28/26A06175/SG",
+    "pubblicato": "2026-11-28T10:50:50+00:00",
+    "summary_raw": "Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Risperidone Grindeks». (26A06175)",
+    "fetched_at": "2026-11-28T12:30:34.722965+00:00",
+    "processed": false
+  },
+  {
+    "id": "640dc6d94d9d9ba3",
+    "source_id": "gu_serie_generale",
+    "fonte": "Gazzetta Ufficiale",
+    "paese": "IT",
+    "titolo_originale": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/28/26A06176/SG",
+    "pubblicato": "2026-11-28T10:50:50+00:00",
+    "summary_raw": "Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Amlodipina Pensa». (26A06176)",
+    "fetched_at": "2026-11-28T12:30:34.723022+00:00",
+    "processed": false
+  },
+  {
+    "id": "8b30eacb30ecbd8f",
+    "source_id": "gu_serie_generale",
+    "fonte": "Gazzetta Ufficiale",
+    "paese": "IT",
+    "titolo_originale": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/28/26A06194/SG",
+    "pubblicato": "2026-11-28T10:50:52+00:00",
+    "summary_raw": "Revoca, su rinuncia, dell'autorizzazione all'importazione parallela di taluni medicinali per uso umano (26A06194)",
+    "fetched_at": "2026-11-28T12:30:34.723078+00:00",
+    "processed": false
+  },
+  {
+    "id": "af5776e5620a10e7",
+    "source_id": "gu_serie_generale",
+    "fonte": "Gazzetta Ufficiale",
+    "paese": "IT",
+    "titolo_originale": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/28/26A06195/SG",
+    "pubblicato": "2026-11-28T10:50:53+00:00",
+    "summary_raw": "Revoca, su rinuncia, dell'autorizzazione all'importazione parallela di taluni medicinali per uso umano (26A06195)",
+    "fetched_at": "2026-11-28T12:30:34.723131+00:00",
+    "processed": false
+  },
+  {
+    "id": "5dd4b86870e695a0",
+    "source_id": "gu_serie_generale",
+    "fonte": "Gazzetta Ufficiale",
+    "paese": "IT",
+    "titolo_originale": "CAMERA DI COMMERCIO, INDUSTRIA, ARTIGIANATO, TURISMO E AGRICOLTURA DI BOLZANO - COMUNICATO",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/28/26A06197/SG",
+    "pubblicato": "2026-11-28T10:50:53+00:00",
+    "summary_raw": "Provvedimento concernente i marchi di identificazione dei metalli preziosi (26A06197)",
+    "fetched_at": "2026-11-28T12:30:34.723184+00:00",
+    "processed": false
+  },
+  {
+    "id": "4f47b92dd5270477",
+    "source_id": "gu_serie_generale",
+    "fonte": "Gazzetta Ufficiale",
+    "paese": "IT",
+    "titolo_originale": "CAMERA DI COMMERCIO, INDUSTRIA, ARTIGIANATO E AGRICOLTURA DI TORINO - COMUNICATO",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/28/26A06196/SG",
+    "pubblicato": "2026-11-28T10:50:53+00:00",
+    "summary_raw": "Provvedimento concernente i marchi di identificazione dei metalli preziosi (26A06196)",
+    "fetched_at": "2026-11-28T12:30:34.723236+00:00",
+    "processed": false
+  },
+  {
+    "id": "e9636881b26f03d1",
+    "source_id": "gu_serie_generale",
+    "fonte": "Gazzetta Ufficiale",
+    "paese": "IT",
+    "titolo_originale": "CORTE SUPREMA DI CASSAZIONE - COMUNICATO",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/28/26A06329/SG",
+    "pubblicato": "2026-11-28T10:50:54+00:00",
+    "summary_raw": "Annuncio di una proposta di legge di iniziativa popolare (26A06329)",
+    "fetched_at": "2026-11-28T12:30:34.723299+00:00",
     "processed": false
   }
 ]
